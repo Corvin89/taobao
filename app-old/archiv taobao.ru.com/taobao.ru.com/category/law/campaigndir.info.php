@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.campaigndir.info/">Campaign Dir</a>'; include '../view.php';

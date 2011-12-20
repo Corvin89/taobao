@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://russian-toy.ru" target=_blank title="russkiy toy">Russkiy toy - tiny dog from Russia</a>'; include '../view.php';

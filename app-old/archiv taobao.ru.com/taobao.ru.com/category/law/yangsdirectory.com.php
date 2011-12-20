@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.nervosaanorexia.com">anorexia nervosa symptoms</a>'; include '../view.php';

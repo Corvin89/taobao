@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://gseo.ru">
+<img src="http://gseo.ru/6.gif" alt="Регистрация в каталогах" width=88 height=31 border=0></a><li><a href="http://gseo.ru">Раскрутка сайта. Размещение описаний сайта на Форумах, Досках объявлений, Размещение ссылок на главной странице сайтов.</a> </li>'; include '../view.php';

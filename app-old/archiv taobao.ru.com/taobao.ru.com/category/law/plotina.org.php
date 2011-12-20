@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://plotina.org">Плотина - каталог сайтов по строительству.</a>'; include '../view.php';

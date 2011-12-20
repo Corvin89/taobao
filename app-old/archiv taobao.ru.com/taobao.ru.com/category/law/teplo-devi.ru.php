@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.teplo-devi.ru/" target=_blank title="Теплый пол DEVI"><img src="http://www.teplo-devi.ru/B/b001.gif" border=0 width=88 height=31 alt="Теплый пол DEVI"></a>'; include '../view.php';

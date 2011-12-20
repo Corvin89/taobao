@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sunnyzv.ru">Верхний Посад "Солнечный"</a> пансионат. Описание, фотографии, форма бронирования. Отдых на море в <a href="http://www.sunnyzv.ru/proizvol-nyie/vitiazievo.html">Витязево</a>.'; include '../view.php';

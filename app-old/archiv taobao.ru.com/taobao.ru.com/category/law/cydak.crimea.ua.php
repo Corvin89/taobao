@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cydak.com" target="_blank">отдых в Судаке</a>: <a href="http://www.cydak.com/pansionaty.html" target="_blank">пансионаты Судака</a>, санатории и <a href="http://www.cydak.com/oteli.html" target="_blank">отели</a> в регионах Судака: Новый Свет, Веселое, Морское.'; include '../view.php';

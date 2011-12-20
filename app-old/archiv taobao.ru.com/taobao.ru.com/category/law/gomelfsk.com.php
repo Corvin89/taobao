@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Гомельский <a href="http://www.gomelfsk.com/">Фанеро-Спичечный комбинат</a>'; include '../view.php';

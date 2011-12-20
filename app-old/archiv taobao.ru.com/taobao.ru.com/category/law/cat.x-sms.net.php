@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://cat.x-sms.net">
+<img src="http://x-sms.net/6.gif" alt="Порно видео cкачать" width=88 height=31 border=0></a><a href="http://cat.x-sms.net">Домашнее эксклюзивное секс видео скрытой камерой скачать. Качайте и кончайте посмотрев порнушку на нашем сайте вы обалдеете от увиденого..</a>'; include '../view.php';

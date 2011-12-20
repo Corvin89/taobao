@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Качественный Хостинг <a title="Дорогой хостинг" href="http://www.data-stream.ru" target=_new >Data-Stream Web Service Provider</a> - Дата-Стрим В.С.П.'; include '../view.php';

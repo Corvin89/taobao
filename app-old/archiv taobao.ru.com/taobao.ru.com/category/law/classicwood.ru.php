@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Деревянные <a href="http://www.classicwood.ru/" title="Столы и стулья в стиле кантри"> столы и стулья в стиле кантри, Обеденные группы из массива дуба.</a>'; include '../view.php';

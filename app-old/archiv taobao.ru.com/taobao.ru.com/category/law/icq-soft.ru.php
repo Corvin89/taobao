@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.icq-soft.ru" target="_top"><img src="http://www.icq-soft.ru/images/banners/icq_soft_ru88x31.gif" alt="ICQ-клиенты для ПК, КПК (PDA) и мобильных телефонов: обзоры, новинки, бесплатные ICQ-номера" width="88" height="31" border="0"></a>'; include '../view.php';

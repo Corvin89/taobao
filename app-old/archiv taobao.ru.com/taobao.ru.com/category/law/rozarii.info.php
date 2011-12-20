@@ -1,0 +1,1 @@
+<?php $catalogLink = 'На сайте находится полный справочник по <a href="http://rozarii.info/" title="Розарий парка Сокольники">Розарию парка Сокольники</a>'; include '../view.php';

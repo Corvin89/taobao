@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.graphicsdir.com">Graphics Directory</a>'; include '../view.php';

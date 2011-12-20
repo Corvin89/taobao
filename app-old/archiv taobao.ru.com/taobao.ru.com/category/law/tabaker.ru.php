@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.tabaker.ru/'>сигареты, пепельницы, табачный портал, табак, сигары, кисеты для трубок</a>, <a href='http://www.tabaker.ru/encyclopedia/cigar/'>Сигары</a>'; include '../view.php';

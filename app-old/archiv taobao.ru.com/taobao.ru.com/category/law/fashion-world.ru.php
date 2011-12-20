@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fashion-world.ru/">world fashion, мода весной</a>,<a href="http://www.fashion-world.ru/clothes/nursing/164/">уход за одеждой</a>'; include '../view.php';

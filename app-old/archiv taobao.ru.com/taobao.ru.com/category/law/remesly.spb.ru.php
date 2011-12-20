@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://remesly.spb.ru/">продажа металлоконструкций, ворота на руси</a> изготовим для вас'; include '../view.php';

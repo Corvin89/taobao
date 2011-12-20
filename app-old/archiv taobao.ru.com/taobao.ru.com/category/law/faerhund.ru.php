@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.faerhund.ru" target="_blank">Питомник немецких овчарок "Файерхунд". Щенки, вязки. Мясопродукты, дрессировка, гостиница для собак.</a>'; include '../view.php';

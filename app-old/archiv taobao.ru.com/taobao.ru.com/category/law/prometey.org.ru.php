@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--Start www.ez-web.ru gibrid-code--><p><a href=http://www.ez-web.ru target=_blank><img src=http://www.ez-web.ru/img/ez-web.gif width=88 height=31 border=0 align=left style=margin:10px />Разработка и продвижение сайтов в Новосибирске</a></p><!--End www.ez-web.ru gibrid-code-->'; include '../view.php';

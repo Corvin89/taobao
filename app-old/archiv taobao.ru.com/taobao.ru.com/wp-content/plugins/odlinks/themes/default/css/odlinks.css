@@ -1,0 +1,62 @@
+/*  
+* default
+* ODLinks,wordpress links directory project
+Author:M. Forgani
+Author URI:http://forgani.com/
+*/
+.viewlink{background-color:#fafafa;border:1px solid #aaa;padding:0.5em;margin-top:0.5em;}
+.odl_head img{float:left;border:0;}
+.odl_search{padding-top:1px;text-align:right;float:right;clear:both;}
+.odl_googleAd{padding:5px 0;text-align:center;}
+.odl_container{/*border:1px solid #c5b2b3;*/padding:0 2px;text-decoration:none;clear:both;}
+.odl_container img{border:0;vertical-align:middle;}
+.odl_container hr{height:1px;}
+.main-content{padding:0;} 
+.main-content p{line-height:1.2em;border-bottom:1px solid #aaa;font-weight:bold;padding:0 5px;} 
+.main-content h3{border-bottom:1px solid #ccc;} 
+.tbody{background-color:#fafafa;border:1px solid #ccc;} 
+.column-left{float:left;margin-bottom:10px;margin-left:15px;}
+.list-content{margin-top:10px;margin-bottom:10px;clear:both;margin-left:15px;}
+.list-content img{margin:0px;border:0;}
+.catphoto{float:left;margin-top:0px;margin-right:15px;border:0;}
+.list-content h2{text-align:left;font-weight:bold;padding-left:130px;}
+.odl_list{/*border:1px solid #C5B2B3;*/padding:1px;}
+.odl_list_top{padding:0;margin:0;background-color:#F9F9F9;}
+.odl_head_navi{clear:both;text-align:left;border-bottom:1px solid #aaa;padding:0.5em 0 .3em .3em;}
+.odl_head_addurl{float:right;font-weight:bold;padding:0 0 .3em .3em;} 
+.odl_head_addurl a{color:#006500;} 
+.odl_list_top img{vertical-align:middle;padding:0 2px;border:none;}
+.odl_list hr{clear:both;margin:3px;}
+.odl_list_sub{border-spacing:0px;clear:both;font-weight:bold;}
+div.info{text-align:right;margin:1em 0;padding:0}
+div.info div{display:inline;white-space:nowrap}
+div.info div.left{float:left} 
+.info img{vertical-align:middle;padding:0 2px;border:none;}
+.rightTxt{text-align:right;}
+.show_ad_banner{text-align:center;padding-top:10px;}
+.odl_subcat{letter-spacing:normal;border-spacing:0;padding:0;} 
+.odl_editform{margin-top:10px;}
+.odl_editform img{border:0;}
+.odl_editform h2{font-weight:bold;margin:10px 0 0 10px;}
+.odl_editform h3{margin:10px 0 0 10px;}
+.odl_editform table{width:99%;margin-top:20px;}
+.odl_editform table td,.border{padding:2px;margin:0px;border-top:1px solid #efefef;}
+.odl_label_right{text-align:right;padding:5px;min-width:150px;font-weight:bold;vertical-align:top;}
+.odl_editform .input,.odl_editform select,.odl_editform textarea{}
+.odl_footer{margin-top:4px;padding:8px 5px 20px 0;vertical-align:middle;}
+.odl_footer hr{height:0px;}
+.odl_footer img{vertical-align:middle;padding:0 2px;border:none;}
+.rssCell{color:#32527a;margin:0;padding:0 5px 0 0;text-align:right;vertical-align:middle;font-weight:bold;} 
+.rssIcon,.rssIcon p,.rssIcon img{border:none;font-weight:bold;text-decoration:none;vertical-align:middle;} 
+.smallRed{color:#840000;font-size:80%;}
+.imgMiddle{vertical-align:middle;padding:0 2px 0 2px;border:none;}
+.rightCell{margin-top:4x;padding:8px 5px 2px 0;float:right;text-align:right;vertical-align:middle;font-weight:bold;}
+.leftCell{margin-top:4px;padding:8px 5px 2px 0;vertical-align:middle;float:left;}
+.rightCellsend{margin-top:4px;padding:8px 5px 2px 0;vertical-align:middle;float:right;text-align:right;}
+.odl_error{margin:0;padding:0 0 10px 0;color:#840000;font-weight:bold;}
+.odl_message{margin:0;padding:0 0 10px 0;color:green;font-weight:bold;}
+.smallTxt{font-size:9px;color:#555;display:inline;}
+.gray{color:#555;}
+.legend{padding:10px;color:blue;} 
+.fieldset{margin-bottom:1em;padding:.5em;border:1px solid #aaa;} 
+.odl_navigation_description{Position:relative;padding:.5em 0;}

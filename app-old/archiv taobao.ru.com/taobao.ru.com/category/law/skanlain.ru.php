@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://skanlain.ru/">Сканлайн (Псков, Великие Луки) - грузоперевозки по России.</a> <a href="http://skanlain.ru/Perevoz.html">Попутный груз для перевозчиков.</a> <a href="http://skanlain.ru/Prais.html">Расценки на перевозку грузов для грузоотправителей.</a>'; include '../view.php';

@@ -1,0 +1,372 @@
+.sub
+{
+font-weight: normal;
+font-size: 0.8em;
+color: #666;
+}
+
+.sub input { font-size: 0.8em; }
+
+.subsubsub
+{
+clear: both;
+width: 100%;
+}
+
+.settings ul
+{
+padding: 0;
+margin: 0;
+margin-top: 5px;
+}
+
+.settings ul li
+{
+background-color: #B5CDDF;
+padding: 5px;
+padding-left: 10px;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px;
+border-radius: 6px;
+list-style-type: none;
+}
+
+.settings ul li img
+{
+vertical-align: middle;
+}
+
+.settings ul li a
+{
+color:#37576F
+}
+
+.settings ul li a:hover
+{
+color: #D54E21;
+}
+
+.settings ul li.disabled, .settings ul li.disabled a
+{
+background-color: #E0E9EF;
+color: #9BB9CF;
+}
+
+.headspace_inline
+{
+  margin: 0; padding: 0;
+  
+}
+
+.headspace_inline input, .headspace_inline textarea
+{
+width: 99%;
+}
+
+#headspacestuff th
+{
+vertical-align: top;
+padding-right: 4px;
+padding-top: 4px;
+}
+
+
+.settingsstuff .delete
+{
+  margin-top: 0;
+float: right;
+vertical-align: middle;
+}
+
+.settingsstuff .delete a
+{
+border: none;
+}
+
+.settings a
+{
+border: none;  
+text-decoration: underline;
+}
+
+.modules
+{
+list-style-type: none;
+margin: 0; padding: 0;
+}
+
+.modules li
+{
+float: left;
+margin-right: 1%;
+width: 460px;
+padding: 5px;
+border-radius: 6px;
+-moz-border-radius: 6px;
+-webkit-border-radius:6px;
+}
+
+.modules li h3
+{
+text-align: center;
+margin: 0;
+padding: 0;
+}
+
+.modules li p
+{
+font-size: 0.8em;
+text-align: center;
+}
+
+.modules li ul
+{
+  list-style-type: none;
+  margin: 0; padding: 0;
+  min-height: 2em;
+}
+
+.modules li ul li
+{
+float: none;
+margin: 3px 0px;
+border: none;
+padding: 5px;
+width: 450px;
+
+cursor: move;
+}
+
+.settings .help
+{
+  font-style: italic;  
+  font-size: 0.9em;
+  margin-top: 1em;
+  line-height: 1.2;
+  
+}
+
+.modules .help
+{
+font-style: italic;  
+font-size: 0.9em;
+margin-top: 1em;
+line-height: 1.2;
+}
+
+.modules a
+{
+border: none;
+text-decoration: underline;
+}
+
+#simple
+{
+color: #214717;
+background-color: #C8DBC2;
+}
+
+#advanced
+{
+background-color: #A7C5DA;
+color: #172147;
+}
+
+#disabled
+{
+background-color: #eee;
+color: #333;
+}
+
+#simple-modules li
+{
+background-color: #E9F1E6;
+}
+
+#advanced-modules li
+{
+background-color: #D8E7F1;
+}
+
+#disabled-modules li
+{
+background-color: #ddd;
+}
+
+.option
+{
+float: right;
+}
+
+table.headspace
+{
+width: 100%;  
+}
+
+table.headspace th
+{
+text-align: right;
+vertical-align: top;
+}
+
+.headspace textarea
+{
+width: 95%;  
+}
+
+.mass
+{
+width: 100%;
+margin: 10px 0;
+}
+
+.mass th, .mass td
+{
+padding: 2px;
+vertical-align: top;
+}
+
+.mass th
+{
+padding: 4px;
+text-align: left;
+background-color: #999;
+color: #eee;
+}
+
+.mass th a
+{
+  color: #eee;
+border: none;
+text-decoration: underline;
+}
+
+.mass .alt
+{
+background-color: #f3f3f3;
+}
+
+.mass a
+{
+border: none;
+text-decoration: underline;  
+}
+
+.mass .nohighlight
+{
+border: 1px solid white;  
+}
+
+.dragger
+{
+cursor: move;
+vertical-align: middle;
+}
+
+.mass .highlight
+{
+border: 1px solid red;  
+}
+
+.pager
+{
+font-size: 0.9em;
+text-align: right;
+margin-bottom: 5px;
+}
+
+.pagertools
+{
+float: right;
+font-size: 0.9em;
+margin-left: 10px;
+}
+
+.pager select, .pager input { font-size: 0.9em }
+
+.suggested h4
+{
+margin: 0;
+margin-top: 1em;
+}
+
+.suggested small, .suggested small a
+{
+color: #999;
+}
+
+#suggested_tags
+{
+margin-top: 5px;
+font-size: 0.9em;
+line-height: 2.4;
+}
+
+#suggestions
+{
+margin-bottom: 10px;
+}
+
+#suggested_tags .enabled
+{
+background-color: #d5d5d5;
+padding: 1px 6px 3px 6px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+border: 1px solid #ccc;
+color: #333;
+text-decoration: none;
+}
+
+#suggested_tags .disabled
+{
+color: #999 !important;
+padding: 1px 6px 3px 6px;
+border: 1px solid #d4d4d4;
+}
+
+#suggested_tags .enabled
+{
+border-color: #555;
+}
+
+table.help td, table.help th
+{
+padding: 3px;	
+}
+
+table.help th
+{
+text-align: left;
+padding-right: 2em;
+border-right: 1px solid #ddd;
+font-family: "Courier New", Courier, monospace;
+}
+
+table.help
+{
+border: 1px solid #ddd;
+border-collapse: collapse;
+}
+
+table.help .alt
+{
+background-color: #eee;
+}
+
+table.help tr:hover
+{
+background-color: #ccc;
+}
+
+#headspace_plugins
+{
+margin: 0; padding: 0;
+margin-left: 20px;
+}
+
+.counter
+{
+font-size: 0.8em;
+}

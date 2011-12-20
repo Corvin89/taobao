@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.archivex-ht.com/links" id="R3CA66D">Haiti Links Directory</a>'; include '../view.php';

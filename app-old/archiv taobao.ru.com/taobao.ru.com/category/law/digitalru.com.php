@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://digitalru.com/">Цифровая доска объявлений DigitalRu.com</a>'; include '../view.php';

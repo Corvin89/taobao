@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.interlaw.dax.ru/">Каталог юридических сайтов</a>'; include '../view.php';

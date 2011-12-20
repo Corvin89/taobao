@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://bitdigita.ru/">bitdigita</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://aplodismenty.ru" target="_blank"><strong>Заказ и доставка билетов в театр, на концерт, цирк, спорт! Бесплатная доставка!</strong></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Для вас разнообразная <a href="http://slatestones.ru">сланец плитка, камень сланец, сланец, натуральный сланец</a>.'; include '../view.php';

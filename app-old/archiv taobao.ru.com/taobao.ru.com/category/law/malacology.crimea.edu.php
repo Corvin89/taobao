@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://malacology.crimea.edu" target=_blank><img src="http://malacology.crimea.edu/design/cms.gif" width="468" height="60" border="0" alt="Крымский малакологический сайт"></a>'; include '../view.php';

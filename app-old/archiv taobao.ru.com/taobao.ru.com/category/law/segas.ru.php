@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.segas.ru/" target="_blank" title="Все для работы в сети"><img src="http://www.segas.ru/obss.gif"></a><br><a href="http://www.segas.ru/" target="_blank">Как заработать в интернете лентяю</a>'; include '../view.php';

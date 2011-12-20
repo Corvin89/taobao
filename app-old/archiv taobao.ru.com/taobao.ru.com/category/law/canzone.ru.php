@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://canzone.ru">Italo Canzone</a> - итальянская музыка.'; include '../view.php';

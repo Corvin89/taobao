@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://tkcontainers.ru/prodazha.html">"КОНТЕЙНЕР" - продажа контейнеров всех типов. </a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://seaproduct.biz">Морепродукты из Вьетнама. Сушеные снеки: анчоусы, желтый полосатик,ставридка, кальмары</a>'; include '../view.php';

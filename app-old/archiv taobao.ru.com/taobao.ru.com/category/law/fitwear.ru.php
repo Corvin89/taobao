@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://fitwear.ru">Одежда для фитнеса</a>'; include '../view.php';

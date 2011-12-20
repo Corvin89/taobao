@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Только интересные сайты в <a href=http://www.perimetr.net>каталоге Егоза</a>.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://prolaki.ru/">Prolaki.ru - подробный справочник про связующие вещества, клеи, водно-цементные окрасочные составы и лаки</a>'; include '../view.php';

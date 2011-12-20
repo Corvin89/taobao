@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://izbutovo.ru" title="Район Южное Бутово">Южное Бутово</a>'; include '../view.php';

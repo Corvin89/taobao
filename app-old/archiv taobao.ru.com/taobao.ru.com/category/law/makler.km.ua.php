@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://makler.km.ua">OnLine объ€влени€ </a> - (работа, недвижемость, авто, туризм и т.д)'; include '../view.php';

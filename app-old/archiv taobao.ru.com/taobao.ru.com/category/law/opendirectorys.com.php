@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.opendirectorys.com">Add Link Suggest | Suggest URL | Submit URL</a>'; include '../view.php';

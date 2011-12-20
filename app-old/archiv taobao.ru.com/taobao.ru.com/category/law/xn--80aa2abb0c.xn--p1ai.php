@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://кактак.рф" target="_blank">Как Зачем Почему</a>'; include '../view.php';

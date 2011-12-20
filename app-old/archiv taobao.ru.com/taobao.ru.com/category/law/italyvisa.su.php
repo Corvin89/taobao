@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://italyvisa.su">оформление визы в италию</a>'; include '../view.php';

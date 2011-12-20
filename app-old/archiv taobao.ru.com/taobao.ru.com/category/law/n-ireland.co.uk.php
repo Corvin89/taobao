@@ -1,0 +1,1 @@
+<?php $catalogLink = ''; include '../view.php';

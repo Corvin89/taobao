@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ellita.ru/" title="двери, стальные двери, металлические двери">Производство дверей по эскизу заказчика.</a>'; include '../view.php';

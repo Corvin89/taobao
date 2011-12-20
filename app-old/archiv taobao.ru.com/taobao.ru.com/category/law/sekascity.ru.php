@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Мне не нравятся Стив, Ричард, Петровский, Трэй...Бррр....<a href="http://sekascity.ru/1844006-kto-iz-muzhchin-quotseksaquot-vam-ne-nravitsya.html">Кто из мужчин "Секса" вам не нравится.</a>'; include '../view.php';

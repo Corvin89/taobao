@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://antennasochi.ru"><strong>Спутниковое телевидение в Сочи</strong></a> - настройка каналов, установка антенн'; include '../view.php';

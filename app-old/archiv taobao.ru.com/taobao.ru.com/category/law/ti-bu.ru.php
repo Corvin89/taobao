@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ti-bu.ru">Тизерная реклама</a>'; include '../view.php';

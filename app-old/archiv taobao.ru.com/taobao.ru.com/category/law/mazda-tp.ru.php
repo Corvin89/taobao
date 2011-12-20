@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Все что Вы хотели знать об <a href="http://www.mazda-tp.ru">автомобилях Мазда</a>, но боялись спросить.'; include '../view.php';

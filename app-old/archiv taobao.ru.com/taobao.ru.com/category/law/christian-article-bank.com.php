@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.christian-article-bank.com/'>Christian Article Bank</a> - Biblically Based and Christian Articles!'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.snoi.ru/volgograd.php">продвижение сайта</a>'; include '../view.php';

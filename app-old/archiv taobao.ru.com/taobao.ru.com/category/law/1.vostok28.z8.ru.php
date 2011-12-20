@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.1.vostok28.z8.ru" target="_blank"><img alt="Шаблон"  src="http://www.1.vostok28.z8.ru/banner.gif" border="0"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.searchguide.ru">Поисковый гид - Белый каталог сайтов <img src="http://searchguide.ru/images/admin/poweredby.jpg" alt="Поисковый гид">'; include '../view.php';

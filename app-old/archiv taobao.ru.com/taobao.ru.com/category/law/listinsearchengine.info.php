@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.listinsearchengine.info/">List In Search Engine</a>'; include '../view.php';

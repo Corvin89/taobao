@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://lawyer.uatender.com/catalog/">Юридическая каталог</a>'; include '../view.php';

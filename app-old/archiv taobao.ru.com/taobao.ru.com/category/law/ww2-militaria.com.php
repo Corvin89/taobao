@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.warrelics.eu/">Military History forum</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.initred.com/">World Real Estate Directory World Property Directory real estate directories submit link</a>'; include '../view.php';

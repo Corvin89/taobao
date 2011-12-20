@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cat.lxlink.net">Раскрути сайт бесплатно добавив сайт в наш каталог.</a>'; include '../view.php';

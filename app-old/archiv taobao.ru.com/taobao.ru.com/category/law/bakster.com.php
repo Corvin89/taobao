@@ -1,0 +1,1 @@
+<?php $catalogLink = 'bakster.com <a href="http://www.bakster.com">- Интернет инвестиции</a>'; include '../view.php';

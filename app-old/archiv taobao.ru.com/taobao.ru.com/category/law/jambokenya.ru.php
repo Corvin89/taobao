@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.jambokenya.ru">Отдых в Кении</a>'; include '../view.php';

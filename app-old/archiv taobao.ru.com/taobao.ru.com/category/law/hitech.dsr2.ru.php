@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://hitech.dsr2.ru">“ематический каталог высоких технологий</a>'; include '../view.php';

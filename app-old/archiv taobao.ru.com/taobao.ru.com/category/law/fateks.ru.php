@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fateks.ru">Регистрация наружной рекламы</a>'; include '../view.php';

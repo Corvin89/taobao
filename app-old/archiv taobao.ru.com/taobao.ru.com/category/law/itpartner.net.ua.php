@@ -1,0 +1,2 @@
+<?php $catalogLink = '<!--468x60--><a href="http://itpartner.net.ua/"><img src="http://itpartner.net.ua/468x60.jpg" 
+border=0 title="IT Partner - компьютеры, комплектующие, оргтехника врозницу по оптовым ценам" ></a> <!--/468x60-->'; include '../view.php';

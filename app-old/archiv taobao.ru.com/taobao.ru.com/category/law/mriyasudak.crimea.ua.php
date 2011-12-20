@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mriya.ru" target="_blank">отдых в пансионатах Симеиза</a>'; include '../view.php';

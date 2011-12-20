@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.billiards-parlor.com" id="R7AC5A7">Database result browser for local Billiard halls and lounges</a>-Billiard halls, pool halls,  Sports Pub USA Pool Halls Directory'; include '../view.php';

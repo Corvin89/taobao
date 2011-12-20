@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.exeinfo.net/">Exeinfo - Submit Your Site</a>'; include '../view.php';

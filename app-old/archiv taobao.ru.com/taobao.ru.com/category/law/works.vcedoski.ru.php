@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://works.vcedoski.ru" target="_parent">Предоставить работу через Каталог вакансий и резюме России</a>'; include '../view.php';

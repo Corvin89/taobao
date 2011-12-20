@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tvysoftware.com/webdesign/" target=_blank title="веб дизайн, разработка сайтов, создание сайтов - студи€ веб-дизайна TVYSoftware.com (ћинск)">¬еб дизайн, разработка сайтов - студи€ веб-дизайна TVYSoftware.com (ћинск)</a>'; include '../view.php';

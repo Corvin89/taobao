@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gandharva.com.ua"><img src="http://www.yandex.ru/cycounter?www.gandharva.com.ua" width="88" height="31" alt="Гандхарва Веда Махариши" border="0" align="left"></a>'; include '../view.php';

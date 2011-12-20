@@ -1,0 +1,10 @@
+Screenshot Description
+
+
+1.Link Management
+2.Add New Link
+3.Instruction
+4.Page Setting
+5.Email Setting
+6.Add Short Code [all_links]  to Page or Post
+7.Front Page Display

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://casino.karoyal.cn/" target="_blank">јзартные <b>игры на деньги</b> WebMoney и E-gold</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Landidea.RU - <a href="http://www.landidea.ru/">Дизайн ландшафта загородного участка</a>. Чем отбить садовые дорожки?'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.medmeet.ru">Медицинские факты и комментарии</a>'; include '../view.php';

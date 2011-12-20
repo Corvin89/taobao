@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target=_blank href='http://alltransp.ru/'><img src='http://alltransp.ru/rating/buttons/raiting_b1.gif' style='border: 1px solid silver' alt='√рузовики, т€гачи, прицепы' width=88 height=31></a>'; include '../view.php';

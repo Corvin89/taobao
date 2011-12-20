@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://fanatizm.biz"><img border="0" src="http://fanatizm.biz/fanat.gif" alt=" Фанатізм - безкоштовний білий український каталог сайтів та посилань, додайте свій ресурс у наш каталог" width="88" height="31"></a>'; include '../view.php';

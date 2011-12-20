@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ront.ru">“юменский молодежный развлекательный портал. “юмень - дл€ молодежи!</a>'; include '../view.php';

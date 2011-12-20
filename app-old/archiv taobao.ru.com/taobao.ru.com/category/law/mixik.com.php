@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mixik.com/"><img src="http://mixik.com/images/logo.jpg" border="0" width="88" height="31">Популярные альбомы клубной и танцевальной музыки.</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://Myanma.mlm7.ru">  Каталог сайтов.</a><a href="http://portalishe.ru"> Различные</a><a href="http://cooldomen.ru"> тематики.</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.shina-info.com/">уход за шинами, зимние шины, тест шипов, классификация шин</a>'; include '../view.php';

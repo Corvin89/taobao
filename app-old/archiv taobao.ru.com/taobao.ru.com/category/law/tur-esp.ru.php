@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://tur-esp.ru/"><img border="0" src="http://tur-esp.ru/banner.gif" width="88" height="31" alt="ќтдых и туры в »спанию"></a>'; include '../view.php';

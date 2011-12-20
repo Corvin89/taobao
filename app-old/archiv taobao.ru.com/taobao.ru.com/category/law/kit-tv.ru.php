@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://kit-tv.ru/>Костромской Информационный Телеканал</a>'; include '../view.php';

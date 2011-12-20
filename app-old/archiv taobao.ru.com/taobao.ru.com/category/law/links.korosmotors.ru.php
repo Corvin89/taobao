@@ -1,0 +1,1 @@
+<?php $catalogLink = '<strong><a href="http://links.korosmotors.ru/">Каталог ссылок авто тематики. Обмен ссылками,</a> <a href="http://www.korosmotors.ru">диагностика и ремонт иномарок, ремонт двигателей КПП, ходовой, кузовной ремонт</a></strong>'; include '../view.php';

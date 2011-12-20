@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.anapact.ru">Анапа туристическая компания</a> "Капитал-Тур" предлагает <a href="http://www.anapact.ru/category/dzhemete/dzhemete-bazy-otdykha">базы отдыха в Джемете</a>.'; include '../view.php';

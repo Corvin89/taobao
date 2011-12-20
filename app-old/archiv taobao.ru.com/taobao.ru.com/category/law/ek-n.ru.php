@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Лучшая коллекция рефератов <a href="http://ek-n.ru/"><img src="http://ek-n.ru/e.jpg"  border="0"></a> <a href="http://ek-n.ru/">рефераты на экономические темы</a> готовые рефераты'; include '../view.php';

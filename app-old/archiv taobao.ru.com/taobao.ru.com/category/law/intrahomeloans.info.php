@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Роберт Хайнлайн. Биография писателя." href="http://www.intrahomeloans.info/">Роберт Хайнлайн. Биография писателя.</a>'; include '../view.php';

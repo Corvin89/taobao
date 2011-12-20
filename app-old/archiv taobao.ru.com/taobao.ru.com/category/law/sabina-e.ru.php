@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://sabina-e.ru/>Фирма Sabina - евроремонт, евроремонт квартир</a>'; include '../view.php';

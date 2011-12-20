@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://maxooo.ru/" target="_blank"><img border="0" src="http://max.maxooo.ru/images/banner.gif" width="88" height="31" alt="Оборудование для АЗС, нефтебаз, нефтехранилищ"></a>'; include '../view.php';

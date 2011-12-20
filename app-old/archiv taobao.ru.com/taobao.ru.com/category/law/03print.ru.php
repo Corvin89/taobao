@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.03print.ru'>каталог наружной рекламы</a>'; include '../view.php';

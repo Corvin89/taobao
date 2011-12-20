@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fyf.ru/" target="_blank">создание веб сайтов. Сайт-визитка, разработка сайтов Москва</a>'; include '../view.php';

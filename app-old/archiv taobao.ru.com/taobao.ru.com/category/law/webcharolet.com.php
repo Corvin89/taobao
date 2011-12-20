@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='webcharolet.com'>Oskar romance blockbasters</a>'; include '../view.php';

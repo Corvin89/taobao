@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://pavlovka.com/" target=_blank>Форумы Павловского района</a>'; include '../view.php';

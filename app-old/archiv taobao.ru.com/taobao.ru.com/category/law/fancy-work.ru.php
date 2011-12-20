@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fancy-work.ru/other/history/">История вязания</a>, <a href="http://www.fancy-work.ru/">макраме, шапка спицами</a>'; include '../view.php';

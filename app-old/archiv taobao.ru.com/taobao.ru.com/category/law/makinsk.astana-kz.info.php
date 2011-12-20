@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://makinsk.astana-kz.info>сайт города Макинск</a>'; include '../view.php';

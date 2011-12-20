@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lestnica.biz/" title="Маэстро - лестницы, ограждения"><strong>Лестницы, деревянные лестницы, лестницы на больцах.</strong></a> <a href="http://www.lestnica.biz/ogr.htm" title="Маэстро - лестницы, ограждения"><strong>Ограждения, кованные ограждения, ограждения со стеклом.</strong></a>'; include '../view.php';

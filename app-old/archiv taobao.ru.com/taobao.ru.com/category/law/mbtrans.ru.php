@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.mbtrans.ru><strong>перевозка сборных грузов, международные грузоперевозки</strong></a>'; include '../view.php';

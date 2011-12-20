@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.infoterra.ru">Web-студия Infoterra: Создание и поддержка сайтов</a> - Создание, регистрация, хостинг, гарантийное обслуживание и эффективная раскрутка Web-сайтов.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://earth-invest.org/">HYIP. Руководство к инвестированию в HYIPы. Обучение работе с HYIP</a>'; include '../view.php';

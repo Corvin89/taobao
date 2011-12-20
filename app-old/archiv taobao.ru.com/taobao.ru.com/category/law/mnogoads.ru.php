@@ -1,0 +1,1 @@
+<?php $catalogLink = '<strong><a href="http://MnogoAds.ru">доска объ€влений</a></strong>'; include '../view.php';

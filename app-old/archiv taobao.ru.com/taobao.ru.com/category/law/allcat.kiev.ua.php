@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://allcat.kiev.ua/from.php?34103">Все каталоги в одном!</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.crezyfishka.ru/">азартные игры</a>'; include '../view.php';

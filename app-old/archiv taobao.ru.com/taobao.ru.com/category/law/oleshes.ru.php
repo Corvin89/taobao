@@ -1,0 +1,2 @@
+<?php $catalogLink = '<img alt="oleshes.ru - софт бесплатно,игры,фильмы,всё для фотошоп" src="http://oleshes.ru/banner.gif" border="0"/>
+<a href="http://oleshes.ru/">Oleshes.ru - софт,фильмы ,игры,всё для фотошоп</a>'; include '../view.php';

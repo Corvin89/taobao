@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--Start www.o3oh.ru IMG-code--><a href=http://www.o3oh.ru/ target=_blank><img src=http://www.o3oh.ru/ez-link/img/88x31.gif width=88 height=31 border=0 align=left style=margin:10px /></a><!--End www.o3oh.ru IMG-code-->'; include '../view.php';

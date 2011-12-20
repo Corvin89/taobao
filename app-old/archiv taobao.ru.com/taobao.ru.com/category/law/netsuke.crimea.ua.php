@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.netsuke.com.ua" target="_blank">€понские нецке</a>'; include '../view.php';

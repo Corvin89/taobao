@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.chance-4-all.de/">Helmut Spikker, Helmut Spikker  MLM, Helmut Spikker Direktvertrieb, Helmut Spikker Network Marketing</a>'; include '../view.php';

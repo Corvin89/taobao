@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.anapa-lotos.info">Благовещенская "Лотос"</a> гостевой дом описание, цены, фотографии, форма заказа. <a href="http://www.anapa-lotos.info/node/141">"Дюны золотые" Джемете</a> база отдыха.'; include '../view.php';

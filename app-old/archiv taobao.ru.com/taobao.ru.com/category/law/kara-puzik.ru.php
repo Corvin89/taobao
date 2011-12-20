@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Карапузик - <a href="http://kara-puzik.ru">магазины верхней одежды для беременных</a>! Исключительно качественно!'; include '../view.php';

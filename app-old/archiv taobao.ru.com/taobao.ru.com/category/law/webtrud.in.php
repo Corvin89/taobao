@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://webtrud.in"><img src="http://webtrud.ru/wtrud.gif" height="31" width="88" border="0" alt="Сервис регистрации сайтов WEBTRUD. Создание сайтов в России"></a><b>WEB сервис регистрации сайтов. Сайты визитки. WEB дизайн, создание сайтов, хостинг, домены.</b>'; include '../view.php';

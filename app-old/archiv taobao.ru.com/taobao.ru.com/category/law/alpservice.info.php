@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://alpservice.info">Промышленный альпинизм</a>'; include '../view.php';

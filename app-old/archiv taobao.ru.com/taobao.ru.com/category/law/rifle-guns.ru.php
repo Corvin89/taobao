@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.rifle-guns.ru/guns/shot-gun/68/">remington 870</a>, <a href="http://www.rifle-guns.ru/">огнеметы, пистолет пулемет</a>'; include '../view.php';

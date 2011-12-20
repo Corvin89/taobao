@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.advo-kat.ru' title='Адвокат Мальцев. Юридические консультации. Представительство в арбитражных судах.'> <img src='http://www.advo-kat.ru/img/advokat.gif' width='88' height='31' alt='Адвокат Мальцев Юридические консультации Представительство в арбитражных судах' border='0'> </a>'; include '../view.php';

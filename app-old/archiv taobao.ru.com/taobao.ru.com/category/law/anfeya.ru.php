@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://anfeya.ru/>шоу балет ищет работу</a> <br>Игры бесплатно без регистрации играть <a href="http://www.moregames.ru/">старые игры скачать</a>'; include '../view.php';

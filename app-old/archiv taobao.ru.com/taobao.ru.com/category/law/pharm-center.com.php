@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://pharm-center.com">Фармоцевтический центр</a> - Все о лекарствах'; include '../view.php';

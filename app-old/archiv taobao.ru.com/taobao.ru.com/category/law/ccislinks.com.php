@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ccislinks.com">Calamus Directory</a>'; include '../view.php';

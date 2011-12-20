@@ -1,0 +1,1180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HeadSpace2 3.3.27\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-01 12:14+0900\n"
+"PO-Revision-Date: 2008-09-12 16:47+0800\n"
+"Last-Translator: Rick < sales@diysofa.com>\n"
+"Language-Team: http://www.ad-minister.net/ <http://www.ad-minister.net/mail/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/locale\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2\n"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:60
+msgid "<p style=\"color: red\">That function is not defined</p>"
+msgstr "<p style=\"color: red\">功能未定义</p>"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:63
+msgid "<p style=\"color: red\">You are not allowed access to this resource</p>"
+msgstr "<p style=\"color: red\">不允许访问此资源</p>"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:139
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:150
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:161
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:172
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:186
+msgid "Invalid module"
+msgstr "无效组件"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:113
+msgid "Global Settings"
+msgstr "全局设置"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:113
+msgid "applied to everything unless otherwise specified"
+msgstr "应用到所有项除非另外说明"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:114
+msgid "Home Page"
+msgstr "首页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:114
+msgid "applied to the home page"
+msgstr "应用到首页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:115
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:114
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:73
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:74
+msgid "Archives"
+msgstr "存档"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:115
+msgid "applied when viewing the archives"
+msgstr "适用于存档"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:116
+msgid "Categories"
+msgstr "目录"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:116
+msgid "applied to category pages without specific settings"
+msgstr "应用到目录除非另外说明"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:117
+msgid "Posts &amp; Pages"
+msgstr "日志 &amp; 页面"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:117
+msgid "applied to posts &amp; pages without specific settings"
+msgstr "应用到日志 &amp; 页面,"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:118
+msgid "Author Pages"
+msgstr "作者页面"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:118
+msgid "applied to author pages"
+msgstr "应用到作者页面"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:119
+msgid "Search Pages"
+msgstr "搜索页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:119
+msgid "applied when viewing search results"
+msgstr "应用查看搜索结果"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:120
+msgid "404 Page"
+msgstr "404页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:120
+msgid "applied when viewing a 404 error"
+msgstr "应用当出现404错误"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:121
+msgid "Tag Pages"
+msgstr "标签页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:121
+msgid "applied when viewing tag pages"
+msgstr "访问标签页时应用"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:149
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:150
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/pager.php:6
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu_meta.php:2
+msgid "Meta-data"
+msgstr "Meta-data"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:321
+msgid "Posts successfully updated"
+msgstr "日志成功更新"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:360
+msgid "Your options have been updated"
+msgstr "设定已被应用"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:367
+msgid "HeadSpace has been removed"
+msgstr "HeadSpace已被删除"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:419
+msgid "Your module positions have been saved"
+msgstr "模块位置已被保存"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:442
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "将%d从%s中导入"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/plugin.php:612
+msgid "How many widgets would you like?"
+msgstr "选择多少个widgets?"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/plugin.php:619
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit_ajax.php:4
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/module_edit.php:7
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/site_module_edit.php:15
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags_edit.php:15
+msgid "Save"
+msgstr "保存"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/models/inline_tags.php:227
+#, php-format
+msgid "(page %d of %d)"
+msgstr "(页 %d 中 %d)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/models/pager.php:386
+msgid "Previous"
+msgstr "前一个"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/models/pager.php:387
+msgid "Next"
+msgstr "后一个"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/headspace_tags.php:31
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "HeadSpace标签(转换到WordPress 2.3标签)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "Head META Description"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "Jerome的关键词"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "更多Unique"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "SEO标题标签"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "Simple Tagging"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/simple-tags.php:28
+msgid "Simple Tags"
+msgstr "Simple Tags"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "Ultimate Tag Warrior"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/description.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/description.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/description.php:56
+msgid "Page description"
+msgstr "页面描述"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/description.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/more_text.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_slug.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_title.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_description.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_name.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/tags.php:49
+msgid "Post title"
+msgstr "日志标题"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/more_text.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/more_text.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/more_text.php:51
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/more_text.php:70
+msgid "More text"
+msgstr "更多"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "页面缩略名"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "日志缩略名"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_title.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_title.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:88
+msgid "Page title"
+msgstr "页面标题"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_description.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_description.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_tagline.php:56
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_tagline.php:75
+msgid "Site description"
+msgstr "网站描述"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_name.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_name.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_name.php:56
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_name.php:75
+msgid "Site name"
+msgstr "网站名称"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/tags.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/tags.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:264
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:281
+msgid "Tags/keywords"
+msgstr "标签/关键词"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/description.php:61
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "允许为搜索引擎而设一段短的描述"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/description.php:70
+msgid "Max length"
+msgstr "最大长度"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/description.php:73
+msgid "All descriptions will be trimmed to this length"
+msgstr "所有描述将对应它的"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/description.php:88
+msgid "Description"
+msgstr "描述"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/javascript.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/javascript.php:66
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/javascript.php:55
+msgid "Allow external JavaScript files to be referenced"
+msgstr "允许引用外部JavaScript"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/javascript.php:72
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/stylesheet.php:83
+msgid "add"
+msgstr "增加"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/more_text.php:56
+msgid "Allows the 'more' text to be changed"
+msgstr "允许更改\"more\""
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/noindex.php:51
+msgid "No Index/No Follow"
+msgstr "No Index/No Follow"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/noindex.php:56
+msgid "Allows a no-index/no-follow option to be set to prevent search engines and robots from indexing or following pages"
+msgstr "允许设定No Index/No Follow选项，防止搜索引擎和robots引用indexing 或 following页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/noindex.php:70
+msgid "No Index"
+msgstr "No Index"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/noindex.php:73
+msgid "no-follow"
+msgstr "no-follow"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:93
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "允许页面题目改变"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:102
+msgid "Title separator"
+msgstr "标题分隔符"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:105
+msgid "Leave blank to use theme default"
+msgstr "缺省将采用默认主题"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:109
+msgid "Separator position"
+msgstr "分隔符位置"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:112
+msgid "Before"
+msgstr "前"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:113
+msgid "After"
+msgstr "后"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:129
+msgid "Page Title"
+msgstr "页面标题"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:88
+msgid "Page-specific Plugins"
+msgstr "特定页面插件"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:93
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "允许禁用插件来激活某页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:109
+msgid "Show in admin"
+msgstr "出现admin中"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:112
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "在管理面板显示page-specific插件"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:138
+msgid "Plugins"
+msgstr "插件"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:145
+msgid "Add Plugin"
+msgstr "增加插件"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/raw.php:43
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/raw.php:55
+msgid "Raw data"
+msgstr "原始数据"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/raw.php:48
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr "允许原始数据插入到页面meta部分"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_name.php:57
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_name.php:76
+msgid "RSS Name"
+msgstr "RSS名"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_name.php:62
+msgid "Allows site RSS name to be changed"
+msgstr "允许RSS名字改变"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_tagline.php:57
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_tagline.php:76
+msgid "RSS Description"
+msgstr "RSS Description（说明文）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_tagline.php:62
+msgid "Allows site RSS description to be changed"
+msgstr "允许RSS description改变"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_name.php:61
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "允许网站标题改变(例如博客名)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_tagline.php:61
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "允许网站描述改变"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/stylesheet.php:61
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/stylesheet.php:77
+msgid "Stylesheets"
+msgstr "样式表"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/stylesheet.php:66
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "允许增加样式表到特定页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/stylesheet.php:108
+msgid "Do not output CSS"
+msgstr "不输出CSS"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:131
+msgid "<p>Tags: "
+msgstr "<p>标签: "
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:163
+msgid "Tags (keywords)"
+msgstr "标签（关键词）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:168
+msgid "Allows tags/keywords to be added to pages"
+msgstr "允许标签/关键词增加到页面"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:182
+msgid "Add tags to dictionary"
+msgstr "增加标签到字典"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:185
+msgid "Automatically add new tags to dictionary"
+msgstr "自动增加标签到字典"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:190
+msgid "Order tags"
+msgstr "标签顺序"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:193
+msgid "Alphabetically order tags"
+msgstr "按字母表排列标签"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:198
+msgid "Show tags in posts"
+msgstr "日志中展现标签"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:201
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:210
+msgid "Never"
+msgstr "从不"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:202
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:211
+msgid "Always"
+msgstr "总是"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:207
+msgid "Show tags in pages"
+msgstr "页面中展现标签"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:216
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo ZoneTag"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:219
+msgid "enable"
+msgstr "有効"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:224
+msgid "Dictionary"
+msgstr "字典"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:338
+msgid "Suggested tags"
+msgstr "推荐标签"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:340
+msgid "add all"
+msgstr "增加所有"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:341
+msgid "suggest"
+msgstr "推荐"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:343
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:367
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:365
+msgid "Suggest tags based on content"
+msgstr "根据内容推荐标签"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/theme.php:61
+msgid "Page-specific Themes"
+msgstr "特定页面标题"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/theme.php:73
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "允许自定义page-specific主题覆盖缺少主题"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/theme.php:81
+msgid "Theme"
+msgstr "主题"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/theme.php:84
+msgid "Current theme"
+msgstr "目前主题"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:31
+msgid "103bees"
+msgstr "103bees"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:36
+msgid "Adds 103bees tracking code to all pages"
+msgstr "增加103bees跟踪代码到所有页面"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:111
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:111
+msgid "Tracking code"
+msgstr "跟踪代码"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:114
+msgid "Enter the full JavaScript tracking code as shown on your 103bees account page."
+msgstr "输入完整如103bees页面所示的JavaScript跟踪代码."
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:118
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:247
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:129
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:118
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:128
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:155
+msgid "Who to track"
+msgstr "跟踪者"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:121
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:250
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:132
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:121
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:131
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:158
+msgid "Everyone"
+msgstr "所有人"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:128
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:257
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:139
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:128
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:138
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:165
+msgid "Users of the specified role or less will be tracked"
+msgstr "追踪指定权限用户"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:38
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:43
+msgid "Adds Google Analytic tracking code to all pages"
+msgstr "增加Google Analytic跟踪代码到所有页面"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:231
+msgid "Account ID"
+msgstr "帐户ID"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:234
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "输入完整Google JavaScript跟踪代码， 或<code>_uacct</code>数目."
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:238
+msgid "Version"
+msgstr "版本"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:241
+msgid "Urchin (urchin.js)"
+msgstr "Urchin (urchin.js)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:242
+msgid "New Google Analytics (ga.js)"
+msgstr "新Google Analytics (ga.js)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:261
+msgid "Track outbound links"
+msgstr "跟踪外部链接"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:264
+msgid "Enter the URL you want outbound links tracked to"
+msgstr "输入你想跟踪的外部链接"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:268
+msgid "Virtual Pages"
+msgstr "虚拟页面"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:271
+msgid "Change what appears in reports"
+msgstr "更改报道内容"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:275
+msgid "Domain Name"
+msgstr "域名"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:278
+msgid "Set to a root domain when tracking across sub-domains"
+msgstr "设置主域名当跟踪到二级域名"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:283
+msgid "Raw Code"
+msgstr "原始代码"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:286
+msgid "Enter any additional Google Analytics code"
+msgstr "增加新增Google Analytics代码"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr "增加CrazyEgg跟踪代码到所有页面"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:122
+msgid "CrazyEgg ID"
+msgstr "CrazyEgg ID"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:125
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a>"
+msgstr "输入<a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg帐号</a>"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:34
+msgid "First Time Visitor"
+msgstr "初次访问者"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:39
+msgid "Display a message for first time visitors (based upon idea from Seth Godin)"
+msgstr "显示信息给初次访问者(根据 Seth Godin)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:93
+#, php-format
+msgid "<p>As a new visitor you may want to subscribe to my <a href=\"%s/feed/\">RSS</a> feed.</p>"
+msgstr "<p>新访问者订阅<a href=\"%s/feed/\">RSS</a> feed.</p>"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:119
+msgid "Message to display"
+msgstr "显示信息"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:125
+msgid "Repeat"
+msgstr "重复"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:126
+msgid "Enter 0 for always"
+msgstr "输入0表示经常"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:129
+msgid "Display position"
+msgstr "显示位置"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:132
+msgid "Before content"
+msgstr "在内容前"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:133
+msgid "After content"
+msgstr "在内容后"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:138
+msgid "Ignore Bots"
+msgstr "忽略Bots"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/frame-breaker.php:32
+msgid "Frame Breaker"
+msgstr "Frame Breaker"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/frame-breaker.php:37
+msgid "Stops your site being loaded in a frame"
+msgstr "禁止网站被外部frame引用"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Google Section Targeting"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "覆盖所有日志和页面内容到Google目标页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:31
+msgid "HitTail"
+msgstr "HitTail"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:36
+msgid "Adds HitTail tracking code to all pages"
+msgstr "增加HitTail跟踪代码到所有页面"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:114
+msgid "Enter the full JavaScript tracking code as provided by HitTail."
+msgstr "输入HitTail提供的完整JavaScript跟踪代码"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr "增加Mint跟踪代码到所有页面"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:121
+msgid "Mint path"
+msgstr "Mint路径"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:124
+msgid "Enter the relative URL to your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "输入相关URL秋Mint安装目录下(例如<code>/mint/</code>)."
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "页数"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "在归档和搜索页上自定义日志数和是否显示所有内容还是部分。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:116
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "日志，展现"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:118
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:130
+msgid "default"
+msgstr "缺省"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:119
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:131
+msgid "content"
+msgstr "内容"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:120
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "摘录"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:122
+msgid "(set number of posts to 0 for theme default)"
+msgstr "(设置日志数为0作为缺省主题)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "检索结果"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "设置日志数为0作为缺省主题"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/rpc.php:35
+msgid "RPC support for Ecto"
+msgstr "RPC支持Ecto"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/rpc.php:40
+msgid "Adds additional functions to allow blogging tools such as Ecto to use tagging"
+msgstr "允许博客工具例如Ecto使用标签来增加额外功能"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/rpc.php:77
+msgid "Tag separator"
+msgstr "标签分隔符"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/rpc.php:80
+msgid "This must match the separator defined in Ecto 'Templates', 'Tags', 'Tag separator'"
+msgstr "这里一定要匹配Ecto '模板', '标签', '标签分隔符'中的分隔符"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr "增加StatCounter跟踪代码到所有页面"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "工程ID"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "区分ID"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "安全ID"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:30
+msgid "Disable WordPress Widgets"
+msgstr "禁用WordPress Widgets"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:35
+msgid "Allows you to enable or disable various WordPress Widgets"
+msgstr "允许使用或禁用各种WordPress Widgets."
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:61
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:62
+msgid "Pages"
+msgstr "页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:67
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:68
+msgid "Calendar"
+msgstr "日历"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:79
+msgid "Links"
+msgstr "链接"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:84
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:85
+msgid "Meta"
+msgstr "Meta"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:90
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/pager.php:11
+msgid "Search"
+msgstr "搜索"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:95
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:96
+msgid "Recent Posts"
+msgstr "最近日志"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:101
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:102
+msgid "Tag Cloud"
+msgstr "标签页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:141
+msgid "categories"
+msgstr "目录"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:142
+msgid "text"
+msgstr "文本"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:143
+msgid "rss"
+msgstr "rss"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:144
+msgid "recent comments"
+msgstr "最近评论"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:145
+msgid "pages"
+msgstr "页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:146
+msgid "search"
+msgstr "搜索"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:147
+msgid "calendar"
+msgstr "日历"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:148
+msgid "archives"
+msgstr "归案"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:149
+msgid "links"
+msgstr "链接"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:150
+msgid "meta"
+msgstr "meta"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:151
+msgid "recent entries"
+msgstr "最近记事"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:152
+msgid "tag cloud"
+msgstr "标签页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:156
+msgid "Enabled Widgets"
+msgstr "激活Widgets"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "Wordpress内容格式化"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "使用或禁用各样Wordpress自动格式化(包括wpautop)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:91
+msgid "Auto-formatting"
+msgstr "自动格式化"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:94
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr "使用 <code>wpautop</code>来格式段落"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:98
+msgid "Auto-fancy quotes"
+msgstr "自动引用符"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:101
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "使用 <code>wptexturize</code> 引用符号到fancy quotes"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:105
+msgid "Auto-link"
+msgstr "自动链接"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:108
+msgid "Makes links clickable in comments"
+msgstr "使评论中超链接可点击"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit.php:17
+msgid "advanced"
+msgstr "高级"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit_ajax.php:5
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/module_edit.php:8
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/site_module_edit.php:16
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags_edit.php:16
+msgid "Cancel"
+msgstr "取消"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit_category.php:1
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/settings.php:2
+msgid "HeadSpace Settings"
+msgstr "HeadSpace设置"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "编辑目录 &raquo;"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit_post.php:6
+msgid "HeadSpace Meta data"
+msgstr "HeadSpace Meta 数据"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/head_admin.php:11
+msgid "Are you sure you want to merge that tag?"
+msgstr "确认要合并此标签?"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:2
+msgid "Special Tags"
+msgstr "特殊标签"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:5
+msgid "Replaced with the date of the post/page"
+msgstr "用日志/页面数据取代"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:6
+msgid "Replaced with the title of the post/page"
+msgstr "用日志/页面标题取代"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:7
+msgid "Replaced with the post/page excerpt"
+msgstr "用日志/页面excerpt取代"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:8
+msgid "Replaced with the post categories (comma seperated)"
+msgstr "用日志的目录取代(用逗号分隔)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:9
+msgid "Replaced with the category description"
+msgstr "用目录描述取代"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:10
+msgid "Replaced with the post/page modified time"
+msgstr "用日志/页面修改时间取代"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:11
+msgid "Replaced with the post/page ID"
+msgstr "用日志/页面ID取代"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:12
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "日志/页面作者呢称取代"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:13
+msgid "Replaced with the post/page author's userid"
+msgstr "用日志/页面作者的userid取代"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:14
+msgid "Replaced with the current search phrase"
+msgstr "用当前搜索词组取代"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:15
+msgid "Replaced with the current time"
+msgstr "用当前时间取代"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:16
+msgid "Replaced with the current date"
+msgstr "用当前日期取代"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:17
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr "用当前页数取代(例如4页中的第2页)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:2
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:12
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu.php:5
+msgid "Import"
+msgstr "导入"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:3
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "此页允许从其它wordpress插件中导入meta-data. 不需要激活其它插件来导入."
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:13
+msgid "Import and remove original data"
+msgstr "导入并删除原始数据"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:13
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "(在UTW和Simple Tagging中无效)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:16
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "在进行任何改变数据库动作之前，你必须 <strong>导入之前备份数据</strong>. 我们为此不负任何责任."
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/mass_edit.php:2
+msgid "Mass Edit Meta-data"
+msgstr "批量编辑Meta-data"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/mass_edit.php:37
+msgid "Save all data"
+msgstr "保存所有数据"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:2
+msgid "Page Modules"
+msgstr "页面模块"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:3
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "应用页面模块到独立页面。拖动并释放模块到适当的区域。模块将重新排列来改变编辑区域的位置。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:7
+msgid "Simple"
+msgstr "简易"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:8
+msgid "Modules will always appear on edit screens"
+msgstr "模块总是出现在编辑区域"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:13
+msgid "Advanced"
+msgstr "高级"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:14
+msgid "Modules will be hidden behind a link"
+msgstr "模块在链接后隐藏"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:19
+msgid "Disabled"
+msgstr "禁用"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:20
+msgid "Modules are disabled and do not appear"
+msgstr "关闭模块，不再显示"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:37
+msgid "Save module order"
+msgstr "保存模块顺序"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:42
+msgid "Site Modules"
+msgstr "站点模块"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:43
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "应用网站模块整体到你的站点。只有选中的模块才能运行(需要配置适当)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:3
+msgid "General Options"
+msgstr "全局设置"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:7
+msgid "Inherit settings"
+msgstr "继承设置"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:8
+msgid "Inherit from global settings"
+msgstr "全局设置应用"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:15
+msgid "Check for updates"
+msgstr "检查更新"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:16
+msgid "Check for updates from within HeadSpace"
+msgstr "检查更新HeadSpace"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:23
+msgid "Debug"
+msgstr "调试"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:24
+msgid "Enable debug option"
+msgstr "允许调试选项"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:33
+msgid "Update Options &raquo;"
+msgstr "更新选项 &raquo;"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:39
+msgid "Remove HeadSpace"
+msgstr "删除HeadSpace"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:41
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data."
+msgstr "此项设置并删除HeadSpace和所有设置，标签，和meta-data."
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:44
+msgid "Delete HeadSpace"
+msgstr "删除HeadSpace"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/pager.php:14
+msgid "Per page"
+msgstr "每页"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/pager.php:21
+msgid "go"
+msgstr "应用"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/settings.php:15
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "通过<strong>日志编辑</strong>,应用设置到指定日志&amp;页面,和通过<strong>编辑目录</strong>到指定目录. "
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu.php:2
+msgid "Page Settings"
+msgstr "页面设置"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu.php:3
+msgid "Modules"
+msgstr "模块"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu.php:4
+msgid "Options"
+msgstr "选项"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu_meta.php:4
+msgid "Tags"
+msgstr "标签"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:2
+msgid "Tag Management"
+msgstr "标签管理"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:8
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags_edit.php:4
+msgid "Tag"
+msgstr "标签"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:9
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags_edit.php:8
+msgid "Slug"
+msgstr "缩略名"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:10
+msgid "Count"
+msgstr "数"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:37
+msgid "Tags can be merged by clicking 'merge tags' and then dragging the tag you want to merge from and dropping over the tag you want to merge into."
+msgstr "点击\"合并标签\"来合并，拖动你要合并的标签并释放到新标签上面."
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:40
+msgid "You have no tags!"
+msgstr "没有任何标签!"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "HeadSpace2 新闻"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "%s 前"
+

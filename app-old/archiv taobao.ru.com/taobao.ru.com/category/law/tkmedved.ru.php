@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tkmedved.ru/index.php?option=com_content&task=view&id=13&Itemid=31">Ќержавеющие лестничные ограждени€</a> - <a href="http://byevek.ru/content/view/12/39">стекл€нные полы</a> - <a href="http://byevek.ru/content/view/18/45/">стекл€нные козырьки</a>'; include '../view.php';

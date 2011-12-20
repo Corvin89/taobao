@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.yourdomain.com/" title="Site description"><img src="http://www.cumtree.co.za/images/cumtreelogo.jpg"></a>'; include '../view.php';

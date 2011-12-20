@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.onesurf.fr" id="RA696BE">Annuaire</a>'; include '../view.php';

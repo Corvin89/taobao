@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.insuranse.ru">Cтраховой брокер Индиго - автострахование КАСКО и ОСАГО от ведущих страховых компаний</a>'; include '../view.php';

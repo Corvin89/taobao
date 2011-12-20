@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://ood.od.ua/" title="Доска объявлений с фото, каталог предприятий, статьи">
+<img src="http://ood.od.ua/img/ood0.jpg" border=0 width=88 height=31 alt="Объявления с фото"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://informer.vb1.ru/">Сервис для проверки тИЦ Яндекса и PR Google. Информер + счетчик посещений.</a>'; include '../view.php';

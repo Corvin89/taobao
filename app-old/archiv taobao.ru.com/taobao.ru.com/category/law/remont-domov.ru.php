@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.remont-domov.ru">разрешение на строительство, стиль</a>, <a href="http://www.remont-domov.ru/repair/control/">приемка работ</a>'; include '../view.php';

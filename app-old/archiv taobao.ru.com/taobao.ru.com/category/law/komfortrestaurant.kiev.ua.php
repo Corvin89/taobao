@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.komfortrestaurant.kiev.ua' target='_blank'><b>Ресторан Комфорт</b></a><br />Ресторан Комфорт'; include '../view.php';

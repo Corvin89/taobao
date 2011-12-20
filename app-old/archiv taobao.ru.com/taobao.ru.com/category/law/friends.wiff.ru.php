@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://wiff.ru" title="климатическа€ техника"> лиматическа€ техника</a>'; include '../view.php';

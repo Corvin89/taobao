@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://weballta.net">Раскрутка сайта</a> | <a href="http://weballta.net/web/">Каталог статей</a>'; include '../view.php';

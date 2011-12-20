@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://keramkamin.ru" target="_blank">Предлогаем изразцовые камины; дымоходы, облицовки и печи в изразцах, а так же дымоходы из Германии и Франции</a>'; include '../view.php';

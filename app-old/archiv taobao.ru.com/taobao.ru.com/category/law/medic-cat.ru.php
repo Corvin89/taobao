@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http:/homedr.ru">Домашний доктор. Все для вашего здоровья.  Медицинский справочник.</a>'; include '../view.php';

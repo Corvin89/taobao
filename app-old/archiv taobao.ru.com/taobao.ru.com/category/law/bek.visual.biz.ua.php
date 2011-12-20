@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://bek.visual.biz.ua/">Visual Studio.Net</a>
+<a href="http://zvir.biz/">Звір - Білий український каталог сайтів, безкоштовна розкрутка сайтів, реєстрація в каталозі</a>'; include '../view.php';

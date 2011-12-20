@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Компания Стандарт Пластик это <a href="http://www.standartplastik.ru">пищевые контейнеры</a> и ваша уверенность и надежность!'; include '../view.php';

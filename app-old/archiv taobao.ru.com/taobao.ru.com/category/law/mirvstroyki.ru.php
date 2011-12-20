@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target=_blank href=http://www.mirvstroyki.ru>Кухонные мойки Blanco, смесители blanco, фильтры для очиски воды, выдвижные розетки, кухонные аксессуары!</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.rentamos.info'>онякедмхе опедкнфемхъ он юпемде йбюпрхп</a>'; include '../view.php';

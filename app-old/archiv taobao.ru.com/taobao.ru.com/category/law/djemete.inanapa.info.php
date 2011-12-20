@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://djemete.inanapa.info">Анапа: Джемете - гостиница 'Морской конек'. Отдых в Анапе и Джемете.</a>'; include '../view.php';

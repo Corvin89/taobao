@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.deeplinker.net/"target="_blank">Deep Linker Directory</a>'; include '../view.php';

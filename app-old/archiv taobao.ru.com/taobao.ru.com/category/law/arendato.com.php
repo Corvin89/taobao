@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.arendato.com/">скачать моды для Alien Shooter 2</a>'; include '../view.php';

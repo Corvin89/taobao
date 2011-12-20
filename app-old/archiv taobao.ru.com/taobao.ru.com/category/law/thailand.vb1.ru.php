@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://thailand.vb1.ru/">Thailand.vb1.ru - Тайланд. История, города и курорты, достопримечательности, статьи о Тайланде.</a>'; include '../view.php';

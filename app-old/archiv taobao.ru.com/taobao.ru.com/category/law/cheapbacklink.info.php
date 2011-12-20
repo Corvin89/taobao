@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cheapbacklink.info/">Business Web Directory</a>'; include '../view.php';

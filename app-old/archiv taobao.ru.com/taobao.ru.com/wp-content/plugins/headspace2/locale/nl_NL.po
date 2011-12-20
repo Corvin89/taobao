@@ -1,0 +1,1164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Headspace2 - v3.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-08-17 18:57+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Matthias Houweling <barnabased@gmail.com>\n"
+"Language-Team: Matthias Houweling <barnabased@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Documents and Settings\\Mattvic\\Mijn documenten\\Webologie\\barnaSEO\\Translating Headspace2\\\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: headspace2\n"
+
+#: headspace2/ajax.php:60
+msgid "<p style=\"color: red\">That function is not defined</p>"
+msgstr "<p style=\"color: red\">Die functie is niet gedefinieerd</p>"
+
+#: headspace2/ajax.php:63
+msgid "<p style=\"color: red\">You are not allowed access to this resource</p>"
+msgstr "<p style=\"color: red\">Je hebt geen toegang tot deze bron</p>"
+
+#: headspace2/ajax.php:137
+#: headspace2/ajax.php:148
+#: headspace2/ajax.php:159
+#: headspace2/ajax.php:170
+#: headspace2/ajax.php:184
+msgid "Invalid module"
+msgstr "Ongeldige module"
+
+#: headspace2/headspace.php:101
+msgid "Global Settings"
+msgstr "Algemene Instellingen"
+
+#: headspace2/headspace.php:101
+msgid "applied to everything unless otherwise specified"
+msgstr "toegepast op alles, tenzij anders gespecificeerd"
+
+#: headspace2/headspace.php:102
+msgid "Home Page"
+msgstr "Homepage"
+
+#: headspace2/headspace.php:102
+msgid "applied to the home page"
+msgstr "toegepast op de homepage"
+
+#: headspace2/headspace.php:103
+msgid "Archives"
+msgstr "Archieven"
+
+#: headspace2/headspace.php:103
+msgid "applied when viewing the archives"
+msgstr "toegepast als archieven getoond worden"
+
+#: headspace2/headspace.php:104
+msgid "Categories"
+msgstr "Rubrieken"
+
+#: headspace2/headspace.php:104
+msgid "applied to category pages without specific settings"
+msgstr "toegepast op rubriek pagina´s zonder specifieke instellingen"
+
+#: headspace2/headspace.php:105
+msgid "Posts &amp; Pages"
+msgstr "Berichten &amp; Pagina´s"
+
+#: headspace2/headspace.php:105
+msgid "applied to posts &amp; pages without specific settings"
+msgstr "toegepast op berichten &amp; pagina´s zonder specifieke instellingen"
+
+#: headspace2/headspace.php:106
+msgid "Author Pages"
+msgstr "Auteurspagina’s"
+
+#: headspace2/headspace.php:106
+msgid "applied to author pages"
+msgstr "toegepast op auteurspagina´s"
+
+#: headspace2/headspace.php:107
+msgid "Search Pages"
+msgstr "Zoekpagina´s"
+
+#: headspace2/headspace.php:107
+msgid "applied when viewing search results"
+msgstr "toegepast als zoekresultaten getoond worden"
+
+#: headspace2/headspace.php:108
+msgid "404 Page"
+msgstr "404 Pagina"
+
+#: headspace2/headspace.php:108
+msgid "applied when viewing a 404 error"
+msgstr "toegepast als een 404 pagina getoond wordt"
+
+#: headspace2/headspace.php:109
+msgid "Tag Pages"
+msgstr "Tag-pagina´s"
+
+#: headspace2/headspace.php:109
+msgid "applied when viewing tag pages"
+msgstr "toegepast als tag-pagina´s bekeken worden."
+
+#: headspace2/headspace.php:137
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: headspace2/headspace.php:138
+msgid "Meta-data"
+msgstr "Metadata"
+
+#: headspace2/headspace.php:338
+msgid "Posts successfully updated"
+msgstr "Bericht succesvol geactualiseerd"
+
+#: headspace2/headspace.php:377
+msgid "Your options have been updated"
+msgstr "Je opties zijn geactualiseerd"
+
+#: headspace2/headspace.php:384
+msgid "HeadSpace has been removed"
+msgstr "HeadSpace is verwijderd"
+
+#: headspace2/headspace.php:436
+msgid "Your module positions have been saved"
+msgstr "Je module-posities zijn opgeslagen"
+
+#: headspace2/headspace.php:459
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "Er zijn %d items uit %s geïmporteerd"
+
+#: headspace2/plugin.php:626
+msgid "How many widgets would you like?"
+msgstr "Hoeveel widgets wil je?"
+
+#: headspace2/plugin.php:633
+msgid "Save"
+msgstr "Opslaan"
+
+#: headspace2/models/inline_tags.php:236
+#, php-format
+msgid "(page %d of %d)"
+msgstr "(pagina %d van %d)"
+
+#: headspace2/models/pager.php:386
+msgid "Previous"
+msgstr "Vorige"
+
+#: headspace2/models/pager.php:387
+msgid "Next"
+msgstr "Volgende"
+
+#: headspace2/modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: headspace2/modules/import/headspace_tags.php:31
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "HeadSpace tags (converteren naar WordPress 2.3 tags)"
+
+#: headspace2/modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "Head META Description"
+
+#: headspace2/modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "Jerome's Keywords"
+
+#: headspace2/modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: headspace2/modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "More Unique"
+
+#: headspace2/modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "SEO Title Tags"
+
+#: headspace2/modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "Simple Tagging"
+
+#: headspace2/modules/import/simple-tags.php:28
+msgid "Simple Tags"
+msgstr "Simple Tags"
+
+#: headspace2/modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "Ultimate Tag Warrior"
+
+#: headspace2/modules/mass/description.php:28
+#: headspace2/modules/mass/description.php:50
+#: headspace2/modules/page/description.php:56
+msgid "Page description"
+msgstr "Pagina beschrijving"
+
+#: headspace2/modules/mass/description.php:49
+#: headspace2/modules/mass/more_text.php:49
+#: headspace2/modules/mass/page_slug.php:49
+#: headspace2/modules/mass/page_title.php:49
+#: headspace2/modules/mass/site_description.php:49
+#: headspace2/modules/mass/site_name.php:49
+#: headspace2/modules/mass/tags.php:49
+msgid "Post title"
+msgstr "Titel van het bericht"
+
+#: headspace2/modules/mass/more_text.php:28
+#: headspace2/modules/mass/more_text.php:50
+msgid "More text"
+msgstr "Meer tekst"
+
+#: headspace2/modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "Pagina slug"
+
+#: headspace2/modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "Bericht slug"
+
+#: headspace2/modules/mass/page_title.php:28
+#: headspace2/modules/mass/page_title.php:50
+msgid "Page title"
+msgstr "Pagina titel"
+
+#: headspace2/modules/mass/site_description.php:28
+#: headspace2/modules/mass/site_description.php:50
+msgid "Site description"
+msgstr "Beschrijving van je site"
+
+#: headspace2/modules/mass/site_name.php:28
+#: headspace2/modules/mass/site_name.php:50
+msgid "Site name"
+msgstr "Naam van je site"
+
+#: headspace2/modules/mass/tags.php:28
+#: headspace2/modules/mass/tags.php:50
+msgid "Tags/keywords"
+msgstr "Tags/sleutelwoorden"
+
+#: headspace2/modules/page/description.php:61
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "Hiermee kun je een korte beschrijving geven van de pagina, die door zoekmachines gebruikt kan worden."
+
+#: headspace2/modules/page/description.php:70
+msgid "Max length"
+msgstr "Max. lengte"
+
+#: headspace2/modules/page/description.php:73
+msgid "All descriptions will be trimmed to this length"
+msgstr "Alle beschrijvingen worden afgekort to deze lengte"
+
+#: headspace2/modules/page/description.php:88
+msgid "Description"
+msgstr "Beschrijving"
+
+#: headspace2/modules/page/javascript.php:50
+#: headspace2/modules/page/javascript.php:66
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: headspace2/modules/page/javascript.php:55
+msgid "Allow external JavaScript files to be referenced"
+msgstr "Hiermee kun je referen aan externe JavaScript bestanden"
+
+#: headspace2/modules/page/javascript.php:72
+msgid "add"
+msgstr "toevoegen"
+
+#: headspace2/modules/page/more_text.php:56
+msgid "Allows the 'more' text to be changed"
+msgstr "Hiermee kun je de ´lees verder´ text aanpassen"
+
+#: headspace2/modules/page/noindex.php:51
+msgid "No Index/No Follow"
+msgstr "No Index/No Follow"
+
+#: headspace2/modules/page/noindex.php:56
+msgid "Allows a no-index/no-follow option to be set to prevent search engines and robots from indexing or following pages"
+msgstr "Hiermee kun je de no-index/no-follow instellen om te voorkomen dat zoekmachines je pagina´s indexeren of de links volgen. "
+
+#: headspace2/modules/page/noindex.php:70
+msgid "No Index"
+msgstr "No Index"
+
+#: headspace2/modules/page/noindex.php:73
+msgid "no-follow"
+msgstr "no-follow"
+
+#: headspace2/modules/page/page_title.php:93
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "Hiermee kun je de pagina titel aanpassen (de titel boven je browser scherm)"
+
+#: headspace2/modules/page/page_title.php:102
+msgid "Title separator"
+msgstr "Scheidingsteken van de titel"
+
+#: headspace2/modules/page/page_title.php:105
+msgid "Leave blank to use theme default"
+msgstr "Laat leeg om de standaardinstellingen van je thema te gebruiken"
+
+#: headspace2/modules/page/page_title.php:109
+msgid "Separator position"
+msgstr "Positie van het scheidingsteken"
+
+#: headspace2/modules/page/page_title.php:112
+msgid "Before"
+msgstr "Voor"
+
+#: headspace2/modules/page/page_title.php:113
+msgid "After"
+msgstr "Na"
+
+#: headspace2/modules/page/page_title.php:129
+msgid "Page Title"
+msgstr "Pagina Titel"
+
+#: headspace2/modules/page/plugin.php:88
+msgid "Page-specific Plugins"
+msgstr "Pagina-specifieke plugins"
+
+#: headspace2/modules/page/plugin.php:93
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "Hiermee kun je uitgeschakelde plugins inschakelen op bepaalde pagina´s "
+
+#: headspace2/modules/page/plugin.php:109
+msgid "Show in admin"
+msgstr "Toon in beheer"
+
+#: headspace2/modules/page/plugin.php:112
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "Toon pagina-specifieke plugins in de beheersmenu´s "
+
+#: headspace2/modules/page/plugin.php:138
+msgid "Plugins"
+msgstr "Plugins"
+
+#: headspace2/modules/page/plugin.php:145
+msgid "Add Plugin"
+msgstr "Voeg plugin toe"
+
+#: headspace2/modules/page/raw.php:43
+#: headspace2/modules/page/raw.php:55
+msgid "Raw data"
+msgstr "Ruwe data"
+
+#: headspace2/modules/page/raw.php:48
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr "Hiermee kun je ruwe data toevoegen aan het meta-gedeelte van de pagina "
+
+#: headspace2/modules/page/rss_name.php:57
+#: headspace2/modules/page/rss_name.php:76
+msgid "RSS Name"
+msgstr "RSS Naam"
+
+#: headspace2/modules/page/rss_name.php:62
+msgid "Allows site RSS name to be changed"
+msgstr "Hiermee kun je de RSS naam van je site veranderen"
+
+#: headspace2/modules/page/rss_tagline.php:57
+#: headspace2/modules/page/rss_tagline.php:76
+msgid "RSS Description"
+msgstr "RSS Beschijving"
+
+#: headspace2/modules/page/rss_tagline.php:62
+msgid "Allows site RSS description to be changed"
+msgstr "Hiermee kun je de RSS beschrijving aanpassen"
+
+#: headspace2/modules/page/site_name.php:61
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "Hiermee kun je ke site naam aanpassen (de naam van je blog)"
+
+#: headspace2/modules/page/site_tagline.php:61
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "Hiermee kun je de beschrijving van je site aanpassen (de tagline)"
+
+#: headspace2/modules/page/stylesheet.php:61
+#: headspace2/modules/page/stylesheet.php:77
+msgid "Stylesheets"
+msgstr "Stylesheets"
+
+#: headspace2/modules/page/stylesheet.php:66
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "Hiermee kun je CSS stylesheets toevoegen aan een pagina"
+
+#: headspace2/modules/page/stylesheet.php:108
+msgid "Do not output CSS"
+msgstr "Toon geen CSS"
+
+#: headspace2/modules/page/tags.php:145
+msgid "<p>Tags: "
+msgstr "<p>Tags: "
+
+#: headspace2/modules/page/tags.php:177
+msgid "Tags (keywords)"
+msgstr "Tags (sleutelwoorden)"
+
+#: headspace2/modules/page/tags.php:182
+msgid "Allows tags/keywords to be added to pages"
+msgstr "Hiermee kun je tags/sleutelwoorden toevoegen aan je pagina´s"
+
+#: headspace2/modules/page/tags.php:196
+msgid "Add tags to dictionary"
+msgstr "Tags toevoegen aan woordenboek"
+
+#: headspace2/modules/page/tags.php:199
+msgid "Automatically add new tags to dictionary"
+msgstr "Tags automatisch toevoegen aan woordenboek"
+
+#: headspace2/modules/page/tags.php:204
+msgid "Order tags"
+msgstr "Tags rangschikken"
+
+#: headspace2/modules/page/tags.php:207
+msgid "Alphabetically order tags"
+msgstr "Tags alfabetisch rangschikken"
+
+#: headspace2/modules/page/tags.php:214
+msgid "Show tags in posts"
+msgstr "Toon tags in berichten"
+
+#: headspace2/modules/page/tags.php:217
+#: headspace2/modules/page/tags.php:226
+msgid "Never"
+msgstr "Nooit"
+
+#: headspace2/modules/page/tags.php:218
+#: headspace2/modules/page/tags.php:227
+msgid "Always"
+msgstr "Altijd"
+
+#: headspace2/modules/page/tags.php:223
+msgid "Show tags in pages"
+msgstr "Toon tags in pagina´s"
+
+#: headspace2/modules/page/tags.php:232
+msgid "Max Keywords"
+msgstr "Max. Sleutelwoorden"
+
+#: headspace2/modules/page/tags.php:238
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo ZoneTag"
+
+#: headspace2/modules/page/tags.php:241
+msgid "enable"
+msgstr "aanzetten"
+
+#: headspace2/modules/page/tags.php:246
+msgid "Dictionary"
+msgstr "Woordenboek"
+
+#: headspace2/modules/page/tags.php:352
+msgid "Suggested tags"
+msgstr "Tags Suggesties"
+
+#: headspace2/modules/page/tags.php:354
+msgid "add all"
+msgstr "alles toevoegen"
+
+#: headspace2/modules/page/tags.php:355
+msgid "suggest"
+msgstr "aanbevelen"
+
+#: headspace2/modules/page/tags.php:357
+#: headspace2/modules/page/tags.php:381
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: headspace2/modules/page/tags.php:379
+msgid "Suggest tags based on content"
+msgstr "Tags voorstellen op basis van inhoud"
+
+#: headspace2/modules/page/theme.php:61
+msgid "Page-specific Themes"
+msgstr "Pagina-specifieke thema´s "
+
+#: headspace2/modules/page/theme.php:73
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "Hiermee kun je een aangepast pagina-specifiek thema het standaard thema laten overschrijven"
+
+#: headspace2/modules/page/theme.php:81
+msgid "Theme"
+msgstr "Thema"
+
+#: headspace2/modules/page/theme.php:84
+msgid "Current theme"
+msgstr "Huidig thema"
+
+#: headspace2/modules/site/103bees.php:31
+msgid "103bees"
+msgstr "103bees"
+
+#: headspace2/modules/site/103bees.php:36
+msgid "Adds 103bees tracking code to all pages"
+msgstr "Voegt de 103bees tracking code toe aan alle pagina´s"
+
+#: headspace2/modules/site/103bees.php:111
+msgid "Tracking code"
+msgstr "Tracking code"
+
+#: headspace2/modules/site/103bees.php:114
+msgid "Enter the full JavaScript tracking code as shown on your 103bees account page."
+msgstr "Vul de volledige JavaScript tracking code in, die je kunt vinden op je 103bees beheerpagina. "
+
+#: headspace2/modules/site/103bees.php:118
+msgid "Who to track"
+msgstr "Wie volgen"
+
+#: headspace2/modules/site/103bees.php:121
+msgid "Everyone"
+msgstr "Iedereen"
+
+#: headspace2/modules/site/103bees.php:128
+msgid "Users of the specified role or less will be tracked"
+msgstr "Gebruikers met die specifieke rol of minder worden gevolgd"
+
+#: headspace2/modules/site/analytics.php:38
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: headspace2/modules/site/analytics.php:43
+msgid "Adds Google Analytic tracking code to all pages"
+msgstr "Voegt Google Analytics code toe aan alle pagina´s"
+
+#: headspace2/modules/site/analytics.php:231
+msgid "Account ID"
+msgstr "Account ID"
+
+#: headspace2/modules/site/analytics.php:234
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "Vul de volledige Google JavaScript tracking code in, of alleen je <code>_uacct</code> nummer. "
+
+#: headspace2/modules/site/analytics.php:238
+msgid "Version"
+msgstr "Versie"
+
+#: headspace2/modules/site/analytics.php:241
+msgid "Urchin (urchin.js)"
+msgstr "Urchin (urchin.js)"
+
+#: headspace2/modules/site/analytics.php:242
+msgid "New Google Analytics (ga.js)"
+msgstr "Nieuwe Google Analytics (ga.js)"
+
+#: headspace2/modules/site/analytics.php:261
+msgid "Track outbound links"
+msgstr "Track uitgaande links"
+
+#: headspace2/modules/site/analytics.php:264
+msgid "Enter the URL you want outbound links tracked to"
+msgstr "Vul de URL in om uitgaande links te tracken"
+
+#: headspace2/modules/site/analytics.php:268
+msgid "Virtual Pages"
+msgstr "Virtuele Pagina´s "
+
+#: headspace2/modules/site/analytics.php:271
+msgid "Change what appears in reports"
+msgstr "Verander wat in rapporten getoond wordt"
+
+#: headspace2/modules/site/analytics.php:275
+msgid "Domain Name"
+msgstr "Domeinnaam"
+
+#: headspace2/modules/site/analytics.php:278
+msgid "Set to a root domain when tracking across sub-domains"
+msgstr "Stel een root domain in als je sub-domeinen analyseert"
+
+#: headspace2/modules/site/analytics.php:283
+msgid "Raw Code"
+msgstr "Ruwe Code"
+
+#: headspace2/modules/site/analytics.php:286
+msgid "Enter any additional Google Analytics code"
+msgstr "Hier kun je extra Google Analytics code invullen"
+
+#: headspace2/modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: headspace2/modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr "Voegt CrazyEgg tracking code toe aan alle pagina´s "
+
+#: headspace2/modules/site/crazyegg.php:122
+msgid "CrazyEgg ID"
+msgstr "CrazyEgg ID"
+
+#: headspace2/modules/site/crazyegg.php:125
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a>"
+msgstr "Vul je volledige <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a> in"
+
+#: headspace2/modules/site/first-time-visitor.php:34
+msgid "First Time Visitor"
+msgstr "Nieuwe Bezoeker"
+
+#: headspace2/modules/site/first-time-visitor.php:39
+msgid "Display a message for first time visitors (based upon idea from Seth Godin)"
+msgstr "Toon een bericht aan bezoekers die je site voor het eerst zien (gebaseerd op een idee van Seth Godin)"
+
+#: headspace2/modules/site/first-time-visitor.php:93
+#, php-format
+msgid "<p>As a new visitor you may want to subscribe to my <a href=\"%s/feed/\">RSS</a> feed.</p>"
+msgstr "<p>Als nieuwe bezoeker wil je je misschien aanmelden voor mijn <a href=\"%s/feed/\">RSS</a> feed.</p>"
+
+#: headspace2/modules/site/first-time-visitor.php:119
+msgid "Message to display"
+msgstr "Te tonen bericht"
+
+#: headspace2/modules/site/first-time-visitor.php:125
+msgid "Repeat"
+msgstr "Herhaal"
+
+#: headspace2/modules/site/first-time-visitor.php:126
+msgid "Enter 0 for always"
+msgstr "Vul 0 in voor altijd"
+
+#: headspace2/modules/site/first-time-visitor.php:129
+msgid "Display position"
+msgstr "Vertoningspositie"
+
+#: headspace2/modules/site/first-time-visitor.php:132
+msgid "Before content"
+msgstr "Voor inhoud"
+
+#: headspace2/modules/site/first-time-visitor.php:133
+msgid "After content"
+msgstr "Na inhoud"
+
+#: headspace2/modules/site/first-time-visitor.php:138
+msgid "Ignore Bots"
+msgstr "Negeer Bots"
+
+#: headspace2/modules/site/frame-breaker.php:32
+msgid "Frame Breaker"
+msgstr "Frame Breker"
+
+#: headspace2/modules/site/frame-breaker.php:37
+msgid "Stops your site being loaded in a frame"
+msgstr "Voorkomt dat je site in een frame wordt geladen"
+
+#: headspace2/modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Google Section Targeting"
+
+#: headspace2/modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "Voegt alle iinhoud van bericht en pagina samen in een Google targeted section"
+
+#: headspace2/modules/site/hittail.php:31
+msgid "HitTail"
+msgstr "HitTail"
+
+#: headspace2/modules/site/hittail.php:36
+msgid "Adds HitTail tracking code to all pages"
+msgstr "Voegt HitTail tracking code toe aan alle pagina´s"
+
+#: headspace2/modules/site/hittail.php:114
+msgid "Enter the full JavaScript tracking code as provided by HitTail."
+msgstr "Vul de volledige JavaScript tracking code in, zoals die door HitTail is verstrekt."
+
+#: headspace2/modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: headspace2/modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr "Voegt Mint tracking code toe aan alle pagina´s"
+
+#: headspace2/modules/site/mint.php:121
+msgid "Mint path"
+msgstr "Mint pad"
+
+#: headspace2/modules/site/mint.php:124
+msgid "Enter the relative URL to your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "Vul de relatieve URL in naar je Mint installatie (b.v. <code>/mint/</code>)."
+
+#: headspace2/modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "Pagina Telling"
+
+#: headspace2/modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "Pas het aantal berichten ana dat getoond wordt op de archief- en zoekpagina´s en bepaal of de volledige inhoud vertoond moet worden of alleen een korte samenvatting."
+
+#: headspace2/modules/site/page_counts.php:116
+#: headspace2/modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "Bericht, toon"
+
+#: headspace2/modules/site/page_counts.php:118
+#: headspace2/modules/site/page_counts.php:130
+msgid "default"
+msgstr "standaard"
+
+#: headspace2/modules/site/page_counts.php:119
+#: headspace2/modules/site/page_counts.php:131
+msgid "content"
+msgstr "inhoud"
+
+#: headspace2/modules/site/page_counts.php:120
+#: headspace2/modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "samenvatting"
+
+#: headspace2/modules/site/page_counts.php:122
+msgid "(set number of posts to 0 for theme default)"
+msgstr "(Zet het aantal berichten op 0 om de standaardinstellingen van je thema te gebruiken)"
+
+#: headspace2/modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "Zoekopdrachten"
+
+#: headspace2/modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "Zet het aantal berichten op 0 om de standaardinstellingen van je thema te gebruiken"
+
+#: headspace2/modules/site/rpc.php:35
+msgid "RPC support for Ecto"
+msgstr "RPC ondersteuning voor Ecto"
+
+#: headspace2/modules/site/rpc.php:40
+msgid "Adds additional functions to allow blogging tools such as Ecto to use tagging"
+msgstr "Voegt extra functies toe om blog tools te kunnen gebruiken, zoals Ecto voor tagging.  "
+
+#: headspace2/modules/site/rpc.php:77
+msgid "Tag separator"
+msgstr "Tag scheidingsteken"
+
+#: headspace2/modules/site/rpc.php:80
+msgid "This must match the separator defined in Ecto 'Templates', 'Tags', 'Tag separator'"
+msgstr "Deze moet overeenkomen met het scheidingsteken dat ingesteld is in Ecto 'Templates', 'Tags', 'Tag separator' "
+
+#: headspace2/modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: headspace2/modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr "Voegt  StatCounter tracking code toe aan alle pagina´s"
+
+#: headspace2/modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "Project ID"
+
+#: headspace2/modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "Partities ID"
+
+#: headspace2/modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "Veiligheids ID"
+
+#: headspace2/modules/site/widgets.php:30
+msgid "Disable WordPress Widgets"
+msgstr "WordPress Widgets uitschakelen"
+
+#: headspace2/modules/site/widgets.php:35
+msgid "Allows you to enable or disable various WordPress Widgets"
+msgstr "Hiermee kun je verschillende WordPress Widgets in- of uitschakelen"
+
+#: headspace2/modules/site/widgets.php:61
+#: headspace2/modules/site/widgets.php:62
+msgid "Pages"
+msgstr "Pagina´s"
+
+#: headspace2/modules/site/widgets.php:67
+#: headspace2/modules/site/widgets.php:68
+msgid "Calendar"
+msgstr "Kalender"
+
+#: headspace2/modules/site/widgets.php:79
+msgid "Links"
+msgstr "Links"
+
+#: headspace2/modules/site/widgets.php:84
+#: headspace2/modules/site/widgets.php:85
+msgid "Meta"
+msgstr "Meta"
+
+#: headspace2/modules/site/widgets.php:90
+msgid "Search"
+msgstr "Zoek"
+
+#: headspace2/modules/site/widgets.php:95
+#: headspace2/modules/site/widgets.php:96
+msgid "Recent Posts"
+msgstr "Recente Berichten"
+
+#: headspace2/modules/site/widgets.php:101
+#: headspace2/modules/site/widgets.php:102
+msgid "Tag Cloud"
+msgstr "Tags Woordenwolk"
+
+#: headspace2/modules/site/widgets.php:141
+msgid "categories"
+msgstr "rubrieken"
+
+#: headspace2/modules/site/widgets.php:142
+msgid "text"
+msgstr "tekst"
+
+#: headspace2/modules/site/widgets.php:143
+msgid "rss"
+msgstr "rss"
+
+#: headspace2/modules/site/widgets.php:144
+msgid "recent comments"
+msgstr "recente reacties"
+
+#: headspace2/modules/site/widgets.php:145
+msgid "pages"
+msgstr "pagina´s"
+
+#: headspace2/modules/site/widgets.php:146
+msgid "search"
+msgstr "zoek"
+
+#: headspace2/modules/site/widgets.php:147
+msgid "calendar"
+msgstr "kalender"
+
+#: headspace2/modules/site/widgets.php:148
+msgid "archives"
+msgstr "archieven"
+
+#: headspace2/modules/site/widgets.php:149
+msgid "links"
+msgstr "links"
+
+#: headspace2/modules/site/widgets.php:150
+msgid "meta"
+msgstr "meta"
+
+#: headspace2/modules/site/widgets.php:151
+msgid "recent entries"
+msgstr "recente artikelen"
+
+#: headspace2/modules/site/widgets.php:152
+msgid "tag cloud"
+msgstr "tags woordenwolk"
+
+#: headspace2/modules/site/widgets.php:156
+msgid "Enabled Widgets"
+msgstr "Ingeschakelde Widgets"
+
+#: headspace2/modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "Opmaak van Wordpress inhoud"
+
+#: headspace2/modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "Hiermee kun je verschillende Wordpress auto-opmaak in- of uitschakelen (waaronder wpautop)"
+
+#: headspace2/modules/site/wp_formatting.php:91
+msgid "Auto-formatting"
+msgstr "Auto-opmaak"
+
+#: headspace2/modules/site/wp_formatting.php:94
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr "Gebruik <code>wpautop</code> om paragrafen op te maken"
+
+#: headspace2/modules/site/wp_formatting.php:98
+msgid "Auto-fancy quotes"
+msgstr "Auto-opvallende citaten"
+
+#: headspace2/modules/site/wp_formatting.php:101
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "Gebruik <code>wptexturize</code> om je citaten op te laten vallen"
+
+#: headspace2/modules/site/wp_formatting.php:105
+msgid "Auto-link"
+msgstr "Auto-link"
+
+#: headspace2/modules/site/wp_formatting.php:108
+msgid "Makes links clickable in comments"
+msgstr "Maakt links klikbaar in reacties  "
+
+#: headspace2/view/admin/edit.php:19
+msgid "advanced"
+msgstr "geavanceerd"
+
+#: headspace2/view/admin/edit_ajax.php:5
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: headspace2/view/admin/edit_category.php:1
+msgid "HeadSpace Settings"
+msgstr "HeadSpace Instellingen"
+
+#: headspace2/view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "Bewerk Rubriek &raquo;"
+
+#: headspace2/view/admin/edit_page.php:2
+msgid "Tags"
+msgstr "Tags"
+
+#: headspace2/view/admin/edit_post.php:5
+msgid "HeadSpace Meta data"
+msgstr "HeadSpace Meta data"
+
+#: headspace2/view/admin/head_admin.php:11
+msgid "Are you sure you want to merge that tag?"
+msgstr "Weet je zeker dat je die tag wilt samenvoegen?"
+
+#: headspace2/view/admin/help.php:2
+msgid "Special Tags"
+msgstr "Speciale Tags"
+
+#: headspace2/view/admin/help.php:5
+msgid "Replaced with the date of the post/page"
+msgstr "Vervangen door de datum van het bericht of de pagina"
+
+#: headspace2/view/admin/help.php:6
+msgid "Replaced with the title of the post/page"
+msgstr "Vervangen door de titel van het bericht of de pagina"
+
+#: headspace2/view/admin/help.php:7
+msgid "Replaced with the post/page excerpt"
+msgstr "Vervangen door de korte samenvatting van het bericht of de samenvatting"
+
+#: headspace2/view/admin/help.php:8
+msgid "Replaced with the current tag/tags"
+msgstr "Vervangen door de huidige tag/tags."
+
+#: headspace2/view/admin/help.php:9
+msgid "Replaced with the post categories (comma seperated)"
+msgstr "Vervangen door de bericht rubrieken (door komma´s gescheiden) "
+
+#: headspace2/view/admin/help.php:10
+msgid "Replaced with the category description"
+msgstr "Vervangen door de beschrijving van de rubriek"
+
+#: headspace2/view/admin/help.php:11
+msgid "Replaced with the post/page modified time"
+msgstr "Vervangen door de tijd waarop het bericht of de pagina is aangepast"
+
+#: headspace2/view/admin/help.php:12
+msgid "Replaced with the post/page ID"
+msgstr "Vervangen door het ID van je bericht/pagina"
+
+#: headspace2/view/admin/help.php:13
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "Vervangen door de bijnaam van de bericht/pagina auteur"
+
+#: headspace2/view/admin/help.php:14
+msgid "Replaced with the post/page author's userid"
+msgstr "Vervangen door het gebruikers-ID van de bericht/pagina auteur"
+
+#: headspace2/view/admin/help.php:15
+msgid "Replaced with the current search phrase"
+msgstr "Vervangen door de huidige zoektermen"
+
+#: headspace2/view/admin/help.php:16
+msgid "Replaced with the current time"
+msgstr "Vervangen door de huidige tijd"
+
+#: headspace2/view/admin/help.php:17
+msgid "Replaced with the current date"
+msgstr "Vervangen door de huidige datum"
+
+#: headspace2/view/admin/help.php:18
+msgid "Replaced with the current month"
+msgstr "Vervangen door de huidige  maand"
+
+#: headspace2/view/admin/help.php:19
+msgid "Replaced with the current year"
+msgstr "Vervangen door het huidige jaar"
+
+#: headspace2/view/admin/help.php:20
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr "Vervangen door het huidige paginanummer (b.v. pagina 2 van 4)"
+
+#: headspace2/view/admin/import.php:3
+msgid "HeadSpace | Import"
+msgstr "HeadSpace | Importeren"
+
+#: headspace2/view/admin/import.php:7
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "Op deze pagina kun je meta-data van andere Wordpress plugins importeren. Deze plugins hoeven niet ingeschakeld te zijn. "
+
+#: headspace2/view/admin/import.php:16
+#: headspace2/view/admin/submenu.php:6
+msgid "Import"
+msgstr "Importeren"
+
+#: headspace2/view/admin/import.php:17
+msgid "Import and remove original data"
+msgstr "Importeren en originele data verwijderen"
+
+#: headspace2/view/admin/import.php:17
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "(niet beschikbaar in UTW en Simple Tagging)"
+
+#: headspace2/view/admin/import.php:20
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "<strong>Maak een backup van je database voordat je gegevens importeert!</strong>."
+
+#: headspace2/view/admin/mass_edit.php:3
+msgid "Mass Edit Meta-data"
+msgstr "Beheer Alle Meta-Data"
+
+#: headspace2/view/admin/mass_edit.php:40
+msgid "Save all data"
+msgstr "Alle data opslaan"
+
+#: headspace2/view/admin/modules.php:4
+msgid "HeadSpace | Page Modules"
+msgstr "HeadSpace | Pagina Modules"
+
+#: headspace2/view/admin/modules.php:8
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "Pagina-modules zijn van toepassing op individuele pagina´s. Sleep de modules naar de juiste sectie. Op het beheerscherm kun je de positie van de modules veranderen of herordenen. "
+
+#: headspace2/view/admin/modules.php:12
+msgid "Simple"
+msgstr "Eenvoudig"
+
+#: headspace2/view/admin/modules.php:13
+msgid "Modules will always appear on edit screens"
+msgstr "Modules altijd zichtbaar op beheer-pagina´s"
+
+#: headspace2/view/admin/modules.php:18
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: headspace2/view/admin/modules.php:19
+msgid "Modules will be hidden behind a link"
+msgstr "Modules verstopt achter link"
+
+#: headspace2/view/admin/modules.php:24
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: headspace2/view/admin/modules.php:25
+msgid "Modules are disabled and do not appear"
+msgstr "Modules zijn uitgeschakeld en worden niet getoond"
+
+#: headspace2/view/admin/modules.php:42
+msgid "Save module order"
+msgstr "Rangschikking modules opslaan"
+
+#: headspace2/view/admin/modules.php:47
+msgid "Site Modules"
+msgstr "Site Modules"
+
+#: headspace2/view/admin/modules.php:48
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "Site modules zijn van toepassing op je hele website. Alleen aangevinkte modules zullen werken (als ze goed geconfigureerd zijn) "
+
+#: headspace2/view/admin/options.php:5
+msgid "HeadSpace | General Options"
+msgstr "HeadSpace | Algemene Opties"
+
+#: headspace2/view/admin/options.php:11
+msgid "Inherit settings"
+msgstr "Instellingen overnemen"
+
+#: headspace2/view/admin/options.php:12
+msgid "Inherit from global settings"
+msgstr "Algemene instellingen overnemen"
+
+#: headspace2/view/admin/options.php:19
+msgid "Check for updates"
+msgstr "Zoek updates"
+
+#: headspace2/view/admin/options.php:20
+msgid "Check for updates from within HeadSpace"
+msgstr "Zoek updates vanuit HeadSpace"
+
+#: headspace2/view/admin/options.php:27
+msgid "Debug"
+msgstr "Debug"
+
+#: headspace2/view/admin/options.php:28
+msgid "Enable debug option"
+msgstr "Debug optie inschakelen"
+
+#: headspace2/view/admin/options.php:37
+msgid "Update Options &raquo;"
+msgstr "Update Opties &raquo;"
+
+#: headspace2/view/admin/options.php:43
+msgid "Remove HeadSpace"
+msgstr "HeadSpace Verwijderen"
+
+#: headspace2/view/admin/options.php:45
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data."
+msgstr "Deze optie verwijders HeadSpace en alle instellingen, tags en meta-data."
+
+#: headspace2/view/admin/options.php:48
+msgid "Delete HeadSpace"
+msgstr "Verwijder HeadSpace"
+
+#: headspace2/view/admin/pager.php:14
+msgid "Per page"
+msgstr "Per pagina"
+
+#: headspace2/view/admin/pager.php:21
+msgid "go"
+msgstr "ga"
+
+#: headspace2/view/admin/settings.php:4
+msgid "HeadSpace | Settings"
+msgstr "HeadSpace | Instellingen"
+
+#: headspace2/view/admin/settings.php:22
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "Instellingen kunnen worden toegepast op specifieke berichten en &amp; pagina´s vanuit de pagina <strong>bericht bewerken</strong> en op specifieke rubrieken vanuit de <strong>rubriek bewerken</strong> pagina. "
+
+#: headspace2/view/admin/submenu.php:3
+msgid "Page Settings"
+msgstr "Pagina Instellingen"
+
+#: headspace2/view/admin/submenu.php:4
+msgid "Modules"
+msgstr "Modules"
+
+#: headspace2/view/admin/submenu.php:5
+msgid "Options"
+msgstr "Opties"
+
+#: headspace2/view/admin/tags.php:2
+msgid "Tag Management"
+msgstr "Tag Beheer"
+
+#: headspace2/view/admin/tags.php:8
+#: headspace2/view/admin/tags_edit.php:4
+msgid "Tag"
+msgstr "Tag"
+
+#: headspace2/view/admin/tags.php:9
+#: headspace2/view/admin/tags_edit.php:8
+msgid "Slug"
+msgstr "Slug"
+
+#: headspace2/view/admin/tags.php:10
+msgid "Count"
+msgstr "Tel"
+
+#: headspace2/view/admin/tags.php:37
+msgid "Tags can be merged by clicking 'merge tags' and then dragging the tag you want to merge from and dropping over the tag you want to merge into."
+msgstr "Tags kunnen worden samengevoegd door op ´tags samenvoegen´te klikken en vervolgens de bron-tag naar de doel-tag te slepen. "
+
+#: headspace2/view/admin/tags.php:40
+msgid "You have no tags!"
+msgstr "Je hebt geen tags!"
+
+#: headspace2/view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "HeadSpace2 Nieuws"
+
+#: headspace2/view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "%s geleden"
+

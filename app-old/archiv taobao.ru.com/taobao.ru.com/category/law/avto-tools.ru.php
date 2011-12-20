@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.auto-tools.ru/" target="_blank"><img src="http://www.auto-tools.ru/images/autotools.gif" width="88" height="31" border="0" alt='AUTO-TOOLS.RU: интернет-магазин профессионального автомобильного инструмента.' align="middle"></a>'; include '../view.php';

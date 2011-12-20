@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://powerfit.ru">Силовой фитнес</a>'; include '../view.php';

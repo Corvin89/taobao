@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Желтая <a href="http://differland.net/">магия</a> Власти'; include '../view.php';

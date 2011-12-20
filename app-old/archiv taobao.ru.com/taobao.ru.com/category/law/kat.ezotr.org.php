@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://kat.ezotr.org"> ›«Œ“≈–» ¿ </a>'; include '../view.php';

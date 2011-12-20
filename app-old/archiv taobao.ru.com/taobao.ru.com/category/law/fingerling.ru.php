@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://fingerling.ru' target='_blank'><b>—екреты рыбной ловли</b></a><br />’итрости, приманки и опыт делают рыбака по насто€щему удачливым. ≈сли вы устали возвращатьс€ домой без улова, то вам дорога на Fingerling.ru'; include '../view.php';

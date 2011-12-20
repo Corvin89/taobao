@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Все насекомые! <a href="http://nasekomie.net/index/245">Полезные насекомые</a> мира!'; include '../view.php';

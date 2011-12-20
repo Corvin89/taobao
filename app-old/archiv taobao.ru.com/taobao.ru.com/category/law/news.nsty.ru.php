@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Новости бизнеса, <a title="news.NSTY:: последние новости" href="http://www.news.nsty.ru">новости недвижимости</a> свежие новости, сайт новостей'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://foto-jpeg.ru/" target="_blank" title="Фотографии и обои на foto-jpeg.ru">Фотографии и обои</a> на foto-jpeg.ru'; include '../view.php';

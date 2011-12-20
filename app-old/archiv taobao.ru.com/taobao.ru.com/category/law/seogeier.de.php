@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.petrishop.de" target="_blank" title="Angeln">Angelshop</a>'; include '../view.php';

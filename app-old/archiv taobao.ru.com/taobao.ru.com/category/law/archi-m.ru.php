@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.archi-m.ru/">Мастерская архитектора Мустафаева «Архи-М»</a>'; include '../view.php';

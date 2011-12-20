@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://dir.useddumptrucksforsale.net/" id="R0">Used dump trucks for sale - Automotive web directory</a>'; include '../view.php';

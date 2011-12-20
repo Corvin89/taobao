@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mestanet.ru/afisha/">–асписание тренингов</a> на нашем сайте<br /><br /><a href="http://progidravliku.ru" rel="follow" title="гидравлика">–асчеты гидроприводов</a> на progidravliku.ru<br /><br />'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://referatua.net">referatua.net</a>'; include '../view.php';

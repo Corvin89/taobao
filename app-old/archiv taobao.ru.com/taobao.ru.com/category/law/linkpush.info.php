@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.linkpush.info/" id="R0">LinkPush.Info Directory</a>'; include '../view.php';

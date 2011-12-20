@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.artkolor.org/"><img border="0" src="http://www.artkolor.org/banner/ban-ru8831.jpg" alt="Живопись, резьба по дереву, авторская кула - арт-галерея Колорит" width="88" height="31"></a>'; include '../view.php';

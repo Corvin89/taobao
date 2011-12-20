@@ -1,0 +1,1 @@
+<?php $catalogLink = '| <a href="http://link.wmkg.info">Большой каталог офигенных сайтов. Бесплатная раскрутка сайта.</a> |'; include '../view.php';

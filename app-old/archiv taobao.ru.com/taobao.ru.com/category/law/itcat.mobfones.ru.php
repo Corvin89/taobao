@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://itcat.mobfones.ru">Тематический каталог сайтов "IT и компьютерная техника"</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.qdorf.ru" title="сувениры, создание сайта, рекламное агентство"><img src="http://www.qdorf.ru/images/baners/88x31-2.gif" width="88" height="31" border="0" alt="Рекламное агентство полного цикла, создание сайта, сувениры, фирменный стиль, полиграфия"></a>'; include '../view.php';

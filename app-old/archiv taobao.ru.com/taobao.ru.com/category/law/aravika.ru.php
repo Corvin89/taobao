@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://aravika.ru/>Студия дизайна интерьеров - "Аравика"</a>'; include '../view.php';

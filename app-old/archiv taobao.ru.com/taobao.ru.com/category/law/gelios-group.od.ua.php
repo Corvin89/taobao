@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gelios-group.od.ua/">Аренда квартиры в г.Одесса.</a>'; include '../view.php';

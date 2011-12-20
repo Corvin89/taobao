@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Оформление <a href="http://www.miraxis.ru/licrostehnadzor.html">разрешения ростехнадхора на применение</a> подтверждает безопасность оборудования.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wholesalejewelrythailand.com">Thai sterling silver jewelrycostume jewellery manufacturer and wholesale distributor</a>'; include '../view.php';

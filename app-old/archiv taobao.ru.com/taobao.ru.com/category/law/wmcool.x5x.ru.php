@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wmcool.x5x.ru" ><img src="http://wmcool.x5x.ru/baners/88x31.gif" width="88" height="31" alt="Итернет казино WMcool.Net" border=0></a>'; include '../view.php';

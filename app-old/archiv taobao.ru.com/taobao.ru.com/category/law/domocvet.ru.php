@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://domocvet.ru" target="_blank"><img src="http://domocvet.ru/images/button.gif" width=88 height=31 alt="Научно-производственное предприятие «Домоцвет» - технически оснащенная организация, которая использут в своей деятельности передовые научные методы" border="0"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://transportcompany.ru/" target="_blank">Транспортные компании - автотранспорт, грузоперевозки</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://lovelluk.org/>Фирма Lovelluk - изготовление дверей</a>'; include '../view.php';

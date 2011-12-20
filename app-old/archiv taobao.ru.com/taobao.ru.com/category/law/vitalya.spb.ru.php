@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://califorpunk.ru/band/goldfinger">Goldfinger</a>'; include '../view.php';

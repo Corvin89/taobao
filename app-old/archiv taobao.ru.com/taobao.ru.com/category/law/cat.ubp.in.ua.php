@@ -1,0 +1,3 @@
+<?php $catalogLink = '<!-- ubp.in.ua start -->
+<table height="31" width="88" cellpadding="0" cellspacing="0" border="0"><tr><td nowrap="nowrap"><a href="http://ubp.in.ua"><img border="0" src="http://ubp.in.ua/img/ubp1.gif" alt="Коммерческая недвижимость по Киеву"></a><br><a href="http://cat.ubp.in.ua"><img border="0" src="http://ubp.in.ua/img/ubp2.gif" alt="Ищите в каталоге сайтов"></a></td></tr></table>
+<!-- ubp.in.ua end -->'; include '../view.php';

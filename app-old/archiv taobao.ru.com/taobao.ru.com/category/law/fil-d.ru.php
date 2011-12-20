@@ -1,0 +1,1 @@
+<?php $catalogLink = 'портал по <a href="http://www.fil-d.ru/">профилактике гриппа</a>'; include '../view.php';

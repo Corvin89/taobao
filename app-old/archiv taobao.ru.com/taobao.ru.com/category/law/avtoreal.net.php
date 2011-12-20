@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://avtoreal.net/">Автомобильная реальность - новости авто, статьи, обзоры</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://polovinka-bam.ru/"><strong>Служба знакомств «Две половинки»</strong></a>'; include '../view.php';

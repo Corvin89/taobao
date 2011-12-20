@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sql-language.ru/" title="Команда SELECT">Команда SELECT</a>'; include '../view.php';

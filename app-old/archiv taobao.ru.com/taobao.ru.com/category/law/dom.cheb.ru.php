@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a title="Каталог сайтов dom.cheb.ru - только лучшие ресурсы РУнета - http://dom.cheb.ru" target="_blank" href="http://dom.cheb.ru/">
+<img border="0" src="1_ban.gif" width="216" height="77"></a></p><p><a href="http://dom.cheb.ru/">Каталог ссылок dom.cheb.ru</a></p>'; include '../view.php';

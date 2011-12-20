@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.small-seo-dir.com">Small SEO Directory - Business and web directory</a>'; include '../view.php';

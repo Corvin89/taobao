@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.zao-ehp.ru"><img src="http://www.zao-ehp.ru/images/products/baner88x31.gif"  border="0" alt="Новинки приборов" width="88" height="36"></a>'; include '../view.php';

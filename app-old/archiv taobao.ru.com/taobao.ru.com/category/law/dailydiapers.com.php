@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dailydiapers.com/links/">DailyDiapers AB/DL/Incon Links Driectory</a>'; include '../view.php';

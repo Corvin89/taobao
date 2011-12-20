@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.yourtradewithcanada.com/" id="R0">Trade with Canada: Exporters & Importers</a>'; include '../view.php';

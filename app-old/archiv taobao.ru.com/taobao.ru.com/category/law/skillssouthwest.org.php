@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://skillssouthwest.org">Southwest College</a>'; include '../view.php';

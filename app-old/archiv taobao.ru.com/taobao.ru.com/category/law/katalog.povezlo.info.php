@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://nagonim.ru">Рецепты домашнего самогоноварения</a>'; include '../view.php';

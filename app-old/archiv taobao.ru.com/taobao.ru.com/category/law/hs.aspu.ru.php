@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p>Компьютерное железо <a href="http://hs.aspu.ru/">Электроника</a> Схемы.</p>'; include '../view.php';

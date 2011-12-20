@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vse-bolezni.ru/">Большой справочник по болезням - болезни почек и венерические заболевания.</a>'; include '../view.php';

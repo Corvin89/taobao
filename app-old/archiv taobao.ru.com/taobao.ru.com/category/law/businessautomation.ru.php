@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.businessautomation.ru">Бизнес в сети.Белый каталог сайтов.</a>'; include '../view.php';

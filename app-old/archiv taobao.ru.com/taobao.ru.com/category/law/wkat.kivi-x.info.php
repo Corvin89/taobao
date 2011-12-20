@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=\"http://wkat.kivi-x.info\">WKat - Ѕелый каталог сайтов, добавить свой сайт!</a>'; include '../view.php';

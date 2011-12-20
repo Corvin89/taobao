@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.basketfood.ru/" title="продукты питания" target="_blank"><img src="http://www.basketfood.ru/picdiz/butt.gif" border="0" alt="пищевая промышленность" width="88" height="31"></a>'; include '../view.php';

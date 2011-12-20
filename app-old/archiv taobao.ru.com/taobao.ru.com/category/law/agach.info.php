@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://agach.info'>моментальный загар</a>'; include '../view.php';

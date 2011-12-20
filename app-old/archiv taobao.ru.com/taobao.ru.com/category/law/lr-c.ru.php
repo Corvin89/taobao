@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lr-c.ru" target=_blank><img border="0" src="http://www.lr-c.ru/Img/Baners/88x31_1.gif" alt="Lada Race-Cars Team: Тюнинг и ремонт автомобилей Лада Ваз. Новости, фото, автозвук, аэродинамический обвес, каталог ссылок, статьи, и т.д." width=88 height=31></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wormfind.com/">Site Name</a>'; include '../view.php';

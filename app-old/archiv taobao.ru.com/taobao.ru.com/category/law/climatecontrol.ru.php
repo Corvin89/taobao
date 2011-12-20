@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.climatecontrol.ru/'><img src='http://www.climatecontrol.ru/counters/?f=40042&c=12' width="88" height="31" border=0 alt="Каталог Climatecontrol"></a>'; include '../view.php';

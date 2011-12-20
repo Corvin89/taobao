@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A HREF="http://ya.ip-ua.net"><IMG SRC="http://ya.ip-ua.net/ban.jpg" ALT="Тематический виртуальный каталог YA" WIDTH="88" HEIGHT="31" BORDER="0"> </A>'; include '../view.php';

@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://gorskie.ru" target="_blank">
+<img border="0" src="http://gorskie.ru/reklama/gorskie.gif" alt="Gorskie.ru - Центральный ресурс горских евреев" width="88" height="31"></a>'; include '../view.php';

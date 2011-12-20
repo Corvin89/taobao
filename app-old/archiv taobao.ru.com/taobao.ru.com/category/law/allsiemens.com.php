@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://allsiemens.com">Клуб любителей телефонов BenQ-Siemens</a>'; include '../view.php';

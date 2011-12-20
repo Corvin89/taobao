@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://china-ware.com.ru"><img src="http://china-ware.com.ru/images/banner31-88.gif" alt="Каталог китайской посуды из стекла, керамики, фарфора, фаянса и стекло­керамики" width="88" height="31" border="0"></a>'; include '../view.php';

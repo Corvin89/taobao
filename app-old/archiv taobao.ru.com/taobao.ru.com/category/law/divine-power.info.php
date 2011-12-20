@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.divine-power.info/" id="R0">Divine Power Directory</a>'; include '../view.php';

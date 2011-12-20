@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://hotob.info/">Товары - спрос, предложение</a>'; include '../view.php';

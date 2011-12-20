@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://pro-okna.com/">Pro-okna.com - сайт про подоконники, фурнитуру, рольставни и установку пластиковых окон</a>'; include '../view.php';

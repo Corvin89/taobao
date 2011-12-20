@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.best-directory.eu">search engine marketing</a>'; include '../view.php';

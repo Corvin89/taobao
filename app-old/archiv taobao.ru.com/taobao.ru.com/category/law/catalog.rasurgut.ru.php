@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://rasurgut.ru/" target="blank_"<img src="http://www.rasurgut.ru/img/rasurgut.gif" width="88" height="31" alt="Медицинский портал Сургута" border="0"></a>'; include '../view.php';

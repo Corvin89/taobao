@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.triathlon1st.co.uk" target="_top"><img src="http://www.triathlon1st.co.uk/triathlon1stbutton.gif"; height="32" width="88" alt="Rated by triathlon1st"></a>'; include '../view.php';

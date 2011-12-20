@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://web.pinnacles.biz">Український каталог посилань</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://agps-mipb.ru/" >Сайт Академии пожарной МЧС Российской Федерации</a></p>'; include '../view.php';

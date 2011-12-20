@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.paperprint.ru">дизайн полиграфии, дизайн буклета</a>, <a href="http://www.paperprint.ru/articles/souvenir/">нанесение рисунка</a>'; include '../view.php';

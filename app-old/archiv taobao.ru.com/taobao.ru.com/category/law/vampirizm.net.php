@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.vampirizm.net' target='_blank'><b>Вампиризм</b></a><br />cайт о вампиризме'; include '../view.php';

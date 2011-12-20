@@ -1,0 +1,2 @@
+<?php $catalogLink = '<p><a href="http://www.chinchil.ru"><img src="http://www.chinchil.ru/raznoe/bch.gif" width="88" height="31" border="0"></a></p>
+<p><a href="http://www.chinchil.ru">Продажа шиншилл, клетки, аксессуары, литература, корма. Заработок на дому выращивание шиншилл. Консультации в разведении. Помощь в реализации шиншилл. г. Чебоксары.</a></p>'; include '../view.php';

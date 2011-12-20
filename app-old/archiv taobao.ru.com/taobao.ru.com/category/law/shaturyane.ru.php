@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.shaturyane.ru" title="Шатура, Шатурский район"><img src="http://www.shaturyane.ru/shatura.gif" width=88 height=31 border=0 alt="Шатура - www.shaturyane.ru"></a>'; include '../view.php';

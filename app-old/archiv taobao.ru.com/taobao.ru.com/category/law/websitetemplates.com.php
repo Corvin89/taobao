@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A href="http://www.websitetemplates.com/">Website Templates</A> - Explore our template forums and directory of template resources.'; include '../view.php';

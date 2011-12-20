@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Производство болтов высокопрочных. Розничные поставки <a href="http://www.metiz.net/" target="_blank">винтов</a>. Доставка крепежа за наш счет.</p>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://paradise.crimea.ua" target="_blank"><em>Отдых в Алуште</em>: отель Парадиз</a> в Крыму'; include '../view.php';

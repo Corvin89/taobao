@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lunohod1.ru/" target="_blank">http://www.lunohod1.ru/ - жизнь как поиск</a>'; include '../view.php';

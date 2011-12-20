@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.inferret.ru/list-c-mustelidae.html" target="_blank"><img src="http://www.inferret.ru/buttons/inf_88x31_06.gif" width="88" height="31" border="0" alt="Семейство куньи"/> Подробное описание видов семейства куньих: норка, перевязка, колонок, соболь и другие на ресурсе www.inferret.ru.</a>'; include '../view.php';

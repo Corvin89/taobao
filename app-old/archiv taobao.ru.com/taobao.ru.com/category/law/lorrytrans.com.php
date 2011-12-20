@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lorrytrans.com">Грузоперевозки Киев Закарпатье</a>'; include '../view.php';

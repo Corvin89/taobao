@@ -1,0 +1,1 @@
+<?php $catalogLink = 'dog-toy.ru Барская Забава - <a href="http://dog-toy.ru" target="_blank"><b>питомник собак в Сочи.Продажа той-терьеров, информация о питомнике, каталог собак породы Русский той.</b></a>'; include '../view.php';

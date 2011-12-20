@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://webhostnn.ru"><img src="http://webhostnn.ru/webhostnn.gif" height="31" width="88" border="0" alt="Создание сайтов и web дизайн в Нижнем Новгороде"></a><b>Нижний Новгород. WEB дизайн, создание сайтов, хостинг, домены.</b>'; include '../view.php';

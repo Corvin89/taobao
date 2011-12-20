@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A href="http://www.citywatch.ru">Часовой Интернет-каталог</A>'; include '../view.php';

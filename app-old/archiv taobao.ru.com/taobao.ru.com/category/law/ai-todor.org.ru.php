@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ai-todor.com" target="_blank">отель Ай-Тодор</a>: комфортный отдых в Крыму'; include '../view.php';

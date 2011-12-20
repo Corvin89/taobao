@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://califorpunk.ru/band/sum-41">sum-41 новости, статьи, видео, фото</a><br>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.hitsdir.com/">HitsDir Web Hosting Directory</a>'; include '../view.php';

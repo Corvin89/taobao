@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://progidravliku.ru" rel="follow" title="гидравлика">Расчеты гидроприводов</a> на progidravliku.ru<br />Каталог автомобилей на нашем сайте <a href="http://1000car.ru/">http://1000car.ru/</a><br />Полный текст <a href="http://goverment.kz">Конституций Республики Казахстан</a> и Российской Федерации.<br /><br />'; include '../view.php';

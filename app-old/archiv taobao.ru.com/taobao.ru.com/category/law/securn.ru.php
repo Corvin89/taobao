@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Компания Жилье-Строй предлагает <a href="http://www.securn.ru">ремонт квартир</a> и строительство коттеджей.'; include '../view.php';

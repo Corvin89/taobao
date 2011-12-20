@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://medo.com.ua">медицинское оборудование</a>'; include '../view.php';

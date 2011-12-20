@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.bigwedding.ru/">свадебный фотограф, это художник</a>'; include '../view.php';

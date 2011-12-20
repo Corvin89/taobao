@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Здесь я нашел инструкцию   <a href="http://bluetooth-portal.com">мобильный телефон  с bluetooth</a>  (купил в Москве). Там же я купил пару наушников для<a href='http://telefonstore.ru'>телефон с сенсорным экраном</a> с инструкциями . И вообще читай и заказывай статьи на интересном сайте <a href="http://kladezi.ru">дом и семья</a>'; include '../view.php';

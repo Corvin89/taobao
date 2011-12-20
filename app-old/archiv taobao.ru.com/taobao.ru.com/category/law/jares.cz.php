@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://jares.cz/"><b>Jares Photography</b></a><br>Fine Arts Photography of People, Nature and Architecture'; include '../view.php';

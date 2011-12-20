@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target=_blank href=http://www.big-format.ru>Плоттеры, плоттеры режущие, сканер, принтер,плоттер hp, широкоформатный плоттер, бумага плоттер, печать плоттер, славич,hp designjet</a>'; include '../view.php';

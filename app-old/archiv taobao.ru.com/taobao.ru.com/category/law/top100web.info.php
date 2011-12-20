@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.top100web.info">Полезные ресурсы рунета</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sl-chat.net" target="_blank"> Чат фанов Сергея Лазарева.</a><a href="http://www.d-rain.ru" target="_blank"> Работа! http://www.d-rain.ru/</a>'; include '../view.php';

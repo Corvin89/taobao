@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" title="каталог сайтов о магии, парапсихологии" href="http://rumagic.com/cat/">rumagic.com, Каталог сайтов о магии.</a>'; include '../view.php';

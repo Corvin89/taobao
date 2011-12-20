@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title=–ыбалкаЅез√раниц href=http://www.fishingfan.biz/ target=_blank><img src=http://i055.radikal.ru/0806/a0/64608349d5de.gif border=0 width=88 height=31></a>'; include '../view.php';

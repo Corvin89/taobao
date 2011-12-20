@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.proffidesign.com/portfolio/inter_inhabited.html">Интерьер квартиры</a>.'; include '../view.php';

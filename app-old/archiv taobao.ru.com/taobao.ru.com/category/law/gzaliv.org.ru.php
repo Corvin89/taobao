@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gzaliv.ru" target="_blank"><strong>Отдых в Симеизе</strong></a>: вилла Голубой Залив - все удобства, бассейн, сауна, теннисный корт'; include '../view.php';

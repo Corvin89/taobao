@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.jewellerportal.ru' target='_blank'><b>Каталок ссылок JewellerPortal</b></a><br />Ювелирный портал JewellerPortal. Каталог ювелирных ресурсов. Доска объявлений. Ювелирные сообщества. Ювелирный форум. Ювелирные новости.'; include '../view.php';

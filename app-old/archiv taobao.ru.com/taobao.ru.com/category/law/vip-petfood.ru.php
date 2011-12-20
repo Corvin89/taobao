@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vip-petfood.ru">VIP PET'S FOOD</a> - Лучшие зоотовары с доставкой на дом и в офис по Москве и области.'; include '../view.php';

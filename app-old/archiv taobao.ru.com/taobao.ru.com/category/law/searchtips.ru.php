@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.searchtips.ru">Советы по поиску - Каталог сайтов<img src="http://searchtips.ru/images/admin/poweredby.jpg" alt="Советы по поиску">'; include '../view.php';

@@ -1,0 +1,1689 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Link Library 4.5.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-15 14:20+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Team Blogos <wordpress@blogos.dk>\n"
+"Language-Team: Team Blogos <wordpress@blogos.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;_nc:4c,1,2;_nx:4c,1,2;_n_noop:1,2;_nx_noop:4c,1,2;_x:1,2c;_c;esc_html__;esc_html_e;esc_html_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c\n"
+"X-Poedit-Basepath: d:\\wordpress\\plugins\\link-library\n"
+"X-Poedit-SearchPath-0: d:\\wordpress\\plugins\\link-library\n"
+
+#: d:\wordpress\plugins\link-library/link-library.php:104
+msgid "Link Library - Additional Link Parameters"
+msgstr "Link Library &ndash; Yderligere linkparametre"
+
+#: d:\wordpress\plugins\link-library/link-library.php:350
+#: d:\wordpress\plugins\link-library/link-library.php:2443
+#: d:\wordpress\plugins\link-library/link-library.php:4127
+msgid "Add new link"
+msgstr "Tilføj nyt link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:351
+#: d:\wordpress\plugins\link-library/link-library.php:4132
+msgid "Link name"
+msgstr "Linknavn"
+
+#: d:\wordpress\plugins\link-library/link-library.php:352
+#: d:\wordpress\plugins\link-library/link-library.php:4135
+msgid "Link address"
+msgstr "Linkadresse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:353
+#: d:\wordpress\plugins\link-library/link-library.php:2459
+#: d:\wordpress\plugins\link-library/link-library.php:4140
+#: d:\wordpress\plugins\link-library/link-library.php:4740
+msgid "Link RSS"
+msgstr "Link-RSS"
+
+#: d:\wordpress\plugins\link-library/link-library.php:354
+#: d:\wordpress\plugins\link-library/link-library.php:2470
+#: d:\wordpress\plugins\link-library/link-library.php:4743
+msgid "Link Category"
+msgstr "Linkkategori"
+
+#: d:\wordpress\plugins\link-library/link-library.php:355
+#: d:\wordpress\plugins\link-library/link-library.php:1373
+#: d:\wordpress\plugins\link-library/link-library.php:2048
+#: d:\wordpress\plugins\link-library/link-library.php:2499
+#: d:\wordpress\plugins\link-library/link-library.php:4741
+msgid "Link Description"
+msgstr "Linkbeskrivelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:356
+#: d:\wordpress\plugins\link-library/link-library.php:2064
+#: d:\wordpress\plugins\link-library/link-library.php:2509
+#: d:\wordpress\plugins\link-library/link-library.php:4742
+msgid "Link Notes"
+msgstr "Linknoter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:357
+#: d:\wordpress\plugins\link-library/link-library.php:2562
+msgid "Add Link"
+msgstr "Tilføj link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:358
+#: d:\wordpress\plugins\link-library/link-library.php:2567
+msgid "New link submitted"
+msgstr "Nyt link indsendt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:359
+#: d:\wordpress\plugins\link-library/link-library.php:2572
+msgid "it will appear in the list once moderated. Thank you."
+msgstr "det vil blive vist på listen, når det er godkendt. Tak!"
+
+#: d:\wordpress\plugins\link-library/link-library.php:374
+msgid "Link Library-Generated RSS Feed"
+msgstr "RSS-feed genereret af Link Library"
+
+#: d:\wordpress\plugins\link-library/link-library.php:375
+msgid "Description of Link Library-Generated Feed"
+msgstr "Beskrivelse af feed genereret af Link Library"
+
+#: d:\wordpress\plugins\link-library/link-library.php:378
+#: d:\wordpress\plugins\link-library/link-library.php:2479
+#: d:\wordpress\plugins\link-library/link-library.php:2480
+msgid "User-submitted category"
+msgstr "Brugerindsendt kategori"
+
+#: d:\wordpress\plugins\link-library/link-library.php:379
+#: d:\wordpress\plugins\link-library/link-library.php:2491
+#: d:\wordpress\plugins\link-library/link-library.php:4181
+msgid "User-submitted category (define below)"
+msgstr "Brugerindsendt kategori (definér nedenfor)"
+
+#: d:\wordpress\plugins\link-library/link-library.php:394
+#: d:\wordpress\plugins\link-library/link-library.php:2520
+#: d:\wordpress\plugins\link-library/link-library.php:2656
+#: d:\wordpress\plugins\link-library/link-library.php:4219
+#: d:\wordpress\plugins\link-library/link-library.php:4744
+msgid "Reciprocal Link"
+msgstr "Gensidigt link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:396
+#: d:\wordpress\plugins\link-library/link-library.php:2530
+#: d:\wordpress\plugins\link-library/link-library.php:4225
+msgid "Secondary Address"
+msgstr "Sekundær adresse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:398
+#: d:\wordpress\plugins\link-library/link-library.php:1931
+#: d:\wordpress\plugins\link-library/link-library.php:2123
+#: d:\wordpress\plugins\link-library/link-library.php:2648
+#: d:\wordpress\plugins\link-library/link-library.php:4231
+msgid "Telephone"
+msgstr "Telefon"
+
+#: d:\wordpress\plugins\link-library/link-library.php:400
+#: d:\wordpress\plugins\link-library/link-library.php:1934
+#: d:\wordpress\plugins\link-library/link-library.php:2151
+#: d:\wordpress\plugins\link-library/link-library.php:2652
+#: d:\wordpress\plugins\link-library/link-library.php:4237
+msgid "E-mail"
+msgstr "E-mail"
+
+#: d:\wordpress\plugins\link-library/link-library.php:505
+msgid "Link Library General Options"
+msgstr "Link Library-generel opsætning"
+
+#: d:\wordpress\plugins\link-library/link-library.php:506
+msgid "Link Library - Settings Sets"
+msgstr "Link Library - Opsætningssæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:506
+msgid "Settings Sets"
+msgstr "Opsætningssæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:509
+#: d:\wordpress\plugins\link-library/link-library.php:511
+msgid "Link Library - Moderate"
+msgstr "Link Library - Godkendelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:509
+#: d:\wordpress\plugins\link-library/link-library.php:511
+msgid "Moderate"
+msgstr "Godkend"
+
+#: d:\wordpress\plugins\link-library/link-library.php:513
+msgid "Link Library - Stylesheet"
+msgstr "Link Library - Stylesheet"
+
+#: d:\wordpress\plugins\link-library/link-library.php:513
+#: d:\wordpress\plugins\link-library/link-library.php:1325
+msgid "Stylesheet"
+msgstr "Stylesheet"
+
+#: d:\wordpress\plugins\link-library/link-library.php:535
+msgid "General Settings"
+msgstr "Generel opsætning"
+
+#: d:\wordpress\plugins\link-library/link-library.php:536
+#: d:\wordpress\plugins\link-library/link-library.php:540
+#: d:\wordpress\plugins\link-library/link-library.php:551
+#: d:\wordpress\plugins\link-library/link-library.php:1352
+msgid "Save"
+msgstr "Gem"
+
+#: d:\wordpress\plugins\link-library/link-library.php:537
+msgid "Links awaiting moderation"
+msgstr "Links, der venter på godkendelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:538
+#: d:\wordpress\plugins\link-library/link-library.php:1326
+msgid "Editor"
+msgstr "Editor"
+
+#: d:\wordpress\plugins\link-library/link-library.php:539
+msgid "Setting Set Selection and Usage Instructions"
+msgstr "Valg af opsætningssæt og brugsvejledning"
+
+#: d:\wordpress\plugins\link-library/link-library.php:541
+msgid "Common Parameters"
+msgstr "Fælles parametre"
+
+#: d:\wordpress\plugins\link-library/link-library.php:542
+msgid "Link Categories Settings"
+msgstr "Opsætning af linkkategorier"
+
+#: d:\wordpress\plugins\link-library/link-library.php:543
+msgid "Link Element Settings"
+msgstr "Opsætning af linkelementer"
+
+#: d:\wordpress\plugins\link-library/link-library.php:544
+msgid "Link Sub-Field Configuration Table"
+msgstr "Tabel over konfigurering af underfelter for links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:545
+msgid "RSS Field Configuration"
+msgstr "Konfigurering af RSS-felt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:546
+msgid "Thumbnail Generation and Use"
+msgstr "Generering og brug af miniaturer"
+
+#: d:\wordpress\plugins\link-library/link-library.php:547
+msgid "RSS Generation"
+msgstr "RSS-generering"
+
+#: d:\wordpress\plugins\link-library/link-library.php:548
+msgid "Search Form Configuration"
+msgstr "Konfigurering af søgefelt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:549
+msgid "Link User Submission"
+msgstr "Brugerindsendelse af links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:550
+msgid "Import / Export"
+msgstr "Import/Eksport"
+
+#: d:\wordpress\plugins\link-library/link-library.php:591
+msgid "Please create a folder called uploads under your Wordpress /wp-content/ directory with write permissions to use this functionality."
+msgstr "Opret venligst en mappe kaldet uploads under WordPress-mappen /wp-content med skriverettigheder, hvis du vil bruge disse funktioner."
+
+#: d:\wordpress\plugins\link-library/link-library.php:595
+msgid "Please make sure that the /wp-content/uploads/ directory has write permissions to use this functionality."
+msgstr "Du skal sikre dig, at mappen /wp-content/uploads/ har skriverettigheder, hvis du vil bruge disse funktioner."
+
+#: d:\wordpress\plugins\link-library/link-library.php:644
+msgid "Thumbnails successfully generated!"
+msgstr "Miniaturer blev genereret!"
+
+#: d:\wordpress\plugins\link-library/link-library.php:646
+msgid "Favicons successfully generated!"
+msgstr "Favicons blev genereret!"
+
+#: d:\wordpress\plugins\link-library/link-library.php:648
+#: d:\wordpress\plugins\link-library/link-library.php:2727
+msgid "Thumbnail successfully generated for"
+msgstr "Miniaturer blev genererer for"
+
+#: d:\wordpress\plugins\link-library/link-library.php:650
+#: d:\wordpress\plugins\link-library/link-library.php:2753
+msgid "Favicon successfully generated for"
+msgstr "Favicons blev genereret for"
+
+#: d:\wordpress\plugins\link-library/link-library.php:659
+msgid "General Settings Saved"
+msgstr "Generel opsætning gemt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:734
+msgid "Settings Set"
+msgstr "Opsætningssæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:734
+msgid "Updated"
+msgstr "Opdateret"
+
+#: d:\wordpress\plugins\link-library/link-library.php:738
+msgid "Included Category ID"
+msgstr "Inkluderet kategori-id"
+
+#: d:\wordpress\plugins\link-library/link-library.php:738
+#: d:\wordpress\plugins\link-library/link-library.php:742
+msgid "is invalid. Please check the ID in the Link Category editor."
+msgstr "er ugyldig"
+
+#: d:\wordpress\plugins\link-library/link-library.php:742
+msgid "Excluded Category ID"
+msgstr "Ekskluderet kategori-id"
+
+#: d:\wordpress\plugins\link-library/link-library.php:746
+msgid "Invalid column count for link on row"
+msgstr "Ugyldigt antal kolonner for link i række"
+
+#: d:\wordpress\plugins\link-library/link-library.php:750
+msgid "Setting Set Exported"
+msgstr "Opsætningssæt eksporteret"
+
+#: d:\wordpress\plugins\link-library/link-library.php:750
+msgid "Download here"
+msgstr "Download her"
+
+#: d:\wordpress\plugins\link-library/link-library.php:754
+msgid "Link Library plugin directory needs to be writable to perform this action"
+msgstr "Link Librarys pluginmappe skal være skrivbar for at kunne gøre dette"
+
+#: d:\wordpress\plugins\link-library/link-library.php:758
+msgid "Setting Set imported successfully"
+msgstr "Opsætningssæt importeret"
+
+#: d:\wordpress\plugins\link-library/link-library.php:762
+msgid "Setting Set Upload Failed"
+msgstr "Upload af opsætningssæt mislykkedes"
+
+#: d:\wordpress\plugins\link-library/link-library.php:766
+msgid "row(s) found"
+msgstr "række(r) fundet"
+
+#: d:\wordpress\plugins\link-library/link-library.php:766
+msgid "link(s) imported successfully"
+msgstr "link(s) importeret"
+
+#: d:\wordpress\plugins\link-library/link-library.php:780
+msgid "Link(s) Approved"
+msgstr "Link(s) godkendt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:782
+msgid "Link(s) Deleted"
+msgstr "Link(s) slettet"
+
+#: d:\wordpress\plugins\link-library/link-library.php:794
+msgid "Stylesheet updated"
+msgstr "Stylesheet opdateret"
+
+#: d:\wordpress\plugins\link-library/link-library.php:796
+msgid "Stylesheet reset to original state"
+msgstr "Stylesheet nulstillet til oprindeligt indhold"
+
+#: d:\wordpress\plugins\link-library/link-library.php:886
+#: d:\wordpress\plugins\link-library/link-library.php:916
+#: d:\wordpress\plugins\link-library/link-library.php:1224
+#: d:\wordpress\plugins\link-library/link-library.php:1289
+msgid "Not allowed"
+msgstr "Ikke tilladt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1325
+#: d:\wordpress\plugins\link-library/link-library.php:1326
+msgid "The stylesheet is now defined and stored using the Link Library admin interface. This avoids problems with updates from one version to the next."
+msgstr "Stylesheetet er nu defineret og gemt i Link Librarys administratorinterface. Dermed skulle problemer med opdateringer fra en version til den næste gerne være undgået."
+
+#: d:\wordpress\plugins\link-library/link-library.php:1327
+msgid "Number of Style Sets"
+msgstr "Antal style-sæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1331
+#: d:\wordpress\plugins\link-library/link-library.php:1332
+msgid "Enter comma-separate list of pages on which the Link Library stylesheet and scripts should be loaded. Primarily used if you display Link Library using the API"
+msgstr "Indtast en kommasepareret liste af sider, hvorpå Link Librarys stylesheet og skripts skal indlæses. Bruges primært, hvis du viser Link Library gennem API'et."
+
+#: d:\wordpress\plugins\link-library/link-library.php:1331
+msgid "Additional pages to load styles and scripts"
+msgstr "Yderligere sider, hvor styles og skripts skal indlæses"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1333
+msgid "Debug Mode"
+msgstr "Debug-modus"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1337
+#: d:\wordpress\plugins\link-library/link-library.php:1338
+#: d:\wordpress\plugins\link-library/link-library.php:1339
+#: d:\wordpress\plugins\link-library/link-library.php:1340
+msgid "This function is only possible when showing one category at a time and while the default category is not shown."
+msgstr "Denne funktion er kun mulig, når der vises én kategori ad gangen, og så længe standardkategorien ikke vises."
+
+#: d:\wordpress\plugins\link-library/link-library.php:1337
+msgid "Page Title Prefix"
+msgstr "Præfix for sidetitel"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1339
+msgid "Page Title Suffix"
+msgstr "Suffix for sidetitel"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1343
+#: d:\wordpress\plugins\link-library/link-library.php:1344
+msgid "CID provided with paid Thumbshots.org accounts"
+msgstr "CID (Kunde-id) leveret med betalt Thumbshots.org-konto"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1343
+msgid "Thumbshots CID"
+msgstr "Thumbshots-CID"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1361
+msgid "Update Settings"
+msgstr "Opdatér opsætninger"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1371
+#: d:\wordpress\plugins\link-library/link-library.php:2011
+#: d:\wordpress\plugins\link-library/link-library.php:2448
+#: d:\wordpress\plugins\link-library/link-library.php:4738
+msgid "Link Name"
+msgstr "Linknavn"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1372
+msgid "Link URL"
+msgstr "Link-URL"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1406
+msgid "No Links Found to Moderate"
+msgstr "Ingen links til godkendelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1413
+msgid "Check All"
+msgstr "Vælg alle"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1414
+msgid "Uncheck All"
+msgstr "Fravælg alle"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1416
+msgid "Approve Selected Items"
+msgstr "Godkend valgte links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1417
+msgid "Delete Selected Items"
+msgstr "Slet valgte links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1441
+msgid "If the stylesheet editor is empty after upgrading, reset to the default stylesheet using the button below or copy/paste your backup stylesheet into the editor."
+msgstr "Hvis stylesheet-editoren er tom efter opgradering, skal du nulstille til standardstylesheetet med knappen nedenfor eller kopiere og indsætte din sikkerhedskopierede stylesheet i editoren."
+
+#: d:\wordpress\plugins\link-library/link-library.php:1446
+msgid "Submit"
+msgstr "Indsend"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1446
+msgid "Reset to default"
+msgstr "Nulstil til standard"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1455
+msgid "Change Current Style Set"
+msgstr "Ændr aktuelt style-sæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1461
+#: d:\wordpress\plugins\link-library/link-library.php:1472
+msgid "Setting Set"
+msgstr "Opsætningssæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1464
+msgid "Go"
+msgstr "Udfør"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1465
+msgid "Copy from:"
+msgstr "Kopiér fra:"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1476
+msgid "Copy"
+msgstr "Kopiér"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1482
+#: d:\wordpress\plugins\link-library/link-library.php:1485
+#: d:\wordpress\plugins\link-library/link-library.php:1489
+msgid "Link Library Supports the Creation of an unlimited number of configurations to display link lists on your site"
+msgstr "Link Library understøtter oprettelse af et ubegrænset antal konfigurationer for visning af linklister på din site"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1483
+msgid "Set #"
+msgstr "Sæt nr."
+
+#: d:\wordpress\plugins\link-library/link-library.php:1486
+msgid "Set Name"
+msgstr "Sætnavn"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1488
+msgid "Feature"
+msgstr "Funktion"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1490
+msgid "Code to insert on a Wordpress page"
+msgstr "Kode til indsættelse på en WordPress-side"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1495
+msgid "Display basic link library"
+msgstr "Vis simpelt linkbibliotek"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1498
+msgid "Display list of link categories"
+msgstr "Vis liste med linkkategorier"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1501
+msgid "Display search box"
+msgstr "Vis søgefelt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1504
+msgid "Display link submission form"
+msgstr "Vis linkindtastningsform"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1514
+#, php-format
+msgid ""
+"You are about to Delete Setting Set '%s'\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"Du er ved at slette opsætningssæt '%s'\n"
+"  'Annullér' for at stoppe, 'OK' for at slette."
+
+#: d:\wordpress\plugins\link-library/link-library.php:1514
+msgid "Delete Settings Set"
+msgstr "Slet opsætningssæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1515
+#, php-format
+msgid ""
+"You are about to reset Setting Set '%s'\n"
+"  'Cancel' to stop, 'OK' to reset."
+msgstr ""
+"Du er ved at nulstille opsætningssæt '%s'\n"
+"  'Annullér' for at stoppe, 'OK' for at nulstille."
+
+#: d:\wordpress\plugins\link-library/link-library.php:1515
+msgid "Reset current Settings Set"
+msgstr "Nulstil aktuelt opsætningssæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1516
+#, php-format
+msgid ""
+"You are about to reset Setting Set '%s' for a table layout\n"
+"  'Cancel' to stop, 'OK' to reset."
+msgstr ""
+"Du er ved at nulstille opsætningssæt '%s' for et tabeldesign\n"
+"  'Annullér' for at stoppe, 'OK' for at nulstille."
+
+#: d:\wordpress\plugins\link-library/link-library.php:1516
+msgid "Reset current Setting Set for table layout"
+msgstr "Nulstil aktuelt opsætningssæt for tabeldesign"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1534
+msgid "Current Settings Set Name"
+msgstr "Navn på aktuelt opsætningssæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1541
+#: d:\wordpress\plugins\link-library/link-library.php:1544
+msgid "Leave Empty to see all categories"
+msgstr "Udfyld ikke, hvis du vil se alle kategorier"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1541
+#: d:\wordpress\plugins\link-library/link-library.php:1544
+#: d:\wordpress\plugins\link-library/link-library.php:1549
+#: d:\wordpress\plugins\link-library/link-library.php:1552
+msgid "Enter list of comma-separated"
+msgstr "Indtast liste med kommaseparerede"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1541
+#: d:\wordpress\plugins\link-library/link-library.php:1544
+msgid "numeric category IDs"
+msgstr "numeriske kategori-id'er"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1541
+msgid "To find the IDs, go to the Link Categories admin page, place the mouse above a category name and look for its ID in the address shown in your browsers status bar. For example"
+msgstr "For at finde id'erne skal du gå til redigeringssiden for linkkategorier, placere musen oven over et kategorinavn og se efter dets id i adressen, der vises i din browsers statusbjælke. For eksempel"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1542
+msgid "Categories to be displayed (Empty=All)"
+msgstr "Kategorier, der skal vises (Tom = Alle)"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1544
+#: d:\wordpress\plugins\link-library/link-library.php:1549
+#: d:\wordpress\plugins\link-library/link-library.php:1552
+msgid "For example"
+msgstr "For eksempel"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1549
+#: d:\wordpress\plugins\link-library/link-library.php:1552
+msgid "numeric category IDs that should not be shown"
+msgstr "numeriske kategori-id'er, der ikke skal vises"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1550
+msgid "Categories to be excluded"
+msgstr "Kategorier, der skal ekskluderes"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1557
+#: d:\wordpress\plugins\link-library/link-library.php:1560
+msgid "Only show one category of links at a time"
+msgstr "Vis kun én kategori af links ad gangen"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1558
+msgid "Only show one category at a time"
+msgstr "Vis kun én kategori ad gangen"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1563
+msgid "Select if AJAX should be used to only reload the list of links without reloading the whole page or HTML GET to reload entire page with a new link. The Permalinks option must be enabled for HTML GET + Permalink to work correctly."
+msgstr "Vælg, hvis AJAX skal bruges til kun at genindlæse listen med links uden at genindlæse hele siden, eller HTML-GET til at genindlæse hele siden med et nyt link. Permalinks-indstillingen skal være aktiveret, for at HTML-GET + permalink kan fungere korrekt."
+
+#: d:\wordpress\plugins\link-library/link-library.php:1563
+msgid "Switching Method"
+msgstr "Metode til genindlæsning"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1574
+msgid "Default category to be shown when only showing one at a time (numeric ID)"
+msgstr "Standardkategori, der skal vises, når der kun vises én ad gangen (numerisk id)"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1581
+#: d:\wordpress\plugins\link-library/link-library.php:1584
+msgid "File path is relative to Link Library plugin directory"
+msgstr "Filsti er relativ ift. til Link Librarys pluginmappe"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1582
+msgid "Icon to display when performing AJAX queries"
+msgstr "Ikon, der skal vises under udførelse af AJAX-forespørgsler"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1589
+#: d:\wordpress\plugins\link-library/link-library.php:1592
+msgid "Only show a limited number of links and add page navigation links"
+msgstr "Vis kun et begrænset antal links og tilføj sidenavigeringslinks"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1590
+msgid "Paginate Results"
+msgstr "Sideinddel resultater"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1595
+#: d:\wordpress\plugins\link-library/link-library.php:1598
+msgid "Number of Links to be Displayed per Page in Pagination Mode"
+msgstr "Antal links, der skal vises per side, når der sideinddeles"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1596
+msgid "Links per Page"
+msgstr "Links per side"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1604
+msgid "Hide Results if Empty"
+msgstr "Skjul resultater, hvis tom"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1612
+msgid "Enable Permalinks"
+msgstr "Aktivér permalinks"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1618
+msgid "Permalinks Page"
+msgstr "Permalinks-side"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1638
+msgid "Results Order"
+msgstr "Rækkefølge af resultater"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1642
+#: d:\wordpress\plugins\link-library/link-library.php:1785
+msgid "Order by Name"
+msgstr "Sortér efter navn"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1643
+#: d:\wordpress\plugins\link-library/link-library.php:1786
+msgid "Order by ID"
+msgstr "Sortér efter id"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1644
+msgid "Order of categories based on included category list"
+msgstr "Rækkefølge af kategorier i inkluderet kategoriliste"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1645
+msgid "Order set by"
+msgstr "Rækkefølge som angivet i"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1645
+#: d:\wordpress\plugins\link-library/link-library.php:1787
+msgid "Wordpress Plugin"
+msgstr "WordPress-pluginnet"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1650
+msgid "Link Categories Display Format"
+msgstr "Visningsformat for linkkategorier"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1654
+#: d:\wordpress\plugins\link-library/link-library.php:1835
+msgid "Table"
+msgstr "Tabel"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1655
+#: d:\wordpress\plugins\link-library/link-library.php:1836
+msgid "Unordered List"
+msgstr "Såkaldt uordnet liste"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1661
+msgid "Display link counts"
+msgstr "Vis antal links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1673
+#: d:\wordpress\plugins\link-library/link-library.php:1676
+msgid "This setting does not apply when selecting My Link Order for the order"
+msgstr "Denne indstilling anvendes ikke, når rækkefølgen bestemmes af My Link Order"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1674
+#: d:\wordpress\plugins\link-library/link-library.php:1806
+msgid "Direction"
+msgstr "Retning"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1678
+#: d:\wordpress\plugins\link-library/link-library.php:1810
+msgid "Ascending"
+msgstr "Stigende"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1679
+#: d:\wordpress\plugins\link-library/link-library.php:1811
+msgid "Descending"
+msgstr "Faldende"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1683
+#: d:\wordpress\plugins\link-library/link-library.php:1686
+#: d:\wordpress\plugins\link-library/link-library.php:1792
+#: d:\wordpress\plugins\link-library/link-library.php:1795
+msgid "Use [ and ] in the description to perform special actions using HTML such as inserting images instead of < and >"
+msgstr "Brug [ og ] i stedet for < og > i beskrivelsen for at udføre specielle handlinger med HTML så som at indsætte billeder"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1684
+#: d:\wordpress\plugins\link-library/link-library.php:1793
+msgid "Show Category Description"
+msgstr "Vis kategoribeskrivelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1688
+#: d:\wordpress\plugins\link-library/link-library.php:1797
+msgid "Position"
+msgstr "Position"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1690
+#: d:\wordpress\plugins\link-library/link-library.php:1799
+msgid "Right"
+msgstr "Højre"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1691
+#: d:\wordpress\plugins\link-library/link-library.php:1800
+msgid "Left"
+msgstr "Venstre"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1697
+msgid "Width of Categories Table in Percents"
+msgstr "Bredde på kategoritabel i procent"
+
+# OVERSÆTTELSE USIKKER
+#: d:\wordpress\plugins\link-library/link-library.php:1703
+#: d:\wordpress\plugins\link-library/link-library.php:1706
+msgid "Determines the number of alternating div tags that will be placed before and after each link category"
+msgstr "Bestemmer antal af skiftende div-tags, som placeres før og efter hver linkkategori"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1703
+#: d:\wordpress\plugins\link-library/link-library.php:1706
+msgid "These div tags can be used to style of position link categories on the link page"
+msgstr "Disse div-tags kan bruges til at style eller positionere linkkategorier på siden med links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1704
+msgid "Number of alternating div classes"
+msgstr "Antal skiftende div-klasser"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1716
+msgid "Number of columns in Categories Table"
+msgstr "Antal kolonner i tabel med kategorier"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1723
+msgid "First div class name"
+msgstr "Navn på den første div-klasse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1731
+msgid "Use Div Class or Heading tag around Category Names"
+msgstr "Brug div-klasser eller overskrift-tags før og efter kategorinavn"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1735
+msgid "Div Class"
+msgstr "Div-klasse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1736
+msgid "Heading Tag"
+msgstr "Overskrift-tag"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1741
+msgid "Second div class name"
+msgstr "Navn på den anden div-klasse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1748
+#: d:\wordpress\plugins\link-library/link-library.php:1751
+msgid "Example div class name: linklistcatname, Example Heading Label: h3"
+msgstr "Eksempel på navn på div-klasse: linklistcatnavn. Eksempel på overskrift-navn: h3"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1749
+msgid "Div Class Name or Heading label"
+msgstr "Nanv på div-klasse eller navn på overskrift"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1756
+msgid "Third div class name"
+msgstr "Navn på tredje div-klasse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1763
+#: d:\wordpress\plugins\link-library/link-library.php:1766
+msgid "Set this address to a page running Link Library to place categories on a different page. Should always be used with the Show One Category at a Time and HTMLGET fetch method."
+msgstr "Sæt denne adresse til en side, der kører Link Library, hvis du vil placere kategorier på en en anden side. Bør altid bruges med Vis én kategori ad gangen og HTML-GET-metoden."
+
+#: d:\wordpress\plugins\link-library/link-library.php:1764
+msgid "Category Target Address"
+msgstr "Måladresse for kategori"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1781
+msgid "Link Results Order"
+msgstr "Rækkefølge af linkresultater"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1787
+msgid "Order set by "
+msgstr "Rækkefølge bestemt af "
+
+#: d:\wordpress\plugins\link-library/link-library.php:1788
+msgid "Order randomly"
+msgstr "Sortér tilfældigt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1805
+#: d:\wordpress\plugins\link-library/link-library.php:1808
+msgid "Except for My Link Order mode"
+msgstr "Undtagen hvis My Link Order anvendes"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1815
+#: d:\wordpress\plugins\link-library/link-library.php:1818
+msgid "Leave empty to show all results"
+msgstr "Udfyld ikke, hvis du vil se alle resultater"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1816
+msgid "Max number of links to display"
+msgstr "Maks. antal link, der skal vises"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1823
+#: d:\wordpress\plugins\link-library/link-library.php:1826
+msgid "Sets default link target window, does not override specific targets set in links"
+msgstr "Sætter standard-målvindue for links; tilsidesætter ikke specifikke mål angivet i links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1824
+msgid "Link Target"
+msgstr "Link-mål"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1831
+msgid "Link Display Format"
+msgstr "Visningsformat for links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1842
+msgid "Show Column Headers"
+msgstr "Vis kolonneoverskrifter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1849
+msgid "Link Column Header"
+msgstr "Kolonneoverskrifter for links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1857
+msgid "Description Column Header"
+msgstr "Kolonneoverskrift for beskrivelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1864
+msgid "Notes Column Header"
+msgstr "Kolonneoverskrift for noter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1872
+msgid "Hide Category Names"
+msgstr "Skjul kategorinavn"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1879
+msgid "Show Hidden Links"
+msgstr "Vis skjulte links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1886
+#: d:\wordpress\plugins\link-library/link-library.php:1889
+msgid "Need to be active for Link Categories to work"
+msgstr "Skal være aktiv, hvis linkkategorier skal virke"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1887
+msgid "Embed HTML anchors"
+msgstr "Indsæt HTML-ankre"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1901
+msgid "Arrange the items below via drag-and-drop to order the various Link Library elements."
+msgstr "Angiv rækkefølge for de forskellige elementer i Link Library ved at arrangere knapperne nedenfor ved at trække og slippe med musen."
+
+#: d:\wordpress\plugins\link-library/link-library.php:1910
+#: d:\wordpress\plugins\link-library/link-library.php:1988
+msgid "Image"
+msgstr "Billede"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1913
+msgid "Name"
+msgstr "Navn"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1916
+msgid "Date"
+msgstr "Dato"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1919
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1922
+msgid "Notes"
+msgstr "Noter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1925
+#: d:\wordpress\plugins\link-library/link-library.php:2080
+msgid "RSS Icons"
+msgstr "RSS-ikoner"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1928
+#: d:\wordpress\plugins\link-library/link-library.php:2096
+msgid "Web Link"
+msgstr "Weblink"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1937
+msgid "Hits"
+msgstr "Hits"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1940
+msgid "Rating"
+msgstr "Bedømmelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1952
+msgid "Display"
+msgstr "Visning"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1953
+msgid "Before"
+msgstr "Før"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1954
+msgid "After"
+msgstr "Efter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1955
+msgid "Additional Details"
+msgstr "Yderligere detaljer"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1956
+msgid "Link Source"
+msgstr "Linkkilde"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1959
+msgid "This column allows for the output of text/code before a number of links determined by the Display field"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før det antal links, der angives af Visning-feltet"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1959
+msgid "Intermittent Before Link"
+msgstr "Tilbagevendende foran link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1960
+msgid "Frequency of additional output before and after complete link group"
+msgstr "Hyppighed af yderligere output før og efter en hel linkgruppe"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1963
+#: d:\wordpress\plugins\link-library/link-library.php:1973
+msgid "Output before complete link group (link, notes, desc, etc...)"
+msgstr "Indsæt før hel linkgruppe (link, noter, beskrivelse, osv. ...)"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1971
+msgid "This column allows for the output of text/code before each link"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før hvert link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1971
+msgid "Before Link"
+msgstr "Før link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1988
+msgid "This column allows for the output of text/code before each link image"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før hvert linkbillede"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1992
+msgid "Code/Text to be displayed before each link image"
+msgstr "Kode/tekst, der skal vises før hvert linkbillede"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1995
+msgid "Code/Text to be displayed after each link image"
+msgstr "Kode/tekst, der skal vises efter hvert linkbillede"
+
+#: d:\wordpress\plugins\link-library/link-library.php:1998
+msgid "CSS Class to be assigned to link image"
+msgstr "CSS-klasse, der skal tilføjes linkbillede"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2003
+#: d:\wordpress\plugins\link-library/link-library.php:2024
+#: d:\wordpress\plugins\link-library/link-library.php:2115
+#: d:\wordpress\plugins\link-library/link-library.php:2143
+msgid "Primary"
+msgstr "Primære"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2004
+#: d:\wordpress\plugins\link-library/link-library.php:2025
+#: d:\wordpress\plugins\link-library/link-library.php:2116
+#: d:\wordpress\plugins\link-library/link-library.php:2144
+msgid "Secondary"
+msgstr "Sekundære"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2011
+msgid "This column allows for the output of text/code before and after each link name"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før og efter hvert linknavn"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2015
+msgid "Code/Text to be displayed before each link"
+msgstr "Kode/tekst, der skal vises før hvert link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2018
+msgid "Code/Text to be displayed after each link"
+msgstr "Kode/tekst, der skal vises efter hvert link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2032
+msgid "This column allows for the output of text/code before and after each link date stamp"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før og efter hvert links tidsstempel"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2032
+msgid "Link Date"
+msgstr "Linkdato"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2033
+msgid "Check to display link date"
+msgstr "Kryds af, hvis du vil vise linkdato"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2036
+msgid "Code/Text to be displayed before each date"
+msgstr "Kode/tekst, der skal vises før hver dato"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2039
+msgid "Code/Text to be displayed after each date"
+msgstr "Kode/tekst, der skal vises efter hver dato"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2048
+msgid "This column allows for the output of text/code before and after each link description"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før og efter hver linkbeskrivelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2049
+msgid "Check to display link descriptions"
+msgstr "Kryds af, hvis du vil vise linkbeskrivelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2052
+msgid "Code/Text to be displayed before each description"
+msgstr "Kode/tekst, der skal vises før hver beskrivelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2055
+msgid "Code/Text to be displayed after each description"
+msgstr "Kode/tekst, der skal vises efter hver beskrivelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2064
+msgid "This column allows for the output of text/code before and after each link notes"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før og efter hvert links noter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2065
+msgid "Check to display link notes"
+msgstr "Kryds af, hvis du vil vise linknoter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2068
+msgid "Code/Text to be displayed before each note"
+msgstr "Kode/tekst, der skal vises før hver note"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2071
+msgid "Code/Text to be displayed after each note"
+msgstr "Kode/tekst, der skal vises efter hver note"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2080
+msgid "This column allows for the output of text/code before and after the RSS icons"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før og efter RSS-ikonerne"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2082
+msgid "See below"
+msgstr "Se nedenfor"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2084
+msgid "Code/Text to be displayed before RSS Icons"
+msgstr "Kode/tekst, der skal vises før RSS-ikoner"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2087
+msgid "Code/Text to be displayed after RSS Icons"
+msgstr "Kode/tekst, der skal vises efter RSS-ikoner"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2096
+msgid "This column allows for the output of text/code before and after the Web Link"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før og efter weblinks"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2099
+#: d:\wordpress\plugins\link-library/link-library.php:2126
+#: d:\wordpress\plugins\link-library/link-library.php:2154
+msgid "False"
+msgstr "Udelad"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2100
+msgid "Web Address"
+msgstr "Webadresse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2101
+#: d:\wordpress\plugins\link-library/link-library.php:2129
+msgid "Label"
+msgstr "Etiket"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2104
+msgid "Code/Text to be displayed before Web Link"
+msgstr "Kode/tekst, der skal vises før et weblink"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2107
+msgid "Code/Text to be displayed after Web Link"
+msgstr "Kode/tekst, der skal vises efter et weblink"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2110
+msgid "Text Label that the web link will be assigned to."
+msgstr "Tekstetiket, som weblinket vil blive knyttet til."
+
+#: d:\wordpress\plugins\link-library/link-library.php:2113
+#: d:\wordpress\plugins\link-library/link-library.php:2141
+msgid "Select which link address will be displayed / used for link"
+msgstr "Vælg, hvilken linkadresse der skal vises/bruges for link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2123
+msgid "This column allows for the output of text/code before and after the Telephone Number"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før og efter telefonnummeret"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2127
+#: d:\wordpress\plugins\link-library/link-library.php:2155
+msgid "Plain Text"
+msgstr "Simpel tekst"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2128
+msgid "Link"
+msgstr "Link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2132
+msgid "Code/Text to be displayed before Telephone Number"
+msgstr "Kode/tekst, der skal vises før telefonnummeret"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2135
+msgid "Code/Text to be displayed after Telephone Number"
+msgstr "Kode/tekst, der skal vises efter telefonnummeret"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2138
+msgid "Text Label that the telephone will be assigned to."
+msgstr "Tekstetiket, som telefonnummeret vil blive knyttet til."
+
+#: d:\wordpress\plugins\link-library/link-library.php:2151
+msgid "This column allows for the output of text/code before and after the E-mail"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før og efter e-mail-adressen"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2156
+msgid "MailTo Link"
+msgstr "MailTo-link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2157
+msgid "MailTo Link with Label"
+msgstr "MailTo-link med etiket"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2158
+msgid "Formatted Command"
+msgstr "Formatteret kommando"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2159
+msgid "Formatted Command with Labels"
+msgstr "Formatteret kommando med etiket"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2162
+msgid "Code/Text to be displayed before E-mail"
+msgstr "Kode/tekst, der skal vises før e-mail"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2165
+msgid "Code/Text to be displayed after E-mail"
+msgstr "Kode/tekst, der skal vises efter e-mail"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2168
+msgid "Text Label that the e-mail will be assigned to represent the e-mail link."
+msgstr "Tekstetiket, som e-mail-adressen vil blive knyttet til som repræsentation af e-mail-linket."
+
+#: d:\wordpress\plugins\link-library/link-library.php:2171
+msgid "Command that the e-mail will be embedded in. In the case of a command, use the symbols #email and #company to indicate the position where these elements should be inserted."
+msgstr "Kommando, som e-mail-adressen indsættes i. Er der tale om en kommando, så brug symbolerne #email og #company til at angive stederne, hvor disse elementer skal indsættes."
+
+#: d:\wordpress\plugins\link-library/link-library.php:2178
+msgid "This column allows for the output of text/code before and after Link Hits"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før og efter antal linkhits"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2178
+msgid "Link Hits"
+msgstr "Antal linkhits"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2182
+msgid "Code/Text to be displayed before Link Hits"
+msgstr "Kode/tekst, der skal vises før antal linkhits"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2185
+msgid "Code/Text to be displayed after Link Hits"
+msgstr "Kode/tekst, der skal vises efter antal linkhits"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2194
+msgid "This column allows for the output of text/code before and after the Link Rating"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før og efter bedømmelse af link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2194
+msgid "Link Rating"
+msgstr "Vis bedømmelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2198
+msgid "Code/Text to be displayed before Link Rating"
+msgstr "Kode/tekst, der skal vises før linkbedømmelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2201
+msgid "Code/Text to be displayed after Link Rating"
+msgstr "Kode/tekst, der skal vises efter antal linkbedømmelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2213
+msgid "This column allows for the output of text/code after each link"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode før og efter hvert link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2213
+msgid "After Link Block"
+msgstr "Efter blok med links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2216
+msgid "Output after complete link group (link, notes, desc, etc...)"
+msgstr "Output efter en hel linkgruppe (link, noter, beskrivelse, osv. ...)"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2223
+msgid "This column allows for the output of text/code after a number of links determined in the first column"
+msgstr "Denne kolonne giver mulighed for output af tekst/kode efter det antal links, der angives i den første kolonne"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2223
+msgid "Intermittent After Link"
+msgstr "Tilbagevendende efter link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2238
+msgid "Show Link Updated Flag"
+msgstr "Vis flag for opdateret link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2246
+msgid "Convert [] to &lt;&gt; in Link Description and Notes"
+msgstr "Konvertér [] til &lt;&gt; i linkbeskrivelser og noter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2254
+msgid "Add nofollow tag to outgoing links"
+msgstr "Tilføj nofollow-attributter til udgående links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2261
+msgid "Show edit links when logged in as editor or administrator"
+msgstr "Vis redigeringslinks, når bruger er logget ind som editor eller administrator"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2279
+msgid "Show RSS Link using Text"
+msgstr "Vis RSS-link med tekst"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2285
+msgid "Show RSS Link using Standard Icon"
+msgstr "Vis RSS-link med standardikon"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2293
+#: d:\wordpress\plugins\link-library/link-library.php:2296
+msgid "Used for RSS Preview and RSS Inline Articles options below. Must have write access to directory"
+msgstr "Bruges med indstillingerne Preview af RSS og RSS-inline i artikler ovenfor. Skal bruge skriverettigheder til mappen"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2294
+msgid "RSS Cache Directory"
+msgstr "RSS-cachemappe"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2302
+msgid "Show RSS Preview Link"
+msgstr "Vis link til RSS-preview"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2308
+msgid "Number of articles shown in RSS Preview"
+msgstr "Antal artikler vist i RSS-preview"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2314
+msgid "Show RSS Feed Headers in Link Library output"
+msgstr "Vis RSS-feedoverskrifter i Link Librarys output"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2322
+msgid "Show RSS Feed Content in Link Library output"
+msgstr "Vis RSS-feedindhold i Link Librarys output"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2328
+msgid "Number of RSS articles shown in Link Library Output"
+msgstr "Antal RSS-artikler vis i Link Librarys output"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2336
+msgid "RSS Preview Width"
+msgstr "Bredde på RSS-preview"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2338
+msgid "RSS Preview Height"
+msgstr "Højde på RSS-preview"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2353
+#: d:\wordpress\plugins\link-library/link-library.php:2356
+msgid "Checking this option will get images from the thumbshots web site every time"
+msgstr "Krydses denne indstilling af, hentes billeder fra Thumbshots-websitet hver gang"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2354
+msgid "Use Thumbshots.org for dynamic link images"
+msgstr "Brug Thumbshots.org for dynamiske linkbilleder"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2361
+msgid "Generate Images / Favorite Icons"
+msgstr "Generér billeder/favoritikoner"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2362
+msgid "Generate Thumbnails and Store locally"
+msgstr "Generér miniaturer og gem dem lokalt"
+
+# USIKKER
+#: d:\wordpress\plugins\link-library/link-library.php:2363
+msgid "Generate Favorite Icons and Store locally"
+msgstr "Generér favoritikoner og gem lokalt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2376
+msgid "Publish RSS Feed"
+msgstr "Udgiv RSS-feed"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2381
+msgid "Number of items in RSS feed"
+msgstr "Antal artikler i RSS-feed"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2384
+msgid "RSS Feed Title"
+msgstr "Titel på RSS-feed"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2387
+msgid "RSS Feed Description"
+msgstr "Beskrivelse på RSS-feed"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2401
+msgid "Search Label"
+msgstr "Tekst på søgeknap"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2402
+#: d:\wordpress\plugins\link-library/link-library.php:4099
+msgid "Search"
+msgstr "Søg"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2417
+msgid "Following this link shows a list of all links awaiting moderation"
+msgstr "Klikker du på dette link vises en liste med alle de links, der venter på godkendelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2417
+msgid "View list of links awaiting moderation"
+msgstr "Vis liste med links, der venter på godkendelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2420
+msgid "Show user links immediately"
+msgstr "Vis brugerlinks med det samme"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2424
+msgid "E-mail admin on link submission"
+msgstr "E-mail admin, når link er indsendt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2429
+msgid "Require login to display form"
+msgstr "Kræv login for at vise formular"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2433
+msgid "This function will only store data when users are logged in to Wordpress"
+msgstr "Denne funktion gemmer kun data, når brugere er logget ind på WordPress"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2433
+msgid "Store login name on link submission"
+msgstr "Gem loginnavn, når link indsendes"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2438
+msgid "Display captcha"
+msgstr "Vis CAPTCHA"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2442
+msgid "Add new link label"
+msgstr "Etiket for Tilføj nyt link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2447
+msgid "Link name label"
+msgstr "Etiket for navn på link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2453
+msgid "Link address label"
+msgstr "Etiket for linkadresse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2454
+#: d:\wordpress\plugins\link-library/link-library.php:4739
+msgid "Link Address"
+msgstr "Linkadresse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2458
+msgid "Link RSS label"
+msgstr "Etiket for linkets RSS"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2463
+#: d:\wordpress\plugins\link-library/link-library.php:2474
+#: d:\wordpress\plugins\link-library/link-library.php:2503
+#: d:\wordpress\plugins\link-library/link-library.php:2513
+#: d:\wordpress\plugins\link-library/link-library.php:2524
+#: d:\wordpress\plugins\link-library/link-library.php:2534
+#: d:\wordpress\plugins\link-library/link-library.php:2545
+#: d:\wordpress\plugins\link-library/link-library.php:2555
+msgid "Hide"
+msgstr "Skjul"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2464
+#: d:\wordpress\plugins\link-library/link-library.php:2475
+#: d:\wordpress\plugins\link-library/link-library.php:2504
+#: d:\wordpress\plugins\link-library/link-library.php:2514
+#: d:\wordpress\plugins\link-library/link-library.php:2525
+#: d:\wordpress\plugins\link-library/link-library.php:2535
+#: d:\wordpress\plugins\link-library/link-library.php:2546
+#: d:\wordpress\plugins\link-library/link-library.php:2556
+msgid "Show"
+msgstr "Vis"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2469
+msgid "Link category label"
+msgstr "Etiket for linkets kategori"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2484
+msgid "No"
+msgstr "Nej"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2485
+msgid "Allow"
+msgstr "Tillad"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2490
+msgid "User-submitted category prompt"
+msgstr "Tekst, der beder om brugerindsendt kategori"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2498
+msgid "Link description label"
+msgstr "Etiket for beskrivelse af link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2508
+msgid "Link notes label"
+msgstr "Etiket for linknoter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2519
+msgid "Reciprocal Link label"
+msgstr "Etiket for gensidigt link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2529
+msgid "Secondary Address label"
+msgstr "Etiket for sekundær adresse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2540
+msgid "Link Telephone label"
+msgstr "Etiket for linkets telefonnummer"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2541
+#: d:\wordpress\plugins\link-library/link-library.php:4746
+msgid "Link Telephone"
+msgstr "Telefonnummer for link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2550
+msgid "Link E-mail label"
+msgstr "Etik for linkets e-mail"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2551
+#: d:\wordpress\plugins\link-library/link-library.php:4747
+msgid "Link E-mail"
+msgstr "E-mail for link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2561
+msgid "Add Link button label"
+msgstr "Etiket for Tilføj link-knap"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2566
+msgid "New Link Message"
+msgstr "Besked om nyt link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2571
+msgid "New Link Moderation Label"
+msgstr "Etiket for godkendelse af nyt link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2588
+msgid "CSV file to upload to import links"
+msgstr "CSV-fil, der skal uploades for at importere links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2588
+msgid "file template"
+msgstr "filskabelon"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2590
+msgid "Import Links"
+msgstr "Importér links"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2593
+msgid "First row contains column headers"
+msgstr "Første række indeholder kolonneoverskrifter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2602
+msgid "Overwrites current setting set with contents of CSV file"
+msgstr "Overskriver aktuel opsætningssæt med indhold af CSV-fil"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2602
+msgid "Setting Set CSV file to import"
+msgstr "CSV-fil med opsætningssæt, der skal importeres"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2604
+msgid "Import Settings Set"
+msgstr "Importér opsætningssæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2607
+msgid "Generates CSV file with current setting set configuration for download"
+msgstr "Genererer CSV-fil med konfigurationen i aktuelt opsætningssæt til download"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2607
+msgid "Export current setting set"
+msgstr "Eksportér aktuelt opsætningssæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2608
+msgid "Export Settings Set"
+msgstr "Eksportér opsætningssæt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2644
+msgid "Secondary Web Address"
+msgstr "Sekundær webadresse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2645
+#: d:\wordpress\plugins\link-library/link-library.php:2657
+msgid "Visit"
+msgstr "Besøg"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2660
+msgid "Number of link views"
+msgstr "Antal linkvisninger"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2664
+msgid "Link Submitter"
+msgstr "Indsender af link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2668
+msgid "Current Link Image"
+msgstr "Aktuelt linkbillede"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2674
+msgid "None Assigned"
+msgstr "Ingen tilknyttet"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2681
+#: d:\wordpress\plugins\link-library/link-library.php:2687
+msgid "Automatic Image Generation"
+msgstr "Automatisk billedgenerering"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2682
+msgid "Generate Thumbnail and Store locally"
+msgstr "Generér miniature og gem lokalt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2683
+msgid "Generate Favorite Icon and Store locally"
+msgstr "Generér favoritikon og gem lokalt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2688
+msgid "Only available once link is saved"
+msgstr "Er kun tilgængelig, når link er gemt"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2692
+msgid "Manual Image Upload"
+msgstr "Manuelt billedupload"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2696
+msgid "Manual upload requires a wp-content\\uploads directory to be present with write permissions"
+msgstr "Manuelt upload kræver, at der findes en wp-content\\uploads-mappe med skriverettigheder"
+
+#: d:\wordpress\plugins\link-library/link-library.php:2733
+msgid "Cannot generate thumbnail when no name and no web address are specified."
+msgstr "Kan ikke generere miniature, når der ikke er angivet navn og webadresse."
+
+#: d:\wordpress\plugins\link-library/link-library.php:2759
+msgid "Cannot generate favorite icon when no name and no web address are specified."
+msgstr "Kan ikke generere favoritikon, når der ikke er angivet navn og webadresse."
+
+#: d:\wordpress\plugins\link-library/link-library.php:2829
+msgid "Link Library Generated Feed"
+msgstr "Link Library-genereret feed"
+
+#: d:\wordpress\plugins\link-library/link-library.php:3143
+msgid "No categories found"
+msgstr "Ingen kategorier fundet"
+
+#: d:\wordpress\plugins\link-library/link-library.php:3410
+msgid "Search Results for"
+msgstr "Søgeresultater for"
+
+#: d:\wordpress\plugins\link-library/link-library.php:3667
+msgid "Last updated"
+msgstr "Senest opdateret"
+
+#: d:\wordpress\plugins\link-library/link-library.php:3749
+msgid "Edit"
+msgstr "Redigér"
+
+#: d:\wordpress\plugins\link-library/link-library.php:3797
+msgid "Preview of RSS feed for"
+msgstr "Preview af RSS-feed for"
+
+#: d:\wordpress\plugins\link-library/link-library.php:3983
+#: d:\wordpress\plugins\link-library/link-library.php:3987
+#: d:\wordpress\plugins\link-library/link-library.php:3989
+#: d:\wordpress\plugins\link-library/link-library.php:3995
+msgid "Previous"
+msgstr "Forrige"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4037
+#: d:\wordpress\plugins\link-library/link-library.php:4041
+#: d:\wordpress\plugins\link-library/link-library.php:4043
+#: d:\wordpress\plugins\link-library/link-library.php:4049
+msgid "Next"
+msgstr "Næste"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4073
+msgid "No links found"
+msgstr "Ingen links fundet"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4177
+msgid "Link category"
+msgstr "Linkkategori"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4207
+msgid "Link description"
+msgstr "Linkbeskrivelse"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4213
+msgid "Link notes"
+msgstr "Linknoter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4244
+msgid "Enter code from above image"
+msgstr "Indtast koden på billedet ovenfor"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4249
+msgid "Add link"
+msgstr "Tilføj link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4583
+msgid "Confirm code not given"
+msgstr "Bekræftelseskode ikke angivet"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4593
+msgid "Captcha code is wrong"
+msgstr "CAPTCHA-koden er ikke rigtig"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4598
+msgid "Captcha code is only valid for 5 minutes"
+msgstr "CAPTCHA-kode er kun gyldig i fem minutter"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4608
+msgid "No captcha cookie given. Make sure cookies are enabled"
+msgstr "CAPTCHA-koden blev ikke oprettet. Sørg for, at cookies er aktiveret"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4678
+msgid "User Category was not provided correctly. Link insertion failed."
+msgstr "Brugerkategori blev ikke angivet korrekt. Indsættelse af link mislykkedes."
+
+#: d:\wordpress\plugins\link-library/link-library.php:4737
+msgid "A user submitted a new link to your Wordpress Link database."
+msgstr "En bruger indsendte et nyt link til din WordPress-database med links."
+
+#: d:\wordpress\plugins\link-library/link-library.php:4745
+msgid "Link Secondary Address"
+msgstr "Sekundær adresse for link"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4754
+msgid "Message generated by"
+msgstr "Besked genereret af"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4756
+msgid "New link added"
+msgstr "Nyt link tilføjet"
+
+#: d:\wordpress\plugins\link-library/link-library.php:4763
+msgid "Error: Link already exists."
+msgstr "Fejl: Link eksisterer allerede."
+
+#~ msgid "Please create a folder called"
+#~ msgstr "Opret en mappe med navnet"
+
+#~ msgid "Cheatin&#8217; uh?"
+#~ msgstr "Snyder du, hva'?"
+
+#~ msgid "Settings"
+#~ msgstr "Opsætning"
+
+#~ msgid "You cannot edit the Link Library for WordPress options."
+#~ msgstr ""
+#~ "Du kan ikke redigere indstillingerne for Link Library for WordPress."
+
+#~ msgid "Configuration Page"
+#~ msgstr "Opsætning"
+
+#~ msgid "Stylesheet Editor"
+#~ msgstr "Stylesheet-editor"
+
+#~ msgid "Installation Instructions"
+#~ msgstr "Installationsvejledning"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Help also in tooltips"
+#~ msgstr "Hjælp også i tooltips"
+
+#~ msgid "Contact the Author"
+#~ msgstr "Kontakt forfatteren"
+
+#~ msgid "Update General Settings"
+#~ msgstr "Opdatér Generel opsætning"
+
+#~ msgid ""
+#~ "The Re-Captha public and private keys need to be specified in the General "
+#~ "Configuration for this feature to work"
+#~ msgstr ""
+#~ "De offentlige og private nøgler, som Re-Captcha bruger, skal angives i "
+#~ "Generel opsætning, hvis denne funktion skal bruges"

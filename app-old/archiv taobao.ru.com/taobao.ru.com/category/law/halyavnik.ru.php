@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a target="_blank" href="http://halyavnik.ru">Бесплатный хостинг c mySQL, php, perl</a><br>
+<a target="_blank" href="http://halyavniс.ru">Бесплатный хостинг c php и mySQL, perl</a><br>'; include '../view.php';

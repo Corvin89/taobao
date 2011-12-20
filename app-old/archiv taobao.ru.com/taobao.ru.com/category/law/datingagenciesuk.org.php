@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.datingagenciesuk.org/"><b>Dating Agencies UK</b></a><br>One of the most firmly established UK and international dating agencies on the web. With an extensive list of single men and single women across the UK and the rest of the world you can be sure that you will not be stuck for choice.'; include '../view.php';

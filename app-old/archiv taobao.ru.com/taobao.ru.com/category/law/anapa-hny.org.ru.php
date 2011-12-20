@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://best.anapa.org/">Анапа</a> отдых и оздоровление на Федеральном курорте. Курортные районы Анапы. <a href="http://best.anapa.org/cat8.html">Сукко гостиницы</a>.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ahrefa.kz/">создание сайтов алматы</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.sportmenu.ru"><img src="http://www.sportmenu.ru/88_31.jpg" alt=" " border="0" height="31" width="88"></a>'; include '../view.php';

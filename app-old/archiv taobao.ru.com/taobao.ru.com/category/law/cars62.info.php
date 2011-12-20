@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cars62.info/">Авто в Рязани</a>'; include '../view.php';

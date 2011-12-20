@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://statu.ru"><strong>Татуаж бровей в Москве</strong></a>, перманентный макияж бровей  в Москве, татуаж губ, перманентный макияж'; include '../view.php';

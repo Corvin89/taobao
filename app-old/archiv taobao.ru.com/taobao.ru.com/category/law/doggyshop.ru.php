@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Интернет зоомагазин <a href="http://www.doggyshop.ru">Йорки из Москвы</a>  - партнеры <a href="http://www.lpgcentre.ru/uslugi/bioepilyatsiya.html">Биоэпиляция</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://csc-ekb.ru/>Определение глубины заложения фундаментов</a>'; include '../view.php';

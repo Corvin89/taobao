@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.nord-inform.de"><img border="0" src="http://www.nord-inform.de/images/banners/ban_partner_3.gif" width="88" height="31" alt="Zeitschrift Partner-Nord"></a>'; include '../view.php';

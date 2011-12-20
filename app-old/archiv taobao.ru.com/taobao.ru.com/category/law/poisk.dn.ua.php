@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://poisk.dn.ua>Донецкий ПОИСК - каталог сайтов Донецка</a>'; include '../view.php';

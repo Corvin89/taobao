@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.siamcg.com/">Siamcg- Submit Your Site</a>'; include '../view.php';

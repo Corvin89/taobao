@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://goget-links.ru/">Доска объявлений Москва</a>  <a href="http://cat.goget-links.ru">Новый каталог сайтов</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.worldcamping.net" id="RC0F041">International and local online service guide provides information about camping and recreational vehicles</a>- Locate Trailer Park, Lodge, Marina, Learning Facility, Clubs, Resorts'; include '../view.php';

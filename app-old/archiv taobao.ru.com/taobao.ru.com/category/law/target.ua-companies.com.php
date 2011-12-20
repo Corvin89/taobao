@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://target.ua-companies.com/' target='_blank'><img src='http://target.ua-companies.com/images/button_88x31.gif' border=0 title='База ТОП сайтов. ТОП 25 сайтов' alt='База ТОП сайтов. ТОП 25 сайтов'></a>'; include '../view.php';

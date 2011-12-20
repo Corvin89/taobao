@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cellophan.ru/" target="new"><img src="http://cellophan.ru/images/button.gif" width=88 height=31 border=0 alt="Пленка ПВХ для парников и теплиц"></a>'; include '../view.php';

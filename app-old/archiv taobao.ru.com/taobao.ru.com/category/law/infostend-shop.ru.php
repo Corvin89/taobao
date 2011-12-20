@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Для школы <a href='http://www.infostend-shop.ru'>школьная доска для рисования</a> в большом количестве'; include '../view.php';

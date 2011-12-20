@@ -1,0 +1,1 @@
+<?php $catalogLink = ' <a href="http://www.noutbooki.ru/" target="_blank">Ноутбуки Sony.</a>'; include '../view.php';

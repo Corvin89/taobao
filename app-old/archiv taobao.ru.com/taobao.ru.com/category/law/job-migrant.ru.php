@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Центр поддержки мигрантов: <a href="http://www.job-migrant.ru" target="_blank">помощь, права мигрантов</a>'; include '../view.php';

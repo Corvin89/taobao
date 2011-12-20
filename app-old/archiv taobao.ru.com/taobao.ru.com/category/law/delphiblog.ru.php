@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://delphiblog.ru/">Программирование на Delphi</a>'; include '../view.php';

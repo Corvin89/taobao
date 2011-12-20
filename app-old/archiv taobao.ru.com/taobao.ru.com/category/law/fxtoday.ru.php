@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://fxtoday.ru">Forex Today</a> - все о валютных и фондовых рынках. Заработай себе на роскошную жизнь.'; include '../view.php';

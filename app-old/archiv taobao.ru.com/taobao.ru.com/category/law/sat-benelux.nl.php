@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sat-benelux.nl/link">sat-benelux links</a>'; include '../view.php';

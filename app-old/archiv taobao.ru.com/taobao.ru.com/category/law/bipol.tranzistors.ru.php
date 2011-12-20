@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tranzistors.ru/">Работа транзистора с нагрузкой</a> подробно описана у нас<br /><a href="http://cenpart.ru">Первые симптомы</a> при заболевании.<br /> <br /><a href="http://www.abitgamer.com">Игровые обзоры</a> на сайте ABITGAMER.<br />'; include '../view.php';

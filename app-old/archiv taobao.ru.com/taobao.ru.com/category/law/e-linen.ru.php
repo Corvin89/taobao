@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.e-linen.ru/">Купи боди и женское белье</a>'; include '../view.php';

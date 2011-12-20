@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://www.pravadom.od.ua/" target="_blank">PRAVADOM.OD.UA</a><br>ёридическа€ фирма в ќдессе</p>'; include '../view.php';

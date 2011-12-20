@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.terver.ru">Решение задач по математике</a>'; include '../view.php';

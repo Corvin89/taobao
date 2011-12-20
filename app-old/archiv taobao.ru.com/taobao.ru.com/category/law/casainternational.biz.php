@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://casainternational.biz/projects.html">Проекты</a><a href="http://casainternational.biz/karkas.html"> металлокаркасных</a>,<a href="http://casainternational.biz/sport.html"> спортивных</a>,<a href="http://casainternational.biz/alumin.html"> быстровозводимых зданий</a>'; include '../view.php';

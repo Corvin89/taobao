@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.shtangenr.micron-tools.ru">   Штангенрейсмасы типа ШРЦ</a> - <a href="http://www.atlanticco.ru/index.php?option=com_virtuemart&Itemid=9"> Оборудование для школ</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.webmaster62.ru" target="_blank"> <img src="http://www.webmaster62.ru/bann.jpg" width="88" height="31" border="0" alt="Создание сайтов в Рязани www.webmaster62.ru"> </a>'; include '../view.php';

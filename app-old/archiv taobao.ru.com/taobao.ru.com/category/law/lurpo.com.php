@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lurpo.com/">Lurpo - SEO Friendly Web Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.best-city-rent.ru" target="_blank"><strong>Недвижимость Москвы</strong></a>: агенство Бест-Сити'; include '../view.php';

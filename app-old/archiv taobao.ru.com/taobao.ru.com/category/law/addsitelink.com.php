@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.addsitelink.com/">Add Link - Suggest Link - Submit URL Directory</a>'; include '../view.php';

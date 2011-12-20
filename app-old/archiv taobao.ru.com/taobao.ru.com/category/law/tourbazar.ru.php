@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tourbazar.ru/"><img src="http://www.tourbazar.ru/images/logo_01.gif" border=0 width=97 height=101 title="Турбазар - многопрофильный туроператор"></a>'; include '../view.php';

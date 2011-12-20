@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.styles.org.ru/">Девушки на рабочий стол</a><a href="http://prosto.net.ru/"> скачать бесплатно</a>'; include '../view.php';

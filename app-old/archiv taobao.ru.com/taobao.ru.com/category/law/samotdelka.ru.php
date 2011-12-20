@@ -1,0 +1,1 @@
+<?php $catalogLink = 'SamOtdelka.RU - <a href="http://www.samotdelka.ru/">¬нутренн€€ отделка домов. ƒекоративные покрыти€</a>.'; include '../view.php';

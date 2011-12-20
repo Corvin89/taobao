@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://maluki.ru/>Архитектурно-проектная фирма "Аура"</a>'; include '../view.php';

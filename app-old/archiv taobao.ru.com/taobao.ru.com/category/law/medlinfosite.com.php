@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Пищевая и энергетическая <a href="http://www.medlinfosite.com/mandarin.php">ценность мандаринов.</a> Новогодний фрукт.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://delbug.ru/" target="_blank">Срочный ремонт компьютеров</a>'; include '../view.php';

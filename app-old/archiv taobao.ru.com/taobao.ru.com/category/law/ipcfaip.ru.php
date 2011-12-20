@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://ipcfaip.ru.ru>ipcfaip.ru</a> - Мойки профессиональные, полупрофессиональные и бытовые.'; include '../view.php';

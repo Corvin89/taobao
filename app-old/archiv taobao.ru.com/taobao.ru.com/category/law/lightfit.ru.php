@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://lightfit.ru">Фитнес легко</a>'; include '../view.php';

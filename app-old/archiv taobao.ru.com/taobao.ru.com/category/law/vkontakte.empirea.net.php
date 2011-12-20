@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://vkontakte.empirea.net" target="_blank"><img src="http://vkontakte.empirea.net/images/logos.gif" alt="Социальная Сеть Ивано-Франковск - социальная сеть знакомств, анкеты, чат, форум, видео, фотоальбомы, музыка, блоги , опросы." border="0" width="88" height="31"></a>'; include '../view.php';

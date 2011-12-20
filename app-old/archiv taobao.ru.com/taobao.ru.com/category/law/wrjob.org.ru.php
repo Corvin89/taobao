@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wrjob.org.ru">Платные опросы</a> - лучшая возможность заработка в сети'; include '../view.php';

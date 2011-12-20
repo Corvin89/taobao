@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ayudag.com" target="_blank">Отдых в Партените</a>: пансионаты, санатории, гостиницы и отели Крыма.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cat.stroybalans.ru/">Наши партнёры</a><a href="http://stroybalans.ru/">Строительство загородных домов и коттеджей</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://skitaletc.ru">Спортивные магазины москвы: спортмастер, альиндустрия, триалспорт, триал спорт, баск, bask, кант, простор2000, adidas, nike, puma, reebok!</a>'; include '../view.php';

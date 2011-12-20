@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ITCompany.com.au">IT Company in Australia - Leading IT Services and Solutions</a>'; include '../view.php';

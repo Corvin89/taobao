@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.freeru.info" title="Каталог сайтов www.freeru.info" target="_self">Свободный www.freeru.info</a>'; include '../view.php';

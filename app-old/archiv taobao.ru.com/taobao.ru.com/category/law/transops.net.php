@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.transops.net">High Pagerank Google PR Link Directory - Transops.Net</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://i-italy.ru" target="_blank"><em>отдых в Италии</em></a>: <a href="http://i-italy.ru/category/dostoprimechatelnosti-taiti/" target="_blank">достопримечательности Италии</a>, <a href="http://i-italy.ru/category/foto-i-video/" target="_blank">Фото, видео и панорамы Италии</a>.'; include '../view.php';

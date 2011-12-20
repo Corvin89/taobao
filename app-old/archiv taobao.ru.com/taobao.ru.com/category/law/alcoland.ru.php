@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.alcoland.ru/encyclopedia/cocktail/'>Коктейльная энциклопедия</a>, <a href='http://www.alcoland.ru/'>рынок пива, застольные тосты, шотландский виски, рынок коньяка</a>'; include '../view.php';

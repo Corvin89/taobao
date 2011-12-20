@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://kupilink.info">Биржа ссылок.</a> <a href="http://cat.kupilink.info">Обмен ссылками Каталог</a> | <a href="http://link.kupilink.info">Раскрутка сайта</a> | <a href="http://doska.kupilink.info">Доска объявлений без регистрации</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://promzone.goodbody.su"> аталог сайтов промышленной тематики</a>'; include '../view.php';

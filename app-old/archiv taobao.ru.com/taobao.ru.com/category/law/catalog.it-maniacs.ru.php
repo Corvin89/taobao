@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.it-maniacs.ru/">Компьютерные услуги|Настройка сети, серверов|Создание, поддержка сайта|Разработка ПО</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://diagnostics.org.ru/"><img src="http://diagnostics.org.ru/dh88.gif" width="88" height="31" border="0" title="Диагностика здоровья в Москве."</a> <a href="http://diagnostics.org.ru">Медицинский центр. Диагностика здоровья в Москве.</a>'; include '../view.php';

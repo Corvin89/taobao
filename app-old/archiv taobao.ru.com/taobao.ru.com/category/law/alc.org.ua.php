@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://elektroprivod.org.ua/">Скачать учебник электропривод</a>'; include '../view.php';

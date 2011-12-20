@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.smartdirectory.info">Smart Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://postmaster.jgo.ru">postmaster.jgo.ru</a>'; include '../view.php';

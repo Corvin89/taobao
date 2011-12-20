@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.rentacarmalaga.com/">Car hire Malaga</a> - Local car hire Malaga company, brand new cars with all inclusive rates: Full insurance no excess, extra driver free and 24h roadside assistance.'; include '../view.php';

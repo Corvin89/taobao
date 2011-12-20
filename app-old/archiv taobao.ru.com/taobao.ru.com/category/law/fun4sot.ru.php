@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fun4sot.ru">Fun4Sot ru развлечения для мобильного игры мелодии java игры</a>'; include '../view.php';

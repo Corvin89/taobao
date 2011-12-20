@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ketx.freehostia.com/">Список лучших спонсоров в интернете с подробным описанием.</a>'; include '../view.php';

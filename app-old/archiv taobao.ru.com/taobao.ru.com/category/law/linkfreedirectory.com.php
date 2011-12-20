@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.seniorhousingandretirementliving.com">senior living elderly care</a>'; include '../view.php';

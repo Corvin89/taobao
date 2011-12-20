@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://bbratstvo-yeisk.com" target="_blank"><img src="http://bbratstvo-yeisk.com/files/banners/bbyeisk120x60.jpg" border="0" width="120" height="60"></a>'; include '../view.php';

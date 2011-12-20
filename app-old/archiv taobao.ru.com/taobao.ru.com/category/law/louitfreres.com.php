@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://louitfreres.com/">Вэбмастеру шаблоны сайтов, скачать шаблоны сайтов бесплатно, скрипты, вебмастер.</a>'; include '../view.php';

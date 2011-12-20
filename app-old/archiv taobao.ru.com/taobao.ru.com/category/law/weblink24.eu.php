@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.weblink24.eu/" target="_blank">WebLink24 - SEO Web Directory</a>'; include '../view.php';

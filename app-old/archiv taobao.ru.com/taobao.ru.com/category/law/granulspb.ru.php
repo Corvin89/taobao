@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://granulspb.ru/">Порошковая покраска металлоизделий в Петербурге</a> - низкие цены, высокое качество.'; include '../view.php';

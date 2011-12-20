@@ -1,0 +1,1 @@
+<?php $catalogLink = 'ѕассажирские перевозки - <a href=http://www.busrenta.ru>заказ и аренда автобусов</a>'; include '../view.php';

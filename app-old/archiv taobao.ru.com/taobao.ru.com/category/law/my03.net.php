@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://anapa-leto.com">Джемете</a> - лучший отдых летом'; include '../view.php';

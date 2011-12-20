@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dateclix.co.uk/"><b>Online Dating</b></a><br>Online dating site to help you find your perfect partner. Registration is free.'; include '../view.php';

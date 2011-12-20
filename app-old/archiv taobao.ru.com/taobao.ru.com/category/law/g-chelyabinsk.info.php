@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://chelyabinsk.rabotavia.ru/>яндекс работа в Челябинске</a>'; include '../view.php';

@@ -1,0 +1,15 @@
+<?php $catalogLink = '<a href="http://fc-sochi.com"><b>футбольный форум</b> города Сочи - спорт в большом Сочи</a> 
+- <a href="http://fc-sochi.com/showthread-t_2575.html" title="Юрий Сёмин хочет возглавить сборную России" target="_blank">Юрий Сёмин может возглавить сборную России по футболу</a> 
+- <a href="http://fc-sochi.com/forumdisplay-f_24.html">футбольная команда Адлерского района Сочи - ФК "Адлер" (Сочи)</a> 
+- <a href="http://www.fc-sochi.ru">ФК Сочи-04 - футбольная команда города Сочи</a>
+- <a href="http://fc-volgograd.ru">Футбольный форум Волгограда: <b>ФК Волгоград</b> - ФК Энергия - ФК Ротор - ФК Олимпия</a> 
+- <a href="http://fc-sochi.com/forumdisplay-f_14.html"><b>Чемпионат Мира по Футболу</b> в 2010 году в ЮАР где посмотреть - 2010 World Cup</a>
+- <a href="http://fc-sochi.com/forumdisplay-f_29.html" title="Чемпионат мира по хоккею - сборная России по Хоккею" target="_blank">Чемпионат мира по хоккею 2010 - хоккей в России КХЛ</a> 
+- <a href="http://www.WinVote.ru">Победа в голосование - как выиграть голосование</a>
+- <a href="http://catalog.fc-sochi.com">Сайты о спорте - <b>футбольные сайты</b> - каталог спортивных сайтов</a> 
+- <a href="http://forum.allsochi.info/forumdisplay.php?f=7"><b>ФК Жемчужина-Сочи</b> футбольный клуб Сочи спорт</a>
+- <a href="http://fc-sochi.com/forumdisplay-f_5.html" title="ставки на футбольные матчи" target="_blank"><b>букмекерские конторы Сочи</b> Шанс, Зенит, Пари-Матч, Марафон  - ставки на футбольные матчи спортивный тотализатор</a> 
+- <a href="http://fc-sochi.com/showthread-t_1174.html" title="бонус бвин - bonus bwin.com" target="_blank">Бонус за друга от бвин - 500 рублей бунус bwin для ставок + 30 долларов для игры в покер</a> 
+- <a href="http://fc-sochi.org">Футбольные болельщики Мира и России</a>  
+- <a href="http://fc-sochi.com/forumdisplay-f_8.html" title="Лига Чемпионов сезон 2009 - 2010" target="_blank">Выступление российских команд в Лиги Чемпионов и Лиги Европы</a> 
+- <a href="http://www.job-in-sochi.ru">Работа в Сочи -'; include '../view.php';

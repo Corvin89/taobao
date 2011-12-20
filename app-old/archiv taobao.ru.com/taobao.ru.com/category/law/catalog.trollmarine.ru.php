@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://trollmarine.ru" target="_blank"><img src="http://trollmarine.ru/images/banners/baner2.gif" alt="ООО "СЕВА-НОРД" производитель лодок ПВХ AQUA-JET, лодочные моторы TROLL 2.5HP, квадроциклы POLAR, китай HSUN, судовые комплектующие и судовая мебель" width="400" height="60" /></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://empirea.net" target="_blank"><img src="http://empirea.net/images/auto.gif" alt="Auto Тrader. Empirea.net Покупка. Доставка, Растаможка, Оформление,  Автомобилей с USA." border="0" width="88" height="31"></a>'; include '../view.php';

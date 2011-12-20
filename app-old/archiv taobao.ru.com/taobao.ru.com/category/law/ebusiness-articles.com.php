@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.ebusiness-articles.com/'>eBusiness Articles Directory</a> - Free Article Submission For Authors, Free Content for Publishers!'; include '../view.php';

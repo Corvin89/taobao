@@ -1,0 +1,4 @@
+<?php $catalogLink = '<a href="http://parfumvip.ru">PARFUMVIP.RU -  Интернет магазин парфюмерии.</a> 
+<a href="http://parfumvip.ru/index.php?manufacturers_id=65">Givenchy</a>, <a href="http://parfumvip.ru/index.php?manufacturers_id=46">Laura Biagiotti</a>, <a href="http://parfumvip.ru/index.php?manufacturers_id=60">Hugo Boss</a>, <a href="http://parfumvip.ru/index.php?manufacturers_id=48">Lancome</a>, 
+<a href="http://parfumvip.ru/index.php?manufacturers_id=52">Kenzo</a>, <a href="http://parfumvip.ru/index.php?manufacturers_id=86">Clinique</a>, <a href="http://parfumvip.ru/index.php?manufacturers_id=32">Narciso Rodriguez</a>, <a href="http://parfumvip.ru/index.php?manufacturers_id=68">Giorgio Armani</a>. 
+Быстрая доставка. Огромный ассортимент.'; include '../view.php';

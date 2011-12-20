@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://dividishka.ru" title="DVD плееры">DVD плееры</a>'; include '../view.php';

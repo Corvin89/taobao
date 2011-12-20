@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.final-fantasy.us">Final Fantasy Directory</a>'; include '../view.php';

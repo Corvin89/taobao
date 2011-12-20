@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://aptdeluxe.com">Анапа, гостиница Golden Lady. Отдых в Анапе.</a>'; include '../view.php';

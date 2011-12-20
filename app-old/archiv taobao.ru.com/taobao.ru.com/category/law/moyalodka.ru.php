@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://moyalodka.ru/">http://moyalodka.ru/</a><a href="http://moyalodka.ru/">Надувные лодки, пластиковые лодки, металлические лодки, катера, яхты, лодочные моторы, запчасти.</a>'; include '../view.php';

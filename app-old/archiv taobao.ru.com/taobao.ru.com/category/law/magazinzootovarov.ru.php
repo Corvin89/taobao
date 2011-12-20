@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.magazinzootovarov.ru' target='_blank'><b>http://www.magazinzootovarov.ru/</b></a><br />Интернет магазин ZOO товаров. Доставка по Москве.'; include '../view.php';

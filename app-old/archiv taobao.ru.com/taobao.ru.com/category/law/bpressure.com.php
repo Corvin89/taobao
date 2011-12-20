@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.bpressure.com/" target="_blank">www.bpressure.com</a><br>
+www.bpressure.com<br><a href="http://www.bpressure.com/" target="_blank" style="font-size:smaller;color:gray;text-decoration:none;">http://www.bpressure.com/</a>'; include '../view.php';

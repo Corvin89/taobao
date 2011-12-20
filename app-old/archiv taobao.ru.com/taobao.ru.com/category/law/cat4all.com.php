@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.cat4all.com target=_blank>www.cat4all.com - Белый модерируемый каталог сайтов с прямыми ссылками. Добавить URL</a>. У нас только качественные ресурсы!'; include '../view.php';

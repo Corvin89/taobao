@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.linkability.info">Linkability</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Для Вас сайт: Ремонт квартиры <a href=http://www.vipdekor.ru/index.html> фото. </a>  Для Вас.'; include '../view.php';

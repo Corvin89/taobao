@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.workjob.ru/">лизинг персонала, поиск сотрудников</a>, <a href="http://www.workjob.ru/">кадровое агентство, трудоустройство</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://belbek.crimea.ua" target="_blank">коттеджи Бельбек-Люкс</a>: комфортный отдых в Крыму'; include '../view.php';

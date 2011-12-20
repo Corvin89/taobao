@@ -1,0 +1,1 @@
+<?php $catalogLink = 'По правилам торговли магазины обязаны иметь <a href="http://www.infostend.ru/"><strong>стенды уголок покупателя</strong></a>.'; include '../view.php';

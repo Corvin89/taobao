@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.linkstationpro.com"><b>Reciprocal Link Station Pro Link Management</b></a><br>Reciprocal Link Station Pro PHP script is very powerful tool to help you with your search engine standing by increasing your sites link popularity'; include '../view.php';

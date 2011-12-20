@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.electrocentr.info" target="_blank" title="скачать
+ бесплатно справочники, ГОСТы, нормативная документация, новости электроэнергетики"><img alt="Электроэнергетический Информационный Центр"  src="http://electrocentr.info/banner/banner.gif" border="0"></a>'; include '../view.php';

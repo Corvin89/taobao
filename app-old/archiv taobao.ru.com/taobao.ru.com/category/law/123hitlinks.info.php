@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.123hitlinks.info" id="RA9B300">web directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<strong><a href="http://openseoindex.ru/forum.php">Форум о заработке</a></strong> - На сайте openseoindex.ru вы узнаете как можно зарабатывать очень хорошие деньги в интернете, создавая собственные сайты развивая их и зарабатывая на рекламе на ваших сайтах.'; include '../view.php';

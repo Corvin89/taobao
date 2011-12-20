@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sbq.ru">Вопросы малого бизнеса</a> Портал для малого бизнеса России, каталог ресурсов.'; include '../view.php';

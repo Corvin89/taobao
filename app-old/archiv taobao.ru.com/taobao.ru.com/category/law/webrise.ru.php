@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.webrise.ru"><strong>Создание сайтов, раскрутка сайтов, рекламные кампании - дизайн студия WEBrise.</strong></a>'; include '../view.php';

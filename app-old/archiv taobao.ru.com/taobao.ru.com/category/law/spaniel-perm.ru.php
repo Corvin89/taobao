@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.spaniel-perm.ru/" target="_blank">Спаниели</a> в Перми'; include '../view.php';

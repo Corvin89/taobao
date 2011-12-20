@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.adultpersonals.me.uk/"><b>Adult Personals</b></a><br>Adult personals and adult dating site. Here you can meet adult contacts for friendship, sexy liaison, dating or sex.'; include '../view.php';

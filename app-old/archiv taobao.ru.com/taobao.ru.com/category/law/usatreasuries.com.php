@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.usatreasuries.com/">Usa Treasuries</a>'; include '../view.php';

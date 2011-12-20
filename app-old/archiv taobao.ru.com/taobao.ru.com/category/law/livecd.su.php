@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.livecd.su/createlivecd/create19.php">ѕошаговое создание LiveCD</a> на сайте загрузочных дисков Linux <a href="http://www.livecd.su">LiveCD</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.arcadegamesplay.net" id="R8D0ACF">Arcade Players Search Listings, Amusement Park And Arcade-Type Rides</a>- Online Forums, Photo Tours Of Global Arcade Game, Recreation, Attractions'; include '../view.php';

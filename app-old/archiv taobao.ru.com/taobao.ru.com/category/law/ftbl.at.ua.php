@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ftbl.at.ua"><img src="http://i.piccy.kiev.ua/i/cc/eb/eed12ee5c4cb17bcec3611712485.gif" width="88" height="31" alt="FTbL---Новоти о футболе...Регистрация на чемпи FIFA,PES,NBA,и т.д =)" border="0"></a>'; include '../view.php';

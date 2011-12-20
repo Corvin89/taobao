@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="www.gorodreklam.ru">Издательский дом</a> "Город Рекламы" <a href="www.gorodreklam.ru">поисковое продвижение сайтов, оптимизация</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ecobis.ru/page2_3.shtml">Отделочные работы, отделка, строительство домов</a>.'; include '../view.php';

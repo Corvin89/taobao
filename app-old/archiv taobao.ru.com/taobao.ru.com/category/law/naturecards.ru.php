@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Портреты природы - объявления о животных. <a href="http://naturecards.ru/ehkzoticheskie-zhivotnye/"  >Экзотические животные</a>. С любовью к природе.'; include '../view.php';

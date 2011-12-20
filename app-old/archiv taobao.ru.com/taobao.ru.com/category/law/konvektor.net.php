@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.konvektor.net/">ТМ «Конвектор»</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://inardi.ru">плитка кухня</a>'; include '../view.php';

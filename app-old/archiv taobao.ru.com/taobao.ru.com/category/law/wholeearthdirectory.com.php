@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wholeearthdirectory.com">Whole Earth Directory</a>'; include '../view.php';

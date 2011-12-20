@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://live.74mail.ru">Онлайн дневники челябинцев</a>'; include '../view.php';

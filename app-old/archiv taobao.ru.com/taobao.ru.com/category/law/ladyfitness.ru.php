@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ladyfitness.ru" title="LadyFitness - фитнес, диеты, похудение, снижение веса, карнитин. Продукты для фитнеса и диет."><img src="http://ladyfitness.ru/lfitness.gif" alt="LadyFitness - фитнес, диеты, похудение, снижение веса, карнитин. Продукты для фитнеса и диет." border="0" width="88" height="31" /></a>'; include '../view.php';

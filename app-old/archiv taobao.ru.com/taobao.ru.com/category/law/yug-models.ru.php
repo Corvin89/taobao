@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="index.php?option=com_weblinks&task=view&catid=34&id=2" class="category">Сайт посвящённый моделизму Юга России. </a><br />сайт посвящённый моделизму Юга России http://www.yug-models.ru/'; include '../view.php';

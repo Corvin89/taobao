@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.puerto-vallarta-directory.com/">Puerto Vallarta Directory</a>'; include '../view.php';

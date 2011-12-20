@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://zdz.ru">Проектный центр ZDZ.RU</a> - брендинг, стартап менеджмент, инновации.'; include '../view.php';

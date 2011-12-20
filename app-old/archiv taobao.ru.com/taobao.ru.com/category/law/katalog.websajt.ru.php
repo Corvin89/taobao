@@ -1,0 +1,1 @@
+<?php $catalogLink = '<strong><a href="http://www.websajt.ru">Как сделать сайт самому бесплатно</a><a href="http://www.o-google.ru/">.</a><a href="http://www.ointernete.info/">Раскрутка сайтов</a><a href="http://www.telefonmarket.ru/?trubki=001&tovar_ctid=23">.</a></strong>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Ремонт ноутбуков, комплектующеи для ноутбуков" href="http://www.notebook-master.ru/"><img border="0" src="http://www.notebook-master.ru/pictures/bann.gif" ></a></td>'; include '../view.php';

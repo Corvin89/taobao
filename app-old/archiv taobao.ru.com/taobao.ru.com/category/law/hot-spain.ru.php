@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--www.hot-spain.ru-opisanie-->   <a href="http://www.hot-spain.ru/" title="форум консульство испании, отзыв испания, отдых испания майорка">форум консульство испании, отзыв испания, отдых испания майорка</a>   <!--www.hot-spain.ru-opisanie-->'; include '../view.php';

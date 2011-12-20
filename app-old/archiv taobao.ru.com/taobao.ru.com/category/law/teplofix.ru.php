@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.teplofix.ru" target="_blank">вентил€ци€ - новейшие технологии</a>'; include '../view.php';

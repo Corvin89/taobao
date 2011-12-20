@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.le-mariage.ru/" target="_blank">Проведение свадьбы, организация свадеб, организация праздников.</a>.'; include '../view.php';

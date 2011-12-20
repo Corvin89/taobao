@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://proground.ru/"><img src="http://proground.ru/files/2.gif"></a>'; include '../view.php';

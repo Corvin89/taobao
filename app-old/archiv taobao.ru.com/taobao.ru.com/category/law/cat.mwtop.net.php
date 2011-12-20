@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mwtop.net">–ейтинг сайтов Webmoney ƒобавь свой сайт в наш рейтинг и получи приток новых посетителей.</a>'; include '../view.php';

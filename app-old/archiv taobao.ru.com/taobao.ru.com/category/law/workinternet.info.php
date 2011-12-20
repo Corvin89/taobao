@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://bighoster.net">Хостинг для вашего сайта</a>'; include '../view.php';

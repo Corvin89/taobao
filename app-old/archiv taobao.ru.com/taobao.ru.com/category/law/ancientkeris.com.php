@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ancientkeris.com" target="new">Antique Swords Spears Keris Blades & Magickal Talismans</a> - Museum Certified Keris Swords & Blades with magickal powers for protection psychic attacks and commanding your Genie - Jinn spirits!'; include '../view.php';

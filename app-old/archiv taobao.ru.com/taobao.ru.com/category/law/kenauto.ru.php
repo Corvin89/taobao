@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kenauto.ru/"><img src="http://www.kenauto.ru/img/logo88x31.gif" width=88 height=31 border=0 style="float:left;"></a> Наша компания предлагает <a href="http://www.kenauto.ru/">автомобильные автобагажники</a> для Вашего отдыха'; include '../view.php';

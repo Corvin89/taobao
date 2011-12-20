@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.busovod.com" target="_blank">хюндай клуб</a>'; include '../view.php';

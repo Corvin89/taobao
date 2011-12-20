@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://newenginery.com' target='_blank'><b>Каталог оборудования</b></a><br />Купить - Продать оборудование.'; include '../view.php';

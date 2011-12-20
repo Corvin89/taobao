@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.conditioners-mitsubishi.ru/">Информационный портал о кондиционерах Mitsubishi</a>'; include '../view.php';

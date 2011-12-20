@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://truemetalcore.net" target="_blank"><img alt="Metalcore,deathcore,hardcore,grindcore скачать бесплатно,обои"  src="http://truemetalcore.net/banner2.gif" border="0"></a>'; include '../view.php';

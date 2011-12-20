@@ -1,0 +1,2 @@
+<?php $catalogLink = '<!--baner avtotransfert.ru--><a href="http://www.avtotransfert.ru"> AvtoTransfert.ru</a> -
+		 заказ и аренда автобуса и микроавтобуса<!--baner avtotransfert.ru-->'; include '../view.php';

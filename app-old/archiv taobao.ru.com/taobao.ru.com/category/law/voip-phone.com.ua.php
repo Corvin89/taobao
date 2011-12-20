@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Для поездки за границу <a href="http://voip-phone.com.ua/roaming-Thailand__Mobile.htm" title="билайн роуминг в таиланд">билайн роуминг в таиланд</a> - что может быть лучше?'; include '../view.php';

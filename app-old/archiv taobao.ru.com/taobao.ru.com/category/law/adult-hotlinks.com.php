@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.adult-hotlinks.com/">Adult-HotLinks- Accepting General and Mature Business Links.</a>'; include '../view.php';

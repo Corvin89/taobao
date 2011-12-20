@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://catrunet.4hitech.ru">Общетематический каталог веб-сайтов Рунета</a>'; include '../view.php';

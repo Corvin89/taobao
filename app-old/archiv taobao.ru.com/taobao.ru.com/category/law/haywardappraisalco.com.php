@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.haywardappraisalco.com">Hayward General Link Directory</a>'; include '../view.php';

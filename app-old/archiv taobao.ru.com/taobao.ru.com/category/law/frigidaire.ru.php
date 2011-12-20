@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.frigidaire.ru" title="Frigidaire - американская бытовая техника"><img src="http://www.frigidaire.ru/images/baner.gif" border="0" align="middle" height="31" width="88"></a>'; include '../view.php';

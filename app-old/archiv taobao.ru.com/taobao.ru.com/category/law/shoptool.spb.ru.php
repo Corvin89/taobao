@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://shoptool.spb.ru/" >каталог сайтов добавить сайт</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cargo.myautoplanet.com/">Транспорт и грузоперевозки. Авторынок - покупка, продажа авто</a>'; include '../view.php';

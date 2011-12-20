@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sim-biz.ru">Ульяновский Бизнес-Портал</a>'; include '../view.php';

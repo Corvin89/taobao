@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.v-bach.ru' target='_blank'><b>Новости КИНО</b></a><br />Новости КИНО, Новинки Кино, премьеры, Кассовые фильмы, популярные фильмы - Новости КИНО'; include '../view.php';

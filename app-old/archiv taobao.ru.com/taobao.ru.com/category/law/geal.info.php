@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.geal.info">Geal Directory-Guaranteed listings on 250 directories for just $22</a>'; include '../view.php';

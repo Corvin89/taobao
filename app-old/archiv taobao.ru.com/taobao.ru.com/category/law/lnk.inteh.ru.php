@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kotel44.ru" title="Пиролизные котлы БУРЖУЙ-К">Твердотопливные отопительные пиролизные котлы</a>'; include '../view.php';

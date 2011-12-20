@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://lyamtseva.ru/" target="_blank"><img src="http://lyamtseva.ru/images/banners/banner_88x31.gif" border="0" alt="Персональный сайт учителя истории Лямцевой Н.М." width="88" height="31" ></a>'; include '../view.php';

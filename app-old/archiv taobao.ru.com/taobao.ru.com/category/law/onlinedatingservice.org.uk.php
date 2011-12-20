@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.onlinedatingservice.org.uk/"><b>Online Dating Service</b></a><br>The UK's favourite dating site providing an online dating service for UK singles. It's easy to join and start meeting new people, just register, post your FREE profile and start meeting new people.'; include '../view.php';

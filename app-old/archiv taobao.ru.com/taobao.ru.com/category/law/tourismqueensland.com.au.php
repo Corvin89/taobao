@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tourismqueensland.com.au">Tourism Web Queensland</a> - Queensland tourism and travel information - deal direct with owners and save on your next holiday.'; include '../view.php';

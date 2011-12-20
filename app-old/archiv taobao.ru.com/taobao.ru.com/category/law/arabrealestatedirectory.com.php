@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.arabrealestatedirectory.com">Arab Real Estate Links Directory</a>'; include '../view.php';

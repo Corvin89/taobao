@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.youlinks.ru">продвижение сайта</a> своими руками'; include '../view.php';

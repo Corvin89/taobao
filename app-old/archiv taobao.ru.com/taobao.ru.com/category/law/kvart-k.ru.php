@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://kvart-k.ru/>Компания Кварт-Климат</a>'; include '../view.php';

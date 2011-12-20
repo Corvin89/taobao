@@ -1,0 +1,2 @@
+<?php $catalogLink = '.<a href="http://www.cool.ru/" target="_blank"><img src="http://www.cool.ru/coolru-button.gif" width="88" height="31" alt="COOL.RU - каталог лучших сайтов" title="COOL.RU - каталог лучших сайтов" border="0"></a>
+Установите сначала код кнопки (без изменений) COOL.RU на главную страницу сайта!'; include '../view.php';

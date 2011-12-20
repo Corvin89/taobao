@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Женский журнал Smart Girls предлагает: <a href="http://smart-girls.ru/tag/goroskop-na-2010">гороскоп на 2010</a> - <a href="http://smart-girls.ru/">женские журналы онлайн</a> - <a href="http://smart-girls.ru/">женский интернет журнал</a></p>'; include '../view.php';

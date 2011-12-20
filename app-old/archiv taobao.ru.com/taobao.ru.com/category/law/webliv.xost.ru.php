@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://webliv.xost.ru><b>Лучшие ресурсы рунета</b><br>Добавить свой ресурс, ссылку</a><br><a href=http://stavka.best-host.ru>Развлекательный портал Stavka</a>'; include '../view.php';

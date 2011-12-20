@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mvtrial.ru/">ћото новости</a> обслуживание мотоциклов <a href="http://mvtrial.ru/">скутера</a> ќбслуживание скутеров <a href="http://mvtrial.ru/">обсуждение моделей</a> марки скутеров'; include '../view.php';

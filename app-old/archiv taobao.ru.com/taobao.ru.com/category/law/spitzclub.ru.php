@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.spitzclub.ru/">померанский шпиц питомник Рыжий Ап http://www.spitzclub.ru/ </a>'; include '../view.php';

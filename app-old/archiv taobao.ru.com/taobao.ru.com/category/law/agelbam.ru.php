@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://agelbam.ru/">Agel - здоровое питание.</a> <a href="http://agelbam.ru/biznes.html">—етевой маркетинг, MLM.</a><a href="http://agelbam.ru/produktsiya-agel.html">Agel EXO, HRT, FLX, FIT, MIN, OHM, UMI, PRO</a>'; include '../view.php';

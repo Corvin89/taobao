@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://construction3.com/">Качественное строительство коттеджей</a>'; include '../view.php';

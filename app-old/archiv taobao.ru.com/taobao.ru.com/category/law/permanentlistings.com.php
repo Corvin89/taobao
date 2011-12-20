@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.permanentlistings.com">Permanent Listings Directory</a>'; include '../view.php';

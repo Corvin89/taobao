@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--www.novate.ru-opisanie--> novate.ru - интернет-сообщество о дизайне это:  <a href="http://www.novate.ru/" title="все для дизайна, дизайнерские магазины">все для дизайна, дизайнерские магазины</a> . Блоги и статьи участников, фотогалереи.  <!--www.novate.ru-opisanie-->'; include '../view.php';

@@ -1,0 +1,2 @@
+<?php $catalogLink = 'свежий <a href="http://www.fxprofit.ru/"><strong>взгляд на форекс</strong></a> со стороны профессионалов, интеллектуальный <a href="http://www.fxprofit.ru/"><strong>подход к forex</strong></a>, статистический <a href="http://www.fxprofit.ru/school_to_trade/what_is_dealing/"><strong>анализ и котировки акций</strong></a>
+<br><br>'; include '../view.php';

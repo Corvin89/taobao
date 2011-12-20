@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Всегда в наличии <a href="http://okna.mars-spb.ru">металлопластиковые окна, мансардные окна. Металлопластиковые окна марки Rehau, Gealan, Velux, Fakro, Roto</a>. Тел.:(812) 567-66-06'; include '../view.php';

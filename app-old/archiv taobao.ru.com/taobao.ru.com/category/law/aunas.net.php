@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://aunas.net">А у нас скачать можно фильмы,игры,музыку,софт бесплатно</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://aotfoms.ru/>Стены домов</a>'; include '../view.php';

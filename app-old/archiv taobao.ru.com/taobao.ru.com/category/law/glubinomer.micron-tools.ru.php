@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://glubinomer.micron-tools.ru">глубиномеры продажа</a> - <a href="http://www.lilymebel.ru/">ручное изготовление мебели</a> - <a href="http://www.narujka.su/index.php?option=com_content&view=article&id=3&Itemid=2">рекламные щиты</a>'; include '../view.php';

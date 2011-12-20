@@ -1,0 +1,1 @@
+<?php $catalogLink = '&lt;a href=&quot;http://earn.net.ru/&quot; title=&quot;Earn.net.ru - Все о заработке в сети&quot;&gt;Earn.net.ru - Все о заработке в сети&lt;/a&gt;'; include '../view.php';

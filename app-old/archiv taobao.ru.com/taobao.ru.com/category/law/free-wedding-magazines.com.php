@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.Free-Wedding-Magazines.com/wedding-directory/" id="RA234CF">Wedding Directory</a>'; include '../view.php';

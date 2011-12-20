@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Кайфовое порно <a href="http://xxx4kino.ru/3430-morgan-s-kroshechnymi-titties.html">Морган с крошечными сисями</a> я нашел недавно на сайтике XXX4Kino.ru, там еще много такого)'; include '../view.php';

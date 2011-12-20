@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://stroidiz.org/>Марш Stroi - Строительная компания и агентство недвижимости</a>'; include '../view.php';

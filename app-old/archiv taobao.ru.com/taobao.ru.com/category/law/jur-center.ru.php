@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.jur-center.ru/">ёридический центр г. „ебоксары - все виды юридических услуг.</a>'; include '../view.php';

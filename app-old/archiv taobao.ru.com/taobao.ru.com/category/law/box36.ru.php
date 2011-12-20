@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://box36.ru/"><IMG src="http://box36.ru/images/log.gif"alt="Сайт Малетиной Е." width="88" height="31"></a>'; include '../view.php';

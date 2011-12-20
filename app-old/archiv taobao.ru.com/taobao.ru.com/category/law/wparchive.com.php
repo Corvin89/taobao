@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://wparchive.com/simple-board-wordpress-theme/" rel="bookmark" title="Simple Board Wordpress Theme">Simple Board Wordpress Theme</a> - <a href="http://wparchive.com">WpArchive.com</a> - Free Premium Wordpress Templates !'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://vedenin.ru">Танцевальная поисковая система</a>'; include '../view.php';

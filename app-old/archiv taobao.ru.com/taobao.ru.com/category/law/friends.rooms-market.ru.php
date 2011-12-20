@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://rooms-market.ru" title="купить квартиру">недвижимость</a>'; include '../view.php';

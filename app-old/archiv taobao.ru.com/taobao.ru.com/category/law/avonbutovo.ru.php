@@ -1,0 +1,1 @@
+<?php $catalogLink = '<b><a href="http://www.avonbutovo.ru/">косметика Avon  Красота с доставкой на дом </a>'; include '../view.php';

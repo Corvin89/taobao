@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a title=МОБИЛЬНЫЙ, Логотипы, Темы, Java игры href=http://123market.ru/cod-mob>МОБИЛЬНЫЙ, Логотипы, Темы, Java игры</a>
+<a title=Каталог сайтов ALFA href=http://www.alfa.123market.ru>Каталог сайтов ALFA</a>'; include '../view.php';

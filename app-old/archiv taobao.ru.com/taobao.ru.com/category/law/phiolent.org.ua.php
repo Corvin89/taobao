@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://fiolent.com.ua" target="_blank">отдых на Фиоленте</a>: Севастополь Крым'; include '../view.php';

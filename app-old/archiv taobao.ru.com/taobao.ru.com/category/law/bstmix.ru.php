@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Компания «BST» <a href="http://bstmix.ru">Мобильные бетонные заводы и стационарный  бетонный завод в Сочи </a>'; include '../view.php';

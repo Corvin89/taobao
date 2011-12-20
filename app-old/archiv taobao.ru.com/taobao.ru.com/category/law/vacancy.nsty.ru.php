@@ -1,0 +1,1 @@
+<?php $catalogLink = 'кадровое агентство, <a href="http://www.vacancy.nsty.ru">поиск работы</a>, вакансии юриста, директора, менеджер'; include '../view.php';

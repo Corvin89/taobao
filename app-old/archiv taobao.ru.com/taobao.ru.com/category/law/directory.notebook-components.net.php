@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://directory.notebook-components.net">Free links directory</a>'; include '../view.php';

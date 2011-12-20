@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target='_blank' href='http://links.my33.ru/'><img border='0' src='http://links.my33.ru/img/dv/dv_cat.gif' width='88' height='31' alt='ДВ Links - каталог сайтов с прямыми ссылками'></a>'; include '../view.php';

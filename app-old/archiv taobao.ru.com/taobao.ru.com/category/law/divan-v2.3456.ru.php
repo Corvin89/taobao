@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://divan-v2.3456.ru/" title="Ўкаф-купе">ƒиваны - где купить.</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.krancom.ru" target="_blank"><img src="http://www.krancom.ru/banner.gif" width="88" height="31" alt="Аренда автокрана в Сергиев-Посад" border="0"></a>'; include '../view.php';

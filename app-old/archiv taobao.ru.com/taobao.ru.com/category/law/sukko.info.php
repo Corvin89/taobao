@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sukko.info" title="Анапа. Курортный район Сукко. Отдых на море."><img src="http://sukko.info/briz.gif" width="88" height="31" border="0"></a> <a href="http://sukko.info">Отдых в Анапе. Курортный район Сукко.</a> Гостиница "Бриз".'; include '../view.php';

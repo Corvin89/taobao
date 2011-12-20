@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.transgender-blogs.com/" target="_top" style="border: 0px;"><img src="http://www.transgender-blogs.com/images/transgender-kategorien/.png" alt="Submit Link Submit a new link to the directory" /></a>'; include '../view.php';

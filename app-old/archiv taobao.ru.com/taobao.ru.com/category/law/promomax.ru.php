@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://promomax.ru">строительные и отделочные материалы</a>'; include '../view.php';

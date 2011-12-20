@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Вот мне интересно мнение людей... <a href="http://byfishing.ru/22544855-s-kem-vy-lyubite-byvat-na-rybalke33.html">С кем вы любите бывать на рыбалке?!</a>'; include '../view.php';

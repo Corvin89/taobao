@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--www.lokomotiv.info-opisanie-->   <a href="http://www.lokomotiv.info/" title="Болельщики локомотива, Локомотив - Шинник, футбол">Болельщики локомотива, Локомотив - Шинник, футбол</a>   <!--www.lokomotiv.info-opisanie-->'; include '../view.php';

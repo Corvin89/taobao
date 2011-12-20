@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://okna-plus.info/>Окна плюс - окна из металопластика, изготовление, замер, установка</a>'; include '../view.php';

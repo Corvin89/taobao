@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://katalog.xost.me/">katalog.xost.me</a>'; include '../view.php';

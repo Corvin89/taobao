@@ -1,0 +1,2 @@
+<?php $catalogLink = 'Одинаково хороши
+Но Кузю дольше знаю. По-этому за него<a href="http://mykinobox.info/22882610-kuzya-iz-univera-vs-lobanov-iz-internov.html">Кузя (из универа) VS Лобанов (из интернов)</a>'; include '../view.php';

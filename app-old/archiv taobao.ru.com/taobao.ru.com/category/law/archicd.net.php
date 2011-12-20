@@ -1,0 +1,1 @@
+<?php $catalogLink = '<li><a href="http://www.archicd.net">Archicd - магазин CD DVD дисков</a></li>'; include '../view.php';

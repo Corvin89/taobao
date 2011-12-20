@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://hermes-shop.com.ua/"><img src="http://hermes-shop.com.ua/images/hermes.gif" width="88" height="33" /></a>'; include '../view.php';

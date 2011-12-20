@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Каталог строительных сайтов. Обмен ссылкми." href="http://www.sms-tender.ru/" target="_blank">Каталог строительных сайтов. Обмен ссылкми.</a>'; include '../view.php';

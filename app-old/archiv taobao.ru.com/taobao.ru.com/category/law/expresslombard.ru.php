@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Ёкспресс Ћомбард - <a href="http://www.expresslombard.ru">автоломбарды юзао</a> и многое другое!'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Все о истории России <a href="http://hs-t.ru/">история России</a> и многое другое'; include '../view.php';

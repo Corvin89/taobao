@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.webbydir.net/">Webby Dir - Open Web Directory</a>'; include '../view.php';

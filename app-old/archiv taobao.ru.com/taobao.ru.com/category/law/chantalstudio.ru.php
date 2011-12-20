@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href='http://www.chantalstudio.ru/'>Школа студия наращивания ресниц и ногтей</a> <br>
+ - <a href="http://www.kosmodom.ru/korrekcziya-figuryi/bezoperaczionnaya-liposakcziya.html" title="безоперационная липосакция">безоперационная липосакция</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.reliancedir.com">Reliance Directory</a>'; include '../view.php';

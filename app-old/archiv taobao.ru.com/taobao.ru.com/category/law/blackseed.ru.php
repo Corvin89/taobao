@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.blackseed.ru'>масло черного тмина</a>'; include '../view.php';

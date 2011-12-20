@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sms-zip.ru">Заработай на фалах в 100 раз больше.</a> | <a href="http://www.seo.sms-zip.ru">Каталог качественных сайтов</a>'; include '../view.php';

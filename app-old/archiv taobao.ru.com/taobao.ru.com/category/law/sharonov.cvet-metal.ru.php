@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://cvet-metal.ru/>металлургии тяжелых цветных металлов</a>'; include '../view.php';

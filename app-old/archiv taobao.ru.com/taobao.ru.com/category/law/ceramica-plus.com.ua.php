@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Керамика-Плюс <a href="http://ceramica-plus.com.ua/kollekcii-mebeli.php"> продажа мебели для ванных комнат</a>'; include '../view.php';

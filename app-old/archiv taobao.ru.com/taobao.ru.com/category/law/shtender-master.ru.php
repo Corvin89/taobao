@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.infostend.ru/"><strong>изготовление информационных стендов</strong></a> занимает около 70% всего производства pos материалов'; include '../view.php';

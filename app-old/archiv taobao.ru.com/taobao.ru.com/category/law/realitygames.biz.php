@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.realitygames.biz">RealityGames.biz: Пополнение счетов онлайн интернет игр (Территория, Арена, Сфера, Бойцовский клуб, LineAge и др.)</a> <a href="http://www.realitygames.biz">Сервис ставок на события реалити шоу</a>'; include '../view.php';

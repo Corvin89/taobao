@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://pro-remont.com">Articles repair</a>'; include '../view.php';

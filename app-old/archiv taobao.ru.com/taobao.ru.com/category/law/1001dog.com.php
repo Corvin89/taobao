@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.1001dog.com/">Собаки. Каталог пород собак</a> <a target="_blank" href="http://www.1001dog.com/">Создание сайтов для собак</a>'; include '../view.php';

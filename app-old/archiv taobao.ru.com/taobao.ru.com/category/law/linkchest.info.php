@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.LinkChest.info/">LinkChest.info</a>'; include '../view.php';

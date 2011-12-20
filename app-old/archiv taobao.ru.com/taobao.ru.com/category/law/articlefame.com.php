@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.articlefame.com/'>ArticleFame.com</a> - Free Article Directory For Authors, Free Content for Publishers!'; include '../view.php';

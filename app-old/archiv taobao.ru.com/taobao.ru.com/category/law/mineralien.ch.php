@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mineralien.ch"  id="R623066"><img src="http://www.mineralien.ch/links/banner/mineralien-ch.gif" width="90" height="60" border="0" alt="mineralien.ch - mineralien und fossilien - strahlen und sammeln"></a>'; include '../view.php';

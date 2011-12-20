@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://litvinova.kiev.ua" title="Переводчик немецкого языка Киев" target="_blank">
+<img alt="Переводчик немецкого языка Киев"  src="http://litvinova.kiev.ua/pic/clic/DE_EN88x31.gif" border="0" width="88" height="31" /></a>, <a href="http://catalog.litvinova.kiev.ua" target="_blank">catalog.litvinova.kiev.ua</a>'; include '../view.php';

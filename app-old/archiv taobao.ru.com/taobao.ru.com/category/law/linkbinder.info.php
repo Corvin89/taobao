@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.LinkBinder.info/">LinkBinder.info</a>'; include '../view.php';

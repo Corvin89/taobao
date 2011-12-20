@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.furshet-banket.ru/catering/">¬ыездной ресторан - кейтеринговые услуги</a>'; include '../view.php';

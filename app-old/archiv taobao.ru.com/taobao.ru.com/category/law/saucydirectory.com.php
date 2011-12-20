@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.saucydirectory.com/"><img src="images/100x50.gif" width="100" height="50" border="0"></a>'; include '../view.php';

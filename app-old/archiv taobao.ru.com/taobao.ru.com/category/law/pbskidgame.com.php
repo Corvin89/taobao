@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.pbskidgame.com"><b>PBS Kid Game</b></a><br>This site provides free online games for PBS kids.  It also provides a lot of information about or related to kids.'; include '../view.php';

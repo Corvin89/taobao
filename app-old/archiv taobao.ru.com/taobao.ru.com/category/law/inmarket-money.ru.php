@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.inmarket-money.ru">Работа с лучшей компанией занимающейся сетевым маркетингом " Инмаркет"</a>'; include '../view.php';

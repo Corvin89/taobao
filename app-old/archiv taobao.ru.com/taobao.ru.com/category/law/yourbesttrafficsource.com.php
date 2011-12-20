@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.yourbesttrafficsource.com" target="new">Boost Web Site Traffic</a> - All the free targeted traffic you can handle.  Increase web site traffic free visitors to any website you choose.  No need to buy traffic when you can use our system to drive traffic to all your sites.'; include '../view.php';

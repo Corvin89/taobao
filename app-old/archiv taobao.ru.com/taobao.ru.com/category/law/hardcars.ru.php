@@ -1,0 +1,1 @@
+<?php $catalogLink = 'hardcars.ru <a href="http://www.hardcars.ru">обновляемый сайт для гонщиков</a>'; include '../view.php';

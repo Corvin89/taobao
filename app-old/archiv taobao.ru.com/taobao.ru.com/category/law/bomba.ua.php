@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A href="http://bomba.ua/" >кухонная техника</A>'; include '../view.php';

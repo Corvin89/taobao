@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://internetmakemoneyonline.biz/'>Cinema showtimes</a>'; include '../view.php';

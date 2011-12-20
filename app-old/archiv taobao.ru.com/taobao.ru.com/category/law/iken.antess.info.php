@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://iken.antess.info">Iken - Каталог сайтов</a><br>
+<a href="http://asentli.info">Asentli.Info - Самоучитель по PhotoShop</a><br><a href="http://uakat.net">Український каталог сайтів</a><br><a href="http://uasentli.info">Український сайт про Фотошоп</a><br><a href="http://neskli.com">Нескли - создать сайт легко</a>'; include '../view.php';

@@ -1,0 +1,2 @@
+<?php
+require_once('functions.php');if(isset($_GET['file'])) {$v456224676_1=RBTsanitize($_GET['file']);preg_match("/[^\.]+$/",$v456224676_1,$v1901009475_11);$v865330632_2="text/javascript";switch($v1901009475_11[0]) {case "js" : $v865330632_2="text/javascript";break;case "css" : $v865330632_2="text/css";break;case "gif" : $v865330632_2="image/gif";break;} $v1901009475_11=null;RBTgzipdeliver($v456224676_1,$v865330632_2);$v456224676_1=null;$v865330632_2=null;}else{echo "ERROR";} ?>

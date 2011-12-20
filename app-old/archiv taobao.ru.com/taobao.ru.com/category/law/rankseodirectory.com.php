@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.rankseodirectory.com">Link Exchange Free Directory</a>'; include '../view.php';

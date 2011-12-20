@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.hotelsbot.com">Hotels Price Bot</a> Free Hotel Comparison Search Tool : Compare Hotels Price from top travel websites, to help you find the lowest rate instantly.'; include '../view.php';

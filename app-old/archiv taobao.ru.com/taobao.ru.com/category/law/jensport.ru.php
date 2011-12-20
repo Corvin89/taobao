@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.jensport.ru" title="Спорт для женщин" target="_blank">Спорт для женщин</a>: упражнения для стройности, бодрости, красивой осанки.'; include '../view.php';

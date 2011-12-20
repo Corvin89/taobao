@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.linktous.org/">Link to us</a>'; include '../view.php';

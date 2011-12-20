@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.currency-exchange.ru/">финансовые операции, акции</a>, <a href="http://www.currency-exchange.ru/review/63/">доходность и риск</a>'; include '../view.php';

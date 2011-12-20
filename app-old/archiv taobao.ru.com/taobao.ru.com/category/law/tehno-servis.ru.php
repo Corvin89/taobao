@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tehno-servis.ru/"><img src="http://www.tehno-servis.ru/abc/banteh.gif" width=88 height=31 alt="Металлорежущий токарный инструмент, ножовочные полотна, пилы для выполнения различных работ, мерители, пневмошлифмашины, шлифмашины и многое другое!" border="1"></a>'; include '../view.php';

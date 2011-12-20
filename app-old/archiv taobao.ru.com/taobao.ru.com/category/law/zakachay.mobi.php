@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.zakachay.mobi/" title="Закачай.mobi – информационно-развлекательный центр SMS-услуг" target="_blank">Закачай.mobi - информационно-развлекательный центр SMS-услуг</a>'; include '../view.php';

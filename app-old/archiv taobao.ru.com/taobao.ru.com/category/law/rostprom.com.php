@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.rostprom.com/ title='Металлообрабатывающие станки'><img border=0 src=http://rostprom.com/b/rostpromlogo88x31.gif alt='Металлообрабатывающие станки'width=88 height=31></a>'; include '../view.php';

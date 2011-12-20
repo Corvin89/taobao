@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://bigelite.ru/">http://bigelite.ru/</a><a href="http://bigelite.ru/">Надувные лодки, пластиковые лодки, металлические лодки, катера, яхты, лодочные моторы, запчасти.</a>'; include '../view.php';

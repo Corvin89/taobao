@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.logodesigninc.com"><b>Logo Design</b></a> - Offers professional logo design online by experienced graphic designers and specializes in corporate and company logo designs. View our online logo samples!'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='stylizr.com'>Narrative cinema</a>'; include '../view.php';

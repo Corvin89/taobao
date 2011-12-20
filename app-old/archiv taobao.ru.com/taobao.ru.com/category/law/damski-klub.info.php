@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.damski-klub.info' target='_blank'><b>Дамски клуб</b></a><br />женско онлайн списание'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://nogtik.info">Маникюр и педикюр на видео</a>'; include '../view.php';

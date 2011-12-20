@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.openlinks.ru" target="_blank"><img src="http://www.openlinks.ru/images/openlinks.gif" alt="Каталог сайтов OpenLinks.RU" border="0" width="88" height="31"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://spasskievorota.ru> Спасские ворота, парк культуры коньки</a>'; include '../view.php';

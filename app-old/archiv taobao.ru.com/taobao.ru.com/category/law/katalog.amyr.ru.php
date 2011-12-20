@@ -1,0 +1,1 @@
+<?php $catalogLink = '<div>Знакомиться легко: <a href="http://amyr.ru/content/view/31/2/">знакомства в Ростове</a> на сайте Amyr.Ru</div>'; include '../view.php';

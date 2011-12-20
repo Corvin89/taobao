@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://kulinarni-portal.ru">Лучшие рецепты</a>'; include '../view.php';

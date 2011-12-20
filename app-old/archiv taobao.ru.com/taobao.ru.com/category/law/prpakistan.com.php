@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.PrPakistan.com"><img src="http://www.peacepk.com/pr_pk_ranking.gif" border="0" width="92" height="67"></a>'; include '../view.php';

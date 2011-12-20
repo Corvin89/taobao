@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--begin ELECTED--><a href="http://elected.fatal.ru/"><img border="0" src="http://elected.fatal.ru/images/elected88x31.gif" width="88" height="31" alt="Каталог сайтов .::ELECTED::."></a><!--end ELECTED-->'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.all-gsm.ru">Мобильная техника</a> на www.all-gsm.ru'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.rudir.cn/">RuDir - каталог рунета</a> / магазин: <a href="http://www.mototrubka.com/">моторола, нокиа</a>'; include '../view.php';

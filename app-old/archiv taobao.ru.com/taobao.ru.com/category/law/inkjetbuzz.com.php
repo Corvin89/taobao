@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.inkjetbuzz.com/" id="R5C0725">Inkjet Resources Directory</a>'; include '../view.php';

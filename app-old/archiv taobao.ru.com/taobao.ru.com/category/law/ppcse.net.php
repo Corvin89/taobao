@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ppcse.net/">PPCSE.NET</a>'; include '../view.php';

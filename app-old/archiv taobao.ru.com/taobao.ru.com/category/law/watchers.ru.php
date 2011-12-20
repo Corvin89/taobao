@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.watchers.ru/brands/6/'>Charriol</a>, <a href='http://www.watchers.ru/'>магазин часов, наручные часы, мужские часы, часы сайты</a>'; include '../view.php';

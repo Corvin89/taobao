@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.looblacksea.ru/">Ёкономичный отдых, частна€ гостиница, чЄрное море в —очи</a>'; include '../view.php';

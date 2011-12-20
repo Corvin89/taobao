@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ariadnaconnection.com">Ariadna Connection - European  Matchmaking Agency. Join for FREE. Online Chat and messaging services available.</a>'; include '../view.php';

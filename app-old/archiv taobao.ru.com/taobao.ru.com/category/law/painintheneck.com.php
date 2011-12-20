@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.painintheneck.com">Pain In The Neck .Com -- your ultimate guide to neck, back and joint pain resources on the Internet</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://fotosintes.ru">Защита растений</a>'; include '../view.php';

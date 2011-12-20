@@ -1,0 +1,1 @@
+<?php $catalogLink = 'IT новости - <a href="http://all-template.ru/">software & hardware</a>, новости софта.'; include '../view.php';

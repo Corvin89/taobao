@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.alldotweb.com/">AllDotWeb - The Web At Your Fingertips</a>'; include '../view.php';

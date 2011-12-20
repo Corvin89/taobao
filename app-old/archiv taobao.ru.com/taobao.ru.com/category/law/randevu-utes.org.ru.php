@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://randevu.crimea.ua"><img src="http://www.yandex.ru/cycounter?randevu.crimea.ua" width="88" height="31" alt="вилла Рандеву - Утес" border="0" align="left"></a>'; include '../view.php';

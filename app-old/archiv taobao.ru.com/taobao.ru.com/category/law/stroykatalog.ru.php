@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.stroykatalog.ru/" target="_blank"><img src="http://www.stroykatalog.ru/img/banner1.gif" width="88" height="31" border="0" alt="Обустройство и ремонт на STROYKATALOG.RU"></a>'; include '../view.php';

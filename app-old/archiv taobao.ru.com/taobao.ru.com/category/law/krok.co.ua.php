@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.krok.co.ua/" target=_blank><img src="http://www.krok.co.ua/bogatirenok_baner.gif" width="100" height="151" alt="Богатырёнок: отдых на море - Сергеевка! Детский отдых на Чёрном море!" border="1"></a>'; include '../view.php';

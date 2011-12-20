@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://books.km.ua/index.php?glav=map' target='_blank'>бесплатные аудиокниги скачать</a>'; include '../view.php';

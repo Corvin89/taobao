@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.trust.net.ua/">Программы для ПК</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://webmaster22.ru target=_blank>Создание сайта в Бийске и  Москве.</a>'; include '../view.php';

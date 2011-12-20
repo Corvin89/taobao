@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.v-igumnov.ru" title="шоу попугаев"><img src="http://www.v-igumnov.ru/images/baners/88x31.gif" title="шоу программа попугаев" width="88" height="31" border="0" alt="Артист цирка Вениамин Игумнов"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fishdating.org/"><b>Fish Dating</b></a><br>Fish dating is a free dating site to join with plenty of fish in the sea to choose from. We have tens of thousands of members looking for dating.'; include '../view.php';

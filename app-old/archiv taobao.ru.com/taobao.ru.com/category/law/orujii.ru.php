@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://orujii.ru' target='_blank'><b>Энциклопедия оружия</b></a><br />Описания оружия, история оружия, оружейные мастера.'; include '../view.php';

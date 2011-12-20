@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://add-link.us/phpld/">Add Link Web Directory</a>'; include '../view.php';

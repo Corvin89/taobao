@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://melbyinternetdesign.com/>Фирма ООО "Melbyстрой"</a>'; include '../view.php';

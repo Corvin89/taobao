@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.20dphotos.com/phpld">20dphotos.com Web Directory</a>'; include '../view.php';

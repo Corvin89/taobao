@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://elictronicmusic.ru/22649944-opros-vy-kurite-v-klubax.html">[ОПРОС] Вы курите в клубах?</a>'; include '../view.php';

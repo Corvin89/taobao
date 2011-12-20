@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.directionkit.com/">DirectionKit.Com</a>'; include '../view.php';

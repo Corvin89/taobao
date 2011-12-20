@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://catalog.blacktwhite.com/" target="_blank"><img src="http://catalog.blacktwhite.com/catalog_1.gif" height="31" border="0" width="88" cellpadding="0" cellspacing="0" alt=" Каталог ресурсов интернет-Белый каталог сайтов BLACKTWHITE.COM" title="Каталог ресурсов интернет-Белый каталог сайтов BLACKTWHITE.COM"></a>'; include '../view.php';

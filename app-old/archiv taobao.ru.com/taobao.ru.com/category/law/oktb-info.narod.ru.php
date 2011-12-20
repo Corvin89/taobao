@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--oktb-info--><a href="http://www.oktb-info.narod.ru/"><img src="http://oktb-info.narod.ru/knopka.jpg" width="88" height="31" border="0" alt="Бесплатная доска объявлений"></a><!--oktb-info end-->'; include '../view.php';

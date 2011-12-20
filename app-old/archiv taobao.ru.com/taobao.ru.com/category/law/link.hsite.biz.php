@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://link.hsite.biz/">Каталог ссылок по Home Site</a>'; include '../view.php';

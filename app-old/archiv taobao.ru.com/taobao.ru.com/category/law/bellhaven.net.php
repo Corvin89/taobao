@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.bellhaven.net"  title="pacific northwest boating">San Juan Island Yacht Charters</a> - Bellhaven provides boat charters and yacht sales in the Pacific Northwest. Get all the info you need for cruising in the Canadian Gulf Islands.'; include '../view.php';

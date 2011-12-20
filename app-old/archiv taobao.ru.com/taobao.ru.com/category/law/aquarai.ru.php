@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.aquarai.ru"><img src="http://www.aquarai.ru/knopka.gif" alt="Строительство бассейнов" width="81" height="33" border="0" /></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://clubdiscovery.org"><img src="http://clubdiscovery.org/club.gif" height="31" width="88" border="0" alt="Качественный каталог курортно-развлекательных сайтов."></a><b>Каталог курортно-развлекательных сайтов. Фотографии, рассказы, статьи про отдых и развлечения.</b>'; include '../view.php';

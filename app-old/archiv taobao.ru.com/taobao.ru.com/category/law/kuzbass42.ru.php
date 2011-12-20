@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Портал Кузбасса. Кемерово, Новокузнецк." href="http://metaprom.ru"><img alt="Портал Кузбасса" src="http://kuzbass42.ru/files/kuzbass_88_31_1.gif" border="0" width=88 height=31></a>'; include '../view.php';

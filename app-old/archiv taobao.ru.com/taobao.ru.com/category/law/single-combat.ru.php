@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.single-combat.ru/fight/treatise/'>Древние трактаты</a>, <a href='http://www.single-combat.ru/'>айкидо, Ушу, рукопашный бой, Кобудо, самооборона</a>'; include '../view.php';

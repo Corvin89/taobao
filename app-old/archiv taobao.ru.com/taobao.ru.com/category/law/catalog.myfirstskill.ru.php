@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Как сделать сайт на myfirstskill.ru " href="http://myfirstskill.ru">Как сделать сайт на myfirstskill.ru</a>'; include '../view.php';

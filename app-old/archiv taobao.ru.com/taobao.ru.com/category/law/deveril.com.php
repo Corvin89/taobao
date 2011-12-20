@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A href="http://deveril.com/"> Кулинарные рецепты -напитки,торты, холодные и горячие блюда. И многое другое</a>'; include '../view.php';

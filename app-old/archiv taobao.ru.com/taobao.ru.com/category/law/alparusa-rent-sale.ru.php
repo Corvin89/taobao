@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.alparusa-rent-sale.ru" > Алые паруса на www.alparusa-rent-sale.ru </a>'; include '../view.php';

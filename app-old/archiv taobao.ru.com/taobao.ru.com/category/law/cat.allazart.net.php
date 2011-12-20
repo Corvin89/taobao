@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://allazart.net">
+<img src="http://allazart.net/6.gif" alt="Работа в интернете" width=88 height=31 border=0></a> <a href="http://allazart.net">Мониторинг азартных сайтов. Заработать на азартных сайтах. В нашем каталоге сайты Казино, Букмекерские сайты и сайты аукционы</a>'; include '../view.php';

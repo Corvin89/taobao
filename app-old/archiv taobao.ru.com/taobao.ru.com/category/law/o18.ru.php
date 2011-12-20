@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.o18.ru">Онлайн каталог Удмуртской республики</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.divhost.ru">Качественный хостинг,регистрация доменов, дешёвый хостинг</a>'; include '../view.php';

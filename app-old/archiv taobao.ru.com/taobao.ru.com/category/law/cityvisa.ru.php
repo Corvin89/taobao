@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cityvisa.ru">виза в англию</a>'; include '../view.php';

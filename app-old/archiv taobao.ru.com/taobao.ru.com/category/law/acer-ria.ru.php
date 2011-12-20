@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://acer-ria.ru">Обзор и тестирование ноутбука ACER</a>'; include '../view.php';

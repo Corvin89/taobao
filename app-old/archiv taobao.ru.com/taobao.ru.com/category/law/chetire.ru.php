@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://chetire.ru/">Наружная реклама, полиграфия и дизайн</a>'; include '../view.php';

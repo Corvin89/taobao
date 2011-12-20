@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.revolar.ru/" alt="Ёзотерический портал" target="_blank">Ёзотерический портал - Ёффект бабочки</a>'; include '../view.php';

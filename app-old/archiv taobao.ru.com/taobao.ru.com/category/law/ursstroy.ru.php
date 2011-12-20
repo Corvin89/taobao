@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ursstroy.ru" target="_blank" class="a"><img src="http://www.ursstroy.ru/images/banner88x31.gif" width="88" height="31" alt="Строительство загородных домов - строительная компания ООО"ЮРС-Строй"" border=0></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'У нас на  fotoBW <a href="http://www.fotobw.ru/">красивые фото, прикольные фото, большие фото</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.realestatecentralcoast.com"><b>Real Estate Central Coast</b></a><br>A directory for San Luis Obispo County Real Estate Professionals. Search the Multiple Listing Services (MLS), save properties and get new listing alerts for your search criteria.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Карина - <a href="http://www.festa-prazdnik.ru"> ведущий на праздник </a>.'; include '../view.php';

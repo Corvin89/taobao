@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vedablog.ru/" target="_blank">јюрведа</a> - блог о красоте и здоровье.  «доровый образ жизни.'; include '../view.php';

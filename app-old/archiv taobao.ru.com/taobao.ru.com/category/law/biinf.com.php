@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.biinf.com/index.php?bt=03&id=21434" target="_blank"><b>Присматриваешь себе в Барнауле японский автомобиль? Тебе в новый современный центр Реал-Моторс</b></a>'; include '../view.php';

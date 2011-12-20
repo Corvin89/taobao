@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ggfb.org/">Great Directory</a>'; include '../view.php';

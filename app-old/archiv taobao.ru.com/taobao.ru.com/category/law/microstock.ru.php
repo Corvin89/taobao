@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.microstock.ru/" target="_blank"><img src="http://www.microstock.ru/pics/88x31.gif" width=88 height=31 border=0 alt="Microstock.ru - информационный портал о фотобанках и микростоках"></a>'; include '../view.php';

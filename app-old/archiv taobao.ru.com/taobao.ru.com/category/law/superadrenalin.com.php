@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Испытай адреналин в игре! Вывод денег со счета моментальный! href="http://superadrenalin.com/"><img border="0" src="http://superadrenalin.com/images/sa8831.gif" width="88" height="31" alt="http://superadrenalin.com/"></a>'; include '../view.php';

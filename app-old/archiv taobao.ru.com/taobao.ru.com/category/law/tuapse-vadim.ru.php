@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://tuapse-vadim.ru/">Отдых, комнаты частный сектор, квартира под ключ и Черное море в Туапсе</a>'; include '../view.php';

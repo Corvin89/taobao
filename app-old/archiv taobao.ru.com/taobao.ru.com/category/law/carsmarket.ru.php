@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.carsmarket.ru">CARSmarket.ru</a> - покупка и продажа автомобилей'; include '../view.php';

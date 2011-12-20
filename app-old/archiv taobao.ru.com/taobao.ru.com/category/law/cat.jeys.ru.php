@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="скачать музыку бесплатно" href="http://mp3almom.com">скачать музыку</a>'; include '../view.php';

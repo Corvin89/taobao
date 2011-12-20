@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.alkagolism.ru/">Алкаголизм</a> проблемы с алкоголем'; include '../view.php';

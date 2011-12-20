@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.uazip.com">Потчовые Индексы Украины</a>'; include '../view.php';

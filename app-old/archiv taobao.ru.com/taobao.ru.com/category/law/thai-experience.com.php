@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.thai-experience.com">Thailand Travel Directory and Thailand Guide</a>'; include '../view.php';

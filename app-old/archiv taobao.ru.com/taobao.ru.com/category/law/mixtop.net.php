@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mixtop.net/">Article Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://pink-floyd.ru">Pink-Floyd.ru</a> - русскоязычный сайт о группе Pink Floyd'; include '../view.php';

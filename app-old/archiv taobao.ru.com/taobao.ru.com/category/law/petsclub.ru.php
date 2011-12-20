@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.petsclub.ru">PETS CLUB</a> - Корм для собак. Корм для кошек. Доставка корма и зоотоваров для домашних животных по Москве и области.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.uk-dir.com">UK Directory United Kingdom Web directory</a> - UK Directory is collection of Internet web sites related to United Kingdom (UK) including England Scotland Wales and Northern Ireland.'; include '../view.php';

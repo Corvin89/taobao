@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ebizpro.info">Работа на дому!</a>'; include '../view.php';

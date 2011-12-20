@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.geodirectory.info/">GEO  Directory</a>'; include '../view.php';

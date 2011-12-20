@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.greek-kitchen.com"><img src="http://www.greek-kitchen.com/images/banners/88x31.gif" width="88" height="31" border="0" alt="Рецепты греческой кухни"></a>'; include '../view.php';

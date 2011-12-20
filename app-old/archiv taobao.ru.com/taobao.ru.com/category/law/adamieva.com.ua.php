@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.adamieva.com.ua/" target="_blank">Свадебные, вечерние и бальные платья, смокинги, аксессуары для невесты.</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://directory.free-reviews.info" target="_blank" title="Free link directory and website review"><img src='http://www2.multiplesystem.net/www/delivery/avw.php?zoneid=10' border='0' alt='' /></a>'; include '../view.php';

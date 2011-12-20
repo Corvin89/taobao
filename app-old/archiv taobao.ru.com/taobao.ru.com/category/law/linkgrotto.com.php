@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.LinkGrotto.com/">Link Grotto is a Free Text Link Directory </a>'; include '../view.php';

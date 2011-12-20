@@ -1,0 +1,1 @@
+<?php $catalogLink = 'White Directory <a href="http://link.webses.info/ "> "Golden Internet resources"</ a> - We do not require installing back-links with our directory without warning.'; include '../view.php';

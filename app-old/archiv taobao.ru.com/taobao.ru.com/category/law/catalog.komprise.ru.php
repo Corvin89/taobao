@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://catalog.komprise.ru"> Каталог сайтов "Товары и услуги"</a> <a href="http://komprise.ru">, <em>Ремонт компьютеров, ноутбуков, оргтехники, компьютерная помощь. </em>Сервисный центр Компрайз"</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.rustrucks.info>каталог белых сайтов, грузовые автомобили, камаз, недвижимость</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Сайт про <a href="http://www.depo-zit.ru/">депозиты</a>'; include '../view.php';

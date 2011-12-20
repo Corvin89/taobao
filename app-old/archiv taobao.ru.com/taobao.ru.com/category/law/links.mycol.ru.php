@@ -1,0 +1,1 @@
+<?php $catalogLink = '«агадки <a href="http://znavez.ru/">происхождени€ человека</a> здесь!'; include '../view.php';

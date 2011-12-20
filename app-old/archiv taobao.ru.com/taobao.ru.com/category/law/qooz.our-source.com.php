@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://qooz.our-source.com/' target='_blank'><img src='http://qooz.our-source.com/images/button_88x31.gif' border=0 title='Поисковая система - QOOZ. Найти сайт. Качественные сайты' alt='Поисковая система - QOOZ. Найти сайт. Качественные сайты'></a>'; include '../view.php';

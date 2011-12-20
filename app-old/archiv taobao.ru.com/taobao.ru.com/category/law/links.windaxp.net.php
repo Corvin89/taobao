@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://links.windaxp.net">Тематический каталог WindaXP</a>'; include '../view.php';

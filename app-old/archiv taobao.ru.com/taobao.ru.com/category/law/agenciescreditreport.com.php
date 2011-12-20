@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.agenciescreditreport.com" id="R18ACBF">Browse free net sites online about credit reports and verification equipment</a>-Legal Assistance, bank account, Collections Agencies, Billing Service'; include '../view.php';

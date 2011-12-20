@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.troudumonde.com/">Trou du Monde</a>'; include '../view.php';

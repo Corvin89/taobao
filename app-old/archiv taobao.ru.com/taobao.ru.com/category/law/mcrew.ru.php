@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Только самые загружаемые <a href="http://mcrew.ru">бесплатные java игры сетевые</a> на Mcrew.Ru.'; include '../view.php';

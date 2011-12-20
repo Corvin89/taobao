@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.infocubic.com"><b>Employment Background Check Services</b></a> - We provide employee background check solutions with affordable price.'; include '../view.php';

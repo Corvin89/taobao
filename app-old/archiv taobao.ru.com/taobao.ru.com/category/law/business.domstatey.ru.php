@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://business.domstatey.ru">Каталог бизнес-сайтов</a>'; include '../view.php';

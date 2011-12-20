@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://metallom.ru/>ЗАО"Метал-лом" - купля-продажа металлолома</a>'; include '../view.php';

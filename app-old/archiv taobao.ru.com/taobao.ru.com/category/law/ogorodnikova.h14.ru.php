@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.compass-yur.ru/gpage.shtml">Регистрация коммерческих предприятий</a>'; include '../view.php';

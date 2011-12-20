@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ukraine-rest.com.ua/ru/tour/">Туры в Украину</a> -  Все об отдыхе в Украине, отели, отзывы, погода, достопримечательности, фотографии. <a href="http://ukraine-rest.com.ua/ru/tour/">Отдых в Украине</a>.'; include '../view.php';

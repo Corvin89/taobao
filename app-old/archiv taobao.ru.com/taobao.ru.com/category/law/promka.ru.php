@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.promka.ru" target="_blank">Лакокрасочные материалы ПРОМКА: краска, эмаль, шпатлевка, грунтовка, лак, клей</a>'; include '../view.php';

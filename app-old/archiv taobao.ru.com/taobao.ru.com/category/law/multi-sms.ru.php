@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://multi-sms.ru/?com=go" target="_blank">смс рассылки, разработка и поддержка сайтов, смс сервисов</a>'; include '../view.php';

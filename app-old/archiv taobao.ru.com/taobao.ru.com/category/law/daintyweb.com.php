@@ -1,0 +1,1 @@
+<?php $catalogLink = '<br><a href="http://www.daintyweb.com"><IMG WIDTH="160" HEIGHT="55" BORDER="0" SRC="/images/logob.gif" alt="Reliable Web Hosting Services"></a><br>'; include '../view.php';

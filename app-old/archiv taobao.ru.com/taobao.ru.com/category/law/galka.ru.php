@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://galka.ru/" title="Galka.ru - средства ухода за кожей">Galka.ru - средства ухода за кожей</a>'; include '../view.php';

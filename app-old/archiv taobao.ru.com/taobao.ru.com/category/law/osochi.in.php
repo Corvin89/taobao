@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://osochi.in/bdkat.php" target=blank>Каталог предприятий  города Сочи</a>'; include '../view.php';

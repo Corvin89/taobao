@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://zhitkovichi.com" target="_blank"><img src=http://zhitkovichi.com/images/ban_88x31_1.gif width="88" height="31" border="1" alt="Сайт города Житковичи "></a>'; include '../view.php';

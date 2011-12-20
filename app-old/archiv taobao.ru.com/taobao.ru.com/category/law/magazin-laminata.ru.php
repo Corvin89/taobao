@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Первый <a href="http://www.magazin-laminata.ru">магазин ламината в Санкт-Петербурге</a>.'; include '../view.php';

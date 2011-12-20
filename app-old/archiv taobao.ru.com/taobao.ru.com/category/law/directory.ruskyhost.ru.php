@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ruskyhost.ru">Доступный  профессиональный хостинг</a>'; include '../view.php';

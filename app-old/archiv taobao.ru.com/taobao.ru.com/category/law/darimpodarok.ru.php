@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Интернет магазин - &lt;a href=&quot;http://www.darimpodarok.ru&quot;&gt;эксклюзивные подарки и необычные подарки&lt;/a&gt;.'; include '../view.php';

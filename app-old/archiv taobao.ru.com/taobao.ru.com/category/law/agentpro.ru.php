@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.comts.ru" target="_blank"><img src="http://comts.ru/cm.gif" width="88" height="31" border="0" title="КомТС - ремонт компьютеров, абонентское обслуживание, компьютерная помощь" alt="КомТС - ремонт компьютеров, абонентское обслуживание, компьютерная помощь"></a>'; include '../view.php';

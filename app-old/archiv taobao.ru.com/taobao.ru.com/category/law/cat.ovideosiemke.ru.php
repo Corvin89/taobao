@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.delightstudio.ru" title="Видеосъемка в Москве" > Все виды видеосъемки в Москве</a>'; include '../view.php';

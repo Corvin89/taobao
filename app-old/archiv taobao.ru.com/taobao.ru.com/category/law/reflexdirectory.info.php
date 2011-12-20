@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.reflexdirectory.info/">Reflex Directory</a>'; include '../view.php';

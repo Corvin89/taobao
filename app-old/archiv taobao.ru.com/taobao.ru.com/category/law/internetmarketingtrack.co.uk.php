@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.internetmarketingtrack.co.uk' target='_blank'><b>Internet Marketing Track</b></a><br />Internet Marketing Track - Your free internet marketing success. Share ideas on forum, exchange link, free directory, internet marketing articles and more...'; include '../view.php';

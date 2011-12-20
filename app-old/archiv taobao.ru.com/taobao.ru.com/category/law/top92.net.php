@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.123submitme.com/">Local Business Listing Service</a>'; include '../view.php';

@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a title="OS Collector" href="http://os-collector.h17.ru" target="_blank">
+<img alt="OS Collector"  src="http://os-collector.h17.ru/banner.gif" border="0"></a>'; include '../view.php';

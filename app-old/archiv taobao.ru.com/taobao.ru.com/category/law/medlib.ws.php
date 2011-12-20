@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.medlib.ws" target="_blank" title="MedLib.ws"><img src="http://medlib.ws/88x31.gif" border="0" alt="Медицинская библиотека MedLib.ws"></a>'; include '../view.php';

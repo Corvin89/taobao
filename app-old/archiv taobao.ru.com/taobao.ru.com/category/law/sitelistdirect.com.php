@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.sitelistdirect.com>Список сайтов</a> - Обмен прямыми ссылками'; include '../view.php';

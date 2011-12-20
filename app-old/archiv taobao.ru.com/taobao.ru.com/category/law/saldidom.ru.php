@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.saldidom.ru/profnastil.html"><b>профилированные листы</b> и Профнастил</a>'; include '../view.php';

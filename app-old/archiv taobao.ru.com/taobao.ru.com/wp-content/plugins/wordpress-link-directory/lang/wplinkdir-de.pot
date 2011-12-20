@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: missfits <info@missfitsbiz.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+
+#: link-directory.php:71
+msgid "No"
+msgstr "Nein"
+
+#: link-directory.php:73
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: link-directory.php:74
+msgid "Delete"
+msgstr "L&ouml;schen"
+
+#: link-directory.php:76
+msgid "Hidden"
+msgstr "Versteckt"
+
+#: link-directory.php:77
+msgid "Optional"
+msgstr "Optional"
+
+#: link-directory.php:78
+msgid "Required"
+msgstr "Erforderlich"
+
+#: link-directory.php:80
+msgid "Website  Title:"
+msgstr "Seitentitel"
+
+#: link-directory.php:81
+msgid "Website URL:"
+msgstr "Webseiten URL"
+
+#: link-directory.php:82
+#: link-directory.php:1228
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: link-directory.php:83
+#: link-directory.php:772
+#: link-directory.php:790
+msgid "Description:"
+msgstr "Beschreibung:"
+
+#: link-directory.php:85
+msgid "WordPress Link Directory"
+msgstr "WordPress Link Directory"
+
+#: link-directory.php:86
+msgid "Edit Links"
+msgstr "Bearbeite Links"
+
+#: link-directory.php:87
+msgid "Edit Categories"
+msgstr "Kategorien bearbeiten"
+
+#: link-directory.php:89
+msgid "Nobody"
+msgstr "Niemand"
+
+#: link-directory.php:90
+msgid "Everybody"
+msgstr "Alle"
+
+#: link-directory.php:91
+msgid "Sites < PR"
+msgstr "Seiten < PR"
+
+#: link-directory.php:288
+msgid "Your Reciprocal Requirements option  is set to Nobody. This means no sites are required to link back to you and therefor there is nothing to check/cleanse."
+msgstr "Deine Backlink-Anforderungsoption ist auf Niemand gesetzt. Das bedeutet, dass keine Backlinks eingereicht werden und deshalb gibt es nichts zu pr&uuml;fen/s&auml;ubern."
+
+#: link-directory.php:313
+#: link-directory.php:320
+msgid "The link has been deleted."
+msgstr "Der Link wurde gel&ouml;scht."
+
+#: link-directory.php:346
+msgid "Your URL"
+msgstr "Deine URL:"
+
+#: link-directory.php:348
+msgid "Your homepage or the URL you want people  to link to"
+msgstr "Deine Startseite oder die URL die im Backlink benutzt weden soll"
+
+#: link-directory.php:350
+msgid "Require Reciprocal Links From"
+msgstr "Reziproke Links erforderlich von"
+
+#: link-directory.php:373
+#: link-directory.php:375
+msgid "Reciprocal Link HTML"
+msgstr "Link HTML bearbeiten"
+
+#: link-directory.php:377
+msgid "Enter the HTML  people should use to link to your site. This will be displayed on the Link To Us page."
+msgstr "Trage den HTML Code der für den Backlink der User benutzt werden soll. Dies wird auf der Link zu uns Seite angezeigt."
+
+#: link-directory.php:379
+msgid "Allow HTML in Description"
+msgstr "Erlaube HTML in Beschreibung"
+
+#: link-directory.php:381
+msgid "People adding links  to your directory will be able to use these HTML tags in their description. If you want to enable bold text, images and  linking, for example, you would enter '&#60;b&#62;&#60;a&#62;&#60;img&#62;'"
+msgstr "Beim Hinzuf&uuml;gen von URL zum Verzeichnis können User in der Beschreibung folgende HTML Tags verwenden. Um z.B.  Fettschrift, Bilder und Links zu erlauben, f&uuml;gst Du  '&#60;b&#62;&#60;a&#62;&#60;img&#62;' ein."
+
+#: link-directory.php:409
+#: link-directory.php:411
+msgid "Categories Per Row"
+msgstr "Kategorien pro Zeile"
+
+#: link-directory.php:413
+msgid "When displaying the  categories on the front page of your directory, this is how many will be displayed per row."
+msgstr "Gibt an in wievielen Spalten die Kategorien auf der Startseite angezeigt werden."
+
+#: link-directory.php:416
+msgid "Show Counts?"
+msgstr "Zeige Z&auml;hler?"
+
+#: link-directory.php:426
+msgid "On the front page of your  directory you can chose to show or hide the number of links in each category. I.e. 'Links (23)' vs 'Links'."
+msgstr "Auf der Startseite des Verzeichnis kannst Du die Anzahl der vorhandenen Links in Kategorien anzeigen oder verbergen. Z.B. 'Links (23)' vs 'Links'."
+
+#: link-directory.php:429
+msgid "Detailed Info"
+msgstr "Details"
+
+#: link-directory.php:431
+msgid "By default a <i>read more</i>  link is shown for each link where more detailed information about the link is shown. You can change the text of this  link or leave this field blank to disable it."
+msgstr "Ein <i>read more</i> Link wird automatisch angezeigt wenn Details zu einem Eintrag vorhanden sind. Du kannst diesen Text anpassen oder ihn l&ouml;schen um ihn abzuschalten. "
+
+#: link-directory.php:433
+msgid "Extra Fields"
+msgstr "Extra Felder"
+
+#: link-directory.php:450
+msgid "You can include Name and E-Mail fields on your Add URL page. Setting to Hidden will not  show these fields, Optional will display but not require them and Required will mean that people cannot add their link  without supplying a name and email address."
+msgstr "Du kannst ein Namens- und ein eMail-Feld im Eintragsformular anzeigen lassen. Mit der Option VERSTECKT werden diese Felder nicht angezeigt. OPTIONAL zeigt die Felder an, verlangt aber nicht, dass etwas eingetragen wird. NOTWENDIG bedeutet, dass die Felder ausgef&uuml;llt werden müssen um eine URL eintragen zu k&ouml;nnen."
+
+#: link-directory.php:452
+msgid "Require Captcha?"
+msgstr "Captcha notwendig?"
+
+#: link-directory.php:462
+msgid "Captcha is a form of checking that the user is human and not a spam-bot. Enabling captcha  displays an image on your Add URL page that the user must enter to have their link accepted."
+msgstr "Ein Captcha ist ein Formular mit dessen Hilfe man feststellen kann, ob ein Mensch oder ein Spam-Bot versucht einen Eintrag vorzunehmen. Es wird ein Bild mit einer Zeichenfolge angezeigt, die der User in das Eingabefeld abtippen muss."
+
+#: link-directory.php:464
+msgid "Email Me?"
+msgstr "Mail an mich?"
+
+#: link-directory.php:474
+msgid "If set to Yes the script will send  you an email (to the WordPress admin email address) each time a new link is added to your directory."
+msgstr "Wenn diese Option angeschaltet ist, sendet das Script Dir jedes Mal eine eMail (an die WordPress Admin Mailadresse), wenn ein neuer Link ins Verzeichnis eingetragen wurde."
+
+#: link-directory.php:476
+msgid "Display PageRank"
+msgstr "Pagerank anzeigen"
+
+#: link-directory.php:487
+msgid "If you don't want to display the  PR bar next to links set this to No."
+msgstr "Wenn Du nicht willst, dass ein PR-Balken neben den Links angezeigt wird, setze diese Option auf NEIN."
+
+#: link-directory.php:489
+msgid "Link Target"
+msgstr "Linkziel"
+
+#: link-directory.php:502
+msgid "_blank will open links in a new window whereas _self will open links on the same page.  See http://www.w3.org/TR/1999/REC-html401-19991224/types.html#type-frame-target for more information."
+msgstr "_blank zeigt die Seite in einem neuen Fenster an,  _self zeigt die Seite im aktuellen Fenster an."
+
+#: link-directory.php:504
+msgid "Use NoFollow?"
+msgstr "Benutze Nofollow?"
+
+#: link-directory.php:518
+msgid "NoFollow is an HTML attribute  that can be used in links. It tells Google and other search engines to ignore the link and not follow it (<a  href=\"http://en.wikipedia.org/wiki/Nofollow\">read more</a>). Turning NoFollow on will add rel=\"nofollow\" to all  your links."
+msgstr "No Follow ist ein HTML Attribut das auf Links angewendet werden kann. Es sagt Google und anderen Suchmaschinen, dass sie den Link ignorieren und ihm nicht folgen sollen."
+
+#: link-directory.php:519
+msgid "Display Powered By?"
+msgstr "Anzeige von Powered by? "
+
+#: link-directory.php:528
+msgid "I offer WP Link Directory for free, for everyone, and a link back to my site isn't required, but it is appreciated. If  selected this will insert a small link on the home page of the directory to the plugins homepage."
+msgstr "Ich biete WP Link Directory kostenlos für Alle an und ein Backlink zu meiner Seite ist nicht notwendig, aber gerne gesehen. Eingeschaltet wird die Option einen Link auf der Home-Seite des Verzeichnis einfügen, der zur Plugin Homepage führt."
+
+#: link-directory.php:530
+msgid "Save Changes"
+msgstr "&Auml;nderungen speichern"
+
+#: link-directory.php:532
+msgid "Are you sure?"
+msgstr "Bist Du sicher?"
+
+#: link-directory.php:534
+msgid "Cleanse Links"
+msgstr "Links s&auml;bern"
+
+#: link-directory.php:538
+msgid "Delete Links?"
+msgstr "Links l&ouml;schen?"
+
+#: link-directory.php:539
+msgid "Cleanse"
+msgstr "S&auml;ubern"
+
+#: link-directory.php:540
+msgid "Every now and then you should perform a  cleanse which checks all the links in your directory to make sure they comply with your Reciprocal Link requirements.  If your Reciprocal Link requires All Sites < PR 4, for example, any sites with < PR 4 will be checked.<br>If you set  Delete Links to Yes then links which don't meet requirements will be deleted, otherwise they will simply be flagged up  for you to check and/or delete manually."
+msgstr "Du solltest das Verzeichnis immer mal wieder s&auml;ubern. Die S&auml;uberung checkt alle Links im Verzeichnis und stellt fest, ob Deine Backlink-Anforderungen erf&uuml;llt werden. Hast Du besipielsweise ALLE SEITEN < PR 4 angegeben, werden alle Seiten mit einem Pagerank kleiner als 4 &uuml;berpr&uuml;ft. Ist die Option LINKS L&Ouml;SCHEN angeschaltet, werden Links, die den Mindestanforderungen nicht entsprechen gel&ouml;scht. Andernfalls werden diese markiert um sie manuell zu checken oder zu l&ouml;schen."
+
+#: link-directory.php:556
+#: link-directory.php:1019
+msgid "Add Link"
+msgstr "Link hinzuf&uuml;gen"
+
+#: link-directory.php:570
+msgid "We couldn't open the URL you supplied but the link was added anyway. You may  want to check it to ensure it exists."
+msgstr "Die angegebene URL konnte nicht gefunden und best&auml;tigt werden, wurde aber dennoch eingetragen. Vielleicht möchtest Du manuell sicherstellen, ob die URL existiert."
+
+#: link-directory.php:581
+msgid "Link Added"
+msgstr "Link wurde hinzugef&uuml;gt"
+
+#: link-directory.php:589
+msgid "Link Updated"
+msgstr "Link aktualisiert"
+
+#: link-directory.php:595
+msgid "Link Deleted"
+msgstr "Link gel&ouml;scht"
+
+#: link-directory.php:613
+msgid "Are you sure you want to delete this link?"
+msgstr "Bist du sicher, dass du diesen Link l&ouml;schen m&ouml;chtest?"
+
+#: link-directory.php:687
+msgid "Add Category"
+msgstr "Kategorie hinzuf&uuml;gen"
+
+#: link-directory.php:706
+msgid "Category Deleted"
+msgstr "Kategorie gel&ouml;scht"
+
+#: link-directory.php:756
+msgid "Sub-Category of: "
+msgstr "Unterkategorie von:"
+
+#: link-directory.php:783
+msgid "Sub-Category of:"
+msgstr "Unterkategorie von:"
+
+#: link-directory.php:859
+msgid "Every  CAPTCHA can only be used once. The current CAPTCHA has already been used. Please click back, refresh the page and try  again."
+msgstr "Jedes CAPTCHA kann nur einmal benutzt werden. Das aktuelle CAPTCHA wurde aberbereits benutzt. Bitte klicke auf Zur&uuml;ck, aktualisiere die Seite und versuche es nochmal."
+
+#: link-directory.php:861
+msgid "You entered the wrong captcha code. Aren't you human? Please use back  button and reload."
+msgstr "Du hast die falsche Zeichenfolge eingegeben. Bist Du gar kein Mensch? Bitte benutze den Zur&uuml;ck Knopf und versuch es nochmal."
+
+#: link-directory.php:873
+msgid "You didn't enter a name. You will need to fill this in  to add your link."
+msgstr "Du hast keinen Namen eingetragen. Du musst einen Namen eintragen um eine URL hinzuzuf&uuml;gen."
+
+#: link-directory.php:881
+#, php-format
+msgid "The E-Mail address you entered (%s) doesn't  appear to be valid. Your link was not added."
+msgstr "Die eingetragene eMail Adresse (%s) scheint ung&uuml;ltig zu sein."
+
+#: link-directory.php:898
+msgid "The URL you supplied doesn't  seem to be valid."
+msgstr "Die eingetragen URL scheint ung&uuml;ltig zu sein."
+
+#: link-directory.php:909
+#, php-format
+msgid "Your site (%s$1) is already in our directory in  the %s$2 category."
+msgstr "Deine Seite (%s$1) ist bereits im Verzeichnis vorhanden. Schau mal in Kategorie %s$2."
+
+#: link-directory.php:932
+msgid "The reciprocal link page must be somewhere on the domain  you are adding."
+msgstr "Die Seite mit Deinem Backlink muss zu der Domain geh&ouml;ren, die Du eintragen willst."
+
+#: link-directory.php:945
+#: link-directory.php:950
+#, php-format
+msgid "We couldn't find a reciprocal link on the page %s."
+msgstr "Wir konnten keinen Backlink auf der Seite %s finden."
+
+#: link-directory.php:959
+#, php-format
+msgid "Your link (%s) has been added successfully, thanks!"
+msgstr "Dein Link  (%s) wurde erfolgreich eingetragen, danke!"
+
+#: link-directory.php:965
+#, php-format
+msgid "%s$1 - New Link Added"
+msgstr "%s$1 - Neuer Link hinzugef&uuml;gt"
+
+#: link-directory.php:981
+msgid "You must link to our site first before you can add yourself to our directory."
+msgstr "Du musst einen Backlink zu unserer Seite bereitstellen bevor Du Deine Seite ins Verzeichnis eintragen kannst."
+
+#: link-directory.php:983
+#, php-format
+msgid "Sites with a PageRank of less than %s must first supply a link back to our site."
+msgstr "Seiten mit einem Pagerank kleiner als  %s müssen einen Backlink zu unserer Seite bereitstellen."
+
+#: link-directory.php:985
+msgid "You can find out how to do that"
+msgstr "Finder heraus wie das funktioniert"
+
+#: link-directory.php:985
+msgid "here"
+msgstr "hier"
+
+#: link-directory.php:990
+msgid "HTML tags allowed:"
+msgstr "Erlaubte HTMLTags:"
+
+#: link-directory.php:994
+msgid "Your  Name:"
+msgstr "Dein Name:"
+
+#: link-directory.php:995
+msgid "Your E-Mail:"
+msgstr "Deine E-Mail-Adresse:"
+
+#: link-directory.php:1006
+msgid "Reciprocal  URL:"
+msgstr "Reziproke URL:"
+
+#: link-directory.php:1013
+msgid "Captcha:"
+msgstr "Captcha:"
+
+#: link-directory.php:1015
+msgid "Phonetic spelling  (mp3)"
+msgstr "Fonetische Schreibweise (mp3)"
+
+#: link-directory.php:1016
+msgid "Enter Code:"
+msgstr "Code eingeben:"
+
+#: link-directory.php:1043
+msgid "Search For:"
+msgstr "Suchen nach:"
+
+#: link-directory.php:1045
+msgid "Search In:"
+msgstr "Suchen in:"
+
+#: link-directory.php:1046
+msgid "All"
+msgstr "Alle"
+
+#: link-directory.php:1046
+msgid "Title"
+msgstr "Titel"
+
+#: link-directory.php:1046
+msgid "URL"
+msgstr "URL"
+
+#: link-directory.php:1046
+msgid "Description"
+msgstr "Beschreibung"
+
+#: link-directory.php:1047
+#: link-directory.php:1169
+msgid "Search"
+msgstr "Suchen"
+
+#: link-directory.php:1069
+msgid "No results were found in your search."
+msgstr "Keine Suchergebnisse."
+
+#: link-directory.php:1169
+msgid "Home"
+msgstr "Home"
+
+#: link-directory.php:1169
+msgid "Add URL"
+msgstr "URL hinzuf&uuml;gen"
+
+#: link-directory.php:1169
+msgid "Link To Us"
+msgstr "Link zu uns"
+
+#: link-directory.php:1190
+msgid "Step 1: Add our URL to your page using this HTML code:"
+msgstr "Schritt 1: Backlink zu unserer Seite hinzuf&uuml;gen mit diesem HTML Code:"
+
+#: link-directory.php:1193
+msgid "This will generate a link like this:"
+msgstr "Das wird folgenden Link erzeugen:"
+
+#: link-directory.php:1207
+msgid "Invalid  Request"
+msgstr "Invalid  Request"
+
+#: link-directory.php:1216
+msgid "This link has been deleted or does not exist."
+msgstr "Dieser Link wurde gel&ouml;scht oder existiert nicht."
+
+#: link-directory.php:1229
+msgid "Pagerank:"
+msgstr "Pagerank:"
+
+#: link-directory.php:1232
+msgid "Added By:"
+msgstr "Hinzugef&uuml;gt von:"
+
+#: link-directory.php:1235
+msgid "Date Added:"
+msgstr "Hinzugef&uuml;gt am:"
+
+#: link-directory.php:1238
+msgid "Last Updated:"
+msgstr "Zuletzt aktualisiert:"
+
+#: link-directory.php:1242
+msgid "Cached Pages:"
+msgstr "Gecachte Seiten:"
+
+#: link-directory.php:1245
+msgid "Backlinks:"
+msgstr "Backlinks:"
+
+#: link-directory.php:1256
+msgid "Other Links:"
+msgstr "Andere Links:"
+
+#: link-directory.php:1287
+msgid "Sub-Categories:"
+msgstr "Unterkategorien:"
+
+#: link-directory.php:1380
+msgid "Powered by"
+msgstr "Powered by "
+
+#: link-directory.php:1492
+msgid "Action Cancelled"
+msgstr "Aktion abgebrochen"
+

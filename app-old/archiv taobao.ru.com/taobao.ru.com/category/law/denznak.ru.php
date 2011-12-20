@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.denznak.ru/psyhology/'>ѕсихологи€ денег</a>, <a href='http://www.denznak.ru/'>нумизматика, валюта, психологи€ денег, монеты</a>'; include '../view.php';

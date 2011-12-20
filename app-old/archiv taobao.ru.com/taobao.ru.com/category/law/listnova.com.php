@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.listnova.com" id="RFD37BD">List Nova - a global business directory</a>'; include '../view.php';

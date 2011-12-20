@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.reportnet.ru">Народный каталог сайтов</a>'; include '../view.php';

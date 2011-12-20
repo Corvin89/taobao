@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://silvasib.ru/">Срубы из кедра и лиственицы</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.allsites.ru/">Все сайты.ру - каталог лучших сайтов Рунета. Добавить ссылку в каталог!</a>'; include '../view.php';

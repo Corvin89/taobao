@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.expj.ru/">Автомобильные новости</a> ремонт машин <a href="http://www.expj.ru/">мировые новости о автомобилях</a>марки машин эксплуатация машин.'; include '../view.php';

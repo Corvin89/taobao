@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Лучшие <a href="http://www.etoast.ru">поздравления с юбилеем и с днем рождения родственникам</a>. Сценарии для организации и проведения <a href="http://www.ny.etoast.ru">нового года в офисе</a> или дома.'; include '../view.php';

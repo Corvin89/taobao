@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://medoviybazar.ru">Медовая Ярмарка</a> - ресурс для производителей и покупателей мёда и пчеловодных продуктов'; include '../view.php';

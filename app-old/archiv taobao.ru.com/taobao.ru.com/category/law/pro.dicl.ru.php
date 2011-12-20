@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://dicl.ru" title="диагностика">Диагностическая клиника</a>'; include '../view.php';

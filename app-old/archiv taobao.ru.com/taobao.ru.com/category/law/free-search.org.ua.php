@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.free-search.org.ua" target="_blank"><img src="http://www.free-search.org.ua/butt.gif" alt="[Free-Search.org.ua] - Бесплатный каталог сайтов" border="0"></a>'; include '../view.php';

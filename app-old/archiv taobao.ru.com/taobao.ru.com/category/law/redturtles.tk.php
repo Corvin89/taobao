@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://redturtles.name/">Красноухая черепаха</a>'; include '../view.php';

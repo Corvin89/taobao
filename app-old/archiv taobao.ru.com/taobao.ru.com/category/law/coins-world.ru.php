@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.coins-world.ru/">"ћонеты мира" -  каталог нумизматики, цены на монеты</a>'; include '../view.php';

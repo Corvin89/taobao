@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://home-bar.ru" target="_blank">Домашний бар</a> - создание профессионального бара в домашних условиях'; include '../view.php';

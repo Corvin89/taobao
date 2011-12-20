@@ -1,0 +1,4 @@
+<?php $catalogLink = '<a href="http://cat.anzess.com">Каталог ссылок и сайтов CAT Anzess</a><br>
+<a href="http://ranetku.com">ранетки</a>, <a href="http://uamp3.net">скачати mp3</a>, <a href="http://xauto.biz">огляд автомобілів</a> <br> <a href="http://uafilms.biz">скачати фільми безкоштовно</a> | <a href="http://uarat.com">рейтинг сайтів</a> | <a href="http://ualink.biz">каталог</a><br>
+<a href="http://kovdos.com">скачати ігри безплатно</a>, <a href="http://ladoga-petersburg.ru">авто рейтинг ру</a>, <a href="http://qado.ru">квадо чат</a><br>
+<a href="http://3w.kivi-x.info">создать свой сайт бесплатно</a>'; include '../view.php';

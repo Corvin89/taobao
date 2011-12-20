@@ -1,0 +1,2 @@
+<?php $catalogLink = '<!--текстовая ссылка Creater.ru-->
+<a href="http://www.creater.ru/" target=_blank>Веб-студия Creater предлагает изготовление сайтов. Интернет-маркетинг и продвижение интернет сайта.</a>'; include '../view.php';

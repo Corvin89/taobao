@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.garagecarportplan.com" id="RD5FC8A">Garages, Carport Plans, Garage Building Kits</a>- Information Database Finder To Multifaceted Carport Plans And Equipment'; include '../view.php';

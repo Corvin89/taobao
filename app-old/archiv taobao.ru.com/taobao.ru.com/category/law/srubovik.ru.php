@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Предлагаем <a href="http://www.srubovik.ru" target="_blank" title="Срубы домов и бань недорого">срубы домов</a> из Костромской области'; include '../view.php';

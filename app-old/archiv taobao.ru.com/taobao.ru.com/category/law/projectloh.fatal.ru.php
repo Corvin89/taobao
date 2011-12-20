@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.projectloh.fatal.ru">www.ProjectLOH.fatal.ru</a>- Это первый сайт в сети Интернет про Лохов, а также авторские mp3-приколы, интересные статьи и еще куча всего интересного!</a>'; include '../view.php';

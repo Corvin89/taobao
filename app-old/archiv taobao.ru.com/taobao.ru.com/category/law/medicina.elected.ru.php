@@ -1,0 +1,1 @@
+<?php $catalogLink = 'От производителей <a target="_blank" href="http://www.medicaltech.ru">медицинское оборудование, интернет аптека, здоровье, медицина</a> и товары для здоровья'; include '../view.php';

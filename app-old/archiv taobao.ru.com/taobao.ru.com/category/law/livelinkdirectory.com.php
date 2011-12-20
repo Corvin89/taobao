@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.livelinkdirectory.com">Live Link Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Информационный портал города Кубинка" href="http://kubinka.linksexchanger.ru"><img border="0" src="http://kubinka.linksexchanger.ru/images/baner.jpg" width="88" height="31"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://li-er-kovka.ru/>Литье и ковка - художественная ковка, флюгеры, поручни, балясины</a>'; include '../view.php';

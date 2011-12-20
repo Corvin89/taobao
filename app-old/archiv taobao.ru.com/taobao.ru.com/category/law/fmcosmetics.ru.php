@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Каталог сайтов портала FM Cosmetics" href="http://www.fmcosmetics.ru/content/cat/">Каталог сайтов портала FM Cosmetics</a>'; include '../view.php';

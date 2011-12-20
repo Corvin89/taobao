@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.netsbestscripts.com">Web Link Directory - Internet Site Resources and Information</a>'; include '../view.php';

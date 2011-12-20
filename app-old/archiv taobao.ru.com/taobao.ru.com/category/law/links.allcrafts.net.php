@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.allcrafts.net">AllCrafts.net - Free Crafts Network</a>'; include '../view.php';

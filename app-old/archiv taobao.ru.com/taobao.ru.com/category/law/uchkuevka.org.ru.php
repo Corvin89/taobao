@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.uchkuevka.com" target="_blank">Учкуевка: отдых в Севастополе</a>: пансионаты, санатории, гостиницы и отели Крыма'; include '../view.php';

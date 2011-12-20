@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fourhourworkweek-2.ru/" target="_blank">four hour work week -  ак заставить себ€ работать четыре часа в неделю?</a>'; include '../view.php';

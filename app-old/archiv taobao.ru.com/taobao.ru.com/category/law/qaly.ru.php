@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://qaly.ru">Обои для рабочего стола</a>'; include '../view.php';

@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.bluefilters.ua" target="_blank">Фильтры для воды Bluefilters</a><br>
+Фильтры для воды немецко-польского производства. Системы обратного осмоса. Гарантия и сервис. Оптовая и розничная продажа<br><a href="http://www.bluefilters.ua" target="_blank" style="font-size:smaller;color:gray;text-decoration:none;">http://www.bluefilters.ua</a>'; include '../view.php';

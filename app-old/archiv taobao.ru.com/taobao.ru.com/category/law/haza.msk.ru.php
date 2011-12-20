@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://haza.msk.ru">доска бесплатных объ€влени€ недвижимости</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://yandex.ru/cy?base=0&host=free-wst.ru"><img src="http://www.yandex.ru/cycounter?free-wst.ru" width="88" height="31" alt="Яндекс цитирования" border="0" /></a>   <a href="http://free-wst.ru">Бесплатные html css шаблоны сайтов, шаблоны  Joomla, шаблоны и темы Drupal,  WordPress</a></p>'; include '../view.php';

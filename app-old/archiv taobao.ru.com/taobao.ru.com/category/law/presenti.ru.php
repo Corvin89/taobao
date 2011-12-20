@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://presenti.ru/">≈жедневники Brunnen</a>- (495)744-57-09 сайт. <a href="http://presenti.ru/">www.presenti.ru </a>'; include '../view.php';

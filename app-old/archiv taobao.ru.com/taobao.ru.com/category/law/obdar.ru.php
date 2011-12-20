@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Бесплатная <a href="http://www.obdar.ru/">доска объявлений</a>, частные объявления, куплю-продам.'; include '../view.php';

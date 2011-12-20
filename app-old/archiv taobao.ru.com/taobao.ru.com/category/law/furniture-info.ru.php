@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.furniture-info.ru/">надувная мебель, мебельщик</a>, <a href="http://www.furniture-info.ru/articles/">Статьи про мебель</a>'; include '../view.php';

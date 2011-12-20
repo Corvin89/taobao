@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gorod62.com" target="_blank">Отдых в Рязани</a> - Туры на море'; include '../view.php';

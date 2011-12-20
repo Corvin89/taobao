@@ -1,0 +1,1 @@
+<?php $catalogLink = 'тур фирмы, путевки, <a href="http://www.tour.nsty.ru">горящие туры</a>, отели турции, египет, испания туры'; include '../view.php';

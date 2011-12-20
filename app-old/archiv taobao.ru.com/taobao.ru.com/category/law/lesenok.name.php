@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Прикольный личный сайт <a href="http://lesenok.name">Лесенок</a>. Его сделал её парень =) и каждый день пишет ей сообщения... И домен красивый lesenok.name'; include '../view.php';

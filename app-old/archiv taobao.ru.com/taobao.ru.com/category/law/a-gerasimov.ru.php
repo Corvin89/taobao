@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.a-gerasimov.ru" target="_blank"><img src="http://www.a-gerasimov.ru/img/banners/a-gerasimov.gif" alt="Свадебный тамада Александр Герасимов" width="88" height="31" border="0"></a>'; include '../view.php';

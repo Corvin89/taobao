@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.urlcabin.com/">urlCabin</a<'; include '../view.php';

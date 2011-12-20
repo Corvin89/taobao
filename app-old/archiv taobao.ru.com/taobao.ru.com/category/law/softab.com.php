@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.softab.com"><b>Seasonale</b></a>
+<br> Seasonale birth control pills, as well as most other forms of birth control pills, available at Softab.com.'; include '../view.php';

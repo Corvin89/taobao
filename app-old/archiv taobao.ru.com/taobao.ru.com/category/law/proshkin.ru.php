@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Документация для строителей, <a href="www.remgost.ru" target="_blank">госты</a>, санпины для строительства'; include '../view.php';

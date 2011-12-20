@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.anatomey.ru">Справочник медицины- анатомия</a>'; include '../view.php';

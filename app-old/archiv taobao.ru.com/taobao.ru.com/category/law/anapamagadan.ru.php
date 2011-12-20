@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://anapamagadan.ru" target="_blank" >Отдых в Анапе в пансионате Магадан.</a>'; include '../view.php';

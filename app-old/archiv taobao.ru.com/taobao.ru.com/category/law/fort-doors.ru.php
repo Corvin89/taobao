@@ -1,0 +1,1 @@
+<?php $catalogLink = 'ООО "Форт" это <a href="http://www.fort-doors.ru">дверь металлическая балашиха</a> и скидки и гарантии!'; include '../view.php';

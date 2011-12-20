@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.TheOnlineGuitarDirectory.com" id="R5F3B06">The Online Guitar Directory</a>'; include '../view.php';

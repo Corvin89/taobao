@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.evelen.ru" target="_blank">Взрывозащищенная пожарная автоматика</A>'; include '../view.php';

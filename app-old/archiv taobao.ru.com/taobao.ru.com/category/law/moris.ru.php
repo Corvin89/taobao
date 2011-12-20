@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.moris.ru">Саранск, Мордовия - ведущий портал Республики</a>'; include '../view.php';

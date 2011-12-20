@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.alternativemedicinecare.net" id="RD14DCF">Complementary Alternative Medicine</a>- Alternative Medicine, Acupuncture, Acupressure, Clinics, Herbs Products Web Guide'; include '../view.php';

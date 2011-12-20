@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href=Фhttp://www.nuskin-rus.ruФ  title=ФNuSkinФ>¬озвращаем молодость и красоту за 15 минут! Ќе верите? ѕроверьте! Nu Skin!</a></p>'; include '../view.php';

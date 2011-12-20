@@ -1,0 +1,1 @@
+<?php $catalogLink = 'У вас есть возможность купить со скидкой <a href="http://www.taun.ru/" target="_blank">пластиковые окна</a>.'; include '../view.php';

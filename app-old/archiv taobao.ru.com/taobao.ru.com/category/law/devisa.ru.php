@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://devisa.ru">визы в германию</a>'; include '../view.php';

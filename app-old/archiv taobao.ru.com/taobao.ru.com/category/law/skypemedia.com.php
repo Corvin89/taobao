@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.skypemedia.com" id="RBFDA28">Skype Media Web Directory</a>'; include '../view.php';

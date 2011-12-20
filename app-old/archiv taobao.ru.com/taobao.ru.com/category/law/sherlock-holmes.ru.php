@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Заказать <a href="http://www.sherlock-holmes.ru"> музыкальный коллектив на свадьбу </a> в Москве.'; include '../view.php';

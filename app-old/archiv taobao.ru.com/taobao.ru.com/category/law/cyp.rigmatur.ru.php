@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cyp.rigmatur.ru/"><img border="0" src="http://cyp.rigmatur.ru/banner.gif" width="88" height="31" alt="ќтдых и туры на  ипр"></a>'; include '../view.php';

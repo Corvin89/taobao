@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://www.free-asp-hosting.com.ru/"><b>Free ASP Web Hosting Directory : ASP .NET Web Hosts Reviews</b></a><br>The guide to free ASP .NET web hosting providers with reviews of their services, visitors ratings and more.</p>'; include '../view.php';

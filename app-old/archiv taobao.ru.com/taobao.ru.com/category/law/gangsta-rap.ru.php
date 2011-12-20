@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a title="Hip Hop портал Gangsta рэп культуры - Gangsta Rap" href="http://www.gangsta-rap.ru" target="_blank">
+<img alt="Hip Hop портал Gangsta рэп культуры - Gangsta Rap"  src="http://www.gangsta-rap.ru/banner.gif" border="0"></a>'; include '../view.php';

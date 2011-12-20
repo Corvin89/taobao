@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://links.pascalturbo.net">Turbo Pascal для начинающих</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://journal.miss-ok.ru/" target="_top" title="Статьи, заметки на различные темы">Электронный женский журнал MISS-OK.RU</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://index1.se">Index1.se: SMSa -> Vi lankar</a>'; include '../view.php';

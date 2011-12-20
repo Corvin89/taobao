@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Аренда: <a href="http://www.partnersearch.ru/dogovor/65/016.php">договор на квартиру</a> - образец на сайте www.partnersearch.ru'; include '../view.php';

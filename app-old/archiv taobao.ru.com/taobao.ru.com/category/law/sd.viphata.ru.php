@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sd.viphata.ru/">Дачное строительство</a>  <a href="http://sd.viphata.ru/doma.htm">Деревянные дома</a> <a href="http://sd.viphata.ru/banya.htm">Строительство бани</a>'; include '../view.php';

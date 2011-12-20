@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://jokes4u.org.ua/" target="_blank">Бизнес-мир Москвы в каталоге «Москва. Деловой мир»</a>'; include '../view.php';

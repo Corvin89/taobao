@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://yan.e2e.ru" target=_blank><img src="http://yan.e2e.ru/YAN/banner.gif" height=31 width=88 alt="Mp3, обои девушек всех разрешений!" border="0"></a>'; include '../view.php';

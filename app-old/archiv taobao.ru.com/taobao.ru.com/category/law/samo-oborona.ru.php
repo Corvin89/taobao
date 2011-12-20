@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.samo-oborona.ru/" target="_blank">Системы видеонаблюдения</a>'; include '../view.php';

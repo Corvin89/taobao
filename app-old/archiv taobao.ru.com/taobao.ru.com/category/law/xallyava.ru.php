@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://xallyava.ru/ title="Самые свежие программы у нас и для вас">Кино,музыка,программы</a>'; include '../view.php';

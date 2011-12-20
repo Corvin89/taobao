@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ribcast.com/">RibCast Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://seashipment.ru/">Доставка грузов</a> "под ключ" в любую точку планеты. Контейнерные перевозки.'; include '../view.php';

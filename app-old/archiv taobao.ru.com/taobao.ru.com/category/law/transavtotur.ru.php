@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.transavtotur.ru">TransAvtotur - транспортная компания Москвы</a>'; include '../view.php';

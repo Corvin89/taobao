@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Предлагаем <a href="http://www.ws-connect.ru" title="Разработка дизайна сайта" target="blank">Создание сайтов под ключ</a>, Разработка дизайна сайта'; include '../view.php';

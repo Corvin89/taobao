@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.bargaining.ru">Сущность и функции финансов</a><a href="http://www.bargaining.ru/finans_funpre.shtml">Финансы  предприятий функции финансов</a>'; include '../view.php';

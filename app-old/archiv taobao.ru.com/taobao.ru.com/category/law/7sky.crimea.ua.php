@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.7nebo.crimea.ua" target="_blank">отель <em>Седьмое Небо</em>: Алушта, Утес</a>'; include '../view.php';

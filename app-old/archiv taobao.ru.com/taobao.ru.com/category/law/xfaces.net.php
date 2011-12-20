@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.xfaces.net">Face Web Directory</a>'; include '../view.php';

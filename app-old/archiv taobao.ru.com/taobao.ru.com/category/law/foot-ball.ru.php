@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.foot-ball.ru/other/yell/'>Кричалки</a>, <a href='http://www.foot-ball.ru/'>сборная по футболу, чемпионат по футболу, история футбола</a>'; include '../view.php';

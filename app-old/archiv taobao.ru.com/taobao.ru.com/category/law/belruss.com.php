@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://belruss.com">Русские сочинения</a>'; include '../view.php';

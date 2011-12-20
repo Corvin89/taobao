@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a title="Cyprus car hire" href="http://www.cyprusvillascypruscars.com/"><b>Car hire Cyprus </a></b>Book cheap car hire in Cyprus online</b></p>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Электронная <a href="http://www.joni.ru/">библиотека учебных материалов</a> для студентов и абитуриентов.'; include '../view.php';

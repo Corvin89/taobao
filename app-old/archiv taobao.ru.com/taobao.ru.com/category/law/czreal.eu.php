@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Чешская компания Remmer предлагает жилую <a href="http://www.czreal.eu/nedvizhimost.html">недвижимость в Праге</a>, а также помощь при оформлении ипотеки в чешских банках.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://adventistworld.narod.ru">adventistworld.narod.ru</a>'; include '../view.php';

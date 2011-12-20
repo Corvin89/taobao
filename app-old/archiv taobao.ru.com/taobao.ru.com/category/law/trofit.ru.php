@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Лучшие моменты <a href="http://www.trofit.ru">http://www.trofit.ru</a> авторское фото.'; include '../view.php';

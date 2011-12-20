@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!-- www.studiowebd.ru --><a href="http://www.studiowebd.ru"><img src="http://www.studiowebd.ru/izo/studiowebd.png" width="88" height="31" alt="www.studiowebd.ru - разработка и раскрутка сайтов" title="www.studiowebd.ru - разработка и раскрутка сайтов" border="0"></a><!-- www.studiowebd.ru -->'; include '../view.php';

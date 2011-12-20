@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.index-ro.com/">Index al Firmelor Romanesti</a>'; include '../view.php';

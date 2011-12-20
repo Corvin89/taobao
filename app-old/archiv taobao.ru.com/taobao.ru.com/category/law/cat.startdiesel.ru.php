@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://carstalk.ru/index.php" target="_blank">Автофорум</a> CarsTalk. <a href="http://cat.startdiesel.ru/add.php?cat=%3C%cat%%3E" target="_blank">Добвить сайт</a> в каталог сайтов. <a href="http://freedomen.ru/hosting.shtml?" target="_top" title="хостись у нас">Хостинг в Москве</a> потянет Ваш ресурс.'; include '../view.php';

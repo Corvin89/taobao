@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Создание, разработка и раскрутка сайтов, Красноярск, интернет каталог сайтов" href="http://www.krasinsite.ru" target="_blank"><img src="http://krasinsite.ru/krasinsite88x31.gif" width="88" height="31" border="0" alt="Создание сайтов Красноярск" /></a>'; include '../view.php';

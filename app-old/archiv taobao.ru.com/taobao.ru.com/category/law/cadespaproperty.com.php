@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cadespaproperty.com/">Недвижимость в Испании Коста Брава</a> - Компания Cadespa с радостью поможет Вам в покупке <a href="http://www.cadespaproperty.com/servicios/lacompra.shtml">квартиры в Испании</a>, виллы у моря, а также оформить сделку купли-продажи на физическое или юридическое лицо.'; include '../view.php';

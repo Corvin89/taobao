@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.blackterier.ru/">щенки русский черный терьер питомник из Переделкино http://www.blackterier.ru/</a>'; include '../view.php';

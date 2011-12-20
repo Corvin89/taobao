@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dirtoplinks.com">Manually Edited Web Directory With Free Listings</a>'; include '../view.php';

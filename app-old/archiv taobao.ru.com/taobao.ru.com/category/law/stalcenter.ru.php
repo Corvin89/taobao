@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Подборка сайтов предоставляющие <a href=" http://www.stalcenter.ru/catalog/hosting1.htm">Хостинг</a>'; include '../view.php';

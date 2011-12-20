@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://mebel.shop.of.by/>Шкаф-купе. Производство корпусной мебели.</a>'; include '../view.php';

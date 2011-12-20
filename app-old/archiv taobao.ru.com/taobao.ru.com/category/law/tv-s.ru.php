@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Безопасная <a href=http://restnonstop.ru/content/view/116/34/ target=_blank>аренда автомобиля на Кипре</a>'; include '../view.php';

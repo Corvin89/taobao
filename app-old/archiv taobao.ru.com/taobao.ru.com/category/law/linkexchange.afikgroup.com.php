@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.afikgroup.com/">North Cyprus Properties</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.HGTechDirectory.com/">Link Exchange Web Directory: Suggest URL, Add Reciprocal Link Exchange</a>'; include '../view.php';

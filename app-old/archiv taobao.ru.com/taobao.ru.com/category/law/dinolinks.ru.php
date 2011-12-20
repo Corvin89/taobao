@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://dinolinks.ru"><img src="http://dinolinks.ru/dino.gif" height="31" width="88" border="0" alt="Размещение прямых ссылок в каталоге ссылок. Информация про динозавров."></a>'; include '../view.php';

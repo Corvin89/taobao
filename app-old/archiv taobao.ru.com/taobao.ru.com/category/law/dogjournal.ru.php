@@ -1,0 +1,1 @@
+<?php $catalogLink = '»меть самую маленькую собачку мира <a href="http://www.dogjournal.ru/">чихуахуа</a> Ч это модно!'; include '../view.php';

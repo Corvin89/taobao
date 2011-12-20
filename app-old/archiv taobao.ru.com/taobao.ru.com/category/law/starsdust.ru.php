@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Многопородный <a href="http://turbolamazoid.narod.ru">питомник джек рассел терьеров</a> , всё о выращивании.'; include '../view.php';

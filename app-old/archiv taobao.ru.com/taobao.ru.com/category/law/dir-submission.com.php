@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dir-submission.com" id="REAA0D3">Seo friendly directory</a>'; include '../view.php';

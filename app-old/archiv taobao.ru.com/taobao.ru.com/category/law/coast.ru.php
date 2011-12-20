@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.coast.ru"><img src="http://www.coast.ru/banners/gelendzhik.gif" width="88" height="31" vspace="0" border="0" alt="Геленджик Лучший отдых на Черном море. Информационно-развлекательный сервер курорта Геленджик"></a>'; include '../view.php';

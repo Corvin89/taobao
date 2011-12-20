@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Фото обои девушки на Veresk.net -  <a href="http://www.veresk.net">фото </a>, <a href="http://www.veresk.net">знаменитости, фото знаменитостей</a>, <a href="http://www.veresk.net">эротические фото</a>'; include '../view.php';

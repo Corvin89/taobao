@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sadvash.ru/" target="_blank" title="Сад Ваш - о саде"><b>Сад Ваш</b> - сайт о саде, огороде и приусадебном хозяйстве.</a>'; include '../view.php';

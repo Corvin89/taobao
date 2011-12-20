@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.starogo.net"><img src="http://www.starogo.net/banner-88x31_1.gif" alt="Каталог ссылок. Информационный портал - Старого.NET" width="88" height="31" border="0"></a>'; include '../view.php';

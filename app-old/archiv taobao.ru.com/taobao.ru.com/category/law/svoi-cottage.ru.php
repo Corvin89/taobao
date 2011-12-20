@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://svoi-cottage.ru/" target="_blank">Строительство загородного дома. Строительство коттеджа, дач.  Свой коттедж.</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Createweb.info <a href=http://www.createweb.info>Разработка сайтов, хостинг сайтов</a>'; include '../view.php';

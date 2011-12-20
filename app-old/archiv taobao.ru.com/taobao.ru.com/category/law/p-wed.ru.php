@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.p-wed.ru/" target="_blank"><img height="31" width="88" border="0" alt="Организация и проведение свадеб" src="http://www.p-wed.ru/img/gif/p-wed.gif"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://link.wdvd.biz/">Корисні ссилки</a></p>'; include '../view.php';

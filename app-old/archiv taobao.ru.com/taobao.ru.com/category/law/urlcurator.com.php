@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.urlcurator.com/">url curator</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.4adultdating.com/"><b>Adult Dating</b></a><br>4AdultDating.com is perfect for anyone looking to meet new friends for dating, cyberchat, a discreet relationship, sex, kinky fetishes or even a life long relationship! Whatever your interest(s), find your perfect match or person(s) with your similar inte'; include '../view.php';

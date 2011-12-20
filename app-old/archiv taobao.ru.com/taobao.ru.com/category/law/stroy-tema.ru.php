@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.stroy-tema.ru>финские двери, межкомнатные двери Краснодеревщик, Арболеда, Д.Крафт</a>'; include '../view.php';

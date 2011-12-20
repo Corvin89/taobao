@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kloynada.ru/">организаци€ детских праздников</a>, <a href="http://www.kloynada.ru/">клоуны</a>, они же <a href="http://www.kloynada.ru/">мор€чки</a> от  лоунада.ру.'; include '../view.php';

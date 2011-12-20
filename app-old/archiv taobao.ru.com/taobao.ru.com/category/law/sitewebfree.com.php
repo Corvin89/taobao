@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.chinaexportdaily.com/category/wto">WTO World Trade Organization</a>'; include '../view.php';

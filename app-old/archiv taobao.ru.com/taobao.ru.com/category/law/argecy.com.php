@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href='http://www.argecy.com/'>Argecy Computer Corporation.</a><br>
+Lifetime sales and support of new refurbished commercial computing equipment since 1985.'; include '../view.php';

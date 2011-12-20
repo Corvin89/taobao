@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sanitary.com.ru"> Сантехника китайская в ассортименте. От смесителя до элитной ванны.Сантехника китайская в ассортименте. От смесителя до элитной ванны.  WEB:  http://sanitary.com.ru </a>'; include '../view.php';

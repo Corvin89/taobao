@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.strikerwebdir.info/">Striker Web Dir</a>'; include '../view.php';

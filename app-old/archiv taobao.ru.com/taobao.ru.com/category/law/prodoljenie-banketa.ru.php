@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.prodoljenie-banketa.ru" target="_blank"><img border="0" src="http://www.prodoljenie-banketa.ru/banner.gif" alt="Организация и проведение свадеб, корпоративных праздников, дискотек. Ведущий, ди-джей, артисты всех жанров на Вашем празднике." width="88" height="31"></a>'; include '../view.php';

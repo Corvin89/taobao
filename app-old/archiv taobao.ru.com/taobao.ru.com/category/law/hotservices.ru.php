@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://hotservices.ru/">Купить, продать, обменять. Объявления</a>'; include '../view.php';

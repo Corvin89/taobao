@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.directxs.org">DirectXS Web directory</a>'; include '../view.php';

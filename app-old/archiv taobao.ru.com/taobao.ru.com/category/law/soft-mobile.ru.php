@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A title="Купить Bluetooth гарнитура" href="http://www.soft-mobile.ru/">Софт для мобильных. Bluetooth гарнитура</a>'; include '../view.php';

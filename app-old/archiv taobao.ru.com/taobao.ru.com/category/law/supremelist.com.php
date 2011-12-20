@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.supremelist.com/">Supremelist free advertising use our responsive safelist advertising system!</a>'; include '../view.php';

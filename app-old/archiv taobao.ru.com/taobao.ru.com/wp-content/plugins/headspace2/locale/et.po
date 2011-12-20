@@ -1,0 +1,1768 @@
+# Meta-data manager, allowing complete control over meta-data such as keywords/tags, title, description, stylesheets, and other goodies.  The data inserted can be static text, or pulled dynamically from the details of the post.
+# Copyright (C) 2007 John Godley
+# This file is distributed under the same license as the HeadSpace2 package.
+# John Godley, http://urbangiraffe.com/, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HeadSpace2 ET\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-16 22:22+0200\n"
+"PO-Revision-Date: 2010-01-23 23:51+0200\n"
+"Last-Translator: Lembit Kivisik <lembit@designux.com>\n"
+"Language-Team: Lembit Kivisik <lembit@designux.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Estonian\n"
+"X-Poedit-Country: ESTONIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../headspace.php:92
+msgid "Settings"
+msgstr "Seaded"
+
+#: ../headspace.php:99
+#: ../headspace.php:151
+#: ../headspace.php:483
+#: ../headspace.php:484
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: ../headspace.php:152
+msgid "Meta-data"
+msgstr "Metaandmed"
+
+#: ../headspace.php:296
+msgid "<code>wp_head</code> was not found in <code>header.php</code> (<a href=\"http://codex.wordpress.org/Hook_Reference/wp_head\">documentation</a>)"
+msgstr "<code>wp_head</code> funktsiooni ei leitud failis <code>header.php</code> (<a href=\"http://codex.wordpress.org/Hook_Reference/wp_head\">dokumentatsioon</a>)"
+
+#: ../headspace.php:303
+msgid "<code>wp_footer</code> was not found in <code>footer.php</code> (<a href=\"http://codex.wordpress.org/Theme_Development\">documentation</a>)"
+msgstr "<code>wp_footer</code> funktsiooni ei leitud failis <code>footer.php</code>  (<a href=\"http://codex.wordpress.org/Theme_Development\">dokumentatsioon</a>)"
+
+#: ../headspace.php:331
+msgid "The HeadSpace administration interface is now WordPress 2.3+ only.  Your meta-data will continue to function but you should either upgrade your WordPress or downgrade HeadSpace."
+msgstr "HeadSpace haldusliides toetab nüüd ainult WordPressi versioone 2.3 ja uuemaid. Metaandmed on alles ja saidil kasutusel, kuid peaksid uuendama oma WordPressi või installima vanema HeadSpace versiooni."
+
+#: ../headspace.php:395
+msgid "Posts successfully updated"
+msgstr "Postitused edukalt uuendatud"
+
+#: ../headspace.php:434
+msgid "Your options have been updated"
+msgstr "Seaded salvestatud"
+
+#: ../headspace.php:440
+msgid "HeadSpace has been removed"
+msgstr "HeadSpace on eemaldatud"
+
+#: ../headspace.php:474
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "%d ühikut imporditi pluginast %s"
+
+#: ../headspace.php:485
+msgid "Tags"
+msgstr "Sildid"
+
+# Doesn't show in UI
+# It's a bug in 'headspace2/models/headspace.php' line 96
+#: ../headspace.php:571
+msgid "HeadSpace Help"
+msgstr "HeadSpace abiinfo"
+
+#: ../headspace.php:572
+msgid "HeadSpace Documentation"
+msgstr "HeadSpace dokumentatsioon"
+
+#: ../headspace.php:573
+msgid "HeadSpace Support Forum"
+msgstr "HeadSpace foorum"
+
+#: ../headspace.php:574
+msgid "HeadSpace Bug Tracker"
+msgstr "HeadSpace <em>bug tracker</em>"
+
+#: ../headspace.php:575
+msgid "HeadSpace FAQ"
+msgstr "HeadSpace KKK"
+
+#: ../headspace.php:576
+msgid "Please read the documentation and FAQ, and check the bug tracker, before asking a question."
+msgstr "Palun tutvu dokumentatsiooni, KKK ning <em>bug tracker</em>'iga, enne, kui teatad veast või pöördud autori poole."
+
+#: ../models/headspace.php:94
+msgid "Global Settings"
+msgstr "Üldine"
+
+#: ../models/headspace.php:94
+msgid "applied to everything unless otherwise specified"
+msgstr "rakendatakse kõigile lehtedele"
+
+#: ../models/headspace.php:95
+msgid "Home Page"
+msgstr "Esileht"
+
+#: ../models/headspace.php:95
+msgid "applied to the home page (or blog page)"
+msgstr "rakendatakse esilehele"
+
+#: ../models/headspace.php:96
+msgid "Front Page"
+msgstr "Staatiline esileht"
+
+# Doesn't show in UI
+# It's a bug in 'headspace2/models/headspace.php' line 96
+#: ../models/headspace.php:96
+msgid "applied to front page (if you have set WordPress to use a static page)"
+msgstr "rakendatakse, kui esileht näitab staatilist lehte (vt. <em>Seaded > Lugemisseaded</em >)"
+
+#: ../models/headspace.php:97
+msgid "Taxonomy Archives"
+msgstr "Sildiarhiiv"
+
+#: ../models/headspace.php:97
+msgid "applied when viewing a taxonomy archive"
+msgstr "rakendatakse sildiarhiivide lehtedele"
+
+#: ../models/headspace.php:108
+msgid "Taxonomy Archives - "
+msgstr "Sildiarhiiv - "
+
+#: ../models/headspace.php:108
+msgid "applied when viewing a taxonomy archive for the "
+msgstr "rakendatakse sildiarhiivide lehtedele"
+
+#: ../models/headspace.php:113
+msgid "Archives"
+msgstr "Arhiiv"
+
+#: ../models/headspace.php:113
+msgid "applied when viewing the archives"
+msgstr "rakendatakse arhiivide lehtedele"
+
+#: ../models/headspace.php:114
+msgid "Categories"
+msgstr "Rubriigid"
+
+#: ../models/headspace.php:114
+msgid "applied to category pages without specific settings"
+msgstr "rakendatakse rubriikide lehtedele"
+
+#: ../models/headspace.php:115
+msgid "Posts"
+msgstr "Postitused"
+
+#: ../models/headspace.php:115
+msgid "applied to posts without specific settings"
+msgstr "rakendatakse postitustele"
+
+#: ../models/headspace.php:116
+msgid "Pages"
+msgstr "Lehed"
+
+#: ../models/headspace.php:116
+msgid "applied to pages without specific settings"
+msgstr "rakendatakse lehtedele"
+
+#: ../models/headspace.php:117
+msgid "Author Pages"
+msgstr "Autoriarhiiv"
+
+#: ../models/headspace.php:117
+msgid "applied to author pages"
+msgstr "rakendatakse autorite lehtedele"
+
+#: ../models/headspace.php:118
+msgid "Search Pages"
+msgstr "Otsing"
+
+#: ../models/headspace.php:118
+msgid "applied when viewing search results"
+msgstr "rakendatakse otsingutulemuste lehtedele"
+
+#: ../models/headspace.php:119
+msgid "404 Page"
+msgstr "404 vealeht"
+
+#: ../models/headspace.php:119
+msgid "applied when viewing a 404 error"
+msgstr "rakendatakse HTTP 404 ('ei leitud') vealehele"
+
+#: ../models/headspace.php:120
+msgid "Tag Pages"
+msgstr "Sildilehed"
+
+#: ../models/headspace.php:120
+msgid "applied when viewing tag pages"
+msgstr "rakendatakse siltide lehtedele"
+
+# Doesn't show in UI
+# It's a bug in 'headspace2/models/headspace.php' line 121
+#: ../models/headspace.php:121
+msgid "Attachment Pages"
+msgstr "Manuselehed"
+
+#: ../models/headspace.php:121
+msgid "applied when viewing an attachment"
+msgstr "rakendatakse manuste (meediafailide) lehtedele"
+
+#: ../models/headspace.php:122
+msgid "Login Pages"
+msgstr "Halduslehed"
+
+#: ../models/headspace.php:122
+msgid "applied when viewing login, logout, or registration pages"
+msgstr "rakendatakse sisse- ja väljalogimise ning registreerumise lehtedele"
+
+#: ../models/inline_tags.php:348
+#, php-format
+msgid "page %d of %d"
+msgstr "lk %d / %d"
+
+#: ../models/pager.php:380
+msgid "Previous"
+msgstr "Eelmised"
+
+#: ../models/pager.php:381
+msgid "Next"
+msgstr "Järgmised"
+
+#: ../models/pager.php:434
+#, php-format
+msgid "%d per-page"
+msgstr "%d / lk"
+
+#: ../models/pager.php:442
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Kuvatakse %s&#8211;%s %s-st"
+
+#: ../modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: ../modules/import/headspace_tags.php:28
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "HeadSpace sildid (teisenda WordPress 2.3+ siltideks)"
+
+#: ../modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "Head META Description"
+
+#: ../modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "Jerome's Keywords"
+
+#: ../modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: ../modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "More Unique"
+
+#: ../modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "SEO Titel Tags"
+
+#: ../modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "Simple Tagging"
+
+#: ../modules/import/simple-tags.php:28
+msgid "Simple Tags (old version)"
+msgstr "Simple Tags (old version)"
+
+#: ../modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "Ultimate Tag Warrior"
+
+#: ../modules/mass/description.php:28
+#: ../modules/mass/description.php:50
+msgid "Page description"
+msgstr "Meta kirjeldus"
+
+#: ../modules/mass/description.php:49
+#: ../modules/mass/more_text.php:49
+#: ../modules/mass/page_slug.php:49
+#: ../modules/mass/page_title.php:49
+#: ../modules/mass/site_description.php:49
+#: ../modules/mass/site_name.php:49
+#: ../modules/mass/tags.php:49
+msgid "Post title"
+msgstr "Pealkiri"
+
+#: ../modules/mass/more_text.php:28
+#: ../modules/mass/more_text.php:50
+msgid "More text"
+msgstr "'More' tekst"
+
+#: ../modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "Lühikirjeldus (slug)"
+
+#: ../modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "Lühikirjeldus (slug)"
+
+#: ../modules/mass/page_title.php:28
+#: ../modules/mass/page_title.php:50
+msgid "Page title"
+msgstr "Kohandatud pealkiri"
+
+#: ../modules/mass/site_description.php:28
+#: ../modules/mass/site_description.php:50
+msgid "Site description"
+msgstr "Saidi kirjeldus"
+
+#: ../modules/mass/site_name.php:28
+#: ../modules/mass/site_name.php:50
+msgid "Site name"
+msgstr "Saidi nimi"
+
+#: ../modules/mass/tags.php:50
+msgid "Tags/keywords"
+msgstr "Sildid / võtmesõnad"
+
+#: ../modules/page/custom.php:44
+msgid "Custom data"
+msgstr "Kohandatud andmed (<a href=\"http://bit.ly/1P2zsr\" target=\"_blank\" title=\"Urban Giraffe Support - How to use Custom data\">?</a>)"
+
+#: ../modules/page/custom.php:48
+msgid "Allows custom data to be inserted anywhere in your theme using MetaData::custom ()"
+msgstr "Globaalne seade: võimaldab kohandatud metaandmete lisamist teemasse (mallidesse), kasutades MetaData::get_custom()"
+
+#: ../modules/page/custom.php:85
+msgid "Fields"
+msgstr "Väljad"
+
+#: ../modules/page/description.php:59
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "Võimaldab meta kirjelduse lisamist lehtedele – seda kasutavad ja kuvavad otsingumootorid"
+
+#: ../modules/page/description.php:67
+#: ../modules/page/keywords.php:81
+#: ../modules/page/page_title.php:151
+msgid "Max length"
+msgstr "Maks. pikkus"
+
+#: ../modules/page/description.php:70
+msgid "All descriptions will be trimmed to this length"
+msgstr "Kirjelduste maksimaalne pikkus"
+
+#: ../modules/page/description.php:88
+msgid "Description"
+msgstr "Meta kirjeldus"
+
+#: ../modules/page/description.php:97
+#: ../modules/page/keywords.php:116
+#: ../modules/page/page_title.php:185
+msgid "remaining"
+msgstr "veel"
+
+#: ../modules/page/follow-links.php:32
+msgid "Archive Links"
+msgstr "Arhiiviviited"
+
+#: ../modules/page/follow-links.php:33
+msgid "Category Links"
+msgstr "Rubriigiviited"
+
+#: ../modules/page/follow-links.php:34
+#: ../modules/page/page-links.php:146
+msgid "Page Links"
+msgstr "Leheviited"
+
+#: ../modules/page/follow-links.php:35
+msgid "Tag Links"
+msgstr "Sildiviited"
+
+#: ../modules/page/follow-links.php:36
+msgid "Comm. Author Links"
+msgstr "Komm. autorite viited"
+
+#: ../modules/page/follow-links.php:37
+msgid "Comm. Text Links"
+msgstr "Viited komm. tekstis"
+
+#: ../modules/page/follow-links.php:38
+msgid "Next/Prev Posts Link"
+msgstr "Eelmise / järgmise postituse viited"
+
+#: ../modules/page/follow-links.php:109
+msgid "Follow Links"
+msgstr "Viidete <code>follow</code> omadus"
+
+#: ../modules/page/follow-links.php:113
+msgid "Allows follow/no-follow to be set for various links"
+msgstr "Võimaldab follow/no-follow atribuudi lisamist viidetele – juhiseks otsingumootoritele"
+
+#: ../modules/page/follow-links.php:121
+msgid "Follow"
+msgstr "<em>Follow</em>"
+
+#: ../modules/page/follow-links.php:122
+#: ../modules/page/noindex.php:36
+msgid "No-follow"
+msgstr "<em>No-follow</em>"
+
+#: ../modules/page/follow-links.php:123
+msgid "Default"
+msgstr "vaikimisi"
+
+#: ../modules/page/javascript.php:45
+#: ../modules/page/javascript.php:60
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: ../modules/page/javascript.php:49
+msgid "Allow external JavaScript files to be referenced"
+msgstr "Võimaldab lisada JavaScripti skripte eraldi üksikutele lehtedele"
+
+#: ../modules/page/keywords.php:62
+#: ../modules/page/keywords.php:107
+msgid "Keywords"
+msgstr "Võtmesõnad"
+
+# (if necessary, disable keyword display in the Tags module)
+#: ../modules/page/keywords.php:66
+msgid "Allows meta keywords to be defined, seperate from tags (if necessary, disable keyword display in the Tags module)"
+msgstr "Võimaldab meta võtmesõnade lisamist siltidest sõltumatult"
+
+#: ../modules/page/keywords.php:74
+msgid "Use tags"
+msgstr "Kasuta silte"
+
+#: ../modules/page/keywords.php:77
+msgid "Checking this will mean that your tags are also used as keywords and you will not be able to modify keywords independently"
+msgstr "Märkides selle valiku, kasutatakse meta võtmesõnadena silte <em>(tags)</em> ja sa ei saa neid eraldi hallata"
+
+#: ../modules/page/keywords.php:84
+msgid "Keywords will be trimmed to this length"
+msgstr "Meta võtmesõnade maksimaalne kogupikkus (soovituslik, ületamisel kuvatakse hoiatus halduslehtedel)"
+
+#: ../modules/page/more_text.php:85
+msgid "Allows the 'more' text to be changed"
+msgstr "Võimaldab 'more' e. 'loe edasi' teksti muutmist"
+
+#: ../modules/page/more_text.php:118
+msgid "Enable on excerpts"
+msgstr "Luba väljavõtetes"
+
+#: ../modules/page/more_text.php:124
+msgid "Pattern"
+msgstr "Regulaaravaldis"
+
+#: ../modules/page/more_text.php:127
+msgid "Advanced - the regular expression pattern to select the more link from your posts"
+msgstr "Peenseade – regulaaravaldis, mida kasutatakse <em>'more'</em> lingi tuvastamiseks postituste ja lehtede sisust"
+
+#: ../modules/page/more_text.php:131
+msgid "Replace"
+msgstr "Asenda"
+
+#: ../modules/page/more_text.php:133
+msgid "Advanced - the regular expression replacement text"
+msgstr "Peenseade – regulaaravaldis teostab asenduse, nagu siin määratud"
+
+#: ../modules/page/noindex.php:35
+msgid "No-index"
+msgstr "<em>No-index</em>"
+
+#: ../modules/page/noindex.php:37
+msgid "No-archive"
+msgstr "<em>No-archive</em>"
+
+#: ../modules/page/noindex.php:38
+msgid "No-ODP"
+msgstr "<em>No-ODP</em>"
+
+#: ../modules/page/noindex.php:39
+msgid "No-Yahoo Dir"
+msgstr "<em>No-Yahoo Dir</em>"
+
+#: ../modules/page/noindex.php:83
+#: ../modules/page/noindex.php:99
+msgid "Meta-Robots"
+msgstr "Meta-Robots (<a href=\"http://bit.ly/19dPkw\" target=\"_blank\" title=\"Wikipedia - Meta element - The robots attribute\">?</a>)"
+
+#: ../modules/page/noindex.php:87
+msgid "Allows various meta-robot options to be set to prevent search engines and robots from indexing or following pages"
+msgstr "Võimaldab meta-robots seadete kasutamist, keelamaks otsingumootorite robotitel lehe indekseerimise ja/või sel olevate linkide kaudu edasi liikumise"
+
+#: ../modules/page/page-links.php:150
+msgid "Allows options to be set for wp_list_pages links"
+msgstr "Globaalne seade: võimaldab wp_list_pages funktsiooni omaduste muutmist, mida kasutatakse eelkõige menüüde genereerimisel"
+
+#: ../modules/page/page-links.php:159
+msgid "Page Link Text"
+msgstr "Leheviite tekst"
+
+#: ../modules/page/page-links.php:164
+msgid "Page Link Title"
+msgstr "Leheviite pealkiri"
+
+#: ../modules/page/page-links.php:169
+msgid "Page Link Options"
+msgstr "Leheviite omadused"
+
+#: ../modules/page/page-links.php:171
+msgid "Exclude from list"
+msgstr "Jäta loenditest (menüüdest) välja"
+
+#: ../modules/page/page-links.php:172
+msgid "Nofollow"
+msgstr "<em>No-follow</em>"
+
+#: ../modules/page/page-links.php:173
+msgid "Open in new window"
+msgstr "Ava uues aknas"
+
+#: ../modules/page/page-links.php:204
+msgid "Display"
+msgstr "Viite HTML-kood"
+
+#: ../modules/page/page-links.php:207
+msgid "How a link is displayed. Use %link% for the link itself"
+msgstr "Muutuja %link% tähistab viidet ennast."
+
+#: ../modules/page/page-links.php:211
+msgid "Before HTML"
+msgstr "Viidete loendi eel"
+
+#: ../modules/page/page-links.php:214
+msgid "HTML added to start of list"
+msgstr "HTML, mis lisatakse viidete loendite (menüüd) ette"
+
+#: ../modules/page/page-links.php:218
+msgid "After HTML"
+msgstr "Viidete loendi järel"
+
+#: ../modules/page/page-links.php:221
+msgid "HTML added to end of list"
+msgstr "HTML, mis lisatakse viidete loendite (menüüd) järele"
+
+#: ../modules/page/page_title.php:115
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "Võimaldab lehe pealkirja muutmist (tekst brauserite ülaribal e. <title>)"
+
+#: ../modules/page/page_title.php:123
+msgid "Title separator"
+msgstr "Eraldaja"
+
+#: ../modules/page/page_title.php:126
+msgid "Leave blank to use theme default"
+msgstr "Jäta tühjaks, kasutamaks teema seadet"
+
+#: ../modules/page/page_title.php:130
+msgid "Separator position"
+msgstr "Eraldaja asukoht"
+
+#: ../modules/page/page_title.php:133
+msgid "Before"
+msgstr "enne"
+
+#: ../modules/page/page_title.php:134
+msgid "After"
+msgstr "peale"
+
+#: ../modules/page/page_title.php:139
+msgid "Force title rewrite"
+msgstr "Brute-force"
+
+#: ../modules/page/page_title.php:146
+msgid "This will cache your page and brute-force change the title.  While this is convienent because you don't need to change your theme it does lead to increased memory usage and a reduction in performance."
+msgstr "Puhverdab lehed ja jõustab kohandatud pealkirjad n-ö toore jõuga <em>(brute-force)</em>. Ehkki see võib olla mugav, sest sa ei pea muutma saidi teema faile, tõstab see serveri mälukasutust ning võib seega põhjustada jõudluse vähenemist."
+
+#: ../modules/page/page_title.php:176
+msgid "Page Title"
+msgstr "Kohandatud pealkiri"
+
+#: ../modules/page/plugin.php:89
+msgid "Page-specific Plugins"
+msgstr "Lehe-spetsiifilised pluginad"
+
+#: ../modules/page/plugin.php:93
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "Võimaldab kasutamata (mitteaktiivsete) pluginate aktiveerimist üksikutel lehtedel"
+
+# Lehe-spetsiifilised pluginad
+#: ../modules/page/plugin.php:107
+msgid "Show in admin"
+msgstr "Luba"
+
+#: ../modules/page/plugin.php:110
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "Näita pluginate valikut halduslehtedel"
+
+#: ../modules/page/plugin.php:134
+msgid "Plugins"
+msgstr "Pluginad"
+
+#: ../modules/page/raw-footer.php:44
+#: ../modules/page/raw-footer.php:54
+msgid "Raw footer data"
+msgstr "Kood/tekst <code>body</code> lõppu"
+
+#: ../modules/page/raw-footer.php:48
+msgid "Allows raw data to be inserted into the page footer"
+msgstr "Võimaldab koodi ja/või teksti lisamist lehtede lähtekoodi lõppu, vahetult enne </body>"
+
+#: ../modules/page/raw.php:40
+#: ../modules/page/raw.php:50
+msgid "Raw data"
+msgstr "Kood/tekst <code>head</code> osasse"
+
+#: ../modules/page/raw.php:44
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr "Võimaldab koodi ja/või teksti lisamist lehtede lähtekoodi päise ossa (<head>)"
+
+#: ../modules/page/relative-links.php:96
+#: ../modules/page/relative-links.php:106
+msgid "Relative Links"
+msgstr "Meta <code>rel</code> viited"
+
+#: ../modules/page/relative-links.php:100
+msgid "Allows options to be set for relative meta links (WP 2.8+)"
+msgstr "Võimaldab meta viidete lisamist lehtedele (WP 2.8+)"
+
+#: ../modules/page/relative-links.php:119
+msgid "Start"
+msgstr "<em>Start</em>"
+
+#: ../modules/page/relative-links.php:124
+msgid "End"
+msgstr "<em>End</em>"
+
+#: ../modules/page/relative-links.php:129
+msgid "Parent"
+msgstr "<em>Parent</em>"
+
+#: ../modules/page/rss_name.php:53
+#: ../modules/page/rss_name.php:69
+msgid "RSS Name"
+msgstr "RSS pealkiri"
+
+#: ../modules/page/rss_name.php:57
+msgid "Allows site RSS name to be changed"
+msgstr "Võimaldab RSS-voogude pealkirjade täiendamist (RSS-voo pealkiri algab alati saidi nimega)"
+
+#: ../modules/page/rss_tagline.php:53
+msgid "RSS Description"
+msgstr "RSS kirjeldus"
+
+#: ../modules/page/rss_tagline.php:57
+msgid "Allows site RSS description to be changed"
+msgstr "Võimaldab RSS-voogude kirjelduste muutmist"
+
+#: ../modules/page/rss_tagline.php:69
+msgid "RSS Desc."
+msgstr "RSS kirjeldus"
+
+#: ../modules/page/site_name.php:58
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "Võimaldab saidi nime muutmist"
+
+#: ../modules/page/site_tagline.php:52
+#: ../modules/page/site_tagline.php:68
+msgid "Site Tagline"
+msgstr "Saidi lühikirjeldus"
+
+#: ../modules/page/site_tagline.php:56
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "Võimaldab saidi lühikirjelduse (tagline) muutmist"
+
+#: ../modules/page/stylesheet.php:54
+#: ../modules/page/stylesheet.php:69
+msgid "Stylesheets"
+msgstr "CSS"
+
+#: ../modules/page/stylesheet.php:58
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "Võimaldab lisada CSS-stiilifaile eraldi üksikutele lehtedele"
+
+#: ../modules/page/stylesheet.php:101
+msgid "Do not output CSS"
+msgstr "Ära väljasta lehtedele lisatud CSS-stiilifaile"
+
+#: ../modules/page/tags.php:123
+msgid "<p>Tags: "
+msgstr "<p>Sildid: "
+
+#: ../modules/page/tags.php:153
+msgid "Allows tags to be added to pages"
+msgstr "Võimaldab siltide / meta võtmesõnade lisamist lehtedele"
+
+#: ../modules/page/tags.php:161
+msgid "Force tags in posts"
+msgstr "Sildid postituste juures"
+
+#: ../modules/page/tags.php:164
+#: ../modules/page/tags.php:174
+msgid "No"
+msgstr "Ei"
+
+#: ../modules/page/tags.php:165
+#: ../modules/page/tags.php:175
+msgid "Yes"
+msgstr "Jah"
+
+#: ../modules/page/tags.php:167
+#: ../modules/page/tags.php:177
+msgid "Your theme may overrule this setting"
+msgstr "Teema võib siinse seade tühistada"
+
+#: ../modules/page/tags.php:171
+msgid "Force tags in pages"
+msgstr "Sildid lehtedel"
+
+#: ../modules/page/tags.php:181
+msgid "Show pages"
+msgstr "Kuva lehti"
+
+#: ../modules/page/tags.php:184
+msgid "Show pages in tag archives"
+msgstr "Kuva lehti sildilehtede loendites"
+
+#: ../modules/page/tags.php:188
+msgid "Disable Suggestions"
+msgstr "Lülita sildisoovitused välja"
+
+#: ../modules/page/tags.php:191
+msgid "In case of low memory issues"
+msgstr "Kasuta mälu- või jõudluseprobleemide korral"
+
+#: ../modules/page/tags.php:195
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo ZoneTag"
+
+#: ../modules/page/tags.php:198
+msgid "enable"
+msgstr "lülita sisse"
+
+#: ../modules/page/tags.php:280
+msgid "Suggested tags"
+msgstr "Sildisoovitused"
+
+#: ../modules/page/tags.php:282
+msgid "add all"
+msgstr "lisa kõik"
+
+#: ../modules/page/tags.php:285
+msgid "suggest"
+msgstr "uus analüüs"
+
+#: ../modules/page/tags.php:290
+msgid "Yahoo"
+msgstr "uus Yahoo analüüs"
+
+#: ../modules/page/tags.php:309
+msgid "Suggest tags based on content"
+msgstr "Soovita silte postituse sisu põhjal"
+
+#: ../modules/page/tags.php:314
+msgid "Yahoo Suggest"
+msgstr "Yahoo Suggest"
+
+#: ../modules/page/theme.php:64
+msgid "Page-specific Theme"
+msgstr "Lehe-spetsiifiline teema"
+
+#: ../modules/page/theme.php:74
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "Võimaldab erinevate teemade (kujundusmallide) kasutamist lehtedel"
+
+#: ../modules/page/theme.php:81
+msgid "Theme"
+msgstr "Teema"
+
+#: ../modules/page/theme.php:84
+msgid "Current theme"
+msgstr "Kasutatav teema"
+
+#: ../modules/site/103bees.php:31
+msgid "103bees"
+msgstr "103bees"
+
+#: ../modules/site/103bees.php:36
+msgid "Adds 103bees tracking code to all pages"
+msgstr "Lisab 103bees jälgimiskoodi kõigile lehtedele"
+
+#: ../modules/site/103bees.php:111
+msgid "Tracking code"
+msgstr "Jälgimiskood"
+
+#: ../modules/site/103bees.php:114
+msgid "Enter the full JavaScript tracking code as shown on your 103bees account page."
+msgstr "Sisesta JavaScripti koodilõik nagu näidatud sinu 103bees konto lehel"
+
+#: ../modules/site/103bees.php:118
+#: ../modules/site/analytics.php:253
+#: ../modules/site/apture.php:118
+#: ../modules/site/awstats.php:121
+#: ../modules/site/crazyegg.php:124
+msgid "Who to track"
+msgstr "Keda jälgida"
+
+#: ../modules/site/103bees.php:121
+#: ../modules/site/analytics.php:256
+#: ../modules/site/apture.php:121
+#: ../modules/site/awstats.php:124
+#: ../modules/site/crazyegg.php:127
+msgid "Everyone"
+msgstr "Kõik"
+
+#: ../modules/site/103bees.php:127
+#: ../modules/site/analytics.php:263
+#: ../modules/site/apture.php:128
+#: ../modules/site/awstats.php:131
+#: ../modules/site/crazyegg.php:134
+msgid "Users of the specified role or less will be tracked"
+msgstr "Jälgitakse valitud ja madalama taseme kasutajaid"
+
+#: ../modules/site/analytics.php:39
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../modules/site/analytics.php:44
+msgid "Adds Google Analytic tracking code to all pages (through <code>wp_footer</code>)"
+msgstr "Lisab Google Analytics jälgimiskoodi kõigile lehtedele (funktsiooni <code>wp_footer</code> kaudu)"
+
+#: ../modules/site/analytics.php:237
+#: ../modules/site/feedburner-stats.php:67
+msgid "Account ID"
+msgstr "ID"
+
+#: ../modules/site/analytics.php:240
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "Sisesta Google Analytics koodilõik või ainult selle saidi <code>_uacct</code> number <em>(UA-XXXXXXX-X)</em>."
+
+#: ../modules/site/analytics.php:244
+msgid "Version"
+msgstr "Versioon"
+
+#: ../modules/site/analytics.php:247
+msgid "Urchin (urchin.js)"
+msgstr "Urchin (urchin.js)"
+
+#: ../modules/site/analytics.php:248
+msgid "New Google Analytics (ga.js)"
+msgstr "Google Analytics (ga.js)"
+
+#: ../modules/site/analytics.php:267
+msgid "Track outbound links"
+msgstr "Loenda klikke väljuvatele linkidele"
+
+#: ../modules/site/analytics.php:270
+msgid "Enter the URL you want outbound links tracked to"
+msgstr "Virtuaalne URL, mille alla kogutakse klikid väljuvatele linkidele (nt. <em>domeen.com/outbound</em>)"
+
+#: ../modules/site/analytics.php:274
+msgid "Virtual Pages"
+msgstr "Virtuaalsed lehed"
+
+#: ../modules/site/analytics.php:277
+msgid "Change what appears in reports"
+msgstr "Lisa kohandatud vaateid GA raportitesse (vt. <a href=\"http://bit.ly/3pH5GZ\">Google Analytics Help</a>)"
+
+#: ../modules/site/analytics.php:281
+msgid "Domain Name"
+msgstr "Juurdomeen"
+
+#: ../modules/site/analytics.php:284
+msgid "Set to a root domain when tracking across sub-domains"
+msgstr "Kui antud sait hõlmab alamdomeene (nt. <em>alam.domeen.com</em>), mida samuti GA-ga jälgid, sisesta siia peadomeen"
+
+#: ../modules/site/analytics.php:288
+msgid "Raw Code"
+msgstr "Töötlemata kood"
+
+#: ../modules/site/analytics.php:291
+msgid "Enter any additional Google Analytics code"
+msgstr "Sisesta muu, kohandatud JavaScripti kood, mida soovid GA põhikoodile lisada"
+
+#: ../modules/site/analytics.php:295
+msgid "Include on login page"
+msgstr "Lisa sisselogimise lehele"
+
+#: ../modules/site/analytics.php:298
+msgid "Include Google Analytics on the WordPress login page"
+msgstr "Lisab Google Analytics jälgimiskoodi sisselogimise lehele"
+
+#: ../modules/site/apture.php:31
+msgid "Apture"
+msgstr "Apture"
+
+#: ../modules/site/apture.php:36
+msgid "Add Apture to all pages"
+msgstr "Lisab Apture jälgimiskoodi kõigile lehtedele"
+
+#: ../modules/site/apture.php:111
+msgid "Site token"
+msgstr "<em>Site token</em>"
+
+#: ../modules/site/apture.php:114
+msgid "Enter your site token."
+msgstr "Sisesta selle saidi <em>token</em> e. jälgimis-ID"
+
+#: ../modules/site/awstats.php:31
+msgid "AWStats JavaScript Tracking"
+msgstr "AWStats"
+
+#: ../modules/site/awstats.php:36
+msgid "Adds AWStats JavaScript tracking to all pages (through <code>wp_footer</code>)"
+msgstr "Lisab AWStats jälgimiskoodi kõigile lehtedele (funktsiooni <code>wp_footer</code> kaudu)"
+
+#: ../modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: ../modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr "Lisab CrazyEgg jälgimiskoodi kõigile lehtedele"
+
+#: ../modules/site/crazyegg.php:117
+msgid "CrazyEgg ID"
+msgstr "CrazyEgg ID"
+
+#: ../modules/site/crazyegg.php:120
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg code</a>"
+msgstr "Sisesta <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg koodilõik</a>"
+
+#: ../modules/site/disable_visual_editing.php:28
+msgid "Disable Visual Editing"
+msgstr "WordPressi visuaalredaktor"
+
+#: ../modules/site/disable_visual_editing.php:33
+msgid "Disable visual editing"
+msgstr "Lülitab visuaalredaktori välja korraga kõigil kasutajatel"
+
+#: ../modules/site/feedburner-stats.php:30
+msgid "Feedburner Stats Pro"
+msgstr "Feedburner Stats Pro"
+
+# rudiment
+#: ../modules/site/feedburner-stats.php:35
+msgid "Adds appropriate code to your posts to enable FeedBurner Stats Pro"
+msgstr "Lisab FeedBurner Stats Pro kasutamiseks vajaliku lähtekoodi"
+
+#: ../modules/site/feedburner-stats.php:70
+msgid "This is your FeedBurner username"
+msgstr "Sinu FeedBurneri kasutajanimi"
+
+#: ../modules/site/first-time-visitor.php:34
+msgid "First Time Visitor"
+msgstr "Esmakordne külastaja"
+
+#: ../modules/site/first-time-visitor.php:39
+msgid "Display a message for first time visitors (based upon idea from Seth Godin)"
+msgstr "Kuvab esmakordsele külastajale suunatud teate (idee: <a href=\"http://bit.ly/4bb3lD\">Seth Godin</a>)"
+
+#: ../modules/site/first-time-visitor.php:93
+#, php-format
+msgid "<p>As a new visitor you may want to subscribe to my <a href=\"%s/feed/\">RSS</a> feed.</p>"
+msgstr "<p>Tere tulemast! Telli <a href=\"%s/feed/\">RSS-voog</a>.</p>"
+
+#: ../modules/site/first-time-visitor.php:124
+msgid "Message to display"
+msgstr "Teade"
+
+#: ../modules/site/first-time-visitor.php:130
+msgid "Repeat"
+msgstr "Korda"
+
+#: ../modules/site/first-time-visitor.php:131
+msgid "Enter 0 for always"
+msgstr "0 – pidevalt"
+
+#: ../modules/site/first-time-visitor.php:134
+msgid "Display position"
+msgstr "Kuvamise koht"
+
+#: ../modules/site/first-time-visitor.php:137
+msgid "Before content"
+msgstr "Sisu eel"
+
+#: ../modules/site/first-time-visitor.php:138
+msgid "After content"
+msgstr "Sisu järel"
+
+#: ../modules/site/first-time-visitor.php:143
+msgid "Ignore Bots"
+msgstr "Ignoreeri roboteid"
+
+#: ../modules/site/frame-breaker.php:32
+msgid "Frame Breaker"
+msgstr "Freimilõhkuja"
+
+#: ../modules/site/frame-breaker.php:37
+msgid "Stops your site being loaded in a frame."
+msgstr "Tõkestab sinu veebilehe laadimise freimidesse (frames) teistel saitidel, lisades vastava JavaScripti lehtede <code>head</code> osasse"
+
+#: ../modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Google AdSense Section Targeting"
+
+#: ../modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "Märgistab põhilise sisu lehtedel Google AdSense reklaamide sihtimise jaoks, vt. <a href=\"http://bit.ly/4nRwj6\">AdSense Help</a>"
+
+#: ../modules/site/google_webmaster.php:30
+msgid "Google Webmaster"
+msgstr "Google Webmaster Tools"
+
+#: ../modules/site/google_webmaster.php:35
+msgid "Adds Google Webmaster tracking code to your home page"
+msgstr "Lisab <a href=\"http://bit.ly/IIU2s\">Google Webmaster Tools</a> kinnituskoodi esilehele"
+
+#: ../modules/site/google_webmaster.php:70
+msgid "Enter Google Webmaster tracking code."
+msgstr "Google Webmaster Tools kinnituskood selle saidi jaoks"
+
+#: ../modules/site/hittail.php:31
+msgid "HitTail"
+msgstr "HitTail"
+
+#: ../modules/site/hittail.php:36
+msgid "Adds HitTail tracking code to all pages"
+msgstr "Lisab HitTail jälgimiskoodi kõigile lehtedele"
+
+#: ../modules/site/hittail.php:114
+msgid "Enter the full JavaScript tracking code as provided by HitTail."
+msgstr "Sisesta HitTail JavaScripti koodilõik"
+
+#: ../modules/site/microsoft-live.php:30
+msgid "Microsoft Live Verification / Bing Webmaster"
+msgstr "Microsoft Live / Bing Webmaster"
+
+#: ../modules/site/microsoft-live.php:35
+msgid "Adds Microsoft Live verification / Bing Webmaster code to your home page"
+msgstr "Lisab <a href=\"http://bit.ly/175bkO\">Microsoft Live / Bing Webmaster</a> kinnituskoodi esilehele"
+
+#: ../modules/site/microsoft-live.php:67
+msgid "Verification code"
+msgstr "Jälgimiskood"
+
+#: ../modules/site/microsoft-live.php:70
+msgid "Enter Microsoft Live verification code."
+msgstr "Microsoft Live / Bing Webmaster kinnituskood selle saidi jaoks"
+
+#: ../modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: ../modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr "Lisab Mint jälgimiskoodi kõigile lehtedele"
+
+#: ../modules/site/mint.php:121
+msgid "Mint path"
+msgstr "Minti asukoht"
+
+#: ../modules/site/mint.php:124
+msgid "Enter the URL of your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "Sisesta oma Mint-kataloogi URL (nt. <code>/mint/</code>)"
+
+#: ../modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "Väljavõtteid lehel"
+
+#: ../modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "Määrab, mitu lehe/postituse sissejuhatust kuvada arhiivide ja otsingutulemuste lehtedel"
+
+# Saidi moodulid > Väljavõtteid lehel
+#: ../modules/site/page_counts.php:116
+#: ../modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "postitust, kuvatakse"
+
+#: ../modules/site/page_counts.php:118
+#: ../modules/site/page_counts.php:130
+msgid "default"
+msgstr "vaikimisi"
+
+#: ../modules/site/page_counts.php:119
+#: ../modules/site/page_counts.php:131
+msgid "content"
+msgstr "sisu"
+
+#: ../modules/site/page_counts.php:120
+#: ../modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "väljavõte"
+
+#: ../modules/site/page_counts.php:122
+msgid "(set number of posts to 0 for theme default)"
+msgstr "(0 sisestamisel kasutatakse teemas määratud arvu)"
+
+#: ../modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "Otsingud"
+
+#: ../modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "0 sisestamisel kasutatakse teemas määratud arvu"
+
+#: ../modules/site/piwik.php:37
+msgid "Piwik"
+msgstr "Piwik"
+
+#: ../modules/site/piwik.php:42
+msgid "Adds Piwik tracking code to all pages"
+msgstr "Lisab Piwik jälgimiskoodi kõigile lehtedele"
+
+#: ../modules/site/piwik.php:180
+msgid "Piwik Site ID"
+msgstr "Piwik saidi ID"
+
+#: ../modules/site/piwik.php:183
+msgid "If you are monitoring multiple sites this allows you to identify each"
+msgstr "Kui jälgid Piwikiga mitut saiti, on igaühel oma ID"
+
+#: ../modules/site/piwik.php:187
+msgid "Piwik PHP"
+msgstr "Piwik PHP"
+
+#: ../modules/site/piwik.php:190
+msgid "The location of the Piwik PHP file (i.e. <code>/piwik/piwik.php</code>)"
+msgstr "Piwiki PHP-faili asukoht (e. <code>/piwik/piwik.php</code>)"
+
+#: ../modules/site/piwik.php:194
+msgid "Piwik JavaScript"
+msgstr "Piwik JavaScript"
+
+#: ../modules/site/piwik.php:197
+msgid "The location of the Piwik JavaScript file (i.e. <code>/piwik/piwik.js</code>)"
+msgstr "Piwiki JavaScript-faili asukoht (e. <code>/piwik/piwik.js</code>)"
+
+#: ../modules/site/piwik.php:201
+msgid "Track downloads"
+msgstr "Loenda failide allalaadimisi"
+
+#: ../modules/site/piwik.php:204
+msgid "Clear to disable download tracking"
+msgstr "Tühjenda faililaiendite loetelu laadimiste loendamise väljalülitamiseks"
+
+#: ../modules/site/piwik.php:204
+msgid "reset to default"
+msgstr "taasta algseade"
+
+#: ../modules/site/piwik.php:208
+msgid "Tracker pause"
+msgstr "Paus allalaadimisel"
+
+#: ../modules/site/piwik.php:211
+msgid "A pause (milliseconds) added when a file is downloaded.  Small values may not be tracked"
+msgstr "Faili allalaadimisel lisatakse märgitud pikkusega paus (millisekundites)"
+
+#: ../modules/site/piwik.php:215
+msgid "Host aliases"
+msgstr "Hosti (saidi) aliased"
+
+#: ../modules/site/piwik.php:218
+msgid "Enter each host on a separate line"
+msgstr "Lisa iga host eraldi reale"
+
+#: ../modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: ../modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr "Lisab StatCounter jälgimiskoodi kõigile lehtedele"
+
+#: ../modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "Project ID"
+
+#: ../modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "Partitions ID"
+
+#: ../modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "Security ID"
+
+#: ../modules/site/system-settings.php:32
+msgid "System Settings"
+msgstr "PHP seaded"
+
+#: ../modules/site/system-settings.php:37
+msgid "Configure PHP memory limits, time-outs, and error reporting"
+msgstr "Võimaldab PHP mälupiirangu, taimaudi ja vigade aruandluse seadistamist"
+
+#: ../modules/site/system-settings.php:84
+#: ../modules/site/system-settings.php:94
+#: ../modules/site/system-settings.php:99
+msgid "System default"
+msgstr "Süsteemi vaikeseade"
+
+#: ../modules/site/system-settings.php:85
+msgid "30 seconds"
+msgstr "kuni 30 sekundit"
+
+#: ../modules/site/system-settings.php:86
+msgid "60 seconds"
+msgstr "kuni 60 sekundit"
+
+#: ../modules/site/system-settings.php:87
+msgid "10 minutes"
+msgstr "kuni 10 minutit"
+
+#: ../modules/site/system-settings.php:88
+msgid "1 hour"
+msgstr "kuni 1 tund"
+
+#: ../modules/site/system-settings.php:89
+msgid "No timeout limit"
+msgstr "piiramatu"
+
+#: ../modules/site/system-settings.php:100
+msgid "Show only errors"
+msgstr "Kuva ainult vead"
+
+#: ../modules/site/system-settings.php:101
+msgid "Show all errors &amp; warnings"
+msgstr "Kuva vead ja hoiatused"
+
+#: ../modules/site/system-settings.php:102
+msgid "Show no errors or warnings"
+msgstr "Ära kuva"
+
+#: ../modules/site/system-settings.php:106
+msgid "Memory Limit"
+msgstr "Mälupiirang"
+
+#: ../modules/site/system-settings.php:116
+msgid "PHP Script Timeout"
+msgstr "PHP skriptide käitamisaeg"
+
+#: ../modules/site/system-settings.php:126
+msgid "PHP Error Reporting"
+msgstr "PHP vigade aruandlus"
+
+#: ../modules/site/widgets.php:30
+msgid "Disable WordPress Widgets"
+msgstr "WordPressi moodulid"
+
+#: ../modules/site/widgets.php:35
+msgid "Allows you to enable or disable various WordPress Widgets"
+msgstr "Võimaldab WordPressi moodulite sisse- ja väljalülitamist"
+
+# ? topelt see loetelu
+#: ../modules/site/widgets.php:67
+#: ../modules/site/widgets.php:68
+msgid "Calendar"
+msgstr "Kalender"
+
+#: ../modules/site/widgets.php:79
+msgid "Links"
+msgstr "Viited"
+
+#: ../modules/site/widgets.php:84
+#: ../modules/site/widgets.php:85
+msgid "Meta"
+msgstr "Meta"
+
+#: ../modules/site/widgets.php:90
+msgid "Search"
+msgstr "Otsi"
+
+#: ../modules/site/widgets.php:95
+#: ../modules/site/widgets.php:96
+msgid "Recent Posts"
+msgstr "Värsked postitused"
+
+#: ../modules/site/widgets.php:101
+#: ../modules/site/widgets.php:102
+msgid "Tag Cloud"
+msgstr "Sildipilv"
+
+#: ../modules/site/widgets.php:141
+msgid "categories"
+msgstr "Rubriigid"
+
+#: ../modules/site/widgets.php:142
+msgid "text"
+msgstr "Tekst"
+
+#: ../modules/site/widgets.php:143
+msgid "rss"
+msgstr "RSS"
+
+#: ../modules/site/widgets.php:144
+msgid "recent comments"
+msgstr "Värsked kommentaarid"
+
+#: ../modules/site/widgets.php:145
+msgid "pages"
+msgstr "Lehed"
+
+#: ../modules/site/widgets.php:146
+msgid "search"
+msgstr "Otsi"
+
+#: ../modules/site/widgets.php:147
+msgid "calendar"
+msgstr "Kalender"
+
+#: ../modules/site/widgets.php:148
+msgid "archives"
+msgstr "Arhiiv"
+
+#: ../modules/site/widgets.php:149
+msgid "links"
+msgstr "Viited"
+
+#: ../modules/site/widgets.php:150
+msgid "meta"
+msgstr "Meta"
+
+#: ../modules/site/widgets.php:151
+msgid "recent entries"
+msgstr "Värsked postitused"
+
+#: ../modules/site/widgets.php:152
+msgid "tag cloud"
+msgstr "Sildipilv"
+
+#: ../modules/site/widgets.php:156
+msgid "Enabled Widgets"
+msgstr "Sisselülitatud"
+
+#: ../modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "WordPressi automaatvormindus"
+
+#: ../modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "Võimaldab WordPressi automaatvorminduse sisse- ja välja lülitamist (k.a. wpautop)"
+
+#: ../modules/site/wp_formatting.php:91
+msgid "Auto-formatting"
+msgstr "Automaatvormindus"
+
+#: ../modules/site/wp_formatting.php:94
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr "<code>wpautop</code> automaatne tekstilõikude vormindamine"
+
+#: ../modules/site/wp_formatting.php:98
+msgid "Auto-fancy quotes"
+msgstr "Automaat-jutumärgid"
+
+#: ../modules/site/wp_formatting.php:101
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "<code>wptexturize</code> automaatne jutumärkide vormindamine"
+
+#: ../modules/site/wp_formatting.php:105
+msgid "Auto-link"
+msgstr "Automaatviitamine"
+
+#: ../modules/site/wp_formatting.php:108
+msgid "Makes links clickable in comments"
+msgstr "Muudab kommentaarides olevad viited klikitavaks"
+
+#: ../modules/site/yahoo-site-explorer.php:30
+msgid "Yahoo! Site Explorer"
+msgstr "Yahoo! Site Explorer"
+
+#: ../modules/site/yahoo-site-explorer.php:35
+msgid "Adds Yahoo! Site Explorer tracking code to your home page"
+msgstr "Lisab <a href=\"http://bit.ly/1lEdPX/\">Yahoo! Site Explorer</a> kinnituskoodi esilehele"
+
+#: ../modules/site/yahoo-site-explorer.php:70
+msgid "Enter Yahoo! Site Explorer tracking code."
+msgstr "Yahoo! Site Explorer kinnituskood selle saidi jaoks"
+
+#: ../view/admin/edit_category.php:1
+msgid "HeadSpace Settings"
+msgstr "HeadSpace seaded"
+
+#: ../view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "Muuda rubriiki &raquo;"
+
+#: ../view/admin/edit_post.php:7
+msgid "HeadSpace Meta data"
+msgstr "HeadSpace metaandmed"
+
+# ?
+#: ../view/admin/head_admin.php:5
+msgid "Are you sure you want to merge that tag?"
+msgstr "Oled kindel, et soovid teisendada selle sildi?"
+
+#: ../view/admin/head_admin.php:6
+msgid "A problem occured retrieving data from the server. If this persists please check that you have installed the plugin correctly."
+msgstr "Probleem ühendumisel serveriga. Palun kontrolli, kas oled installinud plugina korrektselt."
+
+#: ../view/admin/help.php:3
+msgid "Special Tags"
+msgstr "Muutujad"
+
+#: ../view/admin/help.php:4
+msgid "These tags can be included and will be replaced by HeadSpace when a page is displayed."
+msgstr "Loetletud muutujate kasutamisel HeadSpace moodulites, asendatakse need kirjeldatud moel."
+
+#: ../view/admin/help.php:10
+msgid "Replaced with the date of the post/page"
+msgstr "Asendatakse postituse või lehe kuupäevaga"
+
+#: ../view/admin/help.php:11
+msgid "Replaced with the title of the post/page"
+msgstr "Asendatakse postituse või lehe pealkirjaga"
+
+#: ../view/admin/help.php:12
+msgid "The site's name"
+msgstr "Asendatakse saidi nimega"
+
+#: ../view/admin/help.php:13
+msgid "Replaced with the post/page excerpt (or auto-generated if it does not exist)"
+msgstr "Asendatakse postituse või lehe väljavõttega (puudumisel genereeritakse automaatselt)"
+
+#: ../view/admin/help.php:14
+msgid "Replaced with the post/page excerpt (without auto-generation)"
+msgstr "Asendatakse postituse või lehe väljavõttega (ei genereerita automaatselt)"
+
+#: ../view/admin/help.php:15
+msgid "Replaced with the current tag/tags"
+msgstr "Asendatakse sildi või siltidega"
+
+#: ../view/admin/help.php:16
+msgid "Replaced with the post categories (comma separated)"
+msgstr "Asendatakse rubriikide loeteluga (komadega eraldatud)"
+
+#: ../view/admin/help.php:17
+msgid "Replaced with the category description"
+msgstr "Asendatakse rubriigi kirjeldusega"
+
+#: ../view/admin/help.php:18
+msgid "Replaced with the tag description"
+msgstr "Asendatakse sildi kirjeldusega"
+
+#: ../view/admin/help.php:19
+msgid "Replaced with the term description"
+msgstr "Asendatakse termini kirjeldusega"
+
+#: ../view/admin/help.php:20
+msgid "Replaced with the term name"
+msgstr "Asendatakse terminiga"
+
+#: ../view/admin/help.php:21
+msgid "Replaced with the post/page modified time"
+msgstr "Asendatakse postituse või lehe muutmise kuupäevaga"
+
+#: ../view/admin/help.php:22
+msgid "Replaced with the post/page ID"
+msgstr "Asendatakse postituse või lehe ID-ga"
+
+#: ../view/admin/help.php:23
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "Asendatakse postituse või lehe autori nimega"
+
+#: ../view/admin/help.php:24
+msgid "Replaced with the post/page author's userid"
+msgstr "Asendatakse postituse või lehe autori kasutajanimega"
+
+#: ../view/admin/help.php:25
+msgid "Replaced with the current search phrase"
+msgstr "Asendatakse kasutatud otsingufraasiga"
+
+#: ../view/admin/help.php:26
+msgid "Replaced with the current time"
+msgstr "Asendatakse jooksva kellaajaga"
+
+#: ../view/admin/help.php:27
+msgid "Replaced with the current date"
+msgstr "Asendatakse jooksva kuupäevaga"
+
+#: ../view/admin/help.php:28
+msgid "Replaced with the current month"
+msgstr "Asendatakse jooksva kuuga"
+
+#: ../view/admin/help.php:29
+msgid "Replaced with the current year"
+msgstr "Asendatakse jooksva aastaga"
+
+#: ../view/admin/help.php:30
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr "Asendatakse jooksva lehenumbriga (nt. leht 2 4-st)"
+
+#: ../view/admin/help.php:31
+msgid "Replaced with the current page total"
+msgstr "Asendatakse lehtede koguarvuga"
+
+#: ../view/admin/help.php:32
+msgid "Replaced with the current page number"
+msgstr "Asendatakse jooksva lk numbriga"
+
+#: ../view/admin/help.php:33
+msgid "Attachment caption"
+msgstr "Asendatakse meediafaili pealkirjaga"
+
+#: ../view/admin/import.php:6
+#, php-format
+msgid "%s | Import"
+msgstr "%s | Impordi"
+
+#: ../view/admin/import.php:10
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "Siin lehel saad importida metaandmeid teistest WordPressi pluginatest. Vastavad pluginad peavad olema kasutusel (aktiivsed)."
+
+#: ../view/admin/import.php:21
+msgid "Import"
+msgstr "Impordi"
+
+#: ../view/admin/import.php:22
+msgid "Import and remove original data"
+msgstr "Impordi ja eemalda algsed andmed"
+
+#: ../view/admin/import.php:22
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "(ei sobi pluginatega UTW ja Simple Tagging)"
+
+#: ../view/admin/import.php:25
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "Nagu alati enne toiminguid, mis teevad muudatusi andmebaasis, peaksid <strong>importimise eel tegema saidi andmebaasist varukoopia</strong>.  Keegi teine ei vastuta nunnude kiisukeste eest, kes võivad protsessi käigus hukka saada."
+
+#: ../view/admin/mass_edit.php:29
+msgid "Filter"
+msgstr "Filter"
+
+#: ../view/admin/mass_edit.php:66
+msgid "Save all data"
+msgstr "Salvesta kõik andmed"
+
+#: ../view/admin/options.php:7
+#, php-format
+msgid "%s | General Options"
+msgstr "%s | Seaded"
+
+#: ../view/admin/options.php:16
+msgid "Inherit settings"
+msgstr "Kasuta seadeid"
+
+#: ../view/admin/options.php:20
+msgid "Inherit from global settings"
+msgstr "Kasuta globaalseid seadeid"
+
+#: ../view/admin/options.php:24
+msgid "Process excerpt with plugins"
+msgstr "Töötle väljavõtet pluginatega"
+
+#: ../view/admin/options.php:28
+msgid "Will allow plugins to modify generated excerpts"
+msgstr "Lubab pluginatel muuta automaatselt genereeritud väljavõtteid"
+
+#: ../view/admin/options.php:32
+msgid "Plugin Support"
+msgstr "Toeta plugina arendust"
+
+#: ../view/admin/options.php:35
+msgid "I'm a nice person and I have helped support the author of this plugin"
+msgstr "Mina olen <strong>hea</strong> ning olen toetanud autorit selle plugina arendamisel"
+
+#: ../view/admin/options.php:39
+msgid "Debug"
+msgstr "<em>Debug</em>"
+
+#: ../view/admin/options.php:43
+msgid "Enable debug option"
+msgstr "Väljasta silumisteated"
+
+#: ../view/admin/options.php:49
+msgid "Update Options &raquo;"
+msgstr "Salvesta muudatused &raquo;"
+
+#: ../view/admin/options.php:57
+msgid "Remove HeadSpace"
+msgstr "Kustuta HeadSpace"
+
+#: ../view/admin/options.php:59
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data - be sure this is what you want!"
+msgstr "See valik eemaldab HeadSpace'i koos kõigi seadete, siltide ja metaandmetega – ära kasuta tormakalt!"
+
+#: ../view/admin/options.php:64
+msgid "Delete HeadSpace"
+msgstr "Kustuta HeadSpace"
+
+#: ../view/admin/page-module-edit.php:11
+#: ../view/admin/page-settings-edit-ajax.php:5
+#: ../view/admin/site-module-edit.php:17
+msgid "Save"
+msgstr "Salvesta"
+
+#: ../view/admin/page-module-edit.php:12
+#: ../view/admin/page-settings-edit-ajax.php:6
+#: ../view/admin/site-module-edit.php:18
+msgid "Cancel"
+msgstr "Loobu"
+
+#: ../view/admin/page-modules.php:7
+#, php-format
+msgid "%s | Page Modules"
+msgstr "%s | Lehe moodulid"
+
+#: ../view/admin/page-modules.php:11
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "Lehe moodulid rakenduvad üksikutele lehtedele ja postitustele. Klõpsa ja lohista soovitud moodul sobivasse alasse. Mooduleid saab ümber järjestada, vastavalt muutub ka nende järjestus halduslehtedel."
+
+#: ../view/admin/page-modules.php:15
+msgid "Simple"
+msgstr "Kasutusel"
+
+#: ../view/admin/page-modules.php:16
+msgid "Modules will always appear on edit screens"
+msgstr "Need moodulid on aktiivsed halduslehtedel ja <em>Lehtede seaded</em> all"
+
+#: ../view/admin/page-modules.php:21
+msgid "Advanced"
+msgstr "Kasutusel, peenhäälestus"
+
+#: ../view/admin/page-modules.php:22
+msgid "Modules will be hidden behind a link"
+msgstr "Need moodulid on aktiivsed halduslehtedel ja <em>Lehtede seaded</em> all, <br />avanevad viitest <em>Peenhäälestus</em>"
+
+#: ../view/admin/page-modules.php:32
+msgid "Disabled"
+msgstr "Kasutamata"
+
+#: ../view/admin/page-modules.php:33
+msgid "Modules are disabled and do not appear"
+msgstr "Deaktiveeritud moodulid"
+
+#: ../view/admin/page-settings-edit.php:19
+msgid "advanced"
+msgstr "Peenhäälestus"
+
+#: ../view/admin/page-settings.php:7
+#, php-format
+msgid "%s | Page Settings"
+msgstr "%s | Lehtede seaded"
+
+#: ../view/admin/page-settings.php:11
+msgid "Click the page type to change settings.  You can enable additional modules to provide more choices."
+msgstr "Kliki lehe tüübile seadete muutmiseks. <strong>Lehe moodulite</strong> aktiveerimisel lisanduvad vastavad seaded ka siia."
+
+#: ../view/admin/page-settings.php:23
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "Seadeid saab rakendada igale üksikule postitusele, lehele või rubriigile eraldi, selle <strong>halduslehel</strong>."
+
+#: ../view/admin/site-modules.php:6
+#, php-format
+msgid "%s | Site Modules"
+msgstr "%s | Saidi moodulid"
+
+#: ../view/admin/site-modules.php:10
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "Saidi moodulid rakenduvad kogu veebilehele tervikuna. Ainult märgitud moodulid käivitatakse."
+
+#: ../view/admin/submenu.php:3
+msgid "Page Settings"
+msgstr "Lehtede seaded"
+
+#: ../view/admin/submenu.php:4
+msgid "Page Modules"
+msgstr "Lehe moodulid"
+
+#: ../view/admin/submenu.php:5
+msgid "Site Modules"
+msgstr "Saidi moodulid"
+
+#: ../view/admin/submenu.php:6
+msgid "Options"
+msgstr "Seaded"
+
+#: ../view/admin/support.php:5
+msgid "HeadSpace | Support"
+msgstr "HeadSpace | Tugi"
+
+#: ../view/admin/support.php:7
+msgid "HeadSpace has required a great deal of time and effort to develop.  If it's been useful to you then you can support this development by <strong>making a small donation of $12</strong>.  This will act as an incentive for me to carry on developing it, providing countless hours of support, and including any enhancements that are suggested."
+msgstr "Siit leiad viited plugina autori <strong>John Godley</strong> toetamiseks, kes on näinud palju vaeva, et see tarkvara <strong>tasuta</strong> Sinu jaoks valmistada. Järgneb tema enda ingliskeelne tekst.<br/><br/><em>HeadSpace has required a great deal of time and effort to develop.  If it's been useful to you then you can support this development by <strong>making a small donation of $12</strong>.  This will act as an incentive for me to carry on developing it, providing countless hours of support, and including any enhancements that are suggested.</em>"
+
+#: ../view/admin/support.php:28
+msgid "Alternatively, if you are multi-lingual, do consider translating this into another language.  All the necessary localisation files are included and I've written a <a href=\"http://urbangiraffe.com/articles/translating-wordpress-themes-and-plugins/\">full guide to the translation process</a>."
+msgstr "<em>Alternatively, if you are multi-lingual, do consider translating this into another language.  All the necessary localisation files are included and I've written a <a href=\"http://urbangiraffe.com/articles/translating-wordpress-themes-and-plugins/\">full guide to the translation process</a>.</em>"
+
+#: ../view/admin/support.php:30
+msgid "The support message can be disabled at any time from the options page"
+msgstr "<em>The support message can be disabled at any time from the options page.</em>"
+
+#: ../view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "HeadSpace2 uudised"
+
+#: ../view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "%s tagasi"
+
+#~ msgid ""
+#~ "This notice will only be shown at periodic intervals and can be disabled "
+#~ "easily."
+#~ msgstr ""
+#~ "Questo messaggio verrà mostrato ad intervalli periodici e può essere "
+#~ "disattivato con facilità."
+#~ msgid "<p style=\"color: red\">That function is not defined</p>"
+#~ msgstr "<p style=\"color:red\">Funktsioon defineerimata</p>"
+#~ msgid ""
+#~ "<p style=\"color: red\">You are not allowed access to this resource</p>"
+#~ msgstr "<p style=\"color: red\">Puudub juurdepääs ressursile</p>"
+#~ msgid "Invalid module"
+#~ msgstr "Vigane moodul"
+#~ msgid "Posts &amp; Pages"
+#~ msgstr "Postitused &amp; lehed"
+#~ msgid "How many widgets would you like?"
+#~ msgstr "Mitu moodulit?"
+#~ msgid "Add Plugin"
+#~ msgstr "Lisa plugin"
+#~ msgid "Add tags to dictionary"
+#~ msgstr "Lisa sildid sõnastikku"
+#~ msgid ""
+#~ "Adds additional functions to allow blogging tools such as Ecto to use "
+#~ "tagging"
+#~ msgstr "Lisab siltide kasutamise toe blogitoimetite – nagu nt. Ecto – jaoks"
+#~ msgid "Alphabetically order tags"
+#~ msgstr "Sordi sildid tähestiku järgi"
+#~ msgid "Always"
+#~ msgstr "Alati"
+#~ msgid "Automatically add new tags to dictionary"
+#~ msgstr "Lisa sildid automaatselt sõnastikku"
+#~ msgid "Check for updates"
+#~ msgstr "Otsi uuendusi"
+#~ msgid "Check for updates from within HeadSpace"
+#~ msgstr "Otsi uuendusi HeadSpace'i kaudu"
+#~ msgid "Dictionary"
+#~ msgstr "Sõnastik"
+#~ msgid "Mass Edit Meta-data"
+#~ msgstr "Massmuutmine"
+#~ msgid "Modules"
+#~ msgstr "Moodulid"
+#~ msgid "Never"
+#~ msgstr "Mitte kunagi"
+#~ msgid "No Index/No Follow"
+#~ msgstr "No Index/No Follow"
+#~ msgid "RPC support for Ecto"
+#~ msgstr "RPC tugi Ecto jaoks"
+#~ msgid "Save module order"
+#~ msgstr "Salvesta moodulite järjekord"
+#~ msgid "Simple Tags"
+#~ msgstr "Simple Tags"
+#~ msgid "Tag separator"
+#~ msgstr "Siltide eraldaja"
+#~ msgid "Tags (keywords)"
+#~ msgstr "Sildid (võtmesõnad)"
+#~ msgid ""
+#~ "This must match the separator defined in Ecto 'Templates', 'Tags', 'Tag "
+#~ "separator'"
+#~ msgstr ""
+#~ "Peab olema sama nagu eraldaja, mis on määratud Ecto seadetes 'Templates', "
+#~ "'Tags', 'Tag separator'"
+

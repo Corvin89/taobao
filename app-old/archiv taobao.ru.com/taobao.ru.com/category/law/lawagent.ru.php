@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://lawagent.ru">регистрация фирмы</a>'; include '../view.php';

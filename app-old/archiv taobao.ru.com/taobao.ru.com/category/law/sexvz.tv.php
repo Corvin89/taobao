@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="SexVZ - Das Sexverzeichnis" href="http://sexvz.tv/">SexVZ.tv</a>'; include '../view.php';

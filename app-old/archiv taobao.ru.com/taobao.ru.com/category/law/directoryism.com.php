@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.directoryism.com/">A New Age of Link Promotion</a>'; include '../view.php';

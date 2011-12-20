@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.hours-time.ru>ќзнакомительные материалы</a> <a href=http://www.hours-time.ru/index_0.php>посв€щенные лаковым миниатурам на часах</a> с прилагаемыми фото иллюстраци€ми часов††<a href=http://www.hours-time.ru/index_1.php>представлены на hours-time.ru</a>'; include '../view.php';

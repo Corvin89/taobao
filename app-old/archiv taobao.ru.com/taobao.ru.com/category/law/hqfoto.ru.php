@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Артем Авоян предлагает работу в <a href="http://www.hqfoto.ru">фотостудии, профессиональный фотограф на свадьбу</a>'; include '../view.php';

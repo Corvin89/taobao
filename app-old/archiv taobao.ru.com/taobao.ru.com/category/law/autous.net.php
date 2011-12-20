@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://autous.net" target="_blank"><img src="http://autous.net/images/auto.gif" alt="Auto Тrader. AutoUS.net Покупка. Доставка, Растаможка, Оформление,  Автомобилей с USA." border="0" width="88" height="31"></a>'; include '../view.php';

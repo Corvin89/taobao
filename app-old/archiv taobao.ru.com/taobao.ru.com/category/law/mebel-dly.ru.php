@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://www.3sosny.ru/">3sosny.ru: Мебель из массива дерева кровати, столы, стулья и многое другое</a> </p>'; include '../view.php';

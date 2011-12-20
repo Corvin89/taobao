@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Коды городов, <a href="http://www.countries.nsty.ru">карта города</a>, страны европы, евросоюза, африки, америка, азии'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://aktlove.ru'>Любовная лирика русских поэтов</a>'; include '../view.php';

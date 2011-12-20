@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://artsmithy.ru">статуи из мрамора</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.scoopquest.com/">ScoopQuest Link Directory</a>'; include '../view.php';

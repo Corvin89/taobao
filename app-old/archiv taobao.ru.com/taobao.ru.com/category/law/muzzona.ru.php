@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.muzzona.ru/"><img src="http://www.muzzona.ru/muzzona88x31.gif" width="88" height="31" border="0" alt="тамада на свадьбу"></a>'; include '../view.php';

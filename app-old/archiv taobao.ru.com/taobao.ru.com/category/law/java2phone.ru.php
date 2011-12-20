@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.java2phone.ru" target="_blank"><img alt="Самый большой архив бесплатных java программ и игр для мобильных телефонов. Актуальная клубная полифония!" border=0 src="http://www.java2phone.ru/pict/java.gif" width=88 height=31></a>'; include '../view.php';

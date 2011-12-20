@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lubbockbusinessdirectory.com" id="R50C7E7">Lubbock City Business Search Community Network</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.yukaz.ru" target="_blank"><strong>Бесплатная юридическая консультация юридическая помощь  юридические услуги  адвокат  юрист</strong></a>'; include '../view.php';

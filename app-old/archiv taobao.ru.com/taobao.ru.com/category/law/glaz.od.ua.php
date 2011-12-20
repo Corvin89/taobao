@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.glaz.od.ua" "target="_blank">Протезирование глаза, город Одесса</a>'; include '../view.php';

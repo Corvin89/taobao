@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ganjaseeds.org/" target=_blank title="упить семена конопли - выращивание конопли, магазин Ganjaseeds.ru, семена марихуаны"><img src="http://www.ganjaseeds.org/seedsb.gif" border="0" /></a>'; include '../view.php';

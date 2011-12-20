@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mag.acmetelecom.ru"><img src="http://www.mag.acmetelecom.ru/images/Banner.gif" width=88 height=31 border=0 alt="”ниверсальна€ доска бесплатных объ€влений"></a>'; include '../view.php';

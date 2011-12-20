@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Профессиональный <a href=http://kuzneca.net>кузнец</a> выполнит заказ высокой сложности.'; include '../view.php';

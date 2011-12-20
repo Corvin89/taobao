@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sertifikacia.ru/" target="_blank"> получить сертификат</a>'; include '../view.php';

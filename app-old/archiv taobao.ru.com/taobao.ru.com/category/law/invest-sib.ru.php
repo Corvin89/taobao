@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.invest-sib.ru' target='_blank'><b>СибСтройИнвест - инвестиционно-риэлтерская компания</b></a><br />Продажа жилья в Новосибирске'; include '../view.php';

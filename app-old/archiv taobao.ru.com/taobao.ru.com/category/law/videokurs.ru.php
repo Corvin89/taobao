@@ -1,0 +1,1 @@
+<?php $catalogLink = '<em><u>код банера(468x60):</u></em><br> <b><a href="http://videokurs.ru" title="Магазин учебных фильмов - ВИДЕОКУРС.ru"><br><img src="http://videokurs.ru/baner/bg.gif" alt="Магазин учебных фильмов - ВИДЕОКУРС.ru" border=1 width=468 height=60><br></a></b>'; include '../view.php';

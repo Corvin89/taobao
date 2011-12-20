@@ -1,0 +1,3 @@
+<?php $catalogLink = '<!-- Start www.bioec.ru -->
+<A href="http://www.bioec.ru/"><IMG border="0" width="88" height="31" src="http://www.bioec.ru/i/88x31.gif" alt="Компания БИОЭКОЛОГИЯ - биотуалет, туалетная кабина, очистное сооружение, компакт-биде" title="Компания БИОЭКОЛОГИЯ - биотуалет, туалетная кабина, очистное сооружение, компакт-биде" align="absmiddle"></A> <A href="http://www.bioec.ru/">Биотуалет, туалетная кабина, очистное сооружение, компакт-биде</A>
+<!-- End www.bioec.ru -->'; include '../view.php';

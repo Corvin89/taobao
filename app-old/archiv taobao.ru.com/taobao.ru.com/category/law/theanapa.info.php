@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://theanapa.info">Анапа</a> пансионат Виктория. Описание, форма заказа, прайс-лист. <a href="http://theanapa.info/cat25.html">Гостиницы и отели Анапы</a>.'; include '../view.php';

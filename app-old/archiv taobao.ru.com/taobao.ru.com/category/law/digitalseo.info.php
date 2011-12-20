@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.digitalseo.info/dir">DigitalSEO</a>'; include '../view.php';

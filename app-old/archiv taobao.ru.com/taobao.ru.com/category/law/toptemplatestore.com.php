@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.toptemplatestore.com" id="RFE425E">Top Template Store</a>'; include '../view.php';

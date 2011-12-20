@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://dadai.ru/">Нейро директория</a>'; include '../view.php';

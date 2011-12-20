@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fashiworld.ru/shop/category/mirra/"><B>Косметика Мирра Люкс - натуральная косметика. Косметика Мирра Люкс - профессиональная косметика.</B></a>'; include '../view.php';

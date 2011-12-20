@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--www.hot-bulgaria.ru-opisanie-->   <a href="http://www.hot-bulgaria.ru/" title="ривьера болгария, парки болгарии бургас болгария, отдых болгария золотые пески">ривьера болгария, парки болгарии бургас болгария, отдых болгария золотые пески</a>   <!--www.hot-bulgaria.ru-opisanie-->'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ritmik.ru">вумбилдинг</a> как средство <a href="http://www.ritmik.ru">развития интимных мышц</a> - <a href="http://www.thaim.ru/component/option,com_fireboard/Itemid,35/func,view/catid,8/id,9/#9">Обучающее видео. Ananda Apfelbaum. Тайский массаж. </a>'; include '../view.php';

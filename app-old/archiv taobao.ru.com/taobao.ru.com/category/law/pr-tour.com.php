@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Компания PR-TOUR: Раскрутка сайтов туристических организаций, <a href="http://www.pr-tour.com/">туристические рассылки</a>, поддержка турсайтов, <a href="http://www.pr-tour.com">маркетинговые компании в туризме</a>'; include '../view.php';

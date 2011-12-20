@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://luxemed.ru/" target="_blank"><img src="http://luxemed.ru/files/88x31.gif" alt="Все клиники и врачи России" width="88" height="31" border="0"></a>'; include '../view.php';

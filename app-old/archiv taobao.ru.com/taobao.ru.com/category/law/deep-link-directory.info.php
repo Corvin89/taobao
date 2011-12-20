@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.deep-link-directory.info/">Free Deep Link Directory, Submit your Site</a>'; include '../view.php';

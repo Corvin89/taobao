@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.salon-beauty.ru/">Многообразный мир красивых услуг: эпиляция, тату, скарт и медицинская косметология</a>, <a href="http://www.salon-beauty.ru/act/massage/">Массаж</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Портал <a href="http://f-mx.ru/"><img src="http://f-mx.ru/banner.jpg"  border="0"></a> <a href="http://f-mx.ru/">Уроки по Flash</a>'; include '../view.php';

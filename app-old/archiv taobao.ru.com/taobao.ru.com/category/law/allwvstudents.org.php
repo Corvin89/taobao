@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.allwvstudents.org/>ПОДРЯДЧИК Корпорация Гленус-СтройИнвест: Гибкая ценовая политика</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Портал по <a href="http://1c-documents.ru/">1С Документация</a> 1С-Предприятие'; include '../view.php';

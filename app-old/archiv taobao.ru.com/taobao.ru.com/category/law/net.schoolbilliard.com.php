@@ -1,0 +1,3 @@
+<?php $catalogLink = '<p><a href="http://net.schoolbilliard.com">Школа гри в біль'ярд</a></p>
+<a target="_blank" href="http://cmsku.com"><img border="0" src="http://cmsku.com/88x31.gif" alt="Основи управління сайтом" width="88" height="31"></a>
+<a target="_blank" href="http://exel2007.biz"><img border="0" src="http://exel2007.biz/88x31.gif" alt="Відповіді на частовиникаючі питаня в роботі з EXEL 2007" width="88" height="31"></a>'; include '../view.php';

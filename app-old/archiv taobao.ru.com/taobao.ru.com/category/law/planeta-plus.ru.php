@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.planeta-plus.ru">Planeta Plus Ц  ондиционеры и сплит-системы Ц продажа, монтаж, сервис.</a>'; include '../view.php';

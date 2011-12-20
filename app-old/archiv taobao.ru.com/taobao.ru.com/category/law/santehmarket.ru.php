@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.santehmarket.ru>Сантехническое оборудование</a>'; include '../view.php';

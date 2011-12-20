@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://freedomlasertherapy.com">freedomlasertherapy.com</a>'; include '../view.php';

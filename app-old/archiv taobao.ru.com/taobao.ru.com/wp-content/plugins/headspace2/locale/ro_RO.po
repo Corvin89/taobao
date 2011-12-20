@@ -1,0 +1,1332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: headspace2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-23 15:16+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dragos Nicholas <freesoftwareworkshop@gmail.com>\n"
+"Language-Team: Dragos Nicholas <freesoftwareworkshop@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\headspace2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\headspace2\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/ajax.php:66
+msgid "<p style=\"color: red\">That function is not defined</p>"
+msgstr "<p style=\"color: red\">Funcţia nu este definită.</p>"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/ajax.php:69
+msgid "<p style=\"color: red\">You are not allowed access to this resource</p>"
+msgstr "<p style=\"color: red\">Nu aveţi acces la această resursă.</p>"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/ajax.php:187
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/ajax.php:201
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/ajax.php:212
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/ajax.php:223
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/ajax.php:234
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/ajax.php:248
+msgid "Invalid module"
+msgstr "Modul invalid"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:113
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:188
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:591
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:592
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:171
+msgid "Global Settings"
+msgstr "Setări globale"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:171
+msgid "applied to everything unless otherwise specified"
+msgstr "aplicate peste tot, daca nu e specificat altfel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:172
+msgid "Home Page"
+msgstr "Pagina principală"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:172
+msgid "applied to the home page"
+msgstr "aplicate paginii principale"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:173
+msgid "Archives"
+msgstr "Arhive"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:173
+msgid "applied when viewing the archives"
+msgstr "aplicate paginilor de tip arhivă"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:174
+msgid "Categories"
+msgstr "Categorii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:174
+msgid "applied to category pages without specific settings"
+msgstr "aplicate paginilor de tip categorie fără setări specifice"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:175
+msgid "Posts &amp; Pages"
+msgstr "Articole &amp; Pagini"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:175
+msgid "applied to posts &amp; pages without specific settings"
+msgstr "aplicate articolelor &amp; paginilor fără setări specifice"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:176
+msgid "Author Pages"
+msgstr "Paginile Autorilor"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:176
+msgid "applied to author pages"
+msgstr "aplicate paginilor autorilor"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:177
+msgid "Search Pages"
+msgstr "Paginile de căutare"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:177
+msgid "applied when viewing search results"
+msgstr "aplicate paginilor ce afişează rezultatele căutării"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:178
+msgid "404 Page"
+msgstr "Pagina 404"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:178
+msgid "applied when viewing a 404 error"
+msgstr "aplicate paginii erorii 404"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:179
+msgid "Tag Pages"
+msgstr "Paginile Tag (Etichete)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:179
+msgid "applied when viewing tag pages"
+msgstr "aplicate paginilor Tag"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:180
+msgid "Login Pages"
+msgstr "Paginile de Autentificare"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:180
+msgid "applied when viewing login, logout, or registration pages"
+msgstr "aplicate paginilor de autentificare (login), deautentificare (logout) sau înregistrare."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:189
+msgid "Meta-data"
+msgstr "Meta-data"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:402
+msgid "<code>wp_head</code> was not found in <code>header.php</code> (<a href=\"http://codex.wordpress.org/Hook_Reference/wp_head\">documentation</a>)"
+msgstr "<code>wp_head</code> nu a fost găsit în <code>header.php</code> (<a href=\"http://codex.wordpress.org/Hook_Reference/wp_head\">citeşte aici</a>)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:410
+msgid "<code>wp_footer</code> was not found in <code>footer.php</code> (<a href=\"http://codex.wordpress.org/Theme_Development\">documentation</a>)"
+msgstr "<code>wp_footer</code> nu a fost găsit în <code>footer.php</code> (<a href=\"http://codex.wordpress.org/Theme_Development\">citeşte aici</a>)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:441
+msgid "The HeadSpace administration interface is now WordPress 2.5+ only.  Your meta-data will continue to function but you should either upgrade your WordPress or downgrade HeadSpace."
+msgstr "Interfaţa de administrare a pluginului HeadSpace este disponibilă numai în WordPRess 2.5+. Meta-data introdusă va continua să funcţioneze, dar ar trebui să upgradaţi WordPressul sau să folosiţi o versiune mai veche a pluginului HeadSpace."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:494
+msgid "Posts successfully updated"
+msgstr "Articol modificat cu succes"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:533
+msgid "Your options have been updated"
+msgstr "Setările dumneavoastră au fost înregistrate"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:540
+msgid "HeadSpace has been removed"
+msgstr "HeadSpace a fost şters"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/headspace.php:578
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "%d elemente au fost importate din %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/plugin.php:724
+msgid "How many widgets would you like?"
+msgstr "Câte widgeturi doriţi?"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/plugin.php:731
+msgid "Save"
+msgstr "Salvează"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/models/inline_tags.php:250
+#, php-format
+msgid "(page %d of %d)"
+msgstr "(pagina %d din %d)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/models/pager.php:391
+msgid "Previous"
+msgstr "Precedent"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/models/pager.php:392
+msgid "Next"
+msgstr "Următor"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/import/headspace_tags.php:28
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "Taguri HeadSpace (converteşte în taguri WordPress 2.3)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "Head META Description"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "Jerome's Keywords"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "More Unique"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "SEO Title Tags"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "Simple Tagging"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/import/simple-tags.php:28
+msgid "Simple Tags (old version)"
+msgstr "Simple Tags (versiunea veche)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "Ultimate Tag Warrior"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/description.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/description.php:50
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/description.php:56
+msgid "Page description"
+msgstr "Descrierea paginii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/description.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/more_text.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/page_slug.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/page_title.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/site_description.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/site_name.php:49
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/tags.php:49
+msgid "Post title"
+msgstr "Titlul articolului"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/more_text.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/more_text.php:50
+msgid "More text"
+msgstr "Text pentru a citi în continuare articolul (more)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "URLul paginii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "URLul articolului"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/page_title.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/page_title.php:50
+msgid "Page title"
+msgstr "Titlul paginii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/site_description.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/site_description.php:50
+msgid "Site description"
+msgstr "Descrierea site-ului"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/site_name.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/site_name.php:50
+msgid "Site name"
+msgstr "Numele site-ului"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/tags.php:28
+msgid "Tags"
+msgstr "Tags (etichete)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/mass/tags.php:50
+msgid "Tags/keywords"
+msgstr "Tags/cuvinte-cheie "
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/description.php:61
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "Permite o scurtă descriere a paginii ce este folosită de motoarele de căutare."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/description.php:70
+msgid "Max length"
+msgstr "Lungimea maximă"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/description.php:73
+msgid "All descriptions will be trimmed to this length"
+msgstr "Toate descrierile vor fi reduse la această lungime"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/description.php:92
+msgid "Description"
+msgstr "Descriere"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/javascript.php:50
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/javascript.php:67
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/javascript.php:55
+msgid "Allow external JavaScript files to be referenced"
+msgstr "Permite indicarea unor fişiere JavaScript externe"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/keywords.php:64
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/keywords.php:105
+msgid "Keywords"
+msgstr "Cuvinte-cheie"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/keywords.php:69
+msgid "Allows meta keywords to be defined, seperate from tags (if necessary, disable keyword display in the Tags module)"
+msgstr "Permite definirea cuvintelor-cheie meta, separate de taguri (etichete) (daca este necesar, dezactivaţi afişarea cuvintelor-cheie în modulul Tags (etichete)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/keywords.php:78
+msgid "Use tags"
+msgstr "Foloseşte taguri (etichete)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/keywords.php:81
+msgid "Checking this will mean that your tags are also used as keywords and you will not be able to modify keywords independently"
+msgstr "Bifând căsuţa, tagurile (etichetele) dumneavoastră vor fi folosite pe post de cuvinte-cheie, cele din urmă neputând fi modificate independent."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/more_text.php:63
+msgid "Allows the 'more' text to be changed"
+msgstr "Permite textului pentru a citi în continuare articolul (more) să fie editat"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/noindex.php:34
+msgid "No-index"
+msgstr "Nu indexa"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/noindex.php:35
+msgid "No-follow"
+msgstr "No-follow (nu \"urmări\" linkurile)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/noindex.php:36
+msgid "No-archive"
+msgstr "No-archive"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/noindex.php:37
+msgid "No-ODP"
+msgstr "No-ODP"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/noindex.php:38
+msgid "No-Yahoo Dir"
+msgstr "No-Yahoo Dir"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/noindex.php:87
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/noindex.php:106
+msgid "Meta-Robots"
+msgstr "Meta-Robots"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/noindex.php:92
+msgid "Allows various meta-robot options to be set to prevent search engines and robots from indexing or following pages"
+msgstr "Permite setarea diferitelor opţiuni meta-robot ce previn indexarea sau \"urmărirea\" paginilor"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/page_title.php:120
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "Permite schimbarea titlului paginii (textul din titlul ferestrei browserului)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/page_title.php:129
+msgid "Title separator"
+msgstr "Separator de titlu"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/page_title.php:132
+msgid "Leave blank to use theme default"
+msgstr "Lasa gol pentru a folosi setările din temă"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/page_title.php:136
+msgid "Separator position"
+msgstr "Poziţia separatorului"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/page_title.php:139
+msgid "Before"
+msgstr "Înainte"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/page_title.php:140
+msgid "After"
+msgstr "După"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/page_title.php:145
+msgid "Force title rewrite"
+msgstr "Forţează rescrierea titlurilor"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/page_title.php:152
+msgid "This will cache your page and brute-force change the title.  While this is convienent because you don't need to change your theme it does lead to increased memory usage and a reduction in performance."
+msgstr "Acest lucru va schimba titlurile forţat. Aparent este convenabil, deoarece nu e nevoie să modificaţi fişierele temei, dar va fi folosită mai multă memorie şi performanţă va scade."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/page_title.php:172
+msgid "Page Title"
+msgstr "Titlul Paginii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/plugin.php:102
+msgid "Page-specific Plugins"
+msgstr "Pluginuri specifice Paginii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/plugin.php:107
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "Permite pluginurilor dezactivate activarea lor în anumite pagini."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/plugin.php:123
+msgid "Show in admin"
+msgstr "Afişează în admin"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/plugin.php:126
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "Afişează pluginurile specifice paginii în meniul de administrare"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/plugin.php:153
+msgid "Plugins"
+msgstr "Pluginuri"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/raw.php:43
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/raw.php:55
+msgid "Raw data"
+msgstr "Alte date"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/raw.php:48
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr "Permite inserarea suplimentară de date în secţiunea meta a paginii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/rss_name.php:57
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/rss_name.php:76
+msgid "RSS Name"
+msgstr "Numele fluxului RSS"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/rss_name.php:62
+msgid "Allows site RSS name to be changed"
+msgstr "Permite schimbarea numelui fluxului RSS"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/rss_tagline.php:57
+msgid "RSS Description"
+msgstr "Descrierea fluxului RSS"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/rss_tagline.php:62
+msgid "Allows site RSS description to be changed"
+msgstr "Permite schimbarea descrierii fluxului RSS"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/rss_tagline.php:76
+msgid "RSS Desc."
+msgstr "Descrierea fluxului RSS"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/site_name.php:63
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "Permite schimbarea numelui site-ului (numele blogului)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/site_tagline.php:56
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/site_tagline.php:75
+msgid "Site Tagline"
+msgstr "Descrierea site-ului (tagline)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/site_tagline.php:61
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "Permite schimbarea descrierii site-ului (tagline)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/stylesheet.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/stylesheet.php:78
+msgid "Stylesheets"
+msgstr "Fişiere CSS"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/stylesheet.php:66
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "Permite adăugarea fişierelor CSS pe o pagină"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/stylesheet.php:113
+msgid "Do not output CSS"
+msgstr "Nu aplica CSS"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:128
+msgid "<p>Tags: "
+msgstr "<p>Tags: "
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:163
+msgid "Allows tags to be added to pages"
+msgstr "Permite adăugarea etichetelor (tagurilor) pe o pagină"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:172
+msgid "Force tags in posts"
+msgstr "Forţează adăugarea etichetelor (tagurilor) în articole"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:175
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:185
+msgid "No"
+msgstr "Nu"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:176
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:186
+msgid "Yes"
+msgstr "Da"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:178
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:188
+msgid "Your theme may overrule this setting"
+msgstr "Tema dumneavoastra poate schimba această setare."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:182
+msgid "Force tags in pages"
+msgstr "Forţează etichete (taguri) în pagini"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:192
+msgid "Show pages"
+msgstr "Arată paginile"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:195
+msgid "Show pages in tag archives"
+msgstr "Arată paginile în arhivele de etichete (taguri)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:199
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo ZoneTag"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:202
+msgid "enable"
+msgstr "activează"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:297
+msgid "Suggested tags"
+msgstr "Etichete (taguri) sugerate"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:299
+msgid "add all"
+msgstr "adaugă-le pe toate"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:300
+msgid "suggest"
+msgstr "sugerează"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:302
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:327
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/tags.php:325
+msgid "Suggest tags based on content"
+msgstr "Sugerează etichete (taguri) bazate pe conţinut"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/theme.php:69
+msgid "Page-specific Theme"
+msgstr "Teme specifice paginii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/theme.php:81
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "Permite unei pagini specifice aplicare unei altei teme decât cea impicită"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/theme.php:89
+msgid "Theme"
+msgstr "Temă"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/page/theme.php:92
+msgid "Current theme"
+msgstr "Tema curentă"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/103bees.php:31
+msgid "103bees"
+msgstr "103bees"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/103bees.php:36
+msgid "Adds 103bees tracking code to all pages"
+msgstr "Adaugă codul 103bees pe toate paginile"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/103bees.php:111
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/google_webmaster.php:67
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/hittail.php:111
+msgid "Tracking code"
+msgstr "Cod"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/103bees.php:114
+msgid "Enter the full JavaScript tracking code as shown on your 103bees account page."
+msgstr "Introdu codul JavaScript complet aşa cum apare în contul tau 103bees"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/103bees.php:118
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:252
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/apture.php:118
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/crazyegg.php:124
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/hittail.php:118
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/mint.php:128
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:222
+msgid "Who to track"
+msgstr "Pe cine să urmăresc?"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/103bees.php:121
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:255
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/apture.php:121
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/crazyegg.php:127
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/hittail.php:121
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/mint.php:131
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:225
+msgid "Everyone"
+msgstr "Pe toată lumea."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/103bees.php:127
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:262
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/apture.php:128
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/crazyegg.php:134
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/hittail.php:128
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/mint.php:138
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:232
+msgid "Users of the specified role or less will be tracked"
+msgstr "Userii de la acest nivel sau mai mic vor fi urmăriţi"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:39
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:44
+msgid "Adds Google Analytic tracking code to all pages (through <code>wp_footer</code>)"
+msgstr "Adaugă codul Google Analytics pe toate paginile (prin <code>wp_footer</code>)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:236
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/feedburner-stats.php:67
+msgid "Account ID"
+msgstr "ID-ul contului"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:239
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "Introdu codul Google JavaScript complet sau doar numărul <code>_uacct</code>."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:243
+msgid "Version"
+msgstr "Versiune"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:246
+msgid "Urchin (urchin.js)"
+msgstr "Urchin (urchin.js)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:247
+msgid "New Google Analytics (ga.js)"
+msgstr "Noul Google Analytics (ga.js)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:266
+msgid "Track outbound links"
+msgstr "Urmăreşte linkurile externe"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:269
+msgid "Enter the URL you want outbound links tracked to"
+msgstr "Introdu URL-ul la care doreşti să-i rumăreşti linkurile externe"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:273
+msgid "Virtual Pages"
+msgstr "Pagini virtuale"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:276
+msgid "Change what appears in reports"
+msgstr "Schimbă ce apare în rapoarte"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:280
+msgid "Domain Name"
+msgstr "Numele domeniului"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:283
+msgid "Set to a root domain when tracking across sub-domains"
+msgstr "Setează la un domeniu rădăcină când se urmăresc subdomeniile"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:287
+msgid "Raw Code"
+msgstr "Cod brut"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:290
+msgid "Enter any additional Google Analytics code"
+msgstr "Introdu codul Google Analytics suplimentar"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:294
+msgid "Include on login page"
+msgstr "Include pe pagina de autentificare (login)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/analytics.php:297
+msgid "Include Google Analytics on the WordPress login page"
+msgstr "Include Google Analytics pe pagina de autentificare (login) WordPress"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/apture.php:31
+msgid "Apture"
+msgstr "Apture"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/apture.php:36
+msgid "Add Apture to all pages"
+msgstr "Adaugă Apture pe toate paginile"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/apture.php:111
+msgid "Site token"
+msgstr "Tokenul site-ului"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/apture.php:114
+msgid "Enter your site token."
+msgstr "Introdu tokenul site-ului."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr "Adaugă codul CrazyEgg pe toate paginile."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/crazyegg.php:117
+msgid "CrazyEgg ID"
+msgstr "ID-ul CrazyEgg"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/crazyegg.php:120
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg code</a>"
+msgstr "Introdu <a href=\"http://crazyegg.com/pages/instructions\">codul CrazyEgg</a> complet"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/disable_visual_editing.php:28
+msgid "Disable Visual Editing"
+msgstr "Dezactivează Editarea Vizuală"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/disable_visual_editing.php:33
+msgid "Disable visual editing"
+msgstr "Dezactivează editarea vizuală."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/feedburner-stats.php:30
+msgid "Feedburner Stats Pro"
+msgstr "Statistici FeedBurner Pro"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/feedburner-stats.php:35
+msgid "Adds appropriate code to your posts to enable FeedBurner Stats Pro"
+msgstr "Adaugă codul FeedBurner Stats Pro articolelor tale."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/feedburner-stats.php:70
+msgid "This is your FeedBurner username"
+msgstr "Acesta este numele tău de utilizator FeedBurner"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/first-time-visitor.php:34
+msgid "First Time Visitor"
+msgstr "Vizitator nou"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/first-time-visitor.php:39
+msgid "Display a message for first time visitors (based upon idea from Seth Godin)"
+msgstr "Afişează un mesaj vizitatorilor noi (bazat pe ideea lui Seth Godin)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/first-time-visitor.php:93
+#, php-format
+msgid "<p>As a new visitor you may want to subscribe to my <a href=\"%s/feed/\">RSS</a> feed.</p>"
+msgstr "<p>Ca vizitator nou ai dori să te abonezi la fluxul meu <a href=\"%s/feed/\">RSS</a>.</p>"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/first-time-visitor.php:119
+msgid "Message to display"
+msgstr "Mesaj de afişat"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/first-time-visitor.php:125
+msgid "Repeat"
+msgstr "Repetă"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/first-time-visitor.php:126
+msgid "Enter 0 for always"
+msgstr "Introdu 0 pentru totdeauna"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/first-time-visitor.php:129
+msgid "Display position"
+msgstr "Poziţia afişării"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/first-time-visitor.php:132
+msgid "Before content"
+msgstr "Înainte de conţinut"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/first-time-visitor.php:133
+msgid "After content"
+msgstr "După conţinut"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/first-time-visitor.php:138
+msgid "Ignore Bots"
+msgstr "Ignoră roboţii (bots)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/frame-breaker.php:32
+msgid "Frame Breaker"
+msgstr "Blochează frame-urile"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/frame-breaker.php:37
+msgid "Stops your site being loaded in a frame"
+msgstr "Nu permite încărcarea site-ului într-un frame"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Reclame AdSense relevantei (Google Section Targeting)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "Cuprinde conţinutul articolelor şi paginilor în etichete (taguri) Google pentru relevanţă mai mare"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/google_webmaster.php:30
+msgid "Google Webmaster"
+msgstr "Google Webmaster"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/google_webmaster.php:35
+msgid "Adds Google Webmaster tracking code to your home page"
+msgstr "Adaugă codul Google Webmaster paginii principale"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/google_webmaster.php:70
+msgid "Enter Google Webmaster tracking code."
+msgstr "Introdu codul Google Webmaster"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/hittail.php:31
+msgid "HitTail"
+msgstr "HitTail"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/hittail.php:36
+msgid "Adds HitTail tracking code to all pages"
+msgstr "Adaugă codul HitTail pe toate paginile"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/hittail.php:114
+msgid "Enter the full JavaScript tracking code as provided by HitTail."
+msgstr "Introdu codul JavaScript complet aşa cum este furnizat de HitTail."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr "Adaugă codul Mint pe toate paginile"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/mint.php:121
+msgid "Mint path"
+msgstr "Calea către Mint"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/mint.php:124
+msgid "Enter the relative URL to your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "Introdu URL-ul relativ către instalarea Mint (ex: <code>/mint/</code>)."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "Numărul de Pagini"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "Schimbă numărul de articole afişate pe paginile de tip arihivă şi de căutare şi decide dacă doreşti afişarea conţinutului complet sau doar a excerptului (primele cuvinte din articol)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:116
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "articole, sunt afişate"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:118
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:130
+msgid "default"
+msgstr "implicit"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:119
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:131
+msgid "content"
+msgstr "conţinut"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:120
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "excerpt (primele cuvinte)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:122
+msgid "(set number of posts to 0 for theme default)"
+msgstr "(setează numărul de articole pentru 0 pentru tema implicită)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "Căutări"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "setează numărul de articole 0 pentru tema implicită"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:37
+msgid "Piwik"
+msgstr "Piwik"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:42
+msgid "Adds Piwik tracking code to all pages"
+msgstr "Adaugă codul Piwik pe toate paginile"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:180
+msgid "Piwik Site ID"
+msgstr "ID-ul Piwik"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:183
+msgid "If you are monitoring multiple sites this allows you to identify each"
+msgstr "Dacă monitorizaţi mai multe site-uri, acest lucru va permite să-l identificaţi pe fiecare"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:187
+msgid "Piwik PHP"
+msgstr "Codul PHP Piwik"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:190
+msgid "The location of the Piwik PHP file (i.e. <code>/piwik/piwik.php</code>)"
+msgstr "Locaţia filşierului PHP Piwik (ex:<code>/piwik/piwik.php</code>)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:194
+msgid "Piwik JavaScript"
+msgstr "Piwik JavaScript"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:197
+msgid "The location of the Piwik JavaScript file (i.e. <code>/piwik/piwik.js</code>)"
+msgstr "Locaţia fişierului Piwik JavaScript (ex: <code>/piwik/piwik.js</code>)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:201
+msgid "Track downloads"
+msgstr "Urmăreşte numărul de downloadări"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:204
+msgid "Clear to disable download tracking"
+msgstr "Lasă liber pentru a dezactiva urmărirea de downloadări"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:204
+msgid "reset to default"
+msgstr "revenire la setările iniţiale"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:208
+msgid "Tracker pause"
+msgstr "Opreşte urmărirea"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:211
+msgid "A pause (milliseconds) added when a file is downloaded.  Small values may not be tracked"
+msgstr "O pauză (milisecunde) este adăugată când un fişier este downloadat. Valorile mici nu ar fi putea urmărite"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:215
+msgid "Host aliases"
+msgstr "Host aliases"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/piwik.php:218
+msgid "Enter each host on a separate line"
+msgstr "Introdu fiecare host pe o linie separată"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr "Adaugă codul StatCounter pe toate paginile"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "Project ID"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "Partition ID"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "Security ID"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:32
+msgid "System Settings"
+msgstr "Setările de Sistem"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:37
+msgid "Configure PHP memory limits, time-outs, and error reporting"
+msgstr "Configurează limitele de memorie PHP, time-outs şi raportarea erorilor"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:84
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:94
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:99
+msgid "System default"
+msgstr "Setări implicite"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:85
+msgid "30 seconds"
+msgstr "30 de secunde"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:86
+msgid "60 seconds"
+msgstr "60 de secunde"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:87
+msgid "10 minutes"
+msgstr "10 minute"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:88
+msgid "1 hour"
+msgstr "1 oră"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:89
+msgid "No timeout limit"
+msgstr "Fără limită de timeout"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:100
+msgid "Show only errors"
+msgstr "Arată numai erorile"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:101
+msgid "Show all errors &amp; warnings"
+msgstr "Arată toate erorile &amp; avertizările"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:102
+msgid "Show no errors or warnings"
+msgstr "Arată doar erorile sau avertizările"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:106
+msgid "Memory Limit"
+msgstr "Limita de Memorie"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:116
+msgid "PHP Script Timeout"
+msgstr "PHP Script Timeout"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/system-settings.php:126
+msgid "PHP Error Reporting"
+msgstr "PHP Error Reporting"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:30
+msgid "Disable WordPress Widgets"
+msgstr "Dezactivează Widgeturile WordPress"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:35
+msgid "Allows you to enable or disable various WordPress Widgets"
+msgstr "Permite activarea sau dezactivarea Widgeturilor WordPress"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:62
+msgid "Pages"
+msgstr "Pagini"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:67
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:68
+msgid "Calendar"
+msgstr "Calendar"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:79
+msgid "Links"
+msgstr "Linkuri"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:84
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:85
+msgid "Meta"
+msgstr "Meta"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:90
+msgid "Search"
+msgstr "Căutare"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:95
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:96
+msgid "Recent Posts"
+msgstr "Articole Recente"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:101
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:102
+msgid "Tag Cloud"
+msgstr "Nor de etichete (taguri)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:141
+msgid "categories"
+msgstr "categorii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:142
+msgid "text"
+msgstr "text"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:143
+msgid "rss"
+msgstr "rss"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:144
+msgid "recent comments"
+msgstr "comentarii recente"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:145
+msgid "pages"
+msgstr "pagini"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:146
+msgid "search"
+msgstr "căutare"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:147
+msgid "calendar"
+msgstr "calendar"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:148
+msgid "archives"
+msgstr "arhive"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:149
+msgid "links"
+msgstr "Linkuri"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:150
+msgid "meta"
+msgstr "meta"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:151
+msgid "recent entries"
+msgstr "articole recente"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:152
+msgid "tag cloud"
+msgstr "Nor de etichete (taguri)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/widgets.php:156
+msgid "Enabled Widgets"
+msgstr "Widgeturi Activate"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "Formatarea conţinutului WordPress"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "Permite activarea sau dezactivarea variatelor funcţii WordPress de auto-formatare (inclusiv wpautop) "
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/wp_formatting.php:91
+msgid "Auto-formatting"
+msgstr "Auto-formatare"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/wp_formatting.php:94
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr "Foloseşte <code>wpautop</code> pentru formatarea paragrafelor"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/wp_formatting.php:98
+msgid "Auto-fancy quotes"
+msgstr "Ghilimele automate"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/wp_formatting.php:101
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "Foloseşte <code>wptexturize</code> pentru formatarea ghilimelelor"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/wp_formatting.php:105
+msgid "Auto-link"
+msgstr "Linkuri automate"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/wp_formatting.php:108
+msgid "Makes links clickable in comments"
+msgstr "Transformă linkurile din comentarii în linkuri ce pot fi clickuite"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/yahoo-site-explorer.php:30
+msgid "Yahoo! Site Explorer"
+msgstr "Yahoo! Site Explorer"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/yahoo-site-explorer.php:35
+msgid "Adds Yahoo! Site Explorer tracking code to your home page"
+msgstr "Adaugă codul Yahoo! Site Explorer pe pagina principală."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/modules/site/yahoo-site-explorer.php:70
+msgid "Enter Yahoo! Site Explorer tracking code."
+msgstr "Introdu codul Yahoo! Site Explorer."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/edit.php:19
+msgid "advanced"
+msgstr "avansat"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/edit_ajax.php:6
+msgid "Cancel"
+msgstr "Anulează"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/edit_category.php:1
+msgid "HeadSpace Settings"
+msgstr "Setări HeadSpace"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "Editează Categoria &raquo;"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/edit_post.php:7
+msgid "HeadSpace Meta data"
+msgstr "Meta data HeadSpace"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/head_admin.php:7
+msgid "Are you sure you want to merge that tag?"
+msgstr "Eşti sigur că doreşti să contopeşti acea etichetă (tag)?"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/help.php:3
+msgid "Special Tags"
+msgstr "Etichete (Taguri) Speciale"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/help.php:4
+msgid "These tags can be included and will be replaced by HeadSpace when a page is displayed."
+msgstr "Aceste etichete pot fi incluse şi vor fi inlocuite de HeadSpace când o pagină este afişată."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/import.php:3
+#, php-format
+msgid "%s | Import"
+msgstr "%s | Import"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/import.php:7
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "Această pagină vă permite importarea meta-datei din alte pluginuri WordPress. Celelalte pluginuri nu trebuie să fie activate pentru ca importarea să poată funcţiona."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/import.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/submenu.php:7
+msgid "Import"
+msgstr "Importă"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/import.php:17
+msgid "Import and remove original data"
+msgstr "Importă şi şterge datele originale"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/import.php:17
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "(nu este valabil pentru UTW şi Simple Tagging)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/import.php:20
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "Ca măsură de precauţie, <strong>faceţi un backup al bazei de date înainte de import.</strong> Nu suntem responsabili pentru posibilele pierderi suferite în proces."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/mass_edit.php:40
+msgid "Save all data"
+msgstr "Salvează toate datele"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/modules.php:4
+#, php-format
+msgid "%s | Page Modules"
+msgstr "%s | Modulele Paginii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/modules.php:8
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "Modulele paginii sunt aplicate paginilor individuale. Aranjaţi modulele în zona corespunzătoare."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/modules.php:12
+msgid "Simple"
+msgstr "Simplu"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/modules.php:13
+msgid "Modules will always appear on edit screens"
+msgstr "Modulele vor apărea întotdeauna pe paginile de editare."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/modules.php:18
+msgid "Advanced"
+msgstr "Avansat"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/modules.php:19
+msgid "Modules will be hidden behind a link"
+msgstr "Modulele vor fi ascunse în spatele unui link."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/modules.php:29
+msgid "Disabled"
+msgstr "Dezactivat"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/modules.php:30
+msgid "Modules are disabled and do not appear"
+msgstr "Modulele sunt dezactivate şi nu vor fi afişate"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/options.php:5
+#, php-format
+msgid "%s | General Options"
+msgstr "%s | Opţiuni Generale"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/options.php:11
+msgid "Inherit settings"
+msgstr "Moşteneşte setările"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/options.php:15
+msgid "Inherit from global settings"
+msgstr "Moşteneşte din setările globale"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/options.php:19
+msgid "Plugin Support"
+msgstr "Suport pentru plugin"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/options.php:22
+msgid "I'm a nice person and I have helped support the author of this plugin"
+msgstr "Doresc să ajut autorul acestui plugin."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/options.php:26
+msgid "Debug"
+msgstr "Depanare"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/options.php:30
+msgid "Enable debug option"
+msgstr "Activează opţiunea de depanare"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/options.php:36
+msgid "Update Options &raquo;"
+msgstr "Actualizează Opţiunile &raquo;"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/options.php:42
+msgid "Remove HeadSpace"
+msgstr "Şterge HeadSpace"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/options.php:44
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data - be sure this is what you want!"
+msgstr "Această opţiune va şterge HeadSpace, inclusiv toate setările, etichetele (tagurile) şi meta-data - eşti sigur că asta doreşti?"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/options.php:48
+msgid "Delete HeadSpace"
+msgstr "Şterge HeadSpace"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/pager.php:14
+msgid "Per page"
+msgstr "Pe pagină"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/pager.php:21
+msgid "go"
+msgstr "go"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/settings.php:4
+#, php-format
+msgid "%s | Page Settings"
+msgstr "%s | Setările Paginii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/settings.php:8
+msgid "Click the page type to change settings.  You can enable additional modules to provide more choices."
+msgstr "Click pe tipul paginii pentru a-i schimba setările. Puteţi activa mai multe module pentru a oferi mai multe opţiuni."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/settings.php:20
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "Setările pot fi aplicate anumitor articole &amp; pagini din <strong>pagina de editare a articolului</strong> şi unor categorii specifice din <strong>pagina de editare a categoriei</strong>."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/site_modules.php:2
+#, php-format
+msgid "%s | Site Modules"
+msgstr "%s | Modulele Site-ului"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/site_modules.php:6
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "Modulele site-ului sunt aplicate site-ului ca un întreg. Doar modulele bifate vor rula (dacă sunt configurate corespunzător)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/submenu.php:3
+msgid "Page Settings"
+msgstr "Setările Paginii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/submenu.php:4
+msgid "Page Modules"
+msgstr "Modulele Paginii"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/submenu.php:5
+msgid "Site Modules"
+msgstr "Modulele Site-ului"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/submenu.php:6
+msgid "Options"
+msgstr "Opţiuni"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/support.php:2
+msgid "HeadSpace Support"
+msgstr "HeadSpace Suport"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/support.php:4
+msgid "HeadSpace has required a great deal of time and effort to develop.  If it's been useful to you then you can support this development by <strong>making a small donation of $8</strong>.  This will act as an incentive for me to carry on developing it, providing countless hours of support, and including any enhancements that are suggested."
+msgstr "HeadSpace a avut nevoie de mult timp şi efort pentru a fi programat. Dacă v-a fost util, atunci puteţi ajuta dezvoltarea sa <strong>facând o mică donaţie de 8$</strong>. Acest lucru va funcţiona ca un stimulent pentru a continua dezvoltarea sa, oferind ore nenumărate de suport + eventualelor funcţii ce pot fi sugerate."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/support.php:25
+msgid "Alternatively, if you are multi-lingual, do consider translating this into another language.  All the necessary localisation files are included and I've written a <a href=\"http://urbangiraffe.com/articles/translating-wordpress-themes-and-plugins/\">full guide to the translation process</a>."
+msgstr "Altfel, puteţi ajuta prin traducerea pluginului în altă limbă. Toate fişierele pentru localizare sunt incluse şi am scris<a href=\"http://urbangiraffe.com/articles/translating-wordpress-themes-and-plugins/\">un ghid pentru a vă ajuta să traduceţi pluginul</a>."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/support.php:27
+msgid "This notice will only be shown at periodic intervals and can be disabled easily."
+msgstr "Această notificare va fi afişată la anumite intervale şi poate fi usor dezactivată."
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "Noutăţi HeadSpace2"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\headspace2/view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "acum %s"
+

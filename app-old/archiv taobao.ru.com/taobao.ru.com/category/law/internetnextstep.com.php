@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://internetnextstep.com">MLM Software by Internetnextstep</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Интернет магазин офисной техники. <a href="http://www.unirol.ru/category_11.html" >Офисная бумага</a>'; include '../view.php';

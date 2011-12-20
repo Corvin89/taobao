@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://forexc.org/>Форекс О брокерах и О рисках</a>'; include '../view.php';

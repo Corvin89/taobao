@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://bbizz.ru/>Ёлектронна€ валюта</a>'; include '../view.php';

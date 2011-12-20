@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://catalog.100zakladok.ru/health/life-style/" target="_blank">Здоровый образ жизни - избранное</a>'; include '../view.php';

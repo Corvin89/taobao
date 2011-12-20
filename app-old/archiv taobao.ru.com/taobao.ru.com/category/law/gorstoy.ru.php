@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gorstoy.ru">Строительство загородных домов</a>'; include '../view.php';

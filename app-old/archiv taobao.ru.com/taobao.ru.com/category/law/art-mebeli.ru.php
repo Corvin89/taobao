@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.art-mebeli.ru">кухни подмосковья</a>'; include '../view.php';

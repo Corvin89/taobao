@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.yoururlstore.com" id="RBB0DA7">URL Store</a> - Web Directory. Add your link today.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.my-photo.me/" target="_blank">Авторские обои</a>'; include '../view.php';

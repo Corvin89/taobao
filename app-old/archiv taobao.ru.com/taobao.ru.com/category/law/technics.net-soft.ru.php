@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://technics.net-soft.ru/catalog.php?strn=4">Купить ноутбук.</a> <a href="http://technics.net-soft.ru/catalog.php?strn=17">Купить web камеру в интернет магазине.</a> <a href="http://technics.net-soft.ru/le/submit.php">Обмен ссылками.</a>'; include '../view.php';

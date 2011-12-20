@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vozrozhdenie-zoro.info">Сайт коллекционера и антиквара.</a>'; include '../view.php';

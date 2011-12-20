@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://dembelya.su">Скачать</a>  флэш игры.'; include '../view.php';

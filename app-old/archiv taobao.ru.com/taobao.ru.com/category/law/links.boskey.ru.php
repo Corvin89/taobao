@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.biinf.com">рынок оборудования</a>. Журнал для тех кто ищет <a href="http://www.biinf.com">оборудование</a>'; include '../view.php';

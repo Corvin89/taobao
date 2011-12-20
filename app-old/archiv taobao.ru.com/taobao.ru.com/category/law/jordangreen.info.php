@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.jordangreen.info">Jordan Green - Link Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Арт проект<a href="http://autograph.yarcenter.ru">"Автограф"</a> фотография, графика, дизайн, пьессы, стихи.'; include '../view.php';

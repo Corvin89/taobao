@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://drivefield.ru">ќсновы управлени€ сельскохоз€йственной техникой</a>'; include '../view.php';

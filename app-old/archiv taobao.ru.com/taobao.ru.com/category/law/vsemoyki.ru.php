@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target=_blank href=http://vsemoyki.ru>Кухонные мойки blanco, franke, schock, мойки из Германии и Италии, смесители grohe</a>'; include '../view.php';

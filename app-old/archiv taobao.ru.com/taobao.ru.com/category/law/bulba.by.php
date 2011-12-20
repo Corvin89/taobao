@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://bulba.by"><img border="0" src="http://bulba.by/images/88x31.gif" alt='Бульба - отборный белорусский интернет' width="88" height="31"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.futurisquality.com">Free Submit Cheap Paid Directory Free Submission</a>'; include '../view.php';

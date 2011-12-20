@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kayakscanoes.net" id="RD9533B">Catalog database finder searches for kayaking and canoe supplies and equipment</a>- Websites Recreation, Bait & Tackle, Shoes, Sportswear, Riverboats, Bicycle, Charters'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'www.auto-stop.biz - официальный сайт <a href="http://www.auto-stop.biz">автоиздания</a> Автостоп Кузбасс'; include '../view.php';

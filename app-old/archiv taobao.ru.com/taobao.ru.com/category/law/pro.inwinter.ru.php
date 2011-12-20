@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://inwinter.ru" title="лыжи">спортивный зимний инвентарь</a>'; include '../view.php';

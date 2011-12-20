@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://wirtuoz.ru/>Фирма Виртуоз - Установка пластиковых окон ПВХ</a>'; include '../view.php';

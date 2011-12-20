@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kuhnidom.ru">Кухни с фасадами из пластика, кухонная мебель</a>'; include '../view.php';

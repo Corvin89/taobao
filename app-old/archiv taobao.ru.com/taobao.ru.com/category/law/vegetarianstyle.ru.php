@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vegetarianstyle.ru" title="Вегетарианские блюда" target="_blank">Вегетарианские блюда</a>: рецепты, советы по приготовлению.'; include '../view.php';

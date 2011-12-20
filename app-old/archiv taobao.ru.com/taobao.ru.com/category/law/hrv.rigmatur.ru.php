@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://tur-uae.ru/"><img border="0" src="http://tur-uae.ru/banner.gif" width="88" height="31" alt="Îòäûõ è òóðû â ÎÀÝ"></a>'; include '../view.php';

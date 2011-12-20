@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.winecatalog.ru">Винный каталог<img src="http://winecatalog.ru/images/admin/poweredby.jpg" alt="Винный каталог">'; include '../view.php';

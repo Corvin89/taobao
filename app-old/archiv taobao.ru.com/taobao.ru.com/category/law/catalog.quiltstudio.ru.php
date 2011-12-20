@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://catalog.quiltstudio.ru"> Открытый каталог качественных сайтов</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.texnik.com>аренда крана, аренда автомобиля</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cosmeta.com"><b>COSMETA:  Unique New Age Gifts for Living a New Age Lifestyle!</b></a> - We offer a variety of unique New Age gifts, asian decor, tabletop fountains, oil burners, wind chimes, angel figurines, bird feeders, a variety of spun glass figurines, candle lanterns & more...'; include '../view.php';

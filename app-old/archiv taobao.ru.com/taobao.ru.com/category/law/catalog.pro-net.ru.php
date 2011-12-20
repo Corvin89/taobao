@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://catalog.pro-net.ru/" target="_blank"><img src="http://netnsk.ru/netnsk.gif" alt="Обмен ссылками" border="0" /></a>'; include '../view.php';

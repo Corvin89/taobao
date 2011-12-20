@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Разместить рекламу сайта, <a title="reklama.NSTY:: реклама на сайте" href="http://www.reklama.nsty.ru">реклама в интернете</a> раскрутка сайта реклама'; include '../view.php';

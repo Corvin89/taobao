@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://vklad.kz">www.vklad.kz</a> - Личные финансы в Казахстане - как создать капитал для достойной жизни'; include '../view.php';

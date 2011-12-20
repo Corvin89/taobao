@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tanit.ru/" title="Duravit газовые смесители санфа€нс ">Tanit.ru - Ёлитна€ сантехника, мебель и аксессуары дл€ ванной</a>'; include '../view.php';

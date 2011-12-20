@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://kat22.faktor.biz/">Katalog stron WWW</a>'; include '../view.php';

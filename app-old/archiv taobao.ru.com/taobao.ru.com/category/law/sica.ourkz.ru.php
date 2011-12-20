@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ourkz.ru/" target="_blank">Новости Казахстанского туризма</a>'; include '../view.php';

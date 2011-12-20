@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://sites-catalogue.in-global.net/' target='_blank'><img src='http://sites-catalogue.in-global.net/images/button_88x31.gif' border=0 title='Каталог сайтов. Зарегистрировать сайт бесплатно в каталог сайтов' alt='Каталог сайтов. Зарегистрировать сайт бесплатно в каталог сайтов'></a>'; include '../view.php';

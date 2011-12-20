@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.bmvg.info/">BMVG Free Link Directory</a>'; include '../view.php';

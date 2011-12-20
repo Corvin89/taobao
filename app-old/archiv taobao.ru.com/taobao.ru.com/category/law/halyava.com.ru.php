@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Все о рекламе и маркетинге на сайте Adhard.ru, где вы можете <a href="http://www.adhard.ru/list-c-books.html">скачать книги по рекламе</a>, а также узнать последние <a href="http://www.adhard.ru/">новости рекламы</a>.'; include '../view.php';

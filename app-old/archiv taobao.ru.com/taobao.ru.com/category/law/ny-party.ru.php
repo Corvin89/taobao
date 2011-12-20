@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Авторские <a href="http://www.ny-party.ru">новогодние песни, стихи и поздравления</a> на NY-PARTY.RU'; include '../view.php';

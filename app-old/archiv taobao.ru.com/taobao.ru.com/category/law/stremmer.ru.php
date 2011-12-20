@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="/" target="_blank">Автосервис Stremmers  на Волоколамском шоссе</a>'; include '../view.php';

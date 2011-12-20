@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://amarna.ru" target="_blank">Рефераты,курсовые,дипломные</a><br />'; include '../view.php';

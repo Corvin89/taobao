@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.UrbanTown.com">UrbanTown shopping directory</a>'; include '../view.php';

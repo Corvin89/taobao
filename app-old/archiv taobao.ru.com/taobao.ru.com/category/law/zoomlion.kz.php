@@ -1,0 +1,1 @@
+<?php $catalogLink = 'В Казахстане <a href="http://ahrefa.kz">продвижение сайтов</a> с гарантией!'; include '../view.php';

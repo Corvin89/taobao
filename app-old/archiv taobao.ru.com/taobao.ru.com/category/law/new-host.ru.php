@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.new-host.ru/theory/domain/'>Что такое домен</a>. <a href='http://www.new-host.ru/'>NEW-HOST -  виртуальный хостин, collocation, платный хостинг, реселлинг</a>'; include '../view.php';

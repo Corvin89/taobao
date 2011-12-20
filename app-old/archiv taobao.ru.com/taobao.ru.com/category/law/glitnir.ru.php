@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Толкование снов и предсказания на сайте <a href="http://www.mestanet.ru">http://www.mestanet.ru</a><br /><a href="http://www.livenk.ru">Блогосфера новокузнецка</a> - создай свой блог.<br /><a href="http://1000car.ru/">Авто новости</a> Новосибирска<br />Классификация и типы <a href="http://usilitels.ru/">усилителей</a><br />'; include '../view.php';

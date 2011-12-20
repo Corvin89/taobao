@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.kantar-ts.com/ target=_blank><img src=http://www.kantar-ts.com/kantar.gif width=88 height=31 border=0 alt="Equipment for manufacture elbows and produce reducers. Wire drawing machines. Wiredrawing equipment. Equipment for manufacture fittings. Hydraulic presses."></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://vsedergitel.ru">Московская церковь "Святой Троицы"</a>'; include '../view.php';

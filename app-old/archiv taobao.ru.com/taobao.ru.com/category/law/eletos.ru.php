@@ -1,0 +1,1 @@
+<?php $catalogLink = '<LI><A HREF="http://www.eletos.ru" TARGET="_blank" class="linkM">Ёлектроинструмент</A></LI>'; include '../view.php';

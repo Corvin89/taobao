@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A href="http://gepiw.com">увеличить ТИЦ и PR, заработать деньги за время размещения ссылки на странице</a>'; include '../view.php';

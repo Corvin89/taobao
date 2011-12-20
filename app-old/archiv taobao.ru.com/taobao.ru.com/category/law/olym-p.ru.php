@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://olym-p.ru/>Ѕюро путешествий огромный выбор услуг в сфере туризма и отдыха</a>'; include '../view.php';

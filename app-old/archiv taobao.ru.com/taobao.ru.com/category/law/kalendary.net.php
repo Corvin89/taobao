@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kalendary.net" target="_blank">Проект «КАЛЕНДАРИ.NET». Изготовление календарей. Квартальные календари. Настольные календари. Карманные календарики. Календарная сетка</a> <a href="http://bosco.kiev.ua/catalog/" target="_blank">Каталог ссылок</a>'; include '../view.php';

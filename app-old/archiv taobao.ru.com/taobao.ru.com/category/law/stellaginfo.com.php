@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.stellaginfo.com">Продажа стеллажей, металлических шкафов, сейфов</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.classifiedmaine.com" id="RE44186">Free Listing Of Classifieds In Maine ME United States</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://nikyah.ru'>исламский сайт знакомств</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Ёнциклопеди€ мировой авиации. <a href=http://www.gophotos.ru/>Ёнциклопеди€ мировой авиации. јвиаци€ от A до Z</a>.'; include '../view.php';

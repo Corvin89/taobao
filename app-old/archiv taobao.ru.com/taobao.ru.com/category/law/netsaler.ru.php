@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.i-land.ru">Магазин белых мобильных телефонов</a>'; include '../view.php';

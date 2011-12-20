@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dirmoon.com/">A Blue Moon for Web Popularity</a>'; include '../view.php';

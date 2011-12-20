@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.stendmaster.com" title="Вывески, изготовление вывесок" class="lmenu">Вывески, изготовление вывесок</a>'; include '../view.php';

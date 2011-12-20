@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ongate.eu/">Suchmaschinen Optimierung</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.drmove.com/Submit-Your-Site/">Dallas Free Yellow  Pages, Online  Directory</a>'; include '../view.php';

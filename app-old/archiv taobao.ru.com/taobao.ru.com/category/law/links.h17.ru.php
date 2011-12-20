@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.weidern.narod.ru"target="_blank">weidern.narod.ru - бесплатный софт, 
+программы, документации и учебники по CSS, HTML и JAVA; баннерообмен и обмен ссылками!</a>'; include '../view.php';

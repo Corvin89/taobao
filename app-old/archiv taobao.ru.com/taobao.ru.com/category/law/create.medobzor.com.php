@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.a-therapy.com">Арт терапия и креативная реабилитация</a> Доктор Андрей Сисецкий о креативной реабилитации'; include '../view.php';

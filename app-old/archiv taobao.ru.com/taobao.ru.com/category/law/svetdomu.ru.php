@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://svetdomu.ru/" target="_blank"><img src="http://svetdomu.ru/images/button.gif" width=88 height=31 alt="Свет для вашего дома - широкий ассортимент светотехнической продукции" border="0"></a>'; include '../view.php';

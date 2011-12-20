@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://prodavay.info/">Товары - спрос, предложение</a>'; include '../view.php';

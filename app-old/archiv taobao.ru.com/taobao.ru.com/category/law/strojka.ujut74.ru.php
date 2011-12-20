@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://strojka.ujut74.ru">Строительная доска объявлений - Уют и комфорт</a>'; include '../view.php';

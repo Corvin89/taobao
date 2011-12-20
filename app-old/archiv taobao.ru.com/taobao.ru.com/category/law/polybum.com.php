@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="переработка полимеров, оборудование и технологии" href="http://www.polybum.com/"><img border="0" src="http://www.polybum.com/images/logo.JPG" width="91" height="31"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.megabody.ru/"><img src="http://www.megabody.ru/images/banner.gif" title="Антицеллюлитная одежда и одежда для похудения"></a>'; include '../view.php';

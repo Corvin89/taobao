@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Скачайте <a href="http://tdle.ru" title="Dle шаблоны">Dle шаблоны</a> без регистраций'; include '../view.php';

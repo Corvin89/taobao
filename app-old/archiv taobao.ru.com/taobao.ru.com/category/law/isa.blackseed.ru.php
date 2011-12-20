@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.isa.blackseed.ru/izgnanie-dzhinov.-lechenie-ot-sglaza-po-kornau.html">изгнание джинов</a>'; include '../view.php';

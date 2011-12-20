@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sibiley.net" title="рыбалка">Приспособления для рыбалки</a>'; include '../view.php';

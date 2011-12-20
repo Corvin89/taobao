@@ -1,0 +1,1 @@
+<?php $catalogLink = '<strong>Стройгруппа ГЭЙЛ - <a href="http://www.new-office.ru/">комплексный ремонт квартир и офисов, отделка коттеджей</a></strong>'; include '../view.php';

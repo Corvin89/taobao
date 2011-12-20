@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target='_blank' href='http://www.veris.com.ua'>[+] AVON, MARY KAY, Платежные ( POS ) терминалы, НОУТБУКИ, INFINUM, тренажеры Powerball, серьги ENERGETIX, картинки, открытки почтой</a>'; include '../view.php';

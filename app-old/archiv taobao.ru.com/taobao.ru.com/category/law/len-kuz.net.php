@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://len-kuz.net">Ленинск-Кузнецкий городской портал</a>'; include '../view.php';

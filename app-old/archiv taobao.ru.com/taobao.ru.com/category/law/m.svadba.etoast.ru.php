@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Только <a href="http://www.etoast.ru">лучшие поздравления с юбилеем</a> и <a href="http://www.8marta.etoast.ru">8 марта</a>. Сценарии организации праздников.'; include '../view.php';

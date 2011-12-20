@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Профессиональный <a href="http://zoosvit.com">Зоокаталог</a>'; include '../view.php';

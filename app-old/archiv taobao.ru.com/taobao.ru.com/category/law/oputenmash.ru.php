@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://oputenmash.ru/" title="ООО ОЭЗ Белэнергомаш г.Белгород.">ООО ОЭЗ Белэнергомаш г.Белгород.</a>'; include '../view.php';

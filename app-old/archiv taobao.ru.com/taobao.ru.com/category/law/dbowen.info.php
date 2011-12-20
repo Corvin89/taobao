@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.skincarebeautyguide.com/article/">skincare cosmetics guide</a>'; include '../view.php';

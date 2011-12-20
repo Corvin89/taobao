@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.spmoscow.ru/" target=_blank><img src="http://spmoscow.ru/images/logotip.gif" border=0 alt="Подшипники на сайте Союз Подшипник" width=88 height=31></a>'; include '../view.php';

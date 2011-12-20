@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.bogi-i-bogini.com' target='_blank'><b>Боги и богини</b></a><br />справочник богов'; include '../view.php';

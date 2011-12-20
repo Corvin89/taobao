@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.carspain.com/">car hire Spain</a> - Low cost for car hire Spain, <a href="http://www.carspain.com/malaga/">car hire Malaga</a>, Alicante, Mallorca, Ibiza or any other popular destination in Spain.'; include '../view.php';

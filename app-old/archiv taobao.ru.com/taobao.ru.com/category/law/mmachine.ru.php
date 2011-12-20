@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Сайт MMACHINE.RU - <a href="http://mmachine.ru/" target="_blank" title="портал станков и оборудования">портал станков и оборудования</a>'; include '../view.php';

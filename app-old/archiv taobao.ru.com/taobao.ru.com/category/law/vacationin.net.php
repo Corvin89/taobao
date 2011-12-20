@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.pawnshops.net/vacationin" id="RB0F37E">VacationIn.Net - Vacation & Travel Information</a>'; include '../view.php';

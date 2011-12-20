@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.alplitka.ru">керамическая плитка</a> для ванной.'; include '../view.php';

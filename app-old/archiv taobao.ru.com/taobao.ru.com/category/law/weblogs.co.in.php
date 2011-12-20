@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.weblogs.co.in/">Blog directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://vityut.ru" target="_blank" >Отдых в Анапе. Отдых в Витязево в гостевом доме УЮТ</a>'; include '../view.php';

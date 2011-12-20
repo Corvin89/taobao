@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://pay.ucoz.net/dir/" target="_blank"><strong>Каталог русских сайтов</strong></a>'; include '../view.php';

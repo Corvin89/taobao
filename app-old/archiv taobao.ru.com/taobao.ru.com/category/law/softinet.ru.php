@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://softinet.ru/" title="ׁמפע, ןנמדנאללû"><img src="http://www.yandex.ru/cycounter?http://softinet.ru/" border="0" width="88" height="31"><strong><b><font color=#CC00FF> http://softinet.ru/ ׁמפע, ןנמדנאללû.</font><b><strong></a>'; include '../view.php';

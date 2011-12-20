@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.directory.horoskopite.com/">Директория - Хороскопите.ком</a>'; include '../view.php';

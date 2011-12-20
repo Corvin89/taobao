@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Выберите <a href="http://www.omega-hotel.com.ua/nomera.php">номер в гостинице</a> Севастополя Омега-Автокемпинг.'; include '../view.php';

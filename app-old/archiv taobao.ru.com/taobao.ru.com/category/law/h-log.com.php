@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.h-log.com/">Free Seo Friendly Directory Resources Hlog</a>'; include '../view.php';

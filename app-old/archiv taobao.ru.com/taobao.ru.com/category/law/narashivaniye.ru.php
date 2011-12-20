@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.narashivaniye.ru'>наращивание ресниц на дому</a> - <a href='http://www.lpgcentre.ru/stati/tsellyulit.-sposobyi-umensheniya-tsellyulita.html'>лечение целлюлита</a>'; include '../view.php';

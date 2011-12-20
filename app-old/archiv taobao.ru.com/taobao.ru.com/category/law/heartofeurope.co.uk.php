@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.heartofeurope.co.uk">Slovakia - Heart of Europe</a>'; include '../view.php';

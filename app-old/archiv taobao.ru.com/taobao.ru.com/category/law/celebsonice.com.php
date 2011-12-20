@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Телевизионное шоу <a href="http://celebsonice.com">Лед и пламень фигурное катание</a> на Первом канале'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Продажа <a href="http://www.postavkin.spb.ru">керамогранита</a> в Санкт-Петербурге со склада и под заказ.'; include '../view.php';

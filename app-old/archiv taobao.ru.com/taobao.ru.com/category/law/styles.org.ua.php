@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://styles.org.ua/homebar.html">домашний бар</a>'; include '../view.php';

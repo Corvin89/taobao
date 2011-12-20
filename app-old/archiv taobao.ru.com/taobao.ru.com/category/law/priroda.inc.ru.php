@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://priroda.inc.ru/'>Центр саморазвития -"Разум"</a>'; include '../view.php';

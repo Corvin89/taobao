@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.web2linkdirectory.com/">Web2LinkDirectory - Human Edited World Wide Directory</a><br>Web2LinkDirectory is a human edited world wide directory of quality listings. This directory will help you in finding the quality website over the internet in the world. Get your site listed and increase your exposure online!'; include '../view.php';

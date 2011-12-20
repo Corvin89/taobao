@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://petstreat.ru">Болезни и лечение собак и кошек</a>'; include '../view.php';

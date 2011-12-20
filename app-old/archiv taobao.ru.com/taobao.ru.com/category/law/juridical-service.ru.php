@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.juridical-service.ru/property/trademark/'>Товарный знак</a>, <a href='http://www.juridical-service.ru/'>юридический портал, регистрация юридических лиц, регистрация фирм</a>'; include '../view.php';

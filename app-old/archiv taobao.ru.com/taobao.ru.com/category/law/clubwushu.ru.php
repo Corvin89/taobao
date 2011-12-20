@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://clubwushu.ru/">Региональная Общественная Организация</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ChristianResourceDirectory.org/">Christian Directory: Finance Counseling Books Dating Distributors Service</a>'; include '../view.php';

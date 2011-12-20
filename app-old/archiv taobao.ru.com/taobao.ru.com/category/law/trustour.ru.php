@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://trustour.ru/">http://trustour.ru/</a><a href="http://trustour.ru/">туризм горящие туры отдых горящие путевки визы авиабилеты экскурсия</a>'; include '../view.php';

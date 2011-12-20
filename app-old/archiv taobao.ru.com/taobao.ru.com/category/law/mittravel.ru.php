@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mittravel.ru">Отдых в Турции, Испании, Греции, Кипре, Египте</a>'; include '../view.php';

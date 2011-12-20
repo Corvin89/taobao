@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://4interior.com.ua/content/view/15/30/">Интерьер десткой комнаты</a> - лучшие статьи на эту тему.'; include '../view.php';

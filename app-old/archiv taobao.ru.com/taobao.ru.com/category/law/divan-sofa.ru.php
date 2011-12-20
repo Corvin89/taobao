@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://divan-sofa.ru/" title="ƒиваны"><strong>ƒиваны</strong></a> | <a href="http://divan-sofa.ru/" title="ћ€гка€ мебель"><strong>ћ€гка€ мебель</strong></a> | <a href="http://divan-sofa.ru/" title="ћебель"><strong>ћебель</strong></a>'; include '../view.php';

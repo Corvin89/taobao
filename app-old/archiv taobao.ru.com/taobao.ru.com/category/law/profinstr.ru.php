@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.profinstr.ru"><img src="http://www.profinstr.ru/but1" width="88" height="31" border="0" alt="Инструмент-профессионалам!"></a>'; include '../view.php';

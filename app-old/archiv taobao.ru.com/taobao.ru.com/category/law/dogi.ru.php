@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dogi.ru/" title="собака собаки породы собак"><img src="http://www.dogi.ru/images/a.gif" width=88 height=31 border=0 alt="собака, собаки порды английский бульдог, померанский шпиц, брюссельский гриффон, чихуахуа, йоркширский терьер"></a>'; include '../view.php';

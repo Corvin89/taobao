@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wallpapers.su/" target="_blank">wallpapers.su - обои для рабочего стола.</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.whatdoesconsistof.com">consists of</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://diesel-generators.alanda.net.ru/'> аталог сайтов о дизельных генераторах diesel-generators.alanda.net.ru</a>'; include '../view.php';

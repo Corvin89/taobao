@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://directory.flashgamevibe.com/">Game Directory - Flash Game Vibe</a>'; include '../view.php';

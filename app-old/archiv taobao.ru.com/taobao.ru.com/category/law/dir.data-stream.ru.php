@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Неплохой Хостинг <a href="http://www.data-stream.ru" target="_new" >Data-Stream WSP</a>'; include '../view.php';

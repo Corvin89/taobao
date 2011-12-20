@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Онлайн каталог <a href="http://www.online56.ru"> Оренбург и Оренбургская область</a>'; include '../view.php';

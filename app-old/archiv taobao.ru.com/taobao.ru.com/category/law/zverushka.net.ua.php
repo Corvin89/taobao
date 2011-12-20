@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.zverushka.net.ua' target='_blank'><b>Зверушка</b></a><br />Интересные статьи и фото животных. Бесплатная доска объявлений.'; include '../view.php';

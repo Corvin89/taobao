@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lokony.ru">прически свадебные</a>, <a href="http://www.lokony.ru">прически для невест</a> рады предложить Вам от Локоны.ру'; include '../view.php';

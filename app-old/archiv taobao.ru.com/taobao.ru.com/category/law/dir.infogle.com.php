@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.infogle.com/dir">Infogle Deep Link Directory</a>'; include '../view.php';

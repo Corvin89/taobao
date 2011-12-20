@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.akkordeonist.ru" title="Музыка, ноты для аккордеона и баяна! Скачать бесплатно!">Сайт про аккордеон и баян!</a>'; include '../view.php';

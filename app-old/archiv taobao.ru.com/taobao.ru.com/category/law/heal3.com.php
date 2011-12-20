@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.heal3.com" id="R0">Heal3 - Healthy Web Sites</a>'; include '../view.php';

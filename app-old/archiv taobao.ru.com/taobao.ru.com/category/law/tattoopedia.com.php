@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tattoopedia.com" id="R0">Tattoopedia</a>'; include '../view.php';

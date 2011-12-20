@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.delovayaliga.ru" title="Любительский мини-футбол" > любительский футбол  </a>'; include '../view.php';

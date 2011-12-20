@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cuba-rest.com.ua/ru/tour/">Новогодние туры Куба</a>> - Отдых на Новый год на Кубе. <a href="http://cuba-rest.com.ua/ru/tour/">Горящие туры на Новый год Куба</a>.'; include '../view.php';

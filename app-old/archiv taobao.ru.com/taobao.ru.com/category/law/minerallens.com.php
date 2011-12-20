@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://MineralLens.com/" title="MineralLens.com - Optics and mineral lens." target="_blank">MineralLens.com - Optics and mineral lens.</a>,
+<a href="http://MineralLens.com/links/" title="Обмен ссылками на сайте MineralLens.com" target="_blank"><b>Обмен ссылками на сайте MineralLens.com.</b></a>'; include '../view.php';

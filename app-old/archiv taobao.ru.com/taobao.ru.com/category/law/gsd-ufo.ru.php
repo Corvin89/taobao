@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gsd-ufo.ru/kennel.html" target="_blank">Питомники немецких овчарок</a> Юга России'; include '../view.php';

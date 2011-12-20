@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://metrochat.ru/">Самые лучшие чаты странички metrochat.ru</a>'; include '../view.php';

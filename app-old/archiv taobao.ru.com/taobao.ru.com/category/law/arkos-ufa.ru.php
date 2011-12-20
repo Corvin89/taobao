@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.arkos-ufa.ru">Нефтепродукты из Уфы. </a><a href="http://www.arkos-ufa.ru/">Бензин, дизельное топливо, мазут, битум.</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mbeton.com.ua/" target="_blank" style="border:0" > <img src="http://mbeton.com.ua/knopka.gif" alt="Пенобетонные блоки от производителя"/> </a>'; include '../view.php';

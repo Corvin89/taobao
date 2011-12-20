@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.ufaexpert.ru">Ёкспертизы в ”фе</a>'; include '../view.php';

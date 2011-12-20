@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Отрывная  <a href="http://katalog.marketing.dn.ua/" title="Осторожно! Злая реклама">звуковая реклама</a>'; include '../view.php';

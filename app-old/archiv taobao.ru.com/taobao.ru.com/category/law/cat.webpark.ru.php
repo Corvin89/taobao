@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://cat.webpark.ru/ target=blank>Каталог сайтов на webpark.ru</a>'; include '../view.php';

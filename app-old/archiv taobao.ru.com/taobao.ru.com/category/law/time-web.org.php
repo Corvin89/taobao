@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://time-web.org/>RANGhost - хостинг высшего ранга</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.webdoska.com/kat/" target="_blank"> Каталог сайтов.</a>'; include '../view.php';
