@@ -89,11 +89,11 @@ cd /etc/apache2/sites-enabled/
 ```
 <Directory />
 	Options FollowSymLinks
-	AllowOverride None 	`заменить на`	AllowOverride All
+	AllowOverride None 	заменить на	AllowOverride All
 </Directory>
 <Directory /var/www/>
 	Options Indexes FollowSymLinks MultiViews
-	AllowOverride None	`заменить на`	AllowOverride All
+	AllowOverride None	заменить на	AllowOverride All
 	Order allow,deny
 	allow from all
 </Directory>
