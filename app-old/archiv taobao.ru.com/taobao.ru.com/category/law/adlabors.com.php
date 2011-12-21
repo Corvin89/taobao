@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.adlabors.com" title="promotion website submit" target="_blank"><img src="http://www.adlabors.com/adlab.png" width="88" height="31" border="0" alt="Promotion Directory list"></a>'; include '../view.php';

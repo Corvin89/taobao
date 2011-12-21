@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Сайт про усилители: <a href="http://usilitels.ru/">usilitels.ru</a><br /><a href="http://www.mestanet.ru/afisha/">Расписание тренингов</a> на нашем сайте<br /><a href="http://livenk.ru">livenk.ru</a> - блоги Новокузнецка.<br />Евроремонт <a href="http://euro-remontik.com">советы и статьи</a>, выбор материалов.<br />'; include '../view.php';

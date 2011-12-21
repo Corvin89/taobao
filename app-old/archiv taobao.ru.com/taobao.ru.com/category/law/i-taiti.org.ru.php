@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://i-taiti.ru" target="_blank"><em>отдых на Таити</em></a>: <a href="http://i-taiti.ru/category/dostoprimechatelnosti-taiti/" target="_blank">достопримечталеьности Таити</a>, <a href="http://i-taiti.ru/category/foto-i-video/" target="_blank">Фото, видео и панорамы Таити</a>.'; include '../view.php';

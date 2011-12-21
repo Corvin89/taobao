@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Проекты домов, <a href="http://www.build.nsty.ru">ремонт квартир</a>, каркасные дома, строительство дома из бруса'; include '../view.php';

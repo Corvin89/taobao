@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.wholesalediscountfabric.com" id="R64DAE8">Online Fabric Store and Fabric Directory for home decorating needs from upholstery, designer and drapery fabric</a>- Online Fabric Store and Fabric Directory for home decorating needs from upholstery, designer and drapery fabric'; include '../view.php';

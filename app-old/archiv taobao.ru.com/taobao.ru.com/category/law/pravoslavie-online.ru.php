@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pravoslavie-online.ru/"><img src="http://www.pravoslavie-online.ru/pravoslavie-online.jpg" width="468" height="60" loop="0" border="0"></a>'; include '../view.php';

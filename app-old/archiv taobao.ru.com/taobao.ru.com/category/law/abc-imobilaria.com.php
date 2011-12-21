@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.abc-imobilaria.com/directory-Dominican-Republic">Dominican Republic Real Estate Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.korm-opt.ru">KOPM ОПТ - Зоотовары оптом и в розницу с доставкой на дом и в офис по Москве и области.</a>'; include '../view.php';

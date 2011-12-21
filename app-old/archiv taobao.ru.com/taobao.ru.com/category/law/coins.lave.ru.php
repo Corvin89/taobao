@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://coins.lave.ru">Самара нумизматика - Погодовка РСФСР, СССР и России</a>'; include '../view.php';

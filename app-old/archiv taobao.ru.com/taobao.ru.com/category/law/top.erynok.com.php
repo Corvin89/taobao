@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://erynok.com' target='_blank' ><img src='http://top.erynok.com/img/toperynok.gif' alt='Бизнес-портал, каталог предприятий, доски объявлений' style='border: 1px solid #000000;' /></a>'; include '../view.php';

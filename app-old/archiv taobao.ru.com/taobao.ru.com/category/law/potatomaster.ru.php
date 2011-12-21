@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://potatomaster.ru">Юному картофелеводу</a>'; include '../view.php';

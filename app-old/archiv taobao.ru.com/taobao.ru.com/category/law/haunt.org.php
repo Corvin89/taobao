@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.haunt.org/">Halloween Search Engine</a>'; include '../view.php';

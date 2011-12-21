@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://wcg.by/exchanger/">World Cyber Games</a> каталог'; include '../view.php';

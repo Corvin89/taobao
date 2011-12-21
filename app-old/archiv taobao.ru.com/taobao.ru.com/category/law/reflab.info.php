@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://www.reflab.info/"><img 
-src="http://www.reflab.info/reflab.files/banan2_158x60.jpg" title="Лабораторная диагностика." border="1" width="158" height="60"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.notlearning.ru/'>астрология, аномальные зоны, пришельцы, талисманы</a>, <a href='http://www.notlearning.ru/news/'>Новости</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://eliturl.ru"> аталог сайтов</a>, только качественных ресурсов!'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.acier.su"> Металлоконструкции ACIER Производство металлических конструкций </a>'; include '../view.php';

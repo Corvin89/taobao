@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://veskiev.org.ua" target="_blank">ќбо всем что происходит в столице ”краины</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://talosbuild.ru/">Строительный портал ТалосСтрой</a>'; include '../view.php';

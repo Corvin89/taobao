@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://propant.umcorp.ru/">Поставка пропантов. Проппанты для гидроразрыва пласта. Цены сертификаты</A>'; include '../view.php';

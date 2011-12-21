@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.agentquerysoft.com" id="R9D6C85">Agent Query Soft - Business Web Directory</a>'; include '../view.php';

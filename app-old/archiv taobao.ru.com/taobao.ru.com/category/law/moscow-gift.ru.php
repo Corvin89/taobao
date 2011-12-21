@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.moscow-gift.ru"><img src="http://www.moscow-gift.ru/moscow-gift.gif" alt=–озы различных сортов с доставкой круглосуточно" width="88" height="31" border="0" /></a>'; include '../view.php';

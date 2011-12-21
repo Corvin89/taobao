@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.avtozdelka.ru/">Автосделка - куплю/продам иномарку, ВАЗ, отечественные авто, авто б/у</a>'; include '../view.php';

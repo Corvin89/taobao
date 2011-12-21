@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://forestry.com.ru/" target="_blank">Ћесной клуб имени Iа бонитета</a>: присоедин€йтесь!'; include '../view.php';

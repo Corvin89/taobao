@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.diversifiedriskmanagement.com">Corporate Investigators</a> - Diversified Risk Management is a law firm support service providing workplace investigations, security services and background screening.'; include '../view.php';

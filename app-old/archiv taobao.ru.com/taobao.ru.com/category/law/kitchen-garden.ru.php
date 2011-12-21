@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.kitchen-garden.ru/'>агротехника, садовые цветы, декоративное садоводство</a>, <a href='http://kitchen-garden.ru/calendar/'> алендарь садовода</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rpemery.com/">Legal Contract Templates</a>'; include '../view.php';

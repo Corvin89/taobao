@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://neva.aptdeluxe.com">Анапа отель</a> "Нева" описание, фотографии, форма заказа. <a href="http://neva.aptdeluxe.com/map.html">Карта Анапы</a>.'; include '../view.php';

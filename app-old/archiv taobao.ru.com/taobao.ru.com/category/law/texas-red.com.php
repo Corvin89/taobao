@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.texas-red.com" id="R61CA9">Texas RED  | The Texas Real Estate Directory</a>'; include '../view.php';

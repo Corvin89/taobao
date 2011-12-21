@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bankofrealty.ru">недвижимость москвы</a>'; include '../view.php';

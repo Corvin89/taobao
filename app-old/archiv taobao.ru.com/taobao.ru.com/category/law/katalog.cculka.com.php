@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cculka.com" target="_blank">Cculka - портал бесплатной информации для каждого пользователя</a>'; include '../view.php';

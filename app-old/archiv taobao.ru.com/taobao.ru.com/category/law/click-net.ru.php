@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.click-net.ru" title="Компьютерный клуб Click-net"><img src="http://www.click-net.ru/pics/reklama/banner-click-net.gif" width="88" height="31" hspace="5" border="0" align="top"></a>'; include '../view.php';

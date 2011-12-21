@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://links.bun.ru/" target="_blank" title="каталог сайтов"><strong>каталог сайтов: музыка автомобили синтезаторы</strong></a>'; include '../view.php';

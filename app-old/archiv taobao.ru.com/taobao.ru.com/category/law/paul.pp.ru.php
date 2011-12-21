@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://licenzia.ucoz.ru><img src= http://paul.pp.ru/11-2.gif alt=Лицензирование width=100 height=150></a>'; include '../view.php';

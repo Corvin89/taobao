@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.car-mats.ru/" target="_blank">Авто аксессуары</a>'; include '../view.php';

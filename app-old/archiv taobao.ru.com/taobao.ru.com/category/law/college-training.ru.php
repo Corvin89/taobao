@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.college-training.ru/lang/english/'>Английский язык</a>, <a href='http://www.college-training.ru/'>английский язык, французский язык, магистратура MBA</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://renta-mos.info">Недвижимость в Подмосковье</a>'; include '../view.php';

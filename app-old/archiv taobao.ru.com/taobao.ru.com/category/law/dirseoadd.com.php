@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linkfreedirectory.com"> Web Directory Human Edited General Directory Free Add Sites</a>'; include '../view.php';

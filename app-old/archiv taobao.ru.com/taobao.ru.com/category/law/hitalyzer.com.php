@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hitalyzer.com/">Submit site - web site promotion - Directory</a>'; include '../view.php';

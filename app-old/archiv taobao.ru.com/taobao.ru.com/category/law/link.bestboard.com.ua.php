@@ -1,2 +1,0 @@
-<?php $catalogLink = '<div align="center"><a href="http://bestboard.com.ua"><img alt="Каталог товаров и услуг. Размести рекламу бесплатно!" src="http://bestboard.com.ua/bestboard.gif"
- style="border: 0px solid ;"></a></div>'; include '../view.php';

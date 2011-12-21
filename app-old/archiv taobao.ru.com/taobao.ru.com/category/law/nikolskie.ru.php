@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!--JobDay.Ru logo--><a href="http://www.jobday.ru/"><img src="http://www.jobday.ru/counter/026_88x31.gif" border=0 title="Газета День карьеры: работа, вакансии, ярмарки вакансий в Москве" alt="работа вакансии в Москве" width=88 height=31></a><!--/JobDay.Ru logo-->'; include '../view.php';

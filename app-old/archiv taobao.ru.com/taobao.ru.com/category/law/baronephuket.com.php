@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.baronephuket.com/"><b>Bar one Phuket, Nuber one bar in Phuket Thailand</b></a><br>Bar one Phuket, Nuber one bar in Phuket Thailand, bar girls in Phuket, girls Phuket, Bar Phuket Thailand'; include '../view.php';

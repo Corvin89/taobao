@@ -1,1 +1,0 @@
-<?php $catalogLink = '<div><a href="http://dolche-mobile.ru">www.dolche-mobile.ru</a>  - это <a href="http://www.dolche-mobile.ru/blog/">блог про телефоны</a>, магазин мобильных телефонов,<a href="http://www.dolche-mobile.ru/note/4exly.php">чехлы для мобильных телефонов</a>.</div>'; include '../view.php';

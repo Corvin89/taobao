@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.seyq.com">SEYQ Web Directory</a>Searchable internet web directory featuring a large list of popular categories. Offering free, deluxe and sponsored listings'; include '../view.php';

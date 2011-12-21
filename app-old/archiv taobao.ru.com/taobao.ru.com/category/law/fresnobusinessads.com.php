@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.fresnobusinessads.com" id="R8C42F2">Fresno City Business Search Community Network</a>'; include '../view.php';

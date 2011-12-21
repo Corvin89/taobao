@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://mnogocat.4hitech.ru">Каталог веб-сайтов Оргтехники</a>'; include '../view.php';

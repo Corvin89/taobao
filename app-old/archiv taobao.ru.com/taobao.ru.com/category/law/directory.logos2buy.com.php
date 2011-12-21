@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.logos2buy.com">Logo Design by Logos2Buy</a>'; include '../view.php';

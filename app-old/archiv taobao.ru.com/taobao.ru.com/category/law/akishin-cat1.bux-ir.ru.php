@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://akishin-cat1.bux-ir.ru/"><img src="http://akishin-cat1.bux-ir.ru/img.GIF" width="88" height="31" border="0"></a>'; include '../view.php';

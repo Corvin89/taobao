@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.maxigame.su">"MaxiGame" - Ќовости игровой индустрии, коды, прохождение новых игр, игровые конкурсы, обзоры игр</a>'; include '../view.php';

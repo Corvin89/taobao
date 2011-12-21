@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.condishen.ru/">кондиционеры напольные, ремонт и обслуживание кондиционеров</a>, <a href="http://www.condishen.ru/waterheater/">водонагреватели электрические</a>'; include '../view.php';

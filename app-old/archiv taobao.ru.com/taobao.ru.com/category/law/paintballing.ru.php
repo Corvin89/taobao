@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.paintballing.ru/paintball/'>Пейнтбол</a>, <a href='http://www.paintballing.ru/'>пейнбол, игра в пейнтбол, пейнтбольные клубы, оборудование для пейнтбола</a>'; include '../view.php';

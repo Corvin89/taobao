@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.otstroy.com/" title="Строительные советы"><img src="http://www.otstroy.com/88.jpg" border="0" width="88" height="31" alt="Строительные советы"></a>'; include '../view.php';

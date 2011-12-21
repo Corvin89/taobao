@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.netpagedirectory.com">Submit Links Directory Web Directory Categorized Websites</a>'; include '../view.php';

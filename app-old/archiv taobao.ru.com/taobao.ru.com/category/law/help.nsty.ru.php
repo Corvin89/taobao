@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Программа помощи, <a title="help.NSTY:: помощь" href="http://www.help.nsty.ru">помощь</a> помощь кредит, материальная помощь'; include '../view.php';

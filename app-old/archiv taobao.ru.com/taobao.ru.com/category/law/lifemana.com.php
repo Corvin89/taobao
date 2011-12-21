@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lifemana.com" target="_blank">Herbalife</a><br>Herbalife products for weight loss and weight management. Purchase Herbalife online with fast and secure checkout.'; include '../view.php';

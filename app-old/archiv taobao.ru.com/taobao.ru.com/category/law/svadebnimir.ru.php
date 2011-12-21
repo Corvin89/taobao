@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://svadebnimir.ru/"><img src="http://svadebnimir.ru/images/counter.gif" width=88 height=31 border=0
-alt="Свадебный портал - Свадебный мир"></a>'; include '../view.php';

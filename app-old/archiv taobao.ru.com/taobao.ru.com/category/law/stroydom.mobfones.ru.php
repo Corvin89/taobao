@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://stroydom.mobfones.ru"> аталог сайтов строительной тематики</a>'; include '../view.php';

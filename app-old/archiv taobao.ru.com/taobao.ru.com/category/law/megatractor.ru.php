@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rusfoods.ru/messages/16/index.html">Продажа закупка сахар.</a>'; include '../view.php';

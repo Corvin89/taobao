@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://allforchildren.ru">Все для детей. Игры, занимательные задачи, раскраски, загадки, песни, сказки.</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.stroycatalog.net" target="_blank">Каталог сайтов "Стройка"</a> - лучшие строительные ресурсы.'; include '../view.php';

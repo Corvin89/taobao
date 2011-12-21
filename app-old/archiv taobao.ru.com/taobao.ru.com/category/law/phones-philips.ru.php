@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.phones-philips.ru">Мобильная техника</a> на www.phones-philips.ru'; include '../view.php';

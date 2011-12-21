@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://webtrud.ru"><img src="http://webtrud.ru/webtrud.gif" height="31" width="88" border="0" alt=" аталог WEBTRUD. —оздание сайтов, web дизайн"></a><b>WEB дизайн, создание доступных сайтов, хостинг, домены.</b>'; include '../view.php';

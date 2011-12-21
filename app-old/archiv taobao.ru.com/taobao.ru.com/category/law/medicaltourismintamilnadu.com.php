@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.medicaltourismintamilnadu.com/"><b>Medical Tourism in TamilNadu</b></a><br>Website offering information on Tourism in Tamil Nadu with a focus on medical tourism, healthcare and fitness, cosmetic and beauty treatments, Nadi astrology and Tamil food.'; include '../view.php';

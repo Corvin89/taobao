@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hoturls.info">Hot Urls Directory</a>'; include '../view.php';

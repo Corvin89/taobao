@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ruall.biz" title="аксеccуары для мобильных телефонов" target=_blank>Аксеccуары для мобильных телефонов</a>'; include '../view.php';

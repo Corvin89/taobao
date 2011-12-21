@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ipoteka-kredits.ru/kreditovanie-malogo-biznesa.html">кредитование малого бизнеса</a>, информация по документам, требующимся для получения кредита юридическим лицом и частным предпринимателем.'; include '../view.php';

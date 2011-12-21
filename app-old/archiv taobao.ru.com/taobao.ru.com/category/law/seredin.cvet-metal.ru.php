@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://cvet-metal.ru/>сортовой металлопрокат и цены на цветные металлы описание в каталоге</a>'; include '../view.php';

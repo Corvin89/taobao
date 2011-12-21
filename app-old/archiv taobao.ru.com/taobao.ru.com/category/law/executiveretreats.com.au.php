@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.executiveretreats.com.au/" id="R1322F4">Port Douglas Accommodation</a> - Port Douglas and Tropical North Queensland executive accommodation retreats - rainforest and beaches.'; include '../view.php';

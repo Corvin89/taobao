@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Buy <a href="http://www.japan-partner.com">Used Cars</a> directly from Japan and save'; include '../view.php';

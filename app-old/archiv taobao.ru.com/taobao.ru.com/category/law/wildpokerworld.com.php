@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.wildpokerworld.com/" id="R0">WildPokerWorld - A Poker Sites and Poker Resources Directory</a>'; include '../view.php';

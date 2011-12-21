@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://catalog.gpmv.ru">Каталог сайтов и RSS каналов</a>'; include '../view.php';

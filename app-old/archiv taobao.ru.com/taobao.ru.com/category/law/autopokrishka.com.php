@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.autopokrishka.com">вся необходимая информация о дисках</a>'; include '../view.php';

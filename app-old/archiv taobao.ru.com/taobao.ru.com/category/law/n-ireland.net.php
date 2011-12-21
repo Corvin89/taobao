@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.n-ireland.net">Northern Ireland Directory </a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://homeim.com/">Свадебные фотографии</a>'; include '../view.php';

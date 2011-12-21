@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://yuliana.crimea.ua" target="_blank">Евпатория - отдых в Крыму</a>: гостиница Юлиана - комфортный отдых, бассейн, сауна, ресторан'; include '../view.php';

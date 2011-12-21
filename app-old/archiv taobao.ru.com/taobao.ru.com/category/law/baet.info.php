@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://baet.info/>Окна Baet - пластиковые окна и двери</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://metalloved.com/">Metalloved.com - сайт про роль цветных и черных и материалов из них</a>'; include '../view.php';

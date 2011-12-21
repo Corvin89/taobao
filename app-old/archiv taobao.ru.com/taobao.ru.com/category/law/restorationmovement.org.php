@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.restorationmovement.org/">Stone-Campbell Restoration Movement Link Directory</a>'; include '../view.php';

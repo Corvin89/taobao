@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Фотографии, книги и статьи <a href="http://violets.in/">по уходу за комнатными  растения сем. гесенериевые сенполиями</a> на сайте violets.in.'; include '../view.php';

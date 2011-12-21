@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.art-svadba.ru">Тамада и музыка на свадьбу, фото, видео услуги, украшение зала</a>'; include '../view.php';

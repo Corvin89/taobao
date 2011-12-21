@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://yareklamo.com/">Бесплатная доска объявлений : купить, продать, обменять</a>'; include '../view.php';

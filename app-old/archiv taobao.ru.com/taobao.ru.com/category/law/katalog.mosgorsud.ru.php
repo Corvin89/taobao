@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http:///cncat_from.php?r4cc36a46add05">Каталог правовых ресурсов</a>. <a target="_blank" href="http://www.mosgorsud.su">Фотогалерея.</a> Бесплатная юридическая консультация - <a target="_blank" href="http://www.mosgorsud.ru/forums/">Форум юристов.</a>'; include '../view.php';

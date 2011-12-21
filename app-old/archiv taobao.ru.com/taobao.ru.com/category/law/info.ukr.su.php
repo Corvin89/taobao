@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!--Info.Ukr.Su--><a href="http://www.info.ukr.su" alt="Информационный каталог мирового интернет-сообщества" target=_blank>Информационный каталог мирового интернет-сообщества</a><!--Info.Ukr.Su-->'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.partenit.su"><img src="http://www.yandex.ru/cycounter?www.partenit.su" width="88" height="31" alt="Партенит" border="0" align="left"></a>'; include '../view.php';

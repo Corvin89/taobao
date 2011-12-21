@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://colhida.ru/">Все о рекламе</a>'; include '../view.php';

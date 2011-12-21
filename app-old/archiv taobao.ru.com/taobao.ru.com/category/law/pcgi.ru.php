@@ -1,1 +1,0 @@
-<?php $catalogLink = '<strong><a href=http://www.grinas.ru/>Недвижимость Ростова-на-Дону</a></strong>'; include '../view.php';

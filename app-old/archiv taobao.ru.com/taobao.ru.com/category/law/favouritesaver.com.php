@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://favouritesaver.com">free screensaver</a>'; include '../view.php';

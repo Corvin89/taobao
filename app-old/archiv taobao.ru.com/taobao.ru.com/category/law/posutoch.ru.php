@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://posutoch.ru">Квартира на сутки, посуточная аренда квартир</a>.'; include '../view.php';

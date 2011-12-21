@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Специализированная <a href="http://prodam-dom.com/">доска объявлений</a> по аренде и <A href="http://prodam-dom.com/sell-house.php?categ=7">продаже домов</A>, <A href="http://prodam-dom.com/sell-house.php?categ=8">коттеджей</A>, <A href="http://prodam-dom.com/sell-house.php?categ=12">земельных участков</A>.'; include '../view.php';

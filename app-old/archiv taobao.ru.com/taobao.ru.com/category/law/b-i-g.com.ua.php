@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://b-i-g.com.ua/">Музыкальный интернет-журнал "Болты и Гайки"</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://catalog.sextrax.org" title="Каталог сайтов" target="_blank">Каталог сайтов</a>'; include '../view.php';

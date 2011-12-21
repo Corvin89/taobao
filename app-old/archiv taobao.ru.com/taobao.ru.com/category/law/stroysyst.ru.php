@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.stroysyst.ru">—троительные материалы - металлочерепица, дерев€нные дома, отопление, водоснабжение</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.findapetonline.com/">Find a Pet Online - Pets for Sale</a>'; include '../view.php';

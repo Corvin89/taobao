@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://games.kolossale.ru>Описания развивающих детских игр</a>.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://vseurl.stwol.ru">Все сайты Рунета</a>'; include '../view.php';

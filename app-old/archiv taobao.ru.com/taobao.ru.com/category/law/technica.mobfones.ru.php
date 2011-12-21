@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://technica.mobfones.ru">Каталог сайтов бытовой и офисной техники</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://alltemp.info/" title="Шаблоны сайтов"><img src="http://www.yandex.ru/cycounter?http://alltemp.info/" border="0" width="88" height="31"><strong><b><font color=#CC00FF> http://alltemp.info/ Шаблоны сайтов.</font><b><strong></a>'; include '../view.php';

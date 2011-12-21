@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://andot.ru/" title="Лучшие Анекдоты"><img src="http://www.yandex.ru/cycounter?http://andot.ru/" border="0" width="88" height="31"><strong><b><font color=#CC00FF>  http://andot.ru/ Лучшие Анекдоты.</font><b><strong></a>'; include '../view.php';

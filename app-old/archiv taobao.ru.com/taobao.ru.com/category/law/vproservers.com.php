@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hmspanel.com/">HMSPANEL™ - Hosting Control Panel</a>'; include '../view.php';

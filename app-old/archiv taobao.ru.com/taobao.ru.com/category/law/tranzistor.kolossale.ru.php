@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://tranzistor.kolossale.ru>ќсновные характеристики бипол€рных транзисторов</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!--www.kulturologia.ru-opisanie--> Культурология.Ру - интернет-сообщество о культуре и искусстве, это:  <a href="http://www.kulturologia.ru/" title="дизайнерские магазины, новинки зарубежного дизайна">дизайнерские магазины, новинки зарубежного дизайна</a> . Блоги и статьи участников, фотогалереи.  <!--www.kulturologia.ru-opisanie-->'; include '../view.php';

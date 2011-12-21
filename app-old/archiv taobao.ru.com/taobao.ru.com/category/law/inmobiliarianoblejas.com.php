@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.inmobiliarianoblejas.com">Directorio Inmobiliario Noblejas</a>'; include '../view.php';

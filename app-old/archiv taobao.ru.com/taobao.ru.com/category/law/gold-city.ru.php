@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gold-city.ru/">углич храмы, он  Углич</a>, <a href="http://www.gold-city.ru/">сергиев посад, история Костромы</a>'; include '../view.php';

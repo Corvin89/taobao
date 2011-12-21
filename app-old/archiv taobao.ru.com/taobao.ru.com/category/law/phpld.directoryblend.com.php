@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.phpld.directoryblend.com/phpld3/version3_2/">Demo Site For Directory Blend Templates</a>'; include '../view.php';

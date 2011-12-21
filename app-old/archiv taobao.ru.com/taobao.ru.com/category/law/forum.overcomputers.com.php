@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://overcomputers.com" title="Компьютерный форум. Все о компьютерном железе"><img src="http://overcomputers.com/b/overcomputers-2.gif" alt="Компьютерный форум. Все о Компьютерном железе" /></a>'; include '../view.php';

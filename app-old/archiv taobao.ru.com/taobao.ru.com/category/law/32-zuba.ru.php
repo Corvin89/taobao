@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Стоматология Стиль Дент:<br><a href="http://www.32-zuba.ru/ST_Ortodont.html" target="_blank" title="брекеты">брекеты, брекет система</a>'; include '../view.php';

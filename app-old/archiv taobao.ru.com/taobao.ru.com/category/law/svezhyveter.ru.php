@@ -1,1 +1,0 @@
-<?php $catalogLink = '<b><a href="http://www.sv-agency.udm.ru">SVEZHY VETER - Russia - Travel Agency</a></b><br>Russian travel services: visa support, travel advice, cheap train tickets, airlines, discounted hotels, transfers, volunteering opportunities, picture galleries, pen-pal club.'; include '../view.php';

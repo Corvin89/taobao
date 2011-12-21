@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.webdirectoryglobal.com" id="RD1E4EF">Web Directory Global - Internet Resources seo friendly web directory</a>'; include '../view.php';

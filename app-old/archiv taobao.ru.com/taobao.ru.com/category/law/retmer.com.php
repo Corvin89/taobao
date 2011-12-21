@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://retmer.com">¬кусные рецепты-- на любой вкус</a>'; include '../view.php';

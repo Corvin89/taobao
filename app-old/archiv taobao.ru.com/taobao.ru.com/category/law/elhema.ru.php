@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://elhema.ru'>табак эль хема</a> - <a href='http://www.alokozay-tea.ru/'>известность и принципы Alokozay</a>'; include '../view.php';

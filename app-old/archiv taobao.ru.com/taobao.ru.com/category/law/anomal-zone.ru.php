@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.anomal-zone.ru/" title="Волжский-АЗ" target="_blank"><img src="http://www.anomal-zone.ru/az_468_2.gif" width="468" height="60"></a>'; include '../view.php';

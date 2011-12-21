@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://stolko.net/">Объявления о товарах</a>'; include '../view.php';

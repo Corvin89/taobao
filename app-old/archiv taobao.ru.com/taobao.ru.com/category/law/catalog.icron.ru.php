@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vo-da.ru/">Очистка сточных вод. Фильтры для воды</a>'; include '../view.php';

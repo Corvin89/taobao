@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.onlinedir.org" id="RD5294D">Online Dir</a>'; include '../view.php';

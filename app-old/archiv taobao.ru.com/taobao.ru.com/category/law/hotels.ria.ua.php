@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://hotels.ria.ua" target="_blank">Бронировать гостиницы</a> - Гостиницы всего мира!'; include '../view.php';

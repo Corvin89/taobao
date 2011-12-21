@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.4weblinks.com/">4 Web Links Directory</a>'; include '../view.php';

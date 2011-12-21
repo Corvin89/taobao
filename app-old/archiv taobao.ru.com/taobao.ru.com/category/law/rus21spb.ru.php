@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rus21spb.ru/">устройства автоматики</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://classifiedoklahoma.com" id="R627C07">Free Listing Of Classifieds In Oklahoma OK United States</a>'; include '../view.php';

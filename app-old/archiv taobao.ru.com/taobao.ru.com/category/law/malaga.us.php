@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.malaga.us">Malaga</a> - Malaga white villages, Andalusia and Costa del Sol information and travel guides.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ask-away.net">Ask-Away.net- Free General Web Directory Network</a>'; include '../view.php';

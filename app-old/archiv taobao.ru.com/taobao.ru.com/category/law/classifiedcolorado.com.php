@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.classifiedcolorado.com" id="RD88C22">Free Listing Of Classifieds In Colorado CO    United States</a>- Defensive driving instruction, driver testing, training, golf driving'; include '../view.php';

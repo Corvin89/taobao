@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://anapamagadan.info"><img src="http://anapamagadan.info/mag.gif" height="31" width="88" border="0" alt="Отдых в Анапе в пансионате Магадан."></a><b>Отдых и размещение в Анапе в пансионате Магадан. Доступный отдых в Анапе..</b>'; include '../view.php';

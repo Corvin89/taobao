@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tyres.omega-auto.com.ua"><img src="http://tyres.omega-auto.com.ua/images/tyres-omega.png" alt="Продажа отечественных шин и покрышек оптом в Украине" width=88 height=31 border=0></a>'; include '../view.php';

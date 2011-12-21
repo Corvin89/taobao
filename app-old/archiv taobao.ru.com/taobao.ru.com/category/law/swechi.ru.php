@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.swechi.ru">парафиновые свечи</a>- другая ссылка <a href="http://www.atlanticschool.ru/ru/chastniy-detskiy-sad-atlantik-sao">частный детский сад север Москвы</a>'; include '../view.php';

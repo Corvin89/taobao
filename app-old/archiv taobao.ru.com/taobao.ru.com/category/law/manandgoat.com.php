@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='manandgoat.com'>French new wave cinema</a>'; include '../view.php';

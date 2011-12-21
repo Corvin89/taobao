@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dhtm.net/" target="_blank">Интернет-каталог сайтов и ссылок на www.dhtm.net</a>'; include '../view.php';

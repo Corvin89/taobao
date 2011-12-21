@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://uadir.org.ua/">Каталог україномовних сторінок UAdir</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.fotoklan.ru">‘ото лан - тематический каталог фотоссылок</a>'; include '../view.php';

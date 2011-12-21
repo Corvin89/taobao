@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cazino-tulpan.net"><img src="http://cazino-tulpan.net/baner/casino-tulpan.gif" alt="Игры" width="88" height="31" border="0"></a>'; include '../view.php';

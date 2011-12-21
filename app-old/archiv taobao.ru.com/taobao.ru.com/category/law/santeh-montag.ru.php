@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.santeh-montag.ru/">Установка  счетчиков воды и замена труб водоснабжения</a>'; include '../view.php';

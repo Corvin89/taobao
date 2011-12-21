@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.groovybanana.com" id="RB18F5">Groovy Banana - Web Directory</a>'; include '../view.php';

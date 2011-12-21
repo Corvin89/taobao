@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dateclickcom.com/"><b>Dating Website</b></a><br>Dating, webcams and chat for singles. Add your profile and search for free!'; include '../view.php';

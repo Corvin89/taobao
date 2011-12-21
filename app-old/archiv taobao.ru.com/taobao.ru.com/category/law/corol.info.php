@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://corol.info/">Автомобиль Toyota Corolla</a>'; include '../view.php';

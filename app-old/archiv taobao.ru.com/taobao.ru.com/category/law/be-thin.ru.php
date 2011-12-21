@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.be-thin.ru">похудение и диеты, комплекс упражнений</a>, <a href="http://www.be-thin.ru/nestiatria/49/">лечение голодом</a>'; include '../view.php';

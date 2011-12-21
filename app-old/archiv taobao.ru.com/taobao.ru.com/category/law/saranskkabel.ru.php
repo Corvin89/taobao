@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.saranskkabel.ru" target="_blank" title="Сарансккабель - производство кабельно-проводниковой продукции"><img src="http://www.saranskkabel.ru/88x31.gif" WIDTH="88" HEIGHT="31" BORDER=0 alt="Сарансккабель - производство кабельно-проводниковой продукции"></a>'; include '../view.php';

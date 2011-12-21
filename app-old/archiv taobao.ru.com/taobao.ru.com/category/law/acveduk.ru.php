@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://acveduk.ru/>—антехника в попул€рых видеороликах</a>'; include '../view.php';

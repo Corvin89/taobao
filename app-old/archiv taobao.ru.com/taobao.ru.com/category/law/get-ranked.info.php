@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.get-ranked.info">Get Ranked</a>'; include '../view.php';

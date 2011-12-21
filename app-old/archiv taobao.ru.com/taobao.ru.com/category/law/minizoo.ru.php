@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!--Code for MiniZoo banner--><a target="_blank" href="http://www.minizoo.ru"><img width="88" height="31" border="0" alt="Пауки-птицееды, тараканы и оборудование для их содержания. Кормовые насекомые. Подробные описания. Обширная фотогалерея. Форум." src="http://www.minizoo.ru/minizoo.gif" /></a><!-- End MiniZoo banner code -->'; include '../view.php';

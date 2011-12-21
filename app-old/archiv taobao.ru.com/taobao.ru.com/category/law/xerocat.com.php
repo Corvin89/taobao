@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.xerocat.com/">XeroCat.com - <strong>качественный каталог ссылок</strong></a>'; include '../view.php';

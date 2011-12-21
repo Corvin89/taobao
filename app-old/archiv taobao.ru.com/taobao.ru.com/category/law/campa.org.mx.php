@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.campa.org.mx/">Anuncios Clasificados</a>'; include '../view.php';

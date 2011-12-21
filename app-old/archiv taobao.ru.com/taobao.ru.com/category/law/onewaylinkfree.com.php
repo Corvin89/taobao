@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://junnos.com">Junnos Store - Consumer Electronics</a>'; include '../view.php';

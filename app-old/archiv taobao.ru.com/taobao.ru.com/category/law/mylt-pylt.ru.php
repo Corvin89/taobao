@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Очень много интересных детских мультфильмов здесь <a href="http://mylt-pylt.ru/detskie-multfilmy">mylt-pylt.ru</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.employerschoiceonline.com">Employment Background Checks</a> - Employers Choice Online provides pre employment background screening & human resources consulting services. Specialized background checks for nannys, empolyment, drugs, tenant, & vendors.'; include '../view.php';

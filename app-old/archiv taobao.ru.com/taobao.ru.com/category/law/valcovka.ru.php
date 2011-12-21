@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.valcovka.ru">услуги по прокату и гнутью труб и профилей различных сечений.</a> - <a href='http://staroye.ru/'>садовые качели</a>'; include '../view.php';

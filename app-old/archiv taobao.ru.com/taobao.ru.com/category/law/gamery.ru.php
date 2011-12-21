@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Скачай бесплатно игру Far Cry 2 на сайте <a href="http://gamery.ru/action/218-far-cry-2-eng2008.html">gamery.ru</a>'; include '../view.php';

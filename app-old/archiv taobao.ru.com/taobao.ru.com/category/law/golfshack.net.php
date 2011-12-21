@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.golfshack.net" id="RD3F76F">Golf Directory</a>'; include '../view.php';

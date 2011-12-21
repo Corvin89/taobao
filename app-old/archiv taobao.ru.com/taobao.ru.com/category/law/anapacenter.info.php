@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://anapacenter.info">Отдых на Черном море в Анапе</a>. Описание и фотографии гостевого дома на Федеральном курорте. Расположение на <a href="http://anapacenter.info/index.pl?id=amap">карте Анапы</a>.'; include '../view.php';

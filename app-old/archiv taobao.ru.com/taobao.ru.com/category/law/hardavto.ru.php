@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hardavto.ru">Покупка и продажа автомобилей</a>'; include '../view.php';

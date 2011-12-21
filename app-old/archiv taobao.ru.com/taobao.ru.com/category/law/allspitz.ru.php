@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Все о шпицах. <a href="http://www.allspitz.ru/pomeranian.html" target="_blank">Померанский шпиц</a> и родственные породы.'; include '../view.php';

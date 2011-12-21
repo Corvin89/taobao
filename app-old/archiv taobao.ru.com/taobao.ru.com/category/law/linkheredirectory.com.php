@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linkheredirectory.com">Link Here Directory</a>'; include '../view.php';

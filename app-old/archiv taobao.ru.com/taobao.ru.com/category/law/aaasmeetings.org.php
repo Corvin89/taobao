@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.aaasmeetings.org/">free Directory submission</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gamesaction.ru/">Игровые ноости</a> action,экшен <a href="http://www.gamesaction.ru/mods/">прохождения</a> моды,патчи <a href="http://www.gamesaction.ru/link/index.php">каталог ссылок</a> тематический каталог'; include '../view.php';

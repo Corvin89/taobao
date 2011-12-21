@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_top" href="http://gamma-mebel.com.ua/"><img src="http://gamma-mebel.com.ua/ban.gif" width="88" height="31" border="0" alt="Мебель от производителя   Изготовление мебели на заказ для дома и офиса Киев Чернигов Славутич Бровары   GAMMA-MEBEL.COM.UA"></a>'; include '../view.php';

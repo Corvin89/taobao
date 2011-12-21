@@ -1,1 +1,0 @@
-<?php $catalogLink = '<center><a href="http://www.ortz.ru/" title=ЗАО "Трактормаш"><IMG src="http://www.ortz.ru/ban/b80-31.gif" border=0></a></center>'; include '../view.php';

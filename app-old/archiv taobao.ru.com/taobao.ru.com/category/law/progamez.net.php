@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.progamez.net/>обзоры игр, новости, прохождение, секреты, коды.</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.collectableclock.net" id="R2BEA11">Antique Classified Ads Antique Clock Shop - Dealer In Clocks, Watches</a>- Antique Classified Ads Antique Clock Shop - Dealer In Clocks, Watches'; include '../view.php';

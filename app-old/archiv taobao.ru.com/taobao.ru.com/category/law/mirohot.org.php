@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://mirohot.org/>Фирма MiroHot - Подвесной потолок из гипсокартона</a>'; include '../view.php';

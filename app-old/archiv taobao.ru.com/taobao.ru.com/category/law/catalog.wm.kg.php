@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://catalog.wm.kg">www.wm.kg - твой развлекательный портал в  ыргызстане</a>'; include '../view.php';

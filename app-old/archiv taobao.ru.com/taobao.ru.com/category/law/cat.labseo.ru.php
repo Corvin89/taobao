@@ -1,1 +1,0 @@
-<?php $catalogLink = '<li><a href="http://labseo.ru">Seo портал для вебмастера и тех кто хочет заработать в интернете.</a> </li>'; include '../view.php';

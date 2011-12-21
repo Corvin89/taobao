@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dir.wellcome.net.ua/" target="_blank" title="Каталог ХОРОШИХ сайтів">Каталог <strong>ХОРОШИХ</strong> сайтів</a>'; include '../view.php';

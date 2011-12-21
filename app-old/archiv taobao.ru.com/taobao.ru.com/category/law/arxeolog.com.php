@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.arxeolog.com' target='_blank'><b>Археолог.com - портал кладоискателей Украины</b></a><br />Находки кладоискателей, обсуждение, литература, фото.'; include '../view.php';

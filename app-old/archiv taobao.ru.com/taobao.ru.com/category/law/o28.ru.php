@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.o28.ru">Белый  каталог сайтов  и статей  Амурской области и Благовещенска</a>'; include '../view.php';

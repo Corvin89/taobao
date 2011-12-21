@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ishem.ru/" target="_blank" title="ДЕТЕКТИВНОЕ АГЕНТСТВО"><img src="http://www.ishem.ru/i/banner/x_88_31_02.gif" alt="ДЕТЕКТИВНОЕ АГЕНТСТВО" width="88" height="31" border="0"></a> <b>ДЕТЕКТИВНОЕ АГЕНТСТВО</b> - Поиск людей, проверка партнеров и персонала, фото и видеосъемка'; include '../view.php';

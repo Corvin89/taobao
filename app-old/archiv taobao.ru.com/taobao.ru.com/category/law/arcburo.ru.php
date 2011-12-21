@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.arcburo.ru">Архитектурное бюро Резистент</a>'; include '../view.php';

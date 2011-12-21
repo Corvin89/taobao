@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Юридическая компания <a href="http://www.kdpgroup.ru/index.php?option=com_content&view=article&id=51" target="_blank"><strong>составление договоров</strong></a> город Москва'; include '../view.php';

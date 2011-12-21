@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.m-cat.ru">скрипт каталога ссылок</a>'; include '../view.php';

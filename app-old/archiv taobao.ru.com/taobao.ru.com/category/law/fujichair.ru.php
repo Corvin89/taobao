@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.fujichair.ru/"><img src="http://www.fujichair.ru/fujichair.gif" width="88" height="31" border="0" alt="Ёлитные массажные кресла известнейшей €понской фирмы FUJI. —амый совершенный массаж: новейшие методы массажа, максимальна€ функциональность, современные технологии, высокое качество и отличный дизайн!"/></a>'; include '../view.php';

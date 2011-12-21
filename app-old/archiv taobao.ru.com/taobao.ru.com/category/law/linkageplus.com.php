@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linkageplus.com/">Linkage Plus - Web Link Directory</a>'; include '../view.php';

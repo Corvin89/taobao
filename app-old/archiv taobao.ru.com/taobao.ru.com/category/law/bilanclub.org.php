@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://bilanclub.org/">Дима Билан</a>. Сайт фан-клуба певца. Биография. Дискография. Статьи и интервью.'; include '../view.php';

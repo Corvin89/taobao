@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bazil.info" title="Bazil Vostr" target="_blank">Bazil Vostr - создание сайтов, оптимизация сайтов, раскрутка, продвижение сайтов</a>'; include '../view.php';

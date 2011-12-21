@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.paydayfinder.com/listings/payday_loans_fast_cash/TX/Houston">houston payday loans</a>'; include '../view.php';

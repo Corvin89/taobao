@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.zapsibir.ru" target=blank><b>(38343) 43-111</b> Пассажирские и грузоперевозки, такси Западная Сибирь. Работа.</a>'; include '../view.php';

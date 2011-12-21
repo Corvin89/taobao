@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.Organicfolio.com">Recieve Free Organic Search Engine Traffic from Organicfolio.com - Free Link Submission Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.alba-timm.ru/products.html" target="_blank"><img src="http://www.alba-timm.ru/img/ban/banner_88x31.gif" alt=": ÀËÜÁÀ-ÒÈÌ : Áàêòåðèàëüíûå çàêâàñêè : +7(985)121-80-94" title=": ÀËÜÁÀ-ÒÈÌ : Áàêòåðèàëüíûå çàêâàñêè - ÇÂÎÍÈÒÅ! : +7(985)121-80-94" width="88" height="31" border="0"></a>'; include '../view.php';

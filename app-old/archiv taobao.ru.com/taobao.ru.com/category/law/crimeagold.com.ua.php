@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://crimeagold.com.ua"><img src="http://crimeagold.com.ua/image/banners/banner01.gif" alt="Древнее золото Крыма " border="0" width="88" height="31"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.algarvecarhire.org.uk"><b>Algarve Car Hire</b></a><br>Algarve car hire at Faro airport in Portugal.'; include '../view.php';

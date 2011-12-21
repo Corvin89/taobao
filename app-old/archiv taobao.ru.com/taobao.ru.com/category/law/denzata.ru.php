@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.denzata.ru/index.htm" target="_blank"> ОБМЕННЫЙ ПУНКТ Webmoney</a> - Обмен электронных валют по самому выгодному курсу, все о деньгах, секреты вашего бизнеса,  как заработать в интернете, денежная магия.'; include '../view.php';

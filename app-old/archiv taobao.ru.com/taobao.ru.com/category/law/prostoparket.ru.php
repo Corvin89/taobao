@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://stroymashina.ru>виброплиты</a>'; include '../view.php';

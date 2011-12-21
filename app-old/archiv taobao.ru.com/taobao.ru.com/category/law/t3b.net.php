@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.t3b.net">Turbo Directory - Free Website, Blog and URL Submission for SEO</a>'; include '../view.php';

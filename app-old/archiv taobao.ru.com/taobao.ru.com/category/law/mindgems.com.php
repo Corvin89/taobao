@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mindgems.com">Find Duplicate Files</a>'; include '../view.php';

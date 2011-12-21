@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.olonya.ru" target="_blank">Art-Salon "OLONYA"  Продажа и заказ картин, резьбы по дереву, изделий из керамики, гобеленовых картин</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.classyfnet.org>Классический рубрикатор Интернет</a>'; include '../view.php';

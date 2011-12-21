@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.wordnewsonline.com/">Wordnewsonline - Submit Your Site</a>'; include '../view.php';

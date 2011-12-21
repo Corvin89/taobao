@@ -1,1 +1,0 @@
-<?php $catalogLink = 'КБПЦ "Черная курица": <a href="http://www.black4.ru/art2.html" target="_blank">Реклама на транспорте в Санкт-Петербурге</a>.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://statb.ru/>Финансовые отчеты</a>'; include '../view.php';

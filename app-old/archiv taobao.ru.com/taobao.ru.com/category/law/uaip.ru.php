@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Обмен ссылками <a href="http://www.uaip.ru">Информационный каталог сайтов</a>'; include '../view.php';

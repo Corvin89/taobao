@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mosrealty24.ru/"> Риэлторские базы данных Москвы и Подмосковья </a>'; include '../view.php';

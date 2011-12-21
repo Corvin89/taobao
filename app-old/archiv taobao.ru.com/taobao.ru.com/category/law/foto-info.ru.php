@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.foto-info.ru/">инструкции фотоаппаратов, foto</a>, <a href="http://www.foto-info.ru/school/">школа фотографии</a>'; include '../view.php';

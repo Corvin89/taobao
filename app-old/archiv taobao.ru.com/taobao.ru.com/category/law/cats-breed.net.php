@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cats-breed.net/cat/donskoy-sfinks.html">Кошка Донской сфинкс</a>'; include '../view.php';

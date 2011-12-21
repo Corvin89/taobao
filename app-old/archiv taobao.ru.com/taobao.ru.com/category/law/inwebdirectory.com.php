@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bulimianervosacausessymptoms.com" id="R7F7AA">bulimia nervosa treatment</a>'; include '../view.php';

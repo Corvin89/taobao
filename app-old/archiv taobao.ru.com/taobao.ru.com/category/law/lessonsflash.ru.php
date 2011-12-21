@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.lessonsflash.ru/catalog/"><img src="http://www.lessonsflash.ru/themes/bg/lf_31x88.gif" width="88" height="31" alt="уроки flash" border="0"></a>'; include '../view.php';

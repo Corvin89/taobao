@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.usaartschools.net" id="R3399AF">Web link Provides a list of art school and art-related sources</a>- Art Schools, Martial Arts Classes, Institutes, Colleges and Universities USA Canada'; include '../view.php';

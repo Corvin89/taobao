@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.garderobemaster.ru >шкафы купе, гардеробные комнаты угловые raumplus дешево. Интернет магазин мебель. Изготовим проекты</a>'; include '../view.php';

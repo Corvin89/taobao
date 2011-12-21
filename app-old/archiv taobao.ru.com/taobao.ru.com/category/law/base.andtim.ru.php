@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://catalog.free-lancers.info/">Белый тематический каталог ресурсов, тематические статьи и объявления</a>'; include '../view.php';

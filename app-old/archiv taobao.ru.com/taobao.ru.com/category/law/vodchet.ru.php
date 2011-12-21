@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vodchet.ru/index.php?menuidx=lmenu&itemidx=item2" target="_blank" title="Компания  Сантехмонтаж выполняет работы по установке и замене водосчетчиков"> <b> Компания  Сантехмонтаж выполняет работы по установке и замене водосчетчиков</b></a>'; include '../view.php';

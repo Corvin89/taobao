@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://spravka.w6.ru">Spravka.w6.ru</a> - Библиотека технической литературы'; include '../view.php';

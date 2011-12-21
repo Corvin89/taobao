@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.profsound.ru/"><img src="http://www.profsound.ru/profsound88x31.gif" alt="тамада на свадьбу" height="31" width="88" border="0" /></a>'; include '../view.php';

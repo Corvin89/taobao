@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.psy-gestalt.ru/">Каталог сайтов  Psy-gestalt.ru</a>'; include '../view.php';

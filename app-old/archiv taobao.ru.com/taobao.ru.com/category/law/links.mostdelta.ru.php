@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://links.mostdelta.ru/" target="_blank" title="каталог сайтов"><strong>каталог сайтов: автомобили, компьютеры</strong></a>'; include '../view.php';

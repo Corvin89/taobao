@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pgpublisher.ru"><img src="http://www.pgpublisher.ru/images/button2.gif" alt="Parroslab Group - солидное интернет-издательство за доступные цены" border=0 width=88 height=31></a>'; include '../view.php';

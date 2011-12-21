@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://objectives.ru/"><img src="http://zoloto.ws/im/button.gif" border=0 width=88 height=31 alt="Блог любителя цветов"></a>'; include '../view.php';

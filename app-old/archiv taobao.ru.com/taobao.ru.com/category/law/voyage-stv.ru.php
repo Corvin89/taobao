@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://voyage-stv.ru/>"Вояж-тур" - виллы и апартаменты в Испании, Греции</a>'; include '../view.php';

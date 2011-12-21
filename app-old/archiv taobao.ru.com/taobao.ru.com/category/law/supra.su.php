@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Предлагаем <a href="http://www.supra.su">садовые камины Supra</a>'; include '../view.php';

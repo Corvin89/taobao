@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tovary.digiporto.ru">Тематический каталог сайтов "Товары и услуги"</a>'; include '../view.php';

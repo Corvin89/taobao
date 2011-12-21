@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.budnirussia.ru' target='_blank'><b>Каталог ссылок</b></a><br />Аренда квартир в Казани'; include '../view.php';

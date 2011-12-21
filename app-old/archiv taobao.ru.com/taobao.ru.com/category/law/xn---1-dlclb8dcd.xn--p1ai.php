@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://xn---1-dlclb8dcd.xn--p1ai/" target="_blank">ООО «Серевер-1» запчасти: ЗИЛ, КамАЗ, УАЗ, Газель</a>'; include '../view.php';

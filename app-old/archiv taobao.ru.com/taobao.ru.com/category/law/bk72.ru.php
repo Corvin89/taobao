@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bk72.ru">ЗАО «Базис-Консалт»</a> — Жилая недвижимость в Тюмени по низким ценам'; include '../view.php';

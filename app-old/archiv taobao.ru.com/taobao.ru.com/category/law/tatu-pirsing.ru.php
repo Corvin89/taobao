@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tatu-pirsing.ru">тату, пирсинг</a>, <a href="http://www.tatu-pirsing.ru/tattoo/time/">временные татуировки хной</a>'; include '../view.php';

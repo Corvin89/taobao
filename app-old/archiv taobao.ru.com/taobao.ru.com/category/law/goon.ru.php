@@ -1,3 +1,0 @@
-<?php $catalogLink = '<!-- goon html -->
-<strong><a href="http://goon.ru/" style="font-family: Arial; font-size: 11px;">Goon поиск</a></strong>, <strong><a href="http://mail.goon.ru/" style="font-family: Arial; font-size: 11px;">бесплатная почта</a></strong>, <strong><a href="http://goon.ru/dir/" style="font-family: Arial; font-size: 11px;">каталог, добавить сайт</a></strong>, <strong><a href="http://yvolen.ru/" style="font-family: Arial; font-size: 11px;">работа</a></strong>, <strong><a href="http://www.liveqames.ru/" style="font-family: Arial; font-size: 11px;">онлайн игры</a></strong>, <strong><a href="http://poisk.goon.ru/" style="font-family: Arial; font-size: 11px;">поиск людей</a></strong>
-<!-- /goon html -->'; include '../view.php';

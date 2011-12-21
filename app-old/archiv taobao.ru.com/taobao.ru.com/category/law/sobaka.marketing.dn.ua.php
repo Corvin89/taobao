@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://sobaka.marketing.dn.ua/" title="Воспитание щенка, дрессировка собаки">Подготовка ваше собаки или щенка</a> профессиональным инструктором'; include '../view.php';

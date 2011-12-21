@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a h ref="http://ca3ino.net/">Зал увлекательных развлечений!</a>'; include '../view.php';

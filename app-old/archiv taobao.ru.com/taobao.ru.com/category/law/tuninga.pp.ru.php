@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tuninga.pp.ru">тюнинг автомобилей</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.arelax.ru">Отдых в Анапе</a> в санаториях, пансионатах гостевых домах. Анапа курортный район <a href="http://www.arelax.ru/taxonomy/term/2">Витязево</a>.'; include '../view.php';

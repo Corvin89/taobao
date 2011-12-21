@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.digisat.ru" target="_blank"><img src="http://www.digisat.ru/digisat-88.31-4.gif" border="0" alt="Digisat.RU - satellite tv shop"></a>'; include '../view.php';

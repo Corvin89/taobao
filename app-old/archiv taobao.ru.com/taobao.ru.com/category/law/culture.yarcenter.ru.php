@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Информация о <a href="http://culture.yarcenter.ru">культуре Ярославля</a>.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.spbnovostroyka.ru" target="_blank"><img src="http://www.spbnovostroyka.ru/images/spbnovostroyka_ru.gif" alt="Новостройки, квартиры в строящихся домах Санкт-Петербурга и Ленобласти, загородные дома, ипотека, поиск по базе, по карте, подробно, актуально" width="88" height="31" border="0"></a>'; include '../view.php';

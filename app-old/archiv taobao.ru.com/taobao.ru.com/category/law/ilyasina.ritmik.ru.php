@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ilyasina.ritmik.ru">Школа взаимоотношений Олега Фролова</a> - <a href="http://www.spectehnika.galateya-frost.ru">спецтехника Китай</a>'; include '../view.php';

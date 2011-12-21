@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!-- catcard.ru --><a href="http://catcard.ru/">Реклама на стендах бизнес карт в крупных торговых центрах!</a><!-- /catcard.ru -->'; include '../view.php';

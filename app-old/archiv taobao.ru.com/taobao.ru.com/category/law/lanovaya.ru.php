@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lanovaya.ru" title="Бухгалтерские услуги">Бухгалтерские услуги</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://photoshopia.ru/" title="Фотошопия. Русский форум по Фотошоп для новичков и профессионалов"><img src="http://photoshopia.ru/8831/blue.gif" border="0" width="88" height="31" alt="Фотошопия. Русский форум по Фотошоп для новичков и профессионалов"></a>'; include '../view.php';

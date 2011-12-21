@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://www.veter-s.ru" target="_blank"><img
-src="http://www.veter-s.ru/db_files/54_banner.gif" alt="Ветер свободы - клуб путешественников" title="Ветер свободы - клуб путешественников" width="88" height="31" border="0" class="logo"></a><a href="http://www.veter-s.ru" target="_blank">Ветер свободы - клуб путешественников.<br>Программы путешествий из серии 'Глубокий туризм', экспедиции, активный отдых, индивидуальные маршруты. Дневники и статьи путешественников. Контакты. Архив путешествий и экспедиций.</a>'; include '../view.php';

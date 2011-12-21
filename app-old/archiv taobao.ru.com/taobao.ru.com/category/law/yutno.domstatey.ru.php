@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://yutno.domstatey.ru">Общетематический каталог сайтов</a>'; include '../view.php';

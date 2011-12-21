@@ -1,1 +1,0 @@
-<?php $catalogLink = 'GoldInfo: <a href="http://goldinfo.pp.ru">Информация - золото</a>'; include '../view.php';

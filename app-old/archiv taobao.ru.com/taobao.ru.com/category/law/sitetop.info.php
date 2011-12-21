@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://sitetop.info/"><img src="http://sitetop.info/images/button.png" alt="Рейтинг лучших сайтов рунета" border="0"/></a>'; include '../view.php';

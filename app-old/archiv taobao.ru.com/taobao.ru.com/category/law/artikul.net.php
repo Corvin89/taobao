@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.artikul.net"><img src="http://www.artikul.net/images/bottom1.jpg" width=88 height=31 border=0 alt="Полиграфия, дизайн и реклама для Вашего бизнеса!"></a>'; include '../view.php';

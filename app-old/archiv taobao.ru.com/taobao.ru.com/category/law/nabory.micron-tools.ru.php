@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.nabory.micron-tools.ru">концевые меры</a> завода Микрон - <a href="http://www.atlanticschool.ru/ru/chastniy-detskiy-sad-atlantik-sao">частный детский сад САО</a>'; include '../view.php';

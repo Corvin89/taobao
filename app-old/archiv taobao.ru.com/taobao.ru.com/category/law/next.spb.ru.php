@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title='Охранные системы' href='http://www.next.spb.ru'><img border='0' src='http://www.next.spb.ru/img/logos/logo88x31_1.gif' width='88' height='31' alt='Охранные системы'></a>'; include '../view.php';

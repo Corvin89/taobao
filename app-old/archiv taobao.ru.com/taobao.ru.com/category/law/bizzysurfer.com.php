@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://bizzysurfer.com" target="new">Bizzy Surfer Traffic Exchange</a> - BizzySurfer Traffic Exchange - Advertise your site for free.  Hits to your web site is just a surf away!!'; include '../view.php';

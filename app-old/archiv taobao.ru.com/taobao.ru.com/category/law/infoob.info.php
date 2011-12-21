@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://infoob.info/">Доска информации и объявлений</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="www.cardio.com.ua/">Какое сегодня число?</a>'; include '../view.php';

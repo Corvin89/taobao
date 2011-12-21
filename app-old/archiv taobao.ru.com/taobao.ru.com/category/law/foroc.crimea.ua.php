@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.foroc.com" target="_blank">отдых в Форосе</a>: <a href="http://www.foroc.com/pansionaty.html" target="_blank">пансионаты Фороса</a>, санатории и <a href="http://www.foroc.com/oteli.html" target="_blank">отели</a> Фороса.'; include '../view.php';

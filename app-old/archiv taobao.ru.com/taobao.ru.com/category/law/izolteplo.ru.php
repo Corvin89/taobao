@@ -1,1 +1,0 @@
-<?php $catalogLink = 'IzolTeplo.RU - <a href="http://www.izolteplo.ru/">“еплоизол€ци€ загородного дома. √идроизол€ци€ кровли</a>.'; include '../view.php';

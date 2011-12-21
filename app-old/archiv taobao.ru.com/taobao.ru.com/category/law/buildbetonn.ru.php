@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://articlesfactory.ru">Размножение текстов, рерайт</a>'; include '../view.php';

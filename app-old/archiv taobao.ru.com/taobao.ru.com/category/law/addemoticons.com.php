@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="SITE_URL" id="RDA0087">SITE_NAME</a> Winks 1000+, Emoticons (Smileys) 12,000+, Dynamic Backgrounds 50+, Avatars 50+, Muggins 50+, Moods 50+, Meegos 50+, Meewinks 100+ all for Free.'; include '../view.php';

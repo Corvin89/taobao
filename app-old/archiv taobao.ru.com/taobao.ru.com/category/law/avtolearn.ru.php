@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://avtolearn.ru">Как улучшить устойчивость автомобиля</a>'; include '../view.php';

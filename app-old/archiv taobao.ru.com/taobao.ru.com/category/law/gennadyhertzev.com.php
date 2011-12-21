@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gennadyhertzev.com/ru/exhibitions.html" target=_blank>Выставки</a>'; include '../view.php';

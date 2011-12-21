@@ -1,1 +1,0 @@
-<?php $catalogLink = 'коммерческое предложение, <a href="http://www.tenders.nsty.ru">тендеры, строительство</a>, объ€влен тендер, купить, тендеры поставки'; include '../view.php';

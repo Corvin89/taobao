@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sochifart.ru/" target="_blank"><img alt="Агентстово СТЕЛЛА - Отдых, встреча и размещение гостей в Сочи. " border="0" src="http://www.sochifart.ru/ban/knopka1.jpg" width="88" height="31"></a>'; include '../view.php';

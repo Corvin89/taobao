@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://gutsoft.net.ua/dir" title="Рейтинг сайтов"> <B>Каталог сайтов</B></a>'; include '../view.php';

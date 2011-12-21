@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.patentsonline.cn/" id="R0">Patents Online Directory</a>'; include '../view.php';

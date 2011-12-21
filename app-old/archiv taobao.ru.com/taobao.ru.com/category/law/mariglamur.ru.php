@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://mariglamur.ru/" target=_blank><img src="http://mariglamur.ru/images/kn_mari_88x31.gif" border="0" alt="Гламур Йошкар-Олы и Марий Эл" title="Журнал Мари" width="88" height="31" /></a>'; include '../view.php';

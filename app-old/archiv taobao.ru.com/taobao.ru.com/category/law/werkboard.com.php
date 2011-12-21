@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.werkboard.com">Categories</a>'; include '../view.php';

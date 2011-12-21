@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://toplutsk.com/"><img src="http://dakang-chem.com/im/button.gif" border=0 width=88 height=31 alt="Бізнес Портал Луцька"></a>'; include '../view.php';

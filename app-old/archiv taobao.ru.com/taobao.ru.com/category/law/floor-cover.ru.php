@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.floor-cover.ru/">половая доска, ламинат технология</a>, <a href="http://www.floor-cover.ru/batten/">доска для пола</a>'; include '../view.php';

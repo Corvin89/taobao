@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.chinesetruck.info>каталог сайтов, грузовые автомобили, камаз, недвижимость, camc</a>'; include '../view.php';

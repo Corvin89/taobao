@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://mn.mikanewton.biz">Міка Нютон - каталог сайтів MN</a>'; include '../view.php';

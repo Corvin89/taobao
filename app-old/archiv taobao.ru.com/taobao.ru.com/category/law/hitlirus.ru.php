@@ -1,1 +1,0 @@
-<?php $catalogLink = 'ВАЗ 2101 Копейка на сайте <a href="http://www.hitlirus.ru">http://www.hitlirus.ru</a>, рекомендую!'; include '../view.php';

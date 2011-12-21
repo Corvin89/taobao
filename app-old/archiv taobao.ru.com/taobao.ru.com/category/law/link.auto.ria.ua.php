@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://auto.ria.ua" target="_blank"><img src="http://auto.ria.ua/img/banner/banner_auto_88.gif" border="0" alt="продажа автомобилей украина, продаю авто, автомобильная продажа"></a>'; include '../view.php';

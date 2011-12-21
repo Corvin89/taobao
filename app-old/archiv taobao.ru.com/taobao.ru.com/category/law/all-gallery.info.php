@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.all-gallery.info">Отдых на Черном море в Анапе</a>. Фотографии объектов размещения отдыхающих в Анапе. <a href="http://www.all-gallery.info/index.php?cat=6">Комнаты в Анапе</a>.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ecosovet.ru/">г. Сочи, ОО Экологический совет , www.Ecosovet.Ru</a>'; include '../view.php';

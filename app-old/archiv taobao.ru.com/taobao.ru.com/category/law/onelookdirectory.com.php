@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.onelookdirectory.com">OneLookDirectory.com - free internet web directory network by royalatlantisgroup.com</a>'; include '../view.php';

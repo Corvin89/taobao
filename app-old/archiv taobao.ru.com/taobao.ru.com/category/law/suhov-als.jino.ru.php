@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://arch-buro.com"> Студия дизайна...</a><a href="http://suhov-als.jino.ru"> Дизайн квартир.</a>'; include '../view.php';

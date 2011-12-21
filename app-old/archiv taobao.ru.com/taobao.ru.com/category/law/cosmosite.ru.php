@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cosmosite.ru/">косметика эйвон, каталог эйвон (avon),  купить avon</a>'; include '../view.php';

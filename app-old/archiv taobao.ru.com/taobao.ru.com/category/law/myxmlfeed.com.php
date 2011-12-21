@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.myxmlfeed.com/">XML RSS Feeds Directory</a>'; include '../view.php';

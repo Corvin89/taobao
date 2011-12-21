@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://seo.krokusstom.ru"><img src="http://www.seo.krokusstom.ru/but.gif" width="88" height="31" border="0" alt="центр эстетической медицины"></a>'; include '../view.php';

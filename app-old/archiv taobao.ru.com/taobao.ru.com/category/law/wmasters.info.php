@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a title="wmasters.info" href="http://wmasters.info" target="_blank">
-<img alt="wmasters.info"  src="http://wmasters.info/up/logotype3.gif" border="0"></a>'; include '../view.php';

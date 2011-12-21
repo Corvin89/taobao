@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://homecat.domstatey.ru">Тематический каталог сайтов "Для семьи, дома и дачи"</a>'; include '../view.php';

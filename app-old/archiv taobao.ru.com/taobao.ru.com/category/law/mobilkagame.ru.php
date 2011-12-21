@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mobilkagame.ru/">игры для мобильника</a>'; include '../view.php';

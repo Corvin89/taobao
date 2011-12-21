@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://itsallgame.com">Paid Link Directory</a>'; include '../view.php';

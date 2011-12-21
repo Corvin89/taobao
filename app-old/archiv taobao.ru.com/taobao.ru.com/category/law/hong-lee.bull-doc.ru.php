@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://hong-lee.bull-doc.ru"><img src="http://hong-lee.bull-doc.ru/images/knopka.gif" border=0 alt="Hong Lee"></a>'; include '../view.php';

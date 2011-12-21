@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Основы виноделия <a href="http://bio-wine.ru">Производство вина</a> молдавское вино'; include '../view.php';

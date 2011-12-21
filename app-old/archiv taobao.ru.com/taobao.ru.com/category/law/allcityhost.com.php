@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.Allcityhost.com">Allcityhost.com - Free General Web Directory Network</a>'; include '../view.php';

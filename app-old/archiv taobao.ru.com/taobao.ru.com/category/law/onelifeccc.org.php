@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.onelifeccc.org">Free PR5 Directory</a>'; include '../view.php';

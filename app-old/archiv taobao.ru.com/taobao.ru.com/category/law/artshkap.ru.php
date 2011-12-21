@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://artshkap.ru/" tabindex="_blank"><img src="http://www.artshkap.ru/imgs/artshkap_bat.gif" alt="Авторская и другая мебель на заказ" width="88" height="31" border="0"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.b3directory.com">b3directory - web directory project</a>'; include '../view.php';

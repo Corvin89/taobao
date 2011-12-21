@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pleer.info" target="_blank">Интернет-магазин Pleer.info - Mp3 Mp4 плееры, доставка по москве.</a>'; include '../view.php';

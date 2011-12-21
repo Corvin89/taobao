@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.meditationiseasy.com">Meditation Is Easy Directory</a>'; include '../view.php';

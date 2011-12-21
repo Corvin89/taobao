@@ -1,5 +1,0 @@
-<?php $catalogLink = '<strong>Бюро переводов <a href="http://www.1russian.com"> "FIRST RUSSIAN translations"</a></strong><br>Быстро, качественно и недорого мы переводим 60+ языков мира.<br><br>
-
-<a href="http://www.sourceword.com"><strong>Бюро дистанционных переводов СЛОВО</strong></a> предлагает недорогой и качественный перевод с/на 60+ языков мира. Представительства в 40 странах мира. Вычитка носителем обязательна! Наши услуги: <a href="http://www.sourceword.com/prices.php">письменный перевод текста</a>, <a href="http://www.sourceword.com/ustniy.php">устный (синхронный и последовательный перевод)</a>, <a href="http://www.sourceword.com/development.php">разработка веб-сайтов</a>, <a href="http://www.sourceword.com/localization.php">локализация</a> и <a href="http://www.sourceword.com/promo.php">продвижение в сети Интернет</a>.<br><br>
-
-<a href="http://www.grammar.sourceword.com"><strong>Практическая грамматика английского языка</strong></a> от <strong><a href="http://www.sourceword.com">Бюро дистанционных переводов СЛОВО</a></strong><br>Простые правила, понятное обьяснение, интерактивные упражнения и многое другое.<br><br>'; include '../view.php';

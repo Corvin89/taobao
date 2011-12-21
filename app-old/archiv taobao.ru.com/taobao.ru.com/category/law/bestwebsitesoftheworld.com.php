@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bestwebsitesoftheworld.com" title="Go to www.bestwebsitesoftheworld.com">AWARDED >> BEST WEB SITES OF THE WORLD</a>'; include '../view.php';

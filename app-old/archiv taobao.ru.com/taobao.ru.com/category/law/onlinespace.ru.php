@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.onlinespace.ru">Онлайн пространство - каталог статей, справочник сайтов <img src="http://onlinespace.ru/images/admin/poweredby.jpg" alt="Онлайн пространство - каталог">'; include '../view.php';

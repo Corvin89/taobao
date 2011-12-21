@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ru.negura.eu/" target="_blank"><img src="http://ru.negura.eu/i/88x31.gif" width="88" height="31" alt="Молдавский художник Андрей Негурэ"></a>'; include '../view.php';

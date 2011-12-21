@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.truracing.biz/">TruRacing Experience</a>'; include '../view.php';

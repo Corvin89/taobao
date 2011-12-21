@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=" http://www.dupl.ru" target="_blank"><img src=" http://www.dupl.ru/lnk/admin/images/knopka_dupl.jpg " width="88" height="31" border="0" alt="Переговорные устройства DUPL"></a>'; include '../view.php';

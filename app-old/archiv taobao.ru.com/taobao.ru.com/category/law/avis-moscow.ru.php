@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.avis-moscow.ru" target="_blank">Все об автомобилях</a>'; include '../view.php';

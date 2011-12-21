@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Натуральные продукты: <a href="http://biodobavki.com/vimax/">увеличение полового члена, увеличение пениса</a>,  <a href="http://biodobavki.com/breast-success/">увеличение груди</a>, <a href="http://biodobavki.com/pheromones/">как привлечь противоположный пол</a>.'; include '../view.php';

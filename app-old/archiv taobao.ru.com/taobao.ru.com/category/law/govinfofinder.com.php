@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.govinfofinder.com/">GovInfoFinder</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://steklopaketbi.ru/">Стеклопакеты</a> на нашем сайте'; include '../view.php';

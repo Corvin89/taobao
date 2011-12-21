@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.instasearch.info">InstaSearch.info</a>'; include '../view.php';

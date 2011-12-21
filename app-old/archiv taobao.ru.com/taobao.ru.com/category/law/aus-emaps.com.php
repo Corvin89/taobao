@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.aus-emaps.com/">Australian maps and travel resources</a> Road and topo maps, satellite overlays, Street View panoramas, location search, weather information and more. Essential tools to plan your travel.'; include '../view.php';

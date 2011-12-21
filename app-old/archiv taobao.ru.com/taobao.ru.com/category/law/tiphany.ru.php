@@ -1,1 +1,0 @@
-<?php $catalogLink = 'испанское <a href="http://www.tiphany.ru">Ќаращивание ресниц на дому</a>'; include '../view.php';

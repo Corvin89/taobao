@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.cold-steel.ru/'>кортик, нож охотничий, складной нож, боевые ножи, меч</a>, <a href="http://www.cold-steel.ru/steel/dagger/">Кинжалы</a>'; include '../view.php';

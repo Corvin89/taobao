@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linkboost.info">Link Boost</a>'; include '../view.php';

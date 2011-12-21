@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.remdir.info/">REM Dir</a>'; include '../view.php';

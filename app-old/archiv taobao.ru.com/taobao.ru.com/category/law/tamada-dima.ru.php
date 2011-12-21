@@ -1,1 +1,0 @@
-<?php $catalogLink = 'У Вас скоро <a href=" http://www.tamada-dima.ru">свадебный банкет</a>? Дмитрий Олейник будет с Вами так же не разделим как <a href=" http://www.tamada-dima.ru">тамада свадьба</a> потому, что проведение свадеб это его профессия.'; include '../view.php';

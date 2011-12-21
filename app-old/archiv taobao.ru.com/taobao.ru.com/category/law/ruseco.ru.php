@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Туристическая компания предлагает отдых в гостиницах Сочи. К Вашим услугам <a href="http://www.ruseco.ru/hradsas.php" >Сочи:гостиница Рэдиссон САС Лазурная </a>,<a href="http://www.ruseco.ru/hosohi.php" >Сочи:отель Сочи - Бриз </a> , <a href="http://www.ruseco.ru/hgem.php"  >Сочи:гостиница Жемчужина</a>.'; include '../view.php';

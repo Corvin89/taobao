@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://newws.ru/">Последние новости России и мира</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://stroubaza.ru">строительные и отделочные материалы</a>'; include '../view.php';

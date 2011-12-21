@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.potokwm.ru/">про заработок в интернете</a>'; include '../view.php';

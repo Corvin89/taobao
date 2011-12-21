@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.helpfast.ru">Оказание помощи больным</a>'; include '../view.php';

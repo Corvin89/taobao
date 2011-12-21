@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://tuta.biz/">“уризм, “уры, јвиа, ж\д билеты - “у“ј.biz</a>'; include '../view.php';

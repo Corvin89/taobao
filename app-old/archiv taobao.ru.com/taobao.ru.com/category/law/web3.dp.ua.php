@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://web3.dp.ua/">Новый шаг для вашего ресурса!</A>'; include '../view.php';

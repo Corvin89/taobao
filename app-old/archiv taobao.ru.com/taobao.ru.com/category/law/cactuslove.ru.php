@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cactuslove.ru">Кактусы это комнатные цветы и растения.</a> <a href="http://www.cactuslove.ru/le2/">Обмен ссылками на Кактус Love</a>'; include '../view.php';

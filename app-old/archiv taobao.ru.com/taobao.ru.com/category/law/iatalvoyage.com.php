@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Гостиничный обзор, <a href="http://www.iatalvoyage.com/hotel_izr.php">классификация отелей Израиля</a>.'; include '../view.php';

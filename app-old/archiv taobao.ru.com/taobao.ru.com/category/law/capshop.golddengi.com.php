@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.capshop.golddengi.com>CapShop.Golddengi.Com</a> - <a href=http://www.capshop.golddengi.com/>Биржа кредитов САР</a> - Покупка, продажа кредитов по выгодной цене!'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Справочник - <a href="http://www.datchik.ggp.ru/">справочник предприятий России</a> деятельность и анализ.'; include '../view.php';

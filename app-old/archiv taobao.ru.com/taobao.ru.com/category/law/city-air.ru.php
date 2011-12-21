@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.city-air.ru"><img src="http://www.city-air.ru/city.gif" alt="—истемы вентил€ции" width="81" height="33" border="0" /></a>'; include '../view.php';

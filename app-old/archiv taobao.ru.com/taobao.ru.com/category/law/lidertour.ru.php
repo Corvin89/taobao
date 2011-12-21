@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://lidertour.ru/">http://lidertour.ru/</a><a href="http://lidertour.ru/">туризм горящие туры отдых горящие путевки визы авиабилеты экскурсия</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.shpic.ru">щенки померанский шпиц  и вест терьер (уэст - хайленд - уайт - терьер) www.shpic.ru</a>'; include '../view.php';

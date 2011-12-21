@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p><a href="http://sec-zone.ru" target="_top"><img src='http://www.wmrs.ru/panel/_rootimages/banners/wmrs.gif' border=?'>Wmrs.ru Ќадежный хостинг от 17 руб, скидки +10%, реселлинг</a></p>'; include '../view.php';

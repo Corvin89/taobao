@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tierni.info">купить лабрадора, купить щенка лабрадора в питомнике лабрадоров Tierni </a>'; include '../view.php';

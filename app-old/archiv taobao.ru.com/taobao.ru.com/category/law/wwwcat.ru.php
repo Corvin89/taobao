@@ -1,1 +1,0 @@
-<?php $catalogLink = 'интернет-ресурсов <a href="http://wwwcat.ru/from.php?3250"><b>WWWCat.Ru &mdash;  аталог интернет-ресурсов</b></a>'; include '../view.php';

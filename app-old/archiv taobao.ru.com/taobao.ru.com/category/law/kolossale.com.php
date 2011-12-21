@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.kolossale.com>Начни свой бизнес. Заработай миллион.</a>'; include '../view.php';

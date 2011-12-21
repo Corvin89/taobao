@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://playsportgame.com"><b>Play Sports Games</b></a><br>This site provides exciting and fun sports games for people to play online for free.  Sports games on this site include bike games, golf games, pool games, soccer games, basketball games, football games, etc.'; include '../view.php';

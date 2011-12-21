@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.metatron-ekb.ru/" >Аппарат Метатрон-компьютерная диагностика организма</a>'; include '../view.php';

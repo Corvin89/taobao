@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.nayaplus.ru>ќфисна€ мебель от производител€.</a>'; include '../view.php';

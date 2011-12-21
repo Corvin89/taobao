@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.feya21.ru/wedding"> ќрганизаци€ праздников в „ебоксарах</a>, организаци€ свадеб, дней рождений и прочих торжеств.'; include '../view.php';

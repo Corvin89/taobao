@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://sro-gkh.ru/">—–Œ</a> ‚ √ ’'; include '../view.php';

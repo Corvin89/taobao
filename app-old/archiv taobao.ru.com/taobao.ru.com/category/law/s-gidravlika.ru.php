@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://www.s-gidravlika.ru"><IMG src="http://www.s-gidravlika.ru/image/sgm.gif" alt="Гидроцилиндры различного назначения" width="88" height="31" border="0"></A>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://board.papay.info/"><img src="http://board.papay.info/logo/88_31.2.gif" alt="Доска объявлений Эстонии"></a>'; include '../view.php';

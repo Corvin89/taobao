@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://links.midi-mp3.org/" target="_blank" title="каталог сайтов"><strong>каталог сайтов: реклама, недвижимость</strong></a>'; include '../view.php';

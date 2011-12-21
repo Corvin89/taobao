@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.web-sitio.ru/">Услуги по созданию сайтов</a>. Частный вебмастер.'; include '../view.php';

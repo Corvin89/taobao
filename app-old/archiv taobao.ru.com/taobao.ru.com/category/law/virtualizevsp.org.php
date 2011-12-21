@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=_blank href="http://clubgirls.ru" title="Мода.Красота.Фитнес.Городская афиша. Web-клуб девушек Перми"><strong>Клуб девушек Перми</strong> - Мода. Красота. Фитнес. Городская афиша.</a><br><a target=_blank href="http://www.virtualizevsp.org">Галерея спорта</a>'; include '../view.php';

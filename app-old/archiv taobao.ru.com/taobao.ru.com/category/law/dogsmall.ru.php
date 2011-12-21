@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dogsmall.ru">Декоративные породы собак</a>'; include '../view.php';

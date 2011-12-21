@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Удобный <a href="http://myshimsk.com/">Ремонт компьютеров в Шимске</a> Быстро и недорого'; include '../view.php';

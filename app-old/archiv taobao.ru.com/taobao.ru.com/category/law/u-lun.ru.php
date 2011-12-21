@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.u-lun.ru'>Новоделы</a>. <a href='http://www.u-lun.ru'>фасады из дерева</a>. <a href='http://www.u-lun.ru'>деревянные лестницы</a>. <a href='http://www.u-lun.ru'>эксклюзивная мебель </a>.'; include '../view.php';

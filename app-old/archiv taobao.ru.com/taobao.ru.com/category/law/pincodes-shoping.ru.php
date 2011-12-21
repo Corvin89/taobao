@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://pincodes-shoping.ru/" title="Интернет магазин Pincodes-Shoping.Ru" target="_blank">Интернет магазин Pincodes-Shoping.Ru</a> - PIN коды'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.albertabusinesses.ca/">Alberta Business Directory - Doing Business In Alberta</a>'; include '../view.php';

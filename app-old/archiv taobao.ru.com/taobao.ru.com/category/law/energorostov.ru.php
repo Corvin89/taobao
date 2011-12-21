@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://energorostov.ru"> Трансформаторы и подстанции - поставка, монтаж, ремонт</a>'; include '../view.php';

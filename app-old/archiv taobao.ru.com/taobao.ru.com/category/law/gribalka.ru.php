@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Анекдоты, песни и<a href="http://www.gribalka.ru"> многое другое о рыбалке</a> и грибах'; include '../view.php';

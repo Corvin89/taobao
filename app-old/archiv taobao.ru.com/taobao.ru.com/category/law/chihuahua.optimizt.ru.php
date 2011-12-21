@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://chihuahua.optimizt.ru">про правильное питание для Чихуахуа</a> - <a href='http://www.ndfl.smas.ru'>3-НДФЛ</a>'; include '../view.php';

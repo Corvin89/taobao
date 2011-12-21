@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.Riga-Lv.com/coop>Riga-Lv.com. Сайт о Риге. Лучшие статьи по истории Латвии. Большая фотогалерея - много фотографий. Песни на латышском языке</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gvozdici.ru">Продажа цветов, доставка цветов по Москве, флористика</a>'; include '../view.php';

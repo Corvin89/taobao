@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://video-kat.ru/>Видео каталог бесплатного просмотра онлайн фильмов</a>'; include '../view.php';

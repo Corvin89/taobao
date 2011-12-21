@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sidingvin.ru/">сайдинг</a>, <a href="http://www.sidingvin.ru/">виниловый сайдинг</a>, <a href="http://www.sidingvin.ru/metall.htm">металлический сайдинг</a>, <a href="http://www.sidingvin.ru/montag.htm">монтаж сайдинга</a>, <a href="http://www.sidingvin.ru/cokol.htm">цокольный сайдинг</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.myukdate.org/"><b>Dating UK</b></a><br>MyUKDate Dating Site. My UK Date Free To Join UK Dating For Dating Online In UK.'; include '../view.php';

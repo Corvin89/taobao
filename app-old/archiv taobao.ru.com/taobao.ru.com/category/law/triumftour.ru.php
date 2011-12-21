@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.triumftour.ru/" target="_blank">индивидуальные туры</a> и элитный отдых'; include '../view.php';

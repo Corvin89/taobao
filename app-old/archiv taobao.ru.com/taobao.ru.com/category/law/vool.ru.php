@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vool.ru/">—амарский региональный центр У“кань и ‘урнитураФ</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.fd-media.ru">производство рекламных роликов</a>'; include '../view.php';

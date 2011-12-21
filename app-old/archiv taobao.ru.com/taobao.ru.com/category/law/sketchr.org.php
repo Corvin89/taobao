@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://sketchr.org/>Торгово-строительная компания ООО "Стройбизнес"</a>'; include '../view.php';

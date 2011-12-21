@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tubesection.com" title="Каталог сайтов"><em><strong>Каталог сайтов</strong></em></a>'; include '../view.php';

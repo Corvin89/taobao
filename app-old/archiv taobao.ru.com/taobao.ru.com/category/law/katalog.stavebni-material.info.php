@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.stavebni-material.info/" id="R0">Katalog stavebni material</a>'; include '../view.php';

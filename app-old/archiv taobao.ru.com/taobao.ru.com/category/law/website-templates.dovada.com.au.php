@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.website-templates.dovada.com.au" target="new">Website Templates</a> - Website templates, Flash web templates, Your new HTML or flash web site template, Save money and website development time using a ready designed pre made template'; include '../view.php';

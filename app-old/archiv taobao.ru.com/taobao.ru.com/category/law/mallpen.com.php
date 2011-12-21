@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://mallpen.com/tools-google-pagerank.php">What is My Pagerank</a> - <a href="http://urdoll.com">Custom Bobblehead</a>'; include '../view.php';

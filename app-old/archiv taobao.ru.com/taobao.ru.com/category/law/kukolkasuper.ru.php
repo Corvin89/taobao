@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.kukolkasuper.ru">KukolkaSuper.Ru</a> - экзальтирующий массаж для VIP-персон'; include '../view.php';

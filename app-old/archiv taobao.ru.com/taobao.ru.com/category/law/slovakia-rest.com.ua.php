@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://italy-rest.com.ua/ru/tour/">Отдых в Словакии</a> - Вся информация о Словакии, отели, отзывы, история, погода, достопримечательности. <a href="http://slovakia-rest.com.ua/ru/tour/">Горнолыжные туры в Словакию</a>.'; include '../view.php';

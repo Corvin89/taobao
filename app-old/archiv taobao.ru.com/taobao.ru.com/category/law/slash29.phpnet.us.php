@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.slash29.phpnet.us' title='Каталог ссылок интернета'>Каталог ссылок интернета СЦЫЛКА</a>'; include '../view.php';

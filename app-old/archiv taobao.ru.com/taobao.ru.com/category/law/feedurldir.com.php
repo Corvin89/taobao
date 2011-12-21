@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.feedurldir.com">Human Edited Web Directory </a>'; include '../view.php';

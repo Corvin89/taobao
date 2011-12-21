@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Драйвера на звук" href="http://dr.drovnetu.ru/" >Драйвера на звук </a>'; include '../view.php';

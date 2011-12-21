@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://arowox.ru/>Компания "AROWOX" - ремонт и отделка офисов и квартир, консультации</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Хотите построить дом из дерева? <a href="http://www.eco-komfort.ru" target="_blank" title="Клееный брус">Клееный брус</a> - отличный выбор'; include '../view.php';

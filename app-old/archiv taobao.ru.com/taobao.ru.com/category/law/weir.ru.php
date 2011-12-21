@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=_blank href=http://weir.ru> аталог интернет-ресурсов о фигурном катании на weir.ru</a>'; include '../view.php';

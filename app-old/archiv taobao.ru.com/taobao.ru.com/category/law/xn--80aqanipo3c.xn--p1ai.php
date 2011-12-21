@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!-- Start www.it2web.ru code--><a href=http://xn--80aqanipo3c.xn--p1ai/>Системному администратору Windows Server</a><!-- End www.it2web.ru code-->'; include '../view.php';

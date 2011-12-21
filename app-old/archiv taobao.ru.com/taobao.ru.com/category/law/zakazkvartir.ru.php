@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.zakazkvartir.ru>квартиры в Петербурге, аренда посуточно</a> - каталог квартир, он-лайн бронирование, фото, цены'; include '../view.php';

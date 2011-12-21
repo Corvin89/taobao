@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rus4life.ru"><img src="http://www.rus4life.ru/banner88x31.jpg" width="88" height="31" border="0" alt=" Трансфер факторы – природные иммунокорректоры. Компания 4Life Research" align="top"></a>'; include '../view.php';

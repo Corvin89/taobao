@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.blogdust.com/blog-directory/">Blogdust</a>'; include '../view.php';

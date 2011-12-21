@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.kartamebeli.ru' target='_blank'><b>KARTAMEBELI.RU - тематичесския каталог мебели</b></a><br />KARTAMEBELI.RU - тематический каталог производителей и продавцов мебели, визитная карта для организации (рубрикация по типу продукции), удобный поиск.'; include '../view.php';

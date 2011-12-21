@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.iplans.ru">гидроабразивная резка латуни</a>   и <a href="http://www.iplans.ru/component/option,com_contact/Itemid,38/">гидроабразивная резка</a> меди  - <a href="http://www.gidrorezka.smas.ru/">гидрорезка</a> дешевле'; include '../view.php';

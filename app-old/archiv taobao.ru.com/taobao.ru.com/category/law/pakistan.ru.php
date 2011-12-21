@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pakistan.ru/links/rate.php?ID=42898"><img border="0" src="http://www.pakistan.ru/links/banner1.gif" width="88" height="31" alt="Пакистан.Ру"></a>'; include '../view.php';

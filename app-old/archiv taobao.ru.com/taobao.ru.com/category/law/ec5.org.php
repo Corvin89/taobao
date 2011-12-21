@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.supplyjewelry.com">wholesale earrings</a>'; include '../view.php';

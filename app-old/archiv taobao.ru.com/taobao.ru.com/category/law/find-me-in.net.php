@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://find-me-in.net/">Find ME in NET</a>'; include '../view.php';

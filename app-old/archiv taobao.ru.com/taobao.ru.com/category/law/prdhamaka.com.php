@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.prdhamaka.com" id="RFF08CE">Submit Here Your Own PR Dhamaka....</a>'; include '../view.php';

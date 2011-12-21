@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://vr-group.ru"><img src="http://vr-group.ru/images/button.jpg" alt="ёридические услуги"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bonusgambling.org/">Online Gambling</a>'; include '../view.php';

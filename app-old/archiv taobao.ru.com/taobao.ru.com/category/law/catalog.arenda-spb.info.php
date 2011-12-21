@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://califorpunk.ru/band/better-luck-next-time">Better Luck Next Time группа</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Хорошая <a href="http://alsdon.org/vybor-krovli">кровля</a> это залог теплоты зимой и прохлады летом.'; include '../view.php';

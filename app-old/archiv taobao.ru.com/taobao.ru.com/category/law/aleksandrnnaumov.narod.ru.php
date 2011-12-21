@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://aleksandrnnaumov.narod.ru/" target="_blank" title="Любительская рыбалка."><IMG SRC="http://aleksandrnnaumov.narod.ru/873.gif" width="88" height="31" border="0" ></a>'; include '../view.php';

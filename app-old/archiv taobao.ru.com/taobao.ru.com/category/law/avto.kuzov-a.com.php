@@ -1,3 +1,0 @@
-<?php $catalogLink = '<a href="http://kuzov-a.com/" target="_blank"style="text-decoration:none"><img src="http://kuzov-a.com/images/ban_3.gif" width="88" height="31" border="0"> <br>Бесплатные книги, статьи по ремонту кузова,<br>
-программы для автосервиса.</a>
-а также<br><a href="http://razmer.kuzov-a.com/" target="_blank" style="text-decoration:none">Каталог кузовных размеров</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mundopoesia.com">poemas</a>'; include '../view.php';

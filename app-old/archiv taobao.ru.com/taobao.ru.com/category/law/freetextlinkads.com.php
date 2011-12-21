@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.freetextlinkads.com/directory/">FREE Text Link Ads</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.metropolistravels.com"><b>Delhi Tour Operator</b></a><br>Our company provides Car Rental Services india, Ladakh Tour packages india, Mountain Biking Tours India, Delhi Travel Company, Indian Travel Company, Travel Services in Delhi, Delhi Tour Operator.'; include '../view.php';

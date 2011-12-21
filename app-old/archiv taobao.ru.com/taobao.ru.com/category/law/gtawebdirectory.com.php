@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gtawebdirectory.com">Directory of Toronto and GTA</a>'; include '../view.php';

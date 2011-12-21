@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://site-promotion.in/" title="site-promotion.in-Бесплатная раскрутка сайта.">site-promotion.in</a>'; include '../view.php';

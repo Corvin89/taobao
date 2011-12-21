@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://glamourshoes.ru' target='_blank'><b>Обувь женская, мужская. Магазин Glamour. Владивосток</b></a><br />'; include '../view.php';

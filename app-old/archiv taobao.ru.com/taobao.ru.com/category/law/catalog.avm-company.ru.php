@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.avm-company.ru/" target="_blank" title="изол€ци€ труб, теплова€ изол€ци€">изол€ци€ труб, теплова€ изол€ци€</a>'; include '../view.php';

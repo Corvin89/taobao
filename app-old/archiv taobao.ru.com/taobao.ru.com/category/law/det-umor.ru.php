@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://det-umor.ru/>Детский юмор на видео</a>'; include '../view.php';

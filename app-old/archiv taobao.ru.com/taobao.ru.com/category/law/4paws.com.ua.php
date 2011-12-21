@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://bsego.net/films/ target=_blank>Кино Онлайн</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.upthedeise.com/links">The Deise Directory - Waterford Website Links </a>'; include '../view.php';

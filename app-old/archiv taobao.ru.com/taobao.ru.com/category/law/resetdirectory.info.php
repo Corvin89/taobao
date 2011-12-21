@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.resetdirectory.info/">Reset Directory</a>'; include '../view.php';

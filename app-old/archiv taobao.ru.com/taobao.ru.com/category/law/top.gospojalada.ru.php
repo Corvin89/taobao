@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gospojalada.ru" target="_blank"><strong>Анализ развития болезни сиптомы причина диагностика лечение рецепты</strong></a>'; include '../view.php';

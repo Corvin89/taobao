@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.jobbaza.ru">Поиск работы</a>'; include '../view.php';

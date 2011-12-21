@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.listsdirectory.net" id="R0">Small Business Directory</a>'; include '../view.php';

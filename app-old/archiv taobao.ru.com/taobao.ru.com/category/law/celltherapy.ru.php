@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.celltherapy.ru" target="_blank" title="Клеточная терапия">Клеточная терапия</a>  Информационно-справочный ресурс о клеточной терапии и стволовых клетках. <a href="http://www.celltherapy.ru/li/" target="_blank" title="обмен ссылками">Обмен ссылками</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pandadirectory.info/">Panda Directory</a>'; include '../view.php';

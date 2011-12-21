@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://vuulyy.net/">Растения Сибири</a>'; include '../view.php';

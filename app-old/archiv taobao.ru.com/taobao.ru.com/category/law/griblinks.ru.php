@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://griblinks.ru"><img src="http://griblinks.ru/grib.gif" height="31" width="88" border="0" alt="Каталог полезных ссылок с информацией о грибах."></a><b>Грибной каталог прямых ссылок. Размещение ссылок, информация о грибах.</b>'; include '../view.php';

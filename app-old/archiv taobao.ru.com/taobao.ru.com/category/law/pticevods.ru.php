@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://pticevods.ru/index.htm>Птицеводство в России,информационный портал, форум , фото галерея  .</a>'; include '../view.php';

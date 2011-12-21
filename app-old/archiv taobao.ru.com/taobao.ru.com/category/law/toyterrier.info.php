@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://toyterrier.info/" title="русский той"><img src="http://toyterrier.info/images/a.gif" width=88 height=31 border=0 alt="русский той-терьер"></a>'; include '../view.php';

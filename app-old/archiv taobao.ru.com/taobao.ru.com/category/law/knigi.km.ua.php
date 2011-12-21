@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://knigi.km.ua/yazyiki-programmirovaniya/4.html'> ниги по Delphi</a>'; include '../view.php';

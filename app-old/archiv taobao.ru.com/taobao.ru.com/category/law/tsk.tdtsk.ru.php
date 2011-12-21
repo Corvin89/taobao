@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.karkas-dom.ru/" title="Строительство каркасных домов" target="_blank"><img src="http://www.karkas-dom.ru/afisha/karkaskn.gif" alt="Каркасные дома проекты" width="88" height="31" border="0"></a>'; include '../view.php';

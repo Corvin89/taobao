@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.site-money.ru/">Дизайн сайтов, раскрутка сайтов в поисковых системах, seo</a>'; include '../view.php';

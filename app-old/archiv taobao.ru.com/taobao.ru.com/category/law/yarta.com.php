@@ -1,1 +1,0 @@
-<?php $catalogLink = '<strong><a href="http://www.yarta.com/">Отдых в крыму - это отдых на море.</a></strong> Турфирма Ярта предлагает вашему вниманию на страницах своего сайта информацию: <strong><a href="http://www.yarta.com/base/">базы отдыха в Крыму</a>, <a href="http://www.yarta.com/detskiy_otdih/">детский отдых в Крыму</a></strong>.'; include '../view.php';

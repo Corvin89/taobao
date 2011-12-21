@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.russian-antique.net/ ><img src="http://www.russian-antique.net/8831.jpg" width=88 height=31 border=0 alt=" ,  "></a>'; include '../view.php';

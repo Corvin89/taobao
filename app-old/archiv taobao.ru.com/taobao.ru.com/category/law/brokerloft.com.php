@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.Brokerloft.com">Brokerloft.com - Free General Web Directory Network</a>'; include '../view.php';

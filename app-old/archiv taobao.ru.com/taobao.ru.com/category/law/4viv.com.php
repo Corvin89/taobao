@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://64.22.87.96/~vps4vivc/" id="R93D2E7">4viv.com - Free Foreclosure Listings and Information</a><br>No subscription required access to the most informative, free foreclosure / pre-foreclosure resources and listings on the internet. Links to government, hud, va, and reo properties.'; include '../view.php';

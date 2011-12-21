@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.hunterstyle.ru>магазин охотник :: кейсы для оружия ::  сувениры :: рюкзаки :: фотография :: живопись :: HunterStyle.ru </a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.asara.ru target="_blank" onclick="return cfm(this);" >Фильмы,сериалы,фото,Шок-видео</a>'; include '../view.php';

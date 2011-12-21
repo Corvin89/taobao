@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.escort-agency.biz">Escort Directory</a>'; include '../view.php';

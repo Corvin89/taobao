@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.businessvocationalschool.net" id="R6C9938">Powerful Search Tools For All Career Schools Finder, Vocational, Private, Business</a>- Your Comprehensive Portal For Locating A Technical, Business Or Vocational School'; include '../view.php';

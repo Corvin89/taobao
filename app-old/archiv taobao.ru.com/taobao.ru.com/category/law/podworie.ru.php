@@ -1,1 +1,0 @@
-<?php $catalogLink = 'ООО "Подворье" предоставляет услуги: <a href="http://www.podworie.ru/">обеды с доставкой, доставка обеда офис, обеды в офис, горячие обеды</a>, а также <a href="http://www.podworie.ru/keitering.htm">кейтеринг</a>. На нашем сайте подробное меню и цены.'; include '../view.php';

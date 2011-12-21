@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.carhire-alicante-spain.com"><b>Alicante Car Hire</b></a><br>Offering car hire services for Alicante Spain. All inclusive holiday packages including, car hire, hotel bookings and golf tee times.'; include '../view.php';

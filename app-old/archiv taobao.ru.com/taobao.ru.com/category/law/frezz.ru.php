@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://frezz.ru">Игры, фильмы, музыка, программы, клипы, java игры для мобильного</a> - Все бесплатно! и Без Регистрации _frezz.ru'; include '../view.php';

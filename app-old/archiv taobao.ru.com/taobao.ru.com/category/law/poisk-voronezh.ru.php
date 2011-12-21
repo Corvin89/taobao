@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.poisk-voronezh.ru/">Сайт Воронежских кладоискателей</a>'; include '../view.php';

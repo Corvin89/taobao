@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vacanzecalabria.biz">Vacanze Calabria .biz </a>'; include '../view.php';

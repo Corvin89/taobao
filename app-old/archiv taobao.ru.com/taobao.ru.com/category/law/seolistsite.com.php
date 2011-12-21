@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.treatmentexplain.com">treatment for diseases</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.archcenter.ru/">Архцентр.ру - каталог избранных сайтов. Добавить ссылку в каталог!</a>'; include '../view.php';

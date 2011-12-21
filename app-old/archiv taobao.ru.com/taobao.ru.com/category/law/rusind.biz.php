@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://rusind.biz/">Товары и услуги - спрос, предложение</a>'; include '../view.php';

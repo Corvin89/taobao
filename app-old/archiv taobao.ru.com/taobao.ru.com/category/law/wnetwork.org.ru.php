@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://wnetwork.ru/" target="_blank">Беспроводные Сети передачи данных</a>. <a href="http://wnetwork.ru/category/istoriya-besprovodnyx-setej/" target="_blank">История беспроводных сетей</a>'; include '../view.php';

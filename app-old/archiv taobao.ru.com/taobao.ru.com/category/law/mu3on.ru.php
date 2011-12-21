@@ -1,1 +1,0 @@
-<?php $catalogLink = '<strong><a href="http://mu3on.ru/" title="Mu3on.ru -  музыка mp3, скачать бесплатно новые, попул€рные песни"><img src="http://www.yandex.ru/cycounter?http://mu3on.ru/" border="0" width="88" height="31">††http://mu3on.ru/ Mu3on.ru -  музыка mp3, скачать бесплатно новые, попул€рные песни.</a></strong>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://graffiti-v-kontakte.ru' target='_blank'><b>В контакте: граффити</b></a><br />Лучшие рисунки граффити из социальной сети вконтакте'; include '../view.php';

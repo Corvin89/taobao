@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.premiumwholesaleuk.com">Premium Wholesale UK is a dedicated UK wholesale directory with a range of trade supplier, dropshippers and wholesalers.</a>'; include '../view.php';

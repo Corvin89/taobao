@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cardscreditdebtmanagement.com">credit card debt help</a>'; include '../view.php';

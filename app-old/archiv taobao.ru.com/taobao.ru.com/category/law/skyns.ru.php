@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.altmeteo.ru/">Прогноз погоды</a>'; include '../view.php';

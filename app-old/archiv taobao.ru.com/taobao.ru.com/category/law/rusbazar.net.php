@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" title="Доска объявлений в Германии!"href="http://rusbazar.net"><img alt="RUSBAZAR.NET - Самая большая Доска объявлений  Германии!"  src="http://rusbazar.net/banner/b8831.gif" border="0" width="88" height="31"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://stscotton.info/>Базальтоволокнистый теплоизоляционный материал, Картон из базальтового холста</a>'; include '../view.php';

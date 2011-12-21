@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href = "http://www.happinesslife.com.ua/">Бизнес и  здоровье. Косметика для ухода за телом и кожей лица и волосами. Доставка </a>'; include '../view.php';

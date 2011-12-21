@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.aureliofranco.com">Disenador Web, Disenador Web Madrid, Disenador Web Malaga</a>'; include '../view.php';

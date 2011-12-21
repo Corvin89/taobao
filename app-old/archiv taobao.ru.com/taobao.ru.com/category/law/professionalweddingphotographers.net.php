@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.professionalweddingphotographers.net">Professional wedding photographers</a>'; include '../view.php';

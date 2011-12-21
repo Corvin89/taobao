@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://catboard.46info.ru/" target="_blank">Каталог сайтов</a>, <a href="http://catboard.46info.ru/add/" target="_blank">Добавить сайт</a>'; include '../view.php';

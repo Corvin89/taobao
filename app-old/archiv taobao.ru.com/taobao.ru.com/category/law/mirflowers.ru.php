@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mirflowers.ru">Все о цветах - доставка цветов, букетов, флористика</a>'; include '../view.php';

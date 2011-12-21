@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://cybermole.ru"><img src="http://linkator.bull-doc.ru/images/knopka.gif" border="0"  alt="Линкотрон"></a>'; include '../view.php';

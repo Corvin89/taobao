@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gamma-mebel.com/">Заказ мебели Киев, Чернигов. Украина.</a> <a href="http://www.gamma-mebel.com/price-list.htm">Прайс-листы</a>'; include '../view.php';

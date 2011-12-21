@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Семейный <a href="http://blogoflove.ru" title="психолог">психолог</a> Алексей Макеев.'; include '../view.php';

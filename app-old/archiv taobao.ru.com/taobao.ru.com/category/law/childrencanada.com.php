@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.childrencanada.com" title="Search on KIDOONS"><img src="http://root.kidoons.com/banners/sites/110x32/kidoo_search.gif" alt="Search on KIDOONS" border="0"/></a>'; include '../view.php';

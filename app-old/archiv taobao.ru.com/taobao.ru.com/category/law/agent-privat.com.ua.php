@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://agent-privat.com.ua/"><img src="http://agent-privat.com.ua/agent-8831.jpg" border=0></a>'; include '../view.php';

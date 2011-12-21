@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://48info.ru">48info.ru. Информационный сайт Липецкой области.</a>'; include '../view.php';

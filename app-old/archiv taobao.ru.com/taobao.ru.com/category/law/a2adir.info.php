@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.safetytipsforteen.com/driving/sports-safety-for-teenage" id="R93A83D">sports safety for teenage</a>'; include '../view.php';

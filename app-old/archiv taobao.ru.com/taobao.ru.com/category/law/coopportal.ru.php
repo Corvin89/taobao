@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.coopportal.ru/" target="_blank">Скачать бесплатно: ПРОГРАММЫ - МУЗЫКУ - ФИЛЬМ - АНТИВИРУС - КНИГУ - ИГРУ</a>'; include '../view.php';

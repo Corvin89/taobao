@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.kartina-tv.com' target='_blank'><b>Русское Интернет Телевидение на Гавайях</b></a><br />Русское Интернет Телевидение на Гавайях, 104 TB КАНАЛА +HD, смотрим русское тв онлайн, IPTV, Russian TV'; include '../view.php';

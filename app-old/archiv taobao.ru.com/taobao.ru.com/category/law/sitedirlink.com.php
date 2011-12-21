@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sitedirlink.com">Link Exchange Free Directory</a>'; include '../view.php';

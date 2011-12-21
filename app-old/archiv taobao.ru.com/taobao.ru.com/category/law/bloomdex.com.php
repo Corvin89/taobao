@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://modbabyclothes.com/">Baby Clothes</a>'; include '../view.php';

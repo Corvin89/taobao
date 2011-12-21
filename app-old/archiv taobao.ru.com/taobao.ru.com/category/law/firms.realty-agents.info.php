@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://firms.realty-agents.info/" id="R0">Каталог предприятий</a>'; include '../view.php';

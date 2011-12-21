@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://womenliga.ru/"><img src="http://womenliga.ru/logo.jpg" width="88" height="31" alt="Женская лига" border="1"></a>'; include '../view.php';

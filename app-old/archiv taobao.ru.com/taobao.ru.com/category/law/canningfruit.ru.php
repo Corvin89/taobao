@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://canningfruit.ru">Консервирование плодов и овощей</a>'; include '../view.php';

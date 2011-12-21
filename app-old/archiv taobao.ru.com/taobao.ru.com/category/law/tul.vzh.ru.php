@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tul.vzh.ru/">Магазин "Тюль" Воронеж, продажа тканей</a><a href="http://www.chertezhi.ru/"> проекты,  чертежи мебели</a>'; include '../view.php';

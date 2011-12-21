@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://cvet-metal.ru/>прием цветных металлов иркутск</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Seokk.com: <a href="http://www.seokk.com/">партнёрские программы </a> seo-статьи, обзоры партнёрских программ для фебмастеров.'; include '../view.php';

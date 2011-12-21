@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://glasfaser24.net/internet/page_1.html">Internet Technology News</a>'; include '../view.php';

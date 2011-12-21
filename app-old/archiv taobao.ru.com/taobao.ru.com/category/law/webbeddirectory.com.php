@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.webbeddirectory.com/">Free Web Directory - Webbed Directory</a>'; include '../view.php';

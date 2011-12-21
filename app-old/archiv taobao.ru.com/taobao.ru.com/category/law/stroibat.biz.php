@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Строительные материалы для кровли. <a href="http://www.stroibat.biz/base/1116405024f0.phtml">Черепица и металлочерепица</a> в Москве. Оптом и в розницу. <a href="http://stroibat.ru/remont_ofice.html">Ремонт офисов бригады</a> и фирмы.'; include '../view.php';

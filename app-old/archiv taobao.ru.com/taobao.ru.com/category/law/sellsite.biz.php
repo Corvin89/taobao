@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Сервис Sellsite.biz - здесь Вы можете <a href="http://www.sellsite.biz" title="Продать сайт">продать сайт</a> или домен'; include '../view.php';

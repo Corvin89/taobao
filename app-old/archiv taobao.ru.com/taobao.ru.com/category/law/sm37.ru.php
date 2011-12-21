@@ -1,1 +1,0 @@
-<?php $catalogLink = '<strong><a href="http://www.sm37.ru" target="_blank">"ШИНОМОНТАЖ 37КМ"</a> - </strong><a href="http://www.sm37.ru" target="_blank">Северо-восток 20км от МКАД Шиномонтажные работы, шины, диски</a>'; include '../view.php';

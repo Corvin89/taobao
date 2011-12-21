@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.allnewbusinessdirectory.com/">Global Business Directory with Best Business and Websites Links - Worldwide Coverage</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://topa.lechrec.org"> Доска объявлений </a>'; include '../view.php';

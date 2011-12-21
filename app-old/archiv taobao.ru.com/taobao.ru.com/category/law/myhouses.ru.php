@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.myhouses.ru/decor/" target="_blank">  Декоративная штукатурка. Венецианская штукатурка. Millicolor, Sabula, Arteco и др.</a>'; include '../view.php';

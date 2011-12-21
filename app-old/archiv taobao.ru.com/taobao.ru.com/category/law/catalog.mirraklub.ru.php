@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://catalog.mirraklub.ru"> Каталог MIRRA - Клуб На Арбузова 11</a>'; include '../view.php';

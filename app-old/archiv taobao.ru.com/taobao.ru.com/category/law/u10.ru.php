@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://u10.ru"><img src="http://u10.ru/10.gif" height="31" width="88" border="0" alt="Качественный каталог прямых ссылок."></a><b>Большой каталог прямых ссылок</b>'; include '../view.php';

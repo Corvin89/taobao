@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Загадки земли. <a href="http://agedman.ru/zemlya">Земля</a>. Загадки человечества.'; include '../view.php';

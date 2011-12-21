@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.podrugi.by" target="_blank">Беременность и роды</a> - Женский портал. Полная информация для женщин любого возраста.'; include '../view.php';

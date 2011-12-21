@@ -1,1 +1,0 @@
-<?php $catalogLink = '< a href='http://www.directorystorm.com/' > Directory Storm< /a >'; include '../view.php';

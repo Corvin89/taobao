@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Интернет магазин <a href="http://shopingpro.ru/" target="_blank"><img border="0" src="http://shopingpro.ru/inc/88-31_1.gif" width="88" height="31" alt="ShopingPro.Ru - Интернет магазин цифровых товаров. Профессиональная торговая площадка со множеством цифровых товаров."></a>цифровых товаров.'; include '../view.php';

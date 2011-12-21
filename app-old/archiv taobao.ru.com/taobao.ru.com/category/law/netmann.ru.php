@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://netmann.ru/">Хостинги, домены и биржи ссылок</a>'; include '../view.php';

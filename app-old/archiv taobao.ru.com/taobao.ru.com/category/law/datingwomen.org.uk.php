@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.datingwomen.org.uk/"><b>Dating Women</b></a><br>Dating Women offers the most amazing and addictive experience in online dating and web cam chat. We have thousands of single sexy men and women online waiting to flirt, exchange messages and chat live with you right now!'; include '../view.php';

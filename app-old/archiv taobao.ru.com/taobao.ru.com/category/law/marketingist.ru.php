@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.marketingist.ru/'>реклама в интернете, брендинг, PR-технологии, бренд</a>, <a href='http://www.marketingist.ru/software/'>ѕрограммное обеспечение дл€ маркетологов</a>'; include '../view.php';

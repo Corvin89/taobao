@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.windoc.info/">WinDoc.Info</a>'; include '../view.php';

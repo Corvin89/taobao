@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ultra.inc.ru"><img border="0" alt="Бензогенераторы, компрессоры, сварочные аппараты ULTRA inc. - продажа строительного оборудования" src="http://www.ultra.inc.ru/images/button.gif"></a>'; include '../view.php';

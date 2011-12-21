@@ -1,1 +1,0 @@
-<?php $catalogLink = '&lt;p&gt;&lt;a href=http://filo.xirad.ru/&gt;Филодендрон&lt;/a&gt;'; include '../view.php';

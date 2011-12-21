@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Тематический каталог ссылок: <a href="http://catalog.dear-mammy.ru/">Информация для беременных</a>'; include '../view.php';

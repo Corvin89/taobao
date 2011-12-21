@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Изготавливаем <a href="http://berestaopt.ru"> изделия из бересты , народные промыслы .</a>  .'; include '../view.php';

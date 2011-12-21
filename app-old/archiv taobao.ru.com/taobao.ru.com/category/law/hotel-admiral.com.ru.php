@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://hotel-admiral.com.ru/">Анапа</a>. Отель "Адмирал". Описание, фотографии, форум, форма online заказа. <a href="http://hotel-admiral.com.ru/inanapa">Отдых в Анапе</a>.'; include '../view.php';

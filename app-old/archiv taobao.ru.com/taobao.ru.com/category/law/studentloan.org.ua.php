@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://studentloan.org.ua">studentloan.org.ua</a>'; include '../view.php';

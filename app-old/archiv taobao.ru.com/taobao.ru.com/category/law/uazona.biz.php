@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p><a href="http://uazona.biz">Зона українських інтернет ресурсів</a></p>'; include '../view.php';

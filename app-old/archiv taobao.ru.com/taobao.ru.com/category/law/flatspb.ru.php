@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.flatspb.ru"><b> вартиры в ѕетербурге</b></a> аренда на короткий, длительные сроки'; include '../view.php';

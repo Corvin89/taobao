@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Из рук в руки новосибирск <a href=http://www.g-abakan.info/>Абакан из рук в руки нижний новгород</a><br /><a href=http://www.moregames.ru/>Весёлые игры скачать</a>'; include '../view.php';

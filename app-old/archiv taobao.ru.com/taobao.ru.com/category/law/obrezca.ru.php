@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://obrezca.ru">Искусство обрезки дерева</a>'; include '../view.php';

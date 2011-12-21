@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://sochisvadba.ru/">Свадебный салон Анастасия в Сочи и свадебный магазин</a>'; include '../view.php';

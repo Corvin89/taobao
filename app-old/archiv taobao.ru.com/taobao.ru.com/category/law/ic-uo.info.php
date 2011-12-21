@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ic-uo.info/" title="Инвестиционный клуб - IC-UO">Инвестиционный клуб - Украина онлайн</a>'; include '../view.php';

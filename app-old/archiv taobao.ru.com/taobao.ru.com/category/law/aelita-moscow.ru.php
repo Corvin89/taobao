@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://aelita-moscow.ru/>Поселок клубного типа</a>'; include '../view.php';

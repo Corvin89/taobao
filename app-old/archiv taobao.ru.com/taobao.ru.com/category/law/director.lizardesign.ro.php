@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://director.lizardesign.ro" id="R0">LizarDirector - director web romanesc</a>'; include '../view.php';

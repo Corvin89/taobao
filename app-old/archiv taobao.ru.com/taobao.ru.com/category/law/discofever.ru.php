@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://discofever.ru">Discofever</a> - disco, italo disco, eurodance, eurodisco.'; include '../view.php';

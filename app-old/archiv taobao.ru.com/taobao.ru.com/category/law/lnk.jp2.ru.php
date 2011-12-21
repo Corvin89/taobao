@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://jp2.ru">Скачать Java</a>'; include '../view.php';

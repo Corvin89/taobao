@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.thedailygay.com" target="_blank" title="The Daily Gay">The Daily Gay</a>'; include '../view.php';

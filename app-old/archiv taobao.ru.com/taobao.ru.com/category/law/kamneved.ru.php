@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kamneved.ru/">Kamneved.ru - информационный сайт про использование песка, пиленых парапетов в строительстве</a>'; include '../view.php';

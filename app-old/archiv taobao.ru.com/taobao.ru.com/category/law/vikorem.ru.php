@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://vikorem.ru/>Комплексные строительно-монтажные работы</a>'; include '../view.php';

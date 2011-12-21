@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://zoolinks.info/' target=_blank>Качественный полезный каталог прямых ссылок - Мир домашних животных.</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.duplex.ru/" target="_blank">Система безопасности: переговорные устройства Digital Duplex, антивандальные вызывные панели Глория, Топаз.</a>'; include '../view.php';

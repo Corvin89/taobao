@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.websitedirectory.co.nz/">The New Zealand Website, Article & Business Directory</a>'; include '../view.php';

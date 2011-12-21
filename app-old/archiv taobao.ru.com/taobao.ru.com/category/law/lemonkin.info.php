@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Ќаивыгоднейшие услови€ предоставл€ет <a href="http://lemonkin.info/kreditnye-karty/5-kreditnaya-karta-privat-banka.html">кредитна€ карта ѕриват банка</a>, у нее множество плюсов и есть свои минусы, но плюсов гораздо больше, рекомендую!'; include '../view.php';

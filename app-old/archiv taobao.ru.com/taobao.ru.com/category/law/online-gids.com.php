@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.online-gids.com/">Online-Gids.com - Omdat je kan vinden wat je zoekt!</a>'; include '../view.php';

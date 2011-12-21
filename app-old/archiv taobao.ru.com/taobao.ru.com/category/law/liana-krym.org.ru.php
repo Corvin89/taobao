@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://liana.crimea.ua" target="_blank"><em>Евпатория</em> - отдых в отеле Лиана</a>'; include '../view.php';

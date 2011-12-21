@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://camion.ru/">Международные перевозки, перевозки груза</a> Польша - Москва.'; include '../view.php';

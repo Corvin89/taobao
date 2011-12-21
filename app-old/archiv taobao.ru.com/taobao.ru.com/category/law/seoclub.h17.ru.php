@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://seoclub.h17.ru"title="Общетематический каталог сайтов">Общетематический каталог сайтов</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://job-ua.com/>Работа, персонал и трудоустройство в Киеве и Украине</a>'; include '../view.php';

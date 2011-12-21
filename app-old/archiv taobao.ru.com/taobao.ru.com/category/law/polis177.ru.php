@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://polis177.ru">страхование, страховой полис с доставкой</a>'; include '../view.php';

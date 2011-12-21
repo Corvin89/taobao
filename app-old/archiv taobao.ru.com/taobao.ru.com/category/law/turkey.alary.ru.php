@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Компания Алари : <a href="http://www.alary.ru/">Египет, горящие туры</a>,  семейный <a href="http://www.alary.ru/turkey.php">отдых в Турции</a>,  экзотический отдых, <a href="http://www.alary.ru/thailand.php"> путешествие в Таиланд</a>.'; include '../view.php';

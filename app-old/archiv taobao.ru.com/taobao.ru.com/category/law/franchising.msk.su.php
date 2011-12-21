@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Франчайзинг и <a href="http://franchising.msk.su">готовый бизнес</a>. <a href="http://franchising.msk.su/all/">Перечень франшиз в России</a>. Ответы на вопросы.'; include '../view.php';

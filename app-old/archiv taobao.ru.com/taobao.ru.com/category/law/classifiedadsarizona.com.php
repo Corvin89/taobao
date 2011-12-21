@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.classifiedadsarizona.com" id="R459018">Free Listing Of Classifieds In Arizona AZ  United States</a>'; include '../view.php';

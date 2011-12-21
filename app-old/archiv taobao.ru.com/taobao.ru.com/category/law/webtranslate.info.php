@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://webtranslate.info">Услуги перевода</a>'; include '../view.php';

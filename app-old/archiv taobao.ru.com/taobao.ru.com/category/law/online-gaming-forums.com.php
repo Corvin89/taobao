@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.online-gaming-forums.com/multiplayer/">Games Directory</a>'; include '../view.php';

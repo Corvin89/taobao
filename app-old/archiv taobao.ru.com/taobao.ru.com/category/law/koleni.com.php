@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.koleni.com" target="_blank">Кожаный Олень</a> - официальный сайт'; include '../view.php';

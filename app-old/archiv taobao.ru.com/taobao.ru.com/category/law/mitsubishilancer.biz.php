@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Обзор нового Лансер, <a title="Мицубиси Лансер" href="http://www.mitsubishilancer.biz/">Мицубиси Лансер</a> с дизельным двигателем.'; include '../view.php';

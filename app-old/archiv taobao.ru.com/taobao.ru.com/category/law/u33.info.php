@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://u33.info" target="_blank" >Создание сайтов и web дизайн в России. Разработка и поддержка сайтов</a>'; include '../view.php';

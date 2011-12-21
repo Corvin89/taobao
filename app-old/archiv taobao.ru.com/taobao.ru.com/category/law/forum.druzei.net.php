@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.forum.druzei.net">Форумы про любовь, секс и дружбу.</a>'; include '../view.php';

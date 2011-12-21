@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Фото услуги в пределах Москвы. Посмотри наши <a href="http://fotobogi.ru">фото </a>и ты закажешь себе фотосессию.'; include '../view.php';

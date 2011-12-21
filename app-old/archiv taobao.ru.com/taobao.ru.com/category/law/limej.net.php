@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.limej.ru/index.php/referats.html' target='_blank'><b>Limej.ru - рефераты и статьи по различным темам</b></a><br />—айт Limej.ru предоставл€ет своим пользовател€м огромнейший банк рефератов и статей общей численностью более 100000 экземпл€ров'; include '../view.php';

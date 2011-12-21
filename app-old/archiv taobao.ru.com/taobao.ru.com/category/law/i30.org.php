@@ -1,1 +1,0 @@
-<?php $catalogLink = '<div><a href="http://www.i30.org">Клуб Hyundai i30</a> изучает регламент прохождения ТО и <a href="http://www.i30.org/forum/viewforum.php?f=2">техническое обслуживание Hyundai</a>.</div>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.nubirus.com.ua/" target="_blank">Племенной питомник немецких овчарок "Nubirus"</a>'; include '../view.php';

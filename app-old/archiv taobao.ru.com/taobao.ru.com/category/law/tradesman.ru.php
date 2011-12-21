@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tradesman.ru/traid/card/">Оборудование для работы с пластиковыми картами</a>, <a href="http://www.tradesman.ru/">принтер штрих кода достоверно продовольственный магазин, розничная торговля</a>'; include '../view.php';

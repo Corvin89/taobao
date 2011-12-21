@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sexgmbh.biz" id="RD0149B">Sexgmbh Sex und Erotik </a>'; include '../view.php';

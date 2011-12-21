@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.radio0.ru" title="Радио0 - клубный андеграунд" target="_top"><img src="http://www.radio0.ru/88x31old.gif" border="0" width="88" height="31" alt="оффлайн интернет-радио0"></a>'; include '../view.php';

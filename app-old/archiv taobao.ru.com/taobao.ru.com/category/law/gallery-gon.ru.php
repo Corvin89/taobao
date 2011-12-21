@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://gallery-gon.ru"><img src="http://gallery-gon.ru/gon.gif" height="31" width="88" border="0" alt=" Интернет магазин итальянской одежды"></a><b>Интернет магазин итальянской одежды. Джинсы, брюки, футболки итальянских дизайнеров </b>'; include '../view.php';

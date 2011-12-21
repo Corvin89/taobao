@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.globlin.net">Раскрути свой сайт в нашем каталог.</a>'; include '../view.php';

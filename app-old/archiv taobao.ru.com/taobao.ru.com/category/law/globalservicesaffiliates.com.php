@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.globalservicesaffiliates.com">Global Services Affiliates Directory</a>'; include '../view.php';

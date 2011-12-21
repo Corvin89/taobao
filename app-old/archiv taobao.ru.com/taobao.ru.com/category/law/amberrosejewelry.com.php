@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.amberrosejewelry.com" id="R462099">Amber Rose Jewelry Directory</a>'; include '../view.php';

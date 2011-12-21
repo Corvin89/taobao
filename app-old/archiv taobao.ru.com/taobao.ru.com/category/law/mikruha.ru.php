@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mikruha.ru/">мелодии для мобильных телефонов скачать</a>'; include '../view.php';

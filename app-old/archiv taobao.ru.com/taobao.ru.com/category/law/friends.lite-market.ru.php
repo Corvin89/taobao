@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://lite-market.ru" title="доска объявлений">Бесплатная доска объяевлений</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mrben.ru" target="_blank" title="Детский языковой лагерь">Детский языковой лагерь</a>'; include '../view.php';

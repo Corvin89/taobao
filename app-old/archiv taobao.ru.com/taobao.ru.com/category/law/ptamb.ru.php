@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ptamb.ru" title="Архитектурная мастерская Бартошевич" target="_blank">
-<img src="http://www.ptamb.ru/baner/baner.gif" alt="Архитектурная мастерская Бартошевича" border="0" width="88" height="31"></a>'; include '../view.php';

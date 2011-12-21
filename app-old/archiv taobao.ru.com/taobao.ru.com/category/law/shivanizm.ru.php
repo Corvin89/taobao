@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://shivanizm.ru/22251323-puteshestvie-v-tibet-k-svyashhennoj-gore-kajlas.html">Путешествие в Тибет, к священной горе Кайлас</a>Кто в теме, подскажите - как, где, когда... Любая инфа: ссылки, советы, намеки) Спасибо)'; include '../view.php';

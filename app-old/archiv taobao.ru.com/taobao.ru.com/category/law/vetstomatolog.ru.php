@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vetstomatolog.ru/">”даление молочных зубов у собак</a>, <a href="http://www.vetstomatolog.ru/teethdiseases/">«убной камень у собак и кошек</a>'; include '../view.php';

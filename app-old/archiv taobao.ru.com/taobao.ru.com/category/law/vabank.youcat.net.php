@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.va-bank.com/?catalog">- Интернет-казино "Va-bank" Прогрессирующий Джэк-Пот! Ставки от одного цента! Призы постоянным игрокам! 98,5% Payouts!</a>'; include '../view.php';

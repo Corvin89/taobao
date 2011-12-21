@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.fernsehheft.de">Fernsehheft.de</a>'; include '../view.php';

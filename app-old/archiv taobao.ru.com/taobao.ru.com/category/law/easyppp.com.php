@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.EasyPPP.com" id="R0">Make Money Online</a>'; include '../view.php';

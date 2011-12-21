@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://www.duet-privet.ru" title="артисты на праздник">
-<img src="http://www.duet-privet.ru/img/baner.gif" width="88" height="31" border="0" alt="Артисты оригинального жанра. Комический дуэт "Привет" и номер с огнём - "Магия Огня"></a>'; include '../view.php';

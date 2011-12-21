@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://virtour.ru" target="_blank"><em>Виртуальные туры по Москве</em></a>: достопримечательности и интересные места. <a href="http://virtour.ru" target="_blank">Фотографии и панорамы России</a>.'; include '../view.php';

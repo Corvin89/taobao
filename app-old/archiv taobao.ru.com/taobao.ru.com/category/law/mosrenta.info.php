@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://mosrenta.info">добавить организацию по недвижимости</a> - <a href="http://www.atlanticschool.ru/index.php?option=com_content&view=article&id=107&Itemid=175&lang=ru">английская элитная детский сад-школа</a>'; include '../view.php';

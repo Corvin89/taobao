@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.wmpenza.com">webmoney в Пензе</a><br><a href="http://www.sartalks.ru">Игровые новости</a><br><a href="http://www.Freeteaser.ru">Бесплатная тизерная сеть</a>'; include '../view.php';

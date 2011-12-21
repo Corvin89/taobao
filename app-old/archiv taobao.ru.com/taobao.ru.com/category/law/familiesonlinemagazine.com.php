@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.familiesonlinemagazine.com/submit-url/">Parenting and Family Websites</a>'; include '../view.php';

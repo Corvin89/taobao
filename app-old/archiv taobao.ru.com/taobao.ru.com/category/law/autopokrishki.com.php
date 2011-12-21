@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.autopokrishki.com">вся необходимая информация о покрышках: классификация, типы и размеры шин</a> <a target="_blank" href="http://copy.autopokrishki.com">copy.autopokrishki.com</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.directoryweburl.com">Human edited SEO internet web directory and search engine-</a>'; include '../view.php';

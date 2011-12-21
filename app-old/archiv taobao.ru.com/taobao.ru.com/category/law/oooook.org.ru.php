@@ -1,1 +1,0 @@
-<?php $catalogLink = 'OOO Олимпийские Окна предлагает различные <a href="http://www.oooook.ru/index.php?p=cont/sistems" target="_blank">виды оконных систем</a>: <a href="http://www.oooook.ru/index.php?p=calc/script1" target="_blank">расчет стоимости окон</a>.'; include '../view.php';

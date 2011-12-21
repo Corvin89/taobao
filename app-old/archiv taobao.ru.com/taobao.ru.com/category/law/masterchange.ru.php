@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.masterchange.ru/">Обменник интернет валют</a>'; include '../view.php';

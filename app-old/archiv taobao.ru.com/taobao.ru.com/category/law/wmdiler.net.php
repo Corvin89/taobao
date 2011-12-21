@@ -1,1 +1,0 @@
-<?php $catalogLink = 'wmdiler.net <a href="http://www.wmdiler.net">читаемый источник для бизнесменов</a>'; include '../view.php';

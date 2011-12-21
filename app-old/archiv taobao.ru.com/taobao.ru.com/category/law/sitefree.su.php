@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://sitefree.su/"><strong>cоздание сайта</a> | <a href="http://sitefree.su/"> <strong>раскрутка сайта</a> | <a href="http://sitefree.su/"><strong>оптимизация сайта</a> | <a href="http://sitefree.su/"><strong>продвижение сайта</a></strong>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.worldwebatlas.com/">World Web Atlas</a>'; include '../view.php';

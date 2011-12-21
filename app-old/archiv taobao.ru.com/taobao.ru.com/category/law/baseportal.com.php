@@ -1,1 +1,0 @@
-<?php $catalogLink = 'This web site is reviewed manually, approved and now visible in the <a href="http://baseportal.com/cgi-bin/baseportal.pl?htx=/bestdirectory/LISTINGS">BEST DIRECTORY</a>'; include '../view.php';

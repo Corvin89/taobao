@@ -1,1 +1,0 @@
-<?php $catalogLink = '<img src="http://www.x-copy.ru/images/88X31.gif" border="0" width="88" height="31" alt="Цифровая печать у метро Юго-Западная печать визиток"></a><a target=_blank href=http://www.x-copy.ru>Цифровая печать у метро Юго-Западная печать визиток.'; include '../view.php';

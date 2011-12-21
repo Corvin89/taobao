@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.netdirectorylink.com">Net Directory Link - Comprehensive Directory  General Web Search Engine</a>'; include '../view.php';

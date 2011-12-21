@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.myfit.ru">вумбилдинг</a> для вашего здороья - партнеры - <a href='http://www.thaim.ru/index.php?option=com_fireboard&Itemid=35&task=listcat&catid=2'>тайский массаж</a>'; include '../view.php';

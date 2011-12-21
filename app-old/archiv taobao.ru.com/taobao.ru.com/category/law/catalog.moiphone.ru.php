@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://moiphone.ru "><img src="http://moiphone.ru/images/moiphone.gif " width="88" height="31" border="0" alt=" Креативные обои и картинки 240х320 без регистрации "></a>'; include '../view.php';

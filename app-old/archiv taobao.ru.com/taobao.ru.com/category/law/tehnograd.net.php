@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tehnograd.net">ТехноГрад</a> - Интернет-магазин бытовой техники и электроники. Большой выбор, низкие цены.'; include '../view.php';

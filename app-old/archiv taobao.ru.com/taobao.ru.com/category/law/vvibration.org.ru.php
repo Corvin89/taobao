@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vedicvibration.com.ua" target="_blank"><em>“ехнологи€ ведических вибраций ћахариши</em></a>: неврачебный метод оживлени€ внутреннего разума тела.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.footballsfantasy.net" id="R1E1A7C">: Web portal and directory of environment conservation ecological preservation information</a>- Ecological Preservation, Environment Consultants in environment directory'; include '../view.php';

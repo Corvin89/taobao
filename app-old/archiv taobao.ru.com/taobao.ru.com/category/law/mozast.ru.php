@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p><a href="http://www.mozast.ru">Скачать мобильные заставки с сайта www.mozast.ru</a>.</p>'; include '../view.php';

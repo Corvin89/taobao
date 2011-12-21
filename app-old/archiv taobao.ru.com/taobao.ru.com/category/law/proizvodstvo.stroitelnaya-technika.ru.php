@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://proizvodstvo.stroitelnaya-technika.ru">Продается действующее производство по изготовлению домов из оцилиндрованного бревна</a> . Далее смотреть - <a href="http://www.sud-pristav.ru/novoe/10-samyih-populyarnyih-opravdaniy-za-prosrochennyie-dolgi.html">10 самых популярных оправданий за просроченные долги</a>'; include '../view.php';

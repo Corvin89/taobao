@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://kengyry.com>Олимпиада по математике для школьников. Логические игры, конкурсы.</a>'; include '../view.php';

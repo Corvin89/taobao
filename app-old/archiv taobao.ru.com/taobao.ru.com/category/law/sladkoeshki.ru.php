@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://sladkoeshki.ru/morojenoe/">Обратите внимание на мороженное</a> делаем сами'; include '../view.php';

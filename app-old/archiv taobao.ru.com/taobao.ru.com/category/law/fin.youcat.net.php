@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://wmcurs.ru">Мониторинг обменных пунктов.</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.domix.biz/">добавить сайт в каталог сайтов domix.biz</a>'; include '../view.php';

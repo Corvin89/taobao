@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.zolotoygolos.ru">Карманное устройство для лечения заикания "Золотой голос"</a>'; include '../view.php';

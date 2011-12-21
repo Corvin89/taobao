@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sinufort.ru">Лечение гайморита, синусита, фронтита, этмоидита</a>'; include '../view.php';

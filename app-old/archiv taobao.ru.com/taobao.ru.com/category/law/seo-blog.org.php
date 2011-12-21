@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://seo-blog.org/">Free Wordpress Blog</a>'; include '../view.php';

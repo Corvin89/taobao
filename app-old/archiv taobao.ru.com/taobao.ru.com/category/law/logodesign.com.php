@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.logodesign.com' target='_blank'>Logo Design</a><br>Logo Design.com is the online source for logo design industry information, blogs, articles and logo reviews.'; include '../view.php';

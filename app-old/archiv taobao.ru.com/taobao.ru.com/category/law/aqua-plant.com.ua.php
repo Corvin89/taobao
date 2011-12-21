@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title='Мир аквариумных растений' href='http://www.aqua-plant.com.ua/' target='_blank'>Мир аквариумных растений</a> - все о растениях в аквариуме.'; include '../view.php';

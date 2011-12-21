@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.separationanxietycauses.com">Separation Anxiety Causes</a>'; include '../view.php';

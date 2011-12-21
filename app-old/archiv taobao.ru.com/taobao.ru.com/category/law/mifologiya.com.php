@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.mifologiya.com' target='_blank'><b>Мифология</b></a><br />Мифы'; include '../view.php';

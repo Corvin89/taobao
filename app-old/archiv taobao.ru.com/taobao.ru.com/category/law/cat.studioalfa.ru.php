@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.studioalfa.ru/">Наши партнеры</a><a href="http://studioalfa.ru/">ПР агентство, заказная статья, паблик рилейшенз, лоббирование, маркетинговые коммуникации, Наружная реклама.</a>'; include '../view.php';

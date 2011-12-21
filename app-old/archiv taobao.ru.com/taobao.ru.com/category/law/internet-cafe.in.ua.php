@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.internet-cafe.in.ua/" tilte="интернет кафе в украине">интернет кафе в украине</a>'; include '../view.php';

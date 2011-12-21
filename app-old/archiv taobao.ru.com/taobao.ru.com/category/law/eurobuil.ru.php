@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://eurobuil.ru/>Архитектурно-Строительная компания "Евро-билд Сервис"</a>'; include '../view.php';

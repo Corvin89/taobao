@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://express-igrushka.ru/" target="_blank"><img border="0" src="http://express-igrushka.ru/images/ban31x88.jpg" alt="Детские деревянные развивающие игрушки с доставкой на дом" width="88" height="31"></a>'; include '../view.php';

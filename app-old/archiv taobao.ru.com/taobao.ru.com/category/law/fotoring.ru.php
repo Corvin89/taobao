@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.fotoring.ru">Галерея профессиональных фотографов, услуги свадебного фотографа</a>'; include '../view.php';

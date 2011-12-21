@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rusflo.ru">Энциклопедия цветов центральной полосы России</a>'; include '../view.php';

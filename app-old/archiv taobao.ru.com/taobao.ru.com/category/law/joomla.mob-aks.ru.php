@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://joomla.mob-aks.ru">Мобильная техника</a> на joomla.mob-aks.ru'; include '../view.php';

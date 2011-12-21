@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hitfix.co.uk/">The Green Directory.</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'VashaBanya.RU - <a href="http://www.vashabanya.ru/">Строительство бани под ключ своими руками.</a> Какие бывают веники для бани.'; include '../view.php';

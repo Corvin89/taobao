@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.MademoiselleJewelry.com/">Jewelry - Sterling Silver Jewelry - Unique Jewelry - by Mademoiselle Jewelry</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'В помощь кролиководу. Статья <a href="http://rabbitbreed.ru">Гигиена окролов</a> и разведение кроликов'; include '../view.php';

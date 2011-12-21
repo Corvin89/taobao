@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.logoland.com.au">logo design by logoland</a>'; include '../view.php';

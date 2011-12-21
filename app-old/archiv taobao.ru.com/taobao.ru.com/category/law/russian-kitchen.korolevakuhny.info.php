@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://telak007.ru/">Телохранитель</a>'; include '../view.php';

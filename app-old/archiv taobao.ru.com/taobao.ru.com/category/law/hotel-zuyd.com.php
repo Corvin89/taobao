@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hotel-zuyd.com">Гостиница в Севастополе - Зюйд</a>'; include '../view.php';

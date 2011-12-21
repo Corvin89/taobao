@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.solarenergyfactsabout.com">solar power energy</a>'; include '../view.php';

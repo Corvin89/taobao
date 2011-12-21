@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vodoleykin.ru"><img src="http://www.vodoleykin.ru/our.gif" border="0" alt="Водоснабжение загородного дома или дачи. Что выбрать, скважину или колодец? Системы очистки воды. Актуальная информация и советы." width="88" height="31"></a>'; include '../view.php';

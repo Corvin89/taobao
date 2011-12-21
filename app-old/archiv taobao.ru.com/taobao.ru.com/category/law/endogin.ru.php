@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.endogin.ru" target="_blank">Консультация гинеколога эндокринолога</a>'; include '../view.php';

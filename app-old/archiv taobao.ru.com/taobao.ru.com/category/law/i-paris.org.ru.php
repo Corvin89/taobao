@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://i-paris.ru" target="_blank">Франция</a>: <a href="http://i-paris.ru/" target="_blank">особенности климата Франции, погода в Париже</a>'; include '../view.php';

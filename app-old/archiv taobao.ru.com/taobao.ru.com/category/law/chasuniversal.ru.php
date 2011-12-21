@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.chasuniversal.ru">Часуниверсал предлагает настенные часы и будильники фирмы Восток</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.agentwolf.net>Заработок в интернете: промоут, многое о заработке в сети.</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://link.terexoff.ru" title="белый каталог сайтов" target="_blank">'; include '../view.php';

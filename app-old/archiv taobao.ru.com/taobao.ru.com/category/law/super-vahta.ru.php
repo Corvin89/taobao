@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://super-vahta.ru/">Вакансии вахтовым методом газорезчик Н. Новгород  </a>'; include '../view.php';

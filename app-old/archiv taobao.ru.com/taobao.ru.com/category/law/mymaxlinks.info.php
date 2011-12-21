@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mymaxlinks.info">My Max Links |Directory | Link Exchange | Link Exchange Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://soloma.zhuk.tv" target="_blank" title="Ïîðòàë ÑÎËÎÌÀ">Ïîðòàë ÑÎËÎÌÀ</a>'; include '../view.php';

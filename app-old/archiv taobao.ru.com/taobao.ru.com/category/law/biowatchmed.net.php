@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.biowatchmed.net/">Bio Watch Med Link Directory - Free Website Submission - Submit your site for free</a>'; include '../view.php';

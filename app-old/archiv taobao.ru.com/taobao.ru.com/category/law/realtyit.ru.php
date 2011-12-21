@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://realtyit.ru/"><img border="0" src="http://realtyit.ru/i/realtyit_88x15_01.gif" width="88" height="15" alt="RealtyIt — каталог сайтов по недвижимости"></a>'; include '../view.php';

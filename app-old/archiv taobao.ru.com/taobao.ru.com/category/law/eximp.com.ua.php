@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.eximp.com.ua/" target="_blank"><img src=" http://www.eximp.com.ua/images/knopka.png" width="88" height="31" border="0" alt="Грузоперевозки от ТЭК Eximp" title="Грузоперевозки с ТМ Eximp"></a>'; include '../view.php';

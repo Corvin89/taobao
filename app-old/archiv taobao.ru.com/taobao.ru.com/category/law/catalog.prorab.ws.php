@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.prorab.ws"><img src="http://www.prorab.ws/links/baner.gif"></a> <a href="http://www.prorab.ws">Проекты коттеджей. Проекты домов и бань. Рабочие чертежи для строительства.</a>'; include '../view.php';

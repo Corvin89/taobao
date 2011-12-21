@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.fountain-head.info/">Fountainhead Directory</a>'; include '../view.php';

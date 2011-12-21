@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://www.infarktu.net" target="_blank"><img alt="Инфаркту.Нет - российский кардиологический портал"  src="http://www.infarktu.net/img/88x31.gif" width=88 height=31 border=0></a>
-<a href="http://www.infarktu.net" target="_blank"></a>'; include '../view.php';

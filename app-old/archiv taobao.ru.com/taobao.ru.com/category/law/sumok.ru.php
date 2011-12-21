@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sumok.ru">Магазин сумок: женские итальянские сумки от брендов Moro Cocco, Masi Mondani</a>'; include '../view.php';

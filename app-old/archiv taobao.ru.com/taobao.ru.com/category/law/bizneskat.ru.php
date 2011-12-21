@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tokmak.kg/index.php?do=anek">Анекдоты на Токмакском городском сайте</a>'; include '../view.php';

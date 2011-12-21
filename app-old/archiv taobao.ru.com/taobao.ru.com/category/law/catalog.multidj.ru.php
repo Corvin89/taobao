@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://catalog.multidj.ru/" target="_blank"><img src="http://www.multidj.ru/dj-soft.gif" alt="Software music" width="88" height="31" border="0" /></a>'; include '../view.php';

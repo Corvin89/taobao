@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.devdir.info/">Dev Directory</a>'; include '../view.php';

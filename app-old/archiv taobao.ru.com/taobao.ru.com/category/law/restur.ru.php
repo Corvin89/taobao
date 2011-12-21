@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://restur.ru">ResTur - горящие путевки</a>'; include '../view.php';

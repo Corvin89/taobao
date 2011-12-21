@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.parashutist.ru/aeronautics/equipment/">Тепловые аэростаты</a>, <a href="http://www.parashutist.ru/">полеты, воздухоплавание</a>'; include '../view.php';

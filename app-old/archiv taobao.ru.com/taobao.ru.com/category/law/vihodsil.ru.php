@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Смотрим <a href="http://vihodsil.ru">Физкультурные упражнения</a> от портала Выход Сил'; include '../view.php';

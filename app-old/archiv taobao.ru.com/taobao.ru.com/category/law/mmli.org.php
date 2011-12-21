@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mmli.org/">Website Directory - Free Link Submission</a>'; include '../view.php';

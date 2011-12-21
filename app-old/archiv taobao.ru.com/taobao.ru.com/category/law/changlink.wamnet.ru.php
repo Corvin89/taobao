@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=_blank href=http://www.wamnet.ru><img border=0 src=http://www.wamnet.ru/images/wamnet2.gif alt=Деньги WM. Обмен, Ukash - webmoney, Яндекс деньги, MoneyMail, RuPay, INOCard, e-gold и др. Телефонные карты, оплата  VOIP телефонии! Море полезной информации, статьи, учебные пособия, книги. width=88 height=31></a>'; include '../view.php';

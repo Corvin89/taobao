@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!--www.hot-croatia.ru-opisanie-->   <a href="http://www.hot-croatia.ru/" title="Брач операторы хорватия - отдых в Хорватии, хорватия дубровник">Брач операторы хорватия - отдых в Хорватии, хорватия дубровник</a>   <!--www.hot-croatia.ru-opisanie-->'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://goweekend.ru">туры выходного дня европа</a>'; include '../view.php';

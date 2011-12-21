@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://rubriki.net/">Торговые предложения, международный бизнес, экспорт, импорт, деловые предложения</a>'; include '../view.php';

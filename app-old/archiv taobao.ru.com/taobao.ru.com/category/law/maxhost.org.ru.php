@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://maxhost.org.ru"><IMG SRC="http://maxhost.org.ru/88x31.gif" width="88" height="31" ALT="Хостинг Сервер maxhost.org.ru" BORDER=0></a>'; include '../view.php';

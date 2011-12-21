@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.directory.everything-fine.info">Everything Directory for Blogs</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.MetroPetSupply.com">Pet Supply Directory</a>'; include '../view.php';

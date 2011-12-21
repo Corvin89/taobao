@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.aglab.ru/" id="link1368">Aquarius-Graphics</a> - лаборатория веб-дизайна. Разработка и поддержка веб-сайтов и интернет-проектов, проведение рекламных кампаний в сети интернет. Портфолио. Контактные данные. <a href="http://www.aglab.ru/aglab.php?link=881">http://www.aglab.ru/</a>'; include '../view.php';

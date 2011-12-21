@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rassvetmira.ru/on.php?str=11&ak=al" target="blank"><img height="31" title="спирт гост" alt="спирт гост" src="http://www.rassvetmira.ru/banners/rassvetmira.gif" width="88" border="0"></a><a title="спирт гост" href="http://www.rassvetmira.ru/on.php?str=11&ak=al" target="blank"><b>Спирт ГОСТ</b></a>'; include '../view.php';

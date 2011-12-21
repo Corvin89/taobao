@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://dogs-breed.net/dogs/nemetskaya_ovcharka.html" target="_blank">Немецкая овчарка - в каталоге пород собак</a>'; include '../view.php';

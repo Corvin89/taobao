@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://65-k.com/catalog/"><img border="0" WIDTH="88" HEIGHT="31" src="http://65-k.com/i/but.gif" alt="Каталог образовательных ресурсов"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lugansk.info" target=_blank>Каталог Луганских сайтов</a>'; include '../view.php';

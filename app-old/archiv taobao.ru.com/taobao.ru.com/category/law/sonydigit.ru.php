@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sonydigit.ru">Цифровые видеокамеры Sony</a>'; include '../view.php';

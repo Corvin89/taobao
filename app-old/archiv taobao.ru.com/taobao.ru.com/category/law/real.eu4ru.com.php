@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://real.eu4ru.com">ЕВРОПА ДЛЯ ВАС:</a>  <a target="_blank" href="http://real.eu4ru.com">жилая и коммерческая недвижимость Чехии и ЕЭС для покупки, продажи и аренды</a>'; include '../view.php';

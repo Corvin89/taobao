@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="IP-телефония: доступные для каждого международные звонки."  href="http://www.voiceip.com.ua/" target="_blank">IP-телефония для всех и каждого</a>'; include '../view.php';

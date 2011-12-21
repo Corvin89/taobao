@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Джемете <a href="http://djemete.pp.ru">гостевой дом</a> "Приобье" на Черном море. Описание, фотографии, цены. <a href="http://djemete.pp.ru/category/metki/dzhemete-pansionaty">Джемете пансионаты</a>.'; include '../view.php';

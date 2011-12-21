@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="blank" href="http://www.links.housecat.ru"><img src="http://www.links.housecat.ru/banner/banner1.gif" alt="Ёнциклопеди€ кошек" width="88" border="0" height="31"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.Armworld.ru/">Www.ArmWorld.Ru-Информационно-Развлекательный Портал</a>'; include '../view.php';

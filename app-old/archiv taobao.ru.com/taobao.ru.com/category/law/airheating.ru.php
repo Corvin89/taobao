@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://airheating.ru/">Airheating.ru - справочник про вытяжную вентиляцию и паровые системы отопления</a>'; include '../view.php';

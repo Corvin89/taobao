@@ -1,2 +1,0 @@
-<?php $catalogLink = 'Как принято считать,если съешь пищу города-призрака,то не сможешь вернуться
-из него. <a href="http://tungusmiracle.ru/22098156-pochemu-nelzya-est-mestnuyu-pishhukogda-popadaesh.html">Почему Нельзя Есть Местную Пищу,Когда Попадаешь Вовнутрь Города-Призрака ?</a>'; include '../view.php';

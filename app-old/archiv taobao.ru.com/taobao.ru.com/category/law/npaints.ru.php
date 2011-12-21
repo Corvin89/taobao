@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.npaints.ru/"><img src="http://www.npaints.ru/banner/banner.gif" width="88" height="31" alt="магазин краски Москва National Paints" border="0"></a>'; include '../view.php';

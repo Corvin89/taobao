@@ -1,1 +1,0 @@
-<?php $catalogLink = 'http://acoustics24.info - <a href="http://acoustics24.info">Интернет-Магазин Доступной Акустики</a>'; include '../view.php';

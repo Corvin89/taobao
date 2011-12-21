@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://best-pornstar.net" target="_blank">Все о лучших порнозвездах! </A>'; include '../view.php';

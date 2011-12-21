@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.financialplanningmalaysia.com" id="R1BDD10">Financial Planning Malaysia</a>'; include '../view.php';

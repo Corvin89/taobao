@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Сайты: <a href="http://www.softobzor.cn/">SoftObzor - каталог софт-сайтов</a>, <a href="http://www.softozone.net/">игр и драйверов</a>, игра на <a href="http://www.emolite.net">гитаре</a>.'; include '../view.php';

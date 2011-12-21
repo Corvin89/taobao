@@ -1,1 +1,0 @@
-<?php $catalogLink = '<strong><a href="http://www.logisticavto.ru" target="_blank">"Ћогистикјвто.ru"</a> - </strong><a href="http://www.logisticavto.ru" target="_blank">Ћогистикјвто.ru - доставка сборных грузов, складска€ логистика, экспресс доставка грузов, таможенные услуги, международные перевозки, логистические услуги</a>'; include '../view.php';

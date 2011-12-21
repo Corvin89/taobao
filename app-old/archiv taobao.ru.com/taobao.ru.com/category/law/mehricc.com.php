@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sdiae.info">Курсы английского языка в США</a>'; include '../view.php';

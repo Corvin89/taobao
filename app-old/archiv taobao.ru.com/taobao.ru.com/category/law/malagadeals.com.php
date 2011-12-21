@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.malagadeals.com" title=" Malaga Hotels"><b>Malaga Hotels</b></a>- Bargain Hotels and Holidays in Malaga.<br />'; include '../view.php';

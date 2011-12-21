@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://rent-moscow.info">Доска объявлений по недвижимости. Каталог ссылок. Обмен ссылками. Добавить ссылку.</a> - <a href="http://stroitelnaya-technika.ru/">Доска объявлений по стройтехнике</a>'; include '../view.php';

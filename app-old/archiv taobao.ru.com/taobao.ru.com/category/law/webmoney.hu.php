@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://webmoney.hu/webmoney/">Каталог ресурсов системы Webmoney</a>'; include '../view.php';

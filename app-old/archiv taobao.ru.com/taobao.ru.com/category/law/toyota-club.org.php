@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="toyota-club.org">Popular comedy films</a>'; include '../view.php';

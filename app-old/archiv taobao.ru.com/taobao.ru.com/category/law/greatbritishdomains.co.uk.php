@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.greatbritishdomains/">Great British Domains</a>'; include '../view.php';

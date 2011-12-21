@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://dvbportal.ru">dvbportal.ru</a>'; include '../view.php';

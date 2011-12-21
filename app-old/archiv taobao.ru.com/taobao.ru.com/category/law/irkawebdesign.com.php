@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.irkawebdesign.com/dir/" id="REA63E4">Webmaster Directory</a>'; include '../view.php';

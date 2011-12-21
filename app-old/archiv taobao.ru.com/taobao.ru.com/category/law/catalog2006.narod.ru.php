@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.catalog2006.narod.ru" title="Интернет каталог. Создание и оптимизация сайта, раскрутка. Интернет реклама">Бизнес каталог 2006</a>'; include '../view.php';

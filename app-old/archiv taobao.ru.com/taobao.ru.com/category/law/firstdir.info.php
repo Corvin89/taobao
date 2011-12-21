@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.howtovegetablegardening.com/planting/container-vegetable-garden" id="R44F45B">container vegetable gardening</a>'; include '../view.php';

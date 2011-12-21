@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.adv-capital.ru title='Наружная реклама'><img border=0 src=http://www.adv-capital.ru/images/adv-baner.gif alt='Рекламное агентство'width=88 height=31></a>'; include '../view.php';

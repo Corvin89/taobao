@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.abika-m.ru" target="_blank"><img src="http://www.abika-m.ru/button.gif" width="88" height="31" alt="Строительные герметики производство в Москве ООО Абика-М" border="0"></a>'; include '../view.php';

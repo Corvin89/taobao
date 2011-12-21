@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.ubr.net.ua' target='_blank'><b>Рекрутинговое агентство UKRAINIAN BUSINESS RESOURCES</b></a><br />Рекрутинговое агентство - Поиск персонала, Подбор персонала, Рекрутинг, Персонал, Headhunting, Executive Search, Кадровое агентство'; include '../view.php';

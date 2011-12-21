@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://fasadsvet.ru/content/view/20/28/">Перетяжки. Изготовление и размещение перетяжек на улицах и магистралях. </a>'; include '../view.php';

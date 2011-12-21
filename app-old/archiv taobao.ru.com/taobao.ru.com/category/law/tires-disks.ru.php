@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tires-disks.ru/info/review/">тормозная жидкость</a>, <a href="http://www.tires-disks.ru/">шины и диски, шипованные шины, сцепление автомобиля</a>'; include '../view.php';

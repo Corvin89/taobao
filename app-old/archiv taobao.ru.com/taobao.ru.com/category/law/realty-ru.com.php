@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://realty-ru.com target=blank>Каталог недвижимости.</a> Представлены сайты компаний, занимающихся арендой и продажей недвижимости и квартир.'; include '../view.php';

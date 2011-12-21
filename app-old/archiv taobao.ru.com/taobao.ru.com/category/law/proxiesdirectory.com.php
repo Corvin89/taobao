@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.proxiesdirectory.com/">Proxies Directory</a>'; include '../view.php';

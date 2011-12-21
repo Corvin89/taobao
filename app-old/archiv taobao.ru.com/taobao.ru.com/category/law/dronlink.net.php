@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://dronlink.net">Раскрутка сайтов.  Каталог хороших сайтов. Бесплатная раскрутка вашего ресурса.  Seo PR Тиц</a>'; include '../view.php';

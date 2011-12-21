@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Отличная партнерская программа по покупке и продаже трафика <a href="http://reklamazer.ru">Reklamazer.ru</a>'; include '../view.php';

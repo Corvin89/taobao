@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.revolverfilm.ru" target="_blank">Новости кино, текущие показы кинотеатров, критика, ретропанорама</a>'; include '../view.php';

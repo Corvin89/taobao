@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://www.betaren.ru/" style="color: #00CC00">      -              </A>'; include '../view.php';

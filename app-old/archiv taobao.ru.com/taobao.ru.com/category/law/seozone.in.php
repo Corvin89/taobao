@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.seozone.in/directory">Seo Zone Directory</a>'; include '../view.php';

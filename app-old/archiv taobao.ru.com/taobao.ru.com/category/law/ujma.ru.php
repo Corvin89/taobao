@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!--Начало кода--><p><a href="http://www.ujma.ru/index.php" >ujma.ru</a></p><!--Конец кода-->'; include '../view.php';

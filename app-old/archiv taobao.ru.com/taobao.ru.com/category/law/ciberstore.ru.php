@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Ciberstore.ru - <a href="http://ciberstore.ru">бесплатна€ доска объ€влений, каталог фирм и статей</a>'; include '../view.php';

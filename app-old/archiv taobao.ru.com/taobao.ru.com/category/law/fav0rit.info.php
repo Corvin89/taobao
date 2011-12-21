@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://fav0rit.info/>мебель под любой интерьер.</a>'; include '../view.php';

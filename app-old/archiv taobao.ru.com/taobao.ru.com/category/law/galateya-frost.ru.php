@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://galateya-frost.ru">Кондиционирование и вентиляция</a>'; include '../view.php';

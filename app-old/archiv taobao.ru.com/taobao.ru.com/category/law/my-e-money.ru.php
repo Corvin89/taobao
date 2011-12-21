@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://my-e-money.ru">Все платежные системы Интернета, Электронная Коммерция</a>'; include '../view.php';

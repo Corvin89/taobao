@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.privatzona.ru">Объявления о знакомстве с фотографиями</a>'; include '../view.php';

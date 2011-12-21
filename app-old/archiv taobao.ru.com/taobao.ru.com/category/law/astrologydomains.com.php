@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.astrologydomains.com">Astrology Domains & Websites Web Directory - Free Website Submission</a>'; include '../view.php';

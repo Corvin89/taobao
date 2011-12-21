@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://rtcomputer.ru">Купить компьютер Екатеринбург</a>, <a href="http://rtcomputer.ru">заправка картриджей Екатеринбург</a>, <a href="http://rtcomputer.ru">Оргтехника Екатеринбург</a> - РТ Компьютер.'; include '../view.php';

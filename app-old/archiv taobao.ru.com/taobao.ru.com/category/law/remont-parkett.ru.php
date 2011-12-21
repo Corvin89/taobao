@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://remont-parkett.ru/index1160245759.html">Укладка массивной доски</a> качественно в компании Ремонт паркет.'; include '../view.php';

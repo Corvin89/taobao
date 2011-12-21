@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.thesunsetbali.com' target='_blank'><b>The Sunset Bali</b></a><br />Dream to own house or villas overlooking the beach, river, hill, or ricefield? Make it come true...You are not to be missed opportunity here.'; include '../view.php';

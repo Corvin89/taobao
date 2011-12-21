@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.anaheimcaguide.com" id="R634278">Anaheim Yellow Page Business Directory</a>'; include '../view.php';

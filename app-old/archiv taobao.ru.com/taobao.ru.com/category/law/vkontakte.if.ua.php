@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://vkontakte.if.ua"><img border="0" src="http://vkontakte.if.ua/88x31.gif" alt=" Вконтакті - білий безкоштовний український каталог сайтів та веб-сторінок!" width="88" height="31"></a>'; include '../view.php';

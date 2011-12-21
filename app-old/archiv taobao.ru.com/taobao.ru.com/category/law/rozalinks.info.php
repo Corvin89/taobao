@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://rozalinks.info"><img src="http://rozalinks.info/roza.gif" height="31" width="88" border="0" alt="Цветы Розы.Каталог прямых ссылок. Фотографии роз, информация про розы."></a>'; include '../view.php';

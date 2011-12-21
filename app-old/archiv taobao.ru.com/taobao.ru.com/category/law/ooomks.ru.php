@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p align="center"><a title="Строительная компания МКС: Строительно-монтажные работы, комплексные поставки" target="_blank" href="http://ooomks.ru/"><img border="0" src="http://ooomks.ru/images/banner200_120.jpg" width="200" height="120"></a></p>'; include '../view.php';

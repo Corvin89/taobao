@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Регистрация в каталоге, обмен ссылками" href="http://www.infoservic.ru/link/submit.php"> Регистрация в каталоге, обмен ссылками</a>'; include '../view.php';

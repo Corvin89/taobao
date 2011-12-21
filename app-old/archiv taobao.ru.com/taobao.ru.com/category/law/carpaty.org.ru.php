@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.carpaty.info" target="_blank"><strong>Отдых в Яремче</strong></a>: пансионаты, санатории, гостиницы и отели Карпат'; include '../view.php';

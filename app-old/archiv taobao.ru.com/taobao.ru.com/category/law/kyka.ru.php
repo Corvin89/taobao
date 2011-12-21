@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kyka.ru">Кука  - официальный сайт кинофильма</a>'; include '../view.php';

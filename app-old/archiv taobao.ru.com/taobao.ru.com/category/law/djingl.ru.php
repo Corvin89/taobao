@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.djingl.ru/" target="_blank"><strong>"Джингл Ру" - джинглы,  аудиокниги, реклама на радио, оформление эфира, музыка для торгового зала</strong></a>'; include '../view.php';

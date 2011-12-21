@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.masterstend.ru/"><strong>Стенд витрина 120 х 90 см.</strong></a>'; include '../view.php';

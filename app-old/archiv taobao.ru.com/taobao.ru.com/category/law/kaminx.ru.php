@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kaminx.ru">топки supra, каминные топки supra, установка топки, облицовка камина</a>'; include '../view.php';

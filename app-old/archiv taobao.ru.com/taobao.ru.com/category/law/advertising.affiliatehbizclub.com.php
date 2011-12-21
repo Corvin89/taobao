@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.advertising.affiliatehbizclub.com">Advertising Tips</a> - Advertising Tips: Web Site Promotion-Advertising Your Website For Profits.. Advertising articles and recommended reading.'; include '../view.php';

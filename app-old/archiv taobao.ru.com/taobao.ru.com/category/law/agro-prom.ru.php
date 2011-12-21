@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.agro-prom.ru/other/technique/'>Сельскохозяйственная техника</a>, <a href='http://www.agro-prom.ru/'>почвоведение, болезни растений, энтомология, энтомология</a>'; include '../view.php';

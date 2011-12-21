@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://rublik.org/">Бесплатная доска объявлений : продажа, покупка, сотрудничество</a>'; include '../view.php';

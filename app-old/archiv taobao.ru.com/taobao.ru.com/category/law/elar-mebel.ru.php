@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.elar-mebel.ru><img src="http://www.elar-mebel.ru/images/logo.gif" border=0 alt="ЭЛАР-МЕБЕЛЬ - специализированная мебель для библиотек" width=88 height=31>ЭЛАР-МЕБЕЛЬ - специализированная мебель для библиотек</a>'; include '../view.php';

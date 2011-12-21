@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.modelingova-agentura.info">Modelingova Agentura - Modelky</a>'; include '../view.php';

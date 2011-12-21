@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://www.hlebopechka.net/" target="_blank"><IMG src="http://www.hlebopechka.net/hlebopechka.gif" border="0" width="88" height="31"></A>'; include '../view.php';

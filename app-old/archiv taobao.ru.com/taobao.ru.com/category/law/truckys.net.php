@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.truckys.com/directory/">Automotive Web Directory</a>'; include '../view.php';

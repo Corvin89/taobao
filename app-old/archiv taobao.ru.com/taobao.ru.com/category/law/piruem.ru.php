@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.piruem.ru/" target="_blank">Корпоративные мероприятия и праздники </a>'; include '../view.php';

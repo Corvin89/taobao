@@ -1,2 +1,0 @@
-<?php $catalogLink = '<p><a href="http://vitragi-ch.ru"><span lang="ru">Изготовление стеклопрозрачных 
-(витражи) конструкций в г. Чебоксары, Чувашская республика</span></a></p>'; include '../view.php';

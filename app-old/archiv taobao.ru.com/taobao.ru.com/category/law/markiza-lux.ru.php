@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Солнцезащитные системы <a href="http://www.e-disign.ru/rulon_chtori.html">рулонные шторы</a>'; include '../view.php';

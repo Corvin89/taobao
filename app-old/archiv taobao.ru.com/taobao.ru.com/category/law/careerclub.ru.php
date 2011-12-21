@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.careerclub.ru/">CareerClub.ru - работа для профессионалов</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.golden-apricot.com.ua">Отдых на Фиоленте, Севастополь, Крым.</a>'; include '../view.php';

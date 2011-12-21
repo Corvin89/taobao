@@ -1,1 +1,0 @@
-<?php $catalogLink = '<b>mobile.dolinin.ru </b> - <a href="http://mobile.dolinin.ru/" > Скачать игры для мобильника</a> ,  <b>Доска объявлений</b>  , <b>На rusflat.ru </b> - <a href="http://www.rusflat.ru/proposition/rent/">Аренда красивых квартир </a>,'; include '../view.php';

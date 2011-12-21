@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://directory.mooseek.net">mooseek deep-linking directory</a>'; include '../view.php';

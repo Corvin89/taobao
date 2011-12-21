@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Саметка Сервис это <a href="http://www.sametka.ru">обслуживание биотуалетов</a> и безопасность для Вас и вашей семьи!'; include '../view.php';

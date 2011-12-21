@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://celitelstvo.com" title="Celitelstvo.Com - эзотерический портал про Целительство и Рэйки" target="_blank">Celitelstvo.Com - эзотерический портал про Целительство и Рэйки</a>'; include '../view.php';

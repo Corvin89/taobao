@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://blagoveshensk.rabotavia.ru/>работа в Благовещенске</a><br />Из рук в руки автомобили <a href=http://www.g-blagoveshensk.info/>Благовещенск сайт газеты из рук в руки</a>'; include '../view.php';

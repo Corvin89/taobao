@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.emolite.cn/">EMOLite - эмо каталог, все об emo</a>, а также <a href="http://www.rockplanet.info/">рок музыка</a>'; include '../view.php';

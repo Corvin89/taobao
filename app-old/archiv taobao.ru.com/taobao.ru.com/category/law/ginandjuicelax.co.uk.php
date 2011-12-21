@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.ginandjuicelax.co.uk' target='_blank'><b>Gin & Juice Lacrosse</b></a><br />Gin & Juice Lacrosse Official Web Site'; include '../view.php';

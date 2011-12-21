@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.warhistory.ru>Сайт про военную историю, военные хроники, военные реконструкции.</a>'; include '../view.php';

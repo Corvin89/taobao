@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.katcentral.org>Рубрикатор интернет-проектов ЦЕНТРАЛ</a>'; include '../view.php';

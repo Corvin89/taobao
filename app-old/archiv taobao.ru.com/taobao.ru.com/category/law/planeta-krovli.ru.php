@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.planeta-krovli.ru/flashing/">√идроизол€ци€ и защита</a>, <a href="http://www.planeta-krovli.ru/">"ѕланета- ровли" -  ремонт кровли, м€гка€ кровл€, м€гка€ черепица, монтаж металлочерепицы</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kyxnumeb.ru">Стильная мебель, класическая мебель, модерн, простота</a>.'; include '../view.php';

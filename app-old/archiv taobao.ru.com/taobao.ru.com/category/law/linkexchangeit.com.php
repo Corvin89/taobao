@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linkexchangeit.com/">Search Engine Optimization</a>'; include '../view.php';

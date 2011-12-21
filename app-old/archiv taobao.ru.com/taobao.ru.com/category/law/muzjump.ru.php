@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://muzjump.ru"><img src="http://muzjump.ru/baner.gif" width="88" height="31" border="0" alt="MuzJump - профессиональное проведение свадеб, банкетов, юбилеев. Профессиональная аппаратура. Тосты, сценарии свадеб. Свадебные приметы и много другое"></a>'; include '../view.php';

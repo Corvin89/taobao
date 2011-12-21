@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dentalmechanic.ru"><img border="0" src="http://catalog.dentalmechanic.ru/images/dentalmechanic.gif" width="88" alt="ѕротезирование зубов и вс€ стоматологи€ на DentalMechanic.ru" height="31"></a>'; include '../view.php';

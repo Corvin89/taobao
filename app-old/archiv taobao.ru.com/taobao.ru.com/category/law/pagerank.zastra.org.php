@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://pagerank.zastra.org" id="R42747A">Webkatalog</a>'; include '../view.php';

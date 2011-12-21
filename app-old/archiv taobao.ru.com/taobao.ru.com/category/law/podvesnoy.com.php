@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.podvesnoy.com/about.html">Сделаем ровный потолок</a>'; include '../view.php';

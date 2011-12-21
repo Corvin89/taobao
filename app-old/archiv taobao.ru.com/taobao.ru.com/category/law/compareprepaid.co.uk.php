@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.compareprepaid.co.uk/credit-cards.html">Prepaid Credit Card Compare UK- Top Up Credit Cards</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.DomainFist.com">DomainFist.com: Free Website Submission Directory, Improve Website Rank & Traffic</a>'; include '../view.php';

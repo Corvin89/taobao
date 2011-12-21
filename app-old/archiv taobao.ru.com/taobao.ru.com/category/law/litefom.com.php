@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://litefom.com">FOREX лхмхлсл дкъ рнпцнбкх 1$</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.auto-zagran.ru">Автоуслуги, автострахование, оформление загранпаспорта, фото на документы.</a>'; include '../view.php';

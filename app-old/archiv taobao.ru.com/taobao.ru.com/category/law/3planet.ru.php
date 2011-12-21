@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.3planet.ru/geo/climatic.html" target=_blank>»нформационный портал У“реть€ планетаФ:  лиматические зоны</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://raskrutka-zarabotok.ru/" title="У Нас НЕТ Минимума" target="_blank">У Нас НЕТ Минимума</a>'; include '../view.php';

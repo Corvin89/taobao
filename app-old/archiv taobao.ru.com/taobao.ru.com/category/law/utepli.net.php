@@ -1,1 +1,0 @@
-<?php $catalogLink = 'САТ технологии<a href="http://utepli.net/"> утепления стен </a> зданий'; include '../view.php';

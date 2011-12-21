@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://topatr.ru/index11.html>перегородки из гипсокартона</a>, <a href=http://topatr.ru/index11.html>перегородки из гипсовинила</a>, <a href=http://topatr.ru/>перегородки межкомнатные</a>, <a href=http://topatr.ru/>перегородки стеклянные </a></p>'; include '../view.php';

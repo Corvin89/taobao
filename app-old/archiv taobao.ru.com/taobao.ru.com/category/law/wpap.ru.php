@@ -1,1 +1,0 @@
-<?php $catalogLink = '<strong><b><a href="http://wpap.ru/" title="Wpap.ru - Обои на рабочий стол по темам. Красивые заставки, картинки и фотографии."><img src="http://www.yandex.ru/cycounter?http://wpap.ru/" border="0" width="88" height="31"> Wpap.ru -  Обои на рабочий стол по темам. Красивые заставки, картинки и фотографии.</a></b></strong>'; include '../view.php';

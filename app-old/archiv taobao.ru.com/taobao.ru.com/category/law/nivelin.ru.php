@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.nivelin.ru"><img src="http://www.nivelin.ru/ReadyJub.gif" border=0 height=31 width=88 alt="Отделочные материалы из Словении. Декоративная штукатурка, шпаклевка, сухие смеси. ООО В.К."></a>'; include '../view.php';

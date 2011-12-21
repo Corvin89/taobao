@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://economics-online.ru/" target="_blank">Инвестиционная деятельность</a>'; include '../view.php';

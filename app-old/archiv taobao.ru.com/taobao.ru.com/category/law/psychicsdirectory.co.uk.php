@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="Psychics Directory">http://www.psychicdirectory.co.uk</a>'; include '../view.php';

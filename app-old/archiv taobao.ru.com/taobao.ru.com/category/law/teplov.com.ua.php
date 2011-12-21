@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Украина, <a href="http://www.teplov.com.ua">Автономное отопление, обогреватели</a>, экономичное отопление, <a href="http://www.teplov.com.ua">инфракрасные обогреватели для дач, домов</a>, <a href="http://www.teplov.com.ua">дилерская сеть, стать дилером</a>'; include '../view.php';

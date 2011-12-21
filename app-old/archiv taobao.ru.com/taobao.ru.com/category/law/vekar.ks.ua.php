@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://vekar.ks.ua/" target="_blank"><img src="http://vekar.ks.ua/image/baner88.gif" width="88" height="31" border="0" alt="Сайт Питомника КРОН ВЕКАР - много фото, доска объявлений, продажа щенков, гостевая книга, обмен ссылками"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.scripto.ru>Скрипт каталога сайтов для профессионалов. Scripto.</a>'; include '../view.php';

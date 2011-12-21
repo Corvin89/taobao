@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tvoisad.com/"><strong>Интернет магазин Семена</a> | <a href="http://tvoisad.com/"><strong>Семена почтой</a> | <a href="http://tvoisad.com/"><strong> Семена цветов </a>| <a href="http://tvoisad.com/"><strong> Семена овощей </a>| <a href="http://tvoisad.com/"><strong> Семена растений </a>'; include '../view.php';

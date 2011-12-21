@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://bigcat.domstatey.ru">Большой каталог веб-сайтов</a>'; include '../view.php';

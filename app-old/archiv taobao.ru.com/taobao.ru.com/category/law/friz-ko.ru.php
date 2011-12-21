@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Советуем брать <a href="http://friz-ko.ru" title="шлифовка дерева и металла" target="_blank">производство абразивного инструмента</a> для профильного шлифования.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://lanos.com.ua/" target="_blank" alt="Клуб Daewoo (Deo) Lanos - отзывы, тюнинг, запчасти Дэу Ланос">Клуб Daewoo (Deo) Lanos - отзывы, тюнинг, запчасти Дэу Ланос</a>'; include '../view.php';

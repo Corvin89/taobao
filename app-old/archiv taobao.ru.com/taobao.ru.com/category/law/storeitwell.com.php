@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://storeitwell.com/"><b>Garage Floors from Store It Well</b></a><br>Garage floors including garage floor tiles, rolled garage flooring, garage floor mats and roll out garage flooring.'; include '../view.php';

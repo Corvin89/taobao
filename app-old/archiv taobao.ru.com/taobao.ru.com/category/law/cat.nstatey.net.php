@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://nstatey.net">Статьи о Товары и услуги!</a> | <a href="http://cat.nstatey.net">Каталоги сайтов! Обмен ссылками.</a>'; include '../view.php';

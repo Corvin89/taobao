@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hadjama.ru">Кровопускание по сунне Пророка в исламе</a>'; include '../view.php';

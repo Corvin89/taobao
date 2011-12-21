@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://raysystem.ru" title="blu-ray системы">ray системы</a>'; include '../view.php';

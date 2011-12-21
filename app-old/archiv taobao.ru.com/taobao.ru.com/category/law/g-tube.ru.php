@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Только лучшая <a href="http://g-tube.ru/gruppovuxa/">Групповуха</a> и ебля с множеством участников на сайте G-Tube.ru онлайн и бесплатно!'; include '../view.php';

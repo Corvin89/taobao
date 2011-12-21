@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://mejprombank-nl.com/">Mejprombank-nl Article Directory</a>'; include '../view.php';

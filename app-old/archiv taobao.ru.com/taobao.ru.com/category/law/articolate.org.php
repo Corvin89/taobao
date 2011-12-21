@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://articolate.org/">Articolate Article Directory</a>'; include '../view.php';

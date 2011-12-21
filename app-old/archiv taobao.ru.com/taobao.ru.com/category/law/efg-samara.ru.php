@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://floor-factory.ru/">Напольные покрытия и отделочные материалы</a>. <a href="http://the-besttourism.ru/">Лучший отдых</a> по всему миру <a href="http://dinapol.ru/">вокруг света</a> с кампанией <a href="http://mirtrip.ru/">мир путешествий</a>. Всей семьей <a href="http://trip.in.ua/">путешествуй</a>'; include '../view.php';

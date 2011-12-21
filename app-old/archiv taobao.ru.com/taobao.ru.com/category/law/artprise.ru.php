@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.artprise.ru">Фотостудия, профессиональный фотограф на свадьбу, свадебный фотограф</a>'; include '../view.php';

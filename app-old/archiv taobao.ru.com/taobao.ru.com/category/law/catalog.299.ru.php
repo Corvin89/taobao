@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://catalog.299.ru/" target="_blank"><img src="http://catalog.299.ru/img/banner3.gif" width="88" height="31" border="0" alt="Каталог полезных сайтов 299.ру"></a>'; include '../view.php';

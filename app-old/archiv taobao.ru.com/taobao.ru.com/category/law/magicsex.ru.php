@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.magicsex.ru/" target="_blank" title="Магазин интим товаров"><strong>Интим магазин Magicsex.ru</strong></a>'; include '../view.php';

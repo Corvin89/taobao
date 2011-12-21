@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Литература <a href="http://lt-r.ru/">рефераты по литературе</a> и не только'; include '../view.php';

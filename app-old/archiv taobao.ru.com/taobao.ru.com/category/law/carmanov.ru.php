@@ -1,1 +1,0 @@
-<?php $catalogLink = 'каталог: <a href="http://moldnet.nm.ru"> скрипты на moldnet.nm.ru </a> для вебмастеров'; include '../view.php';

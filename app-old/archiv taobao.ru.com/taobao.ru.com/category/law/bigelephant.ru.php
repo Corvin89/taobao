@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bigelephant.ru/">Большой Слон - ремонт и отделка</a>'; include '../view.php';

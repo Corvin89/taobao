@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://aparusa.pp.ru">Анапа "Алые паруса"</a> гостевой дом описание, фотографии, цены, форма заказа. <a href="http://aparusa.pp.ru/node/83">Анапа "София"</a> SPA отель на Пионерском проспекте.'; include '../view.php';

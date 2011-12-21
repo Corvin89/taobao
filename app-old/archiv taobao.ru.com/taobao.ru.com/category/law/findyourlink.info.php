@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.findyourlink.info">FIND YOUR LINK</a>'; include '../view.php';

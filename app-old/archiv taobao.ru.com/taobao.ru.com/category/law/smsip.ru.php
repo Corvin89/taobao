@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.smsip.ru">Интернет биржа smSIP</a>'; include '../view.php';

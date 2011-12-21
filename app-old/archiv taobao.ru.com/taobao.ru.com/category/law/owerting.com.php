@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://owerting.com/">на нашем сайте можно найти нужную для вас информацию</a>'; include '../view.php';

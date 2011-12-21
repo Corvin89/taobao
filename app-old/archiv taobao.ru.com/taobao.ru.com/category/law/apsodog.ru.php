@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.apsodog.ru/" title="продажа щенков, декоративные собаки лхаса апсо, питомник литтл лхаса,фото собак"><img src=http://www.apsodog.ru/banners/a.gif width=88  height=31 border=0 alt="собаки и щенки лхаса апсо, питомник Литтл Лхаса"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.chiropractorschiropractic.com" id="R15959E">Professionals, Accident Service, Acupuncture, Rehabilitation, Whiplash Treatment</a> - Orthopedics, Back Care, Sports Medicine, Alternative Medicine, Chiropractic Clinics'; include '../view.php';

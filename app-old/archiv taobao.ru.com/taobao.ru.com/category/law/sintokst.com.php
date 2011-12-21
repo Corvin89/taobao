@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://sintokst.com">Хотите торговать на форексе, но немного денег для реального  депозита?</a>'; include '../view.php';

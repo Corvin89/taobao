@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.maketservice.ru">дизайн интерьеров</a>'; include '../view.php';

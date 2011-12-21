@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://centrlider.ru/" target="_blank" title="Юридический центр Лидер. Регистрация фирм"><img src="http://centrlider.ru/banner.gif" alt="centrlider.ru" width="88" height="31" border="0" /></a>'; include '../view.php';

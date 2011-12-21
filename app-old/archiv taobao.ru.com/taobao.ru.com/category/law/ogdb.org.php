@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ogdb.org/new">OGDb - The Online Gambling Database</a>'; include '../view.php';

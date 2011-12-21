@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=_blank href=http://moyki-smesiteli.ru>Кухонные мойки и смесители в специализированном магазине Мойки Смесители: BLANCO, SCHOCK</a>'; include '../view.php';

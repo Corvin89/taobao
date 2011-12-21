@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mailsponsr.ru"><img src="http://www.mailsponsr.ru/banners/88.gif" border="0" alt="Каталог сайтов. Лимит доверия.Кредиты. Сервис почтовых рассылок. Заработок в интернет." title="Mailsponsr - лучший в рунете." width="88" height="31" /></a>'; include '../view.php';

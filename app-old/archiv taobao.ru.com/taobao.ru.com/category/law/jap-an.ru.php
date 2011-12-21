@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Holidaytime - отдыхайте с нами. <a href="http://www.jap-an.ru/">япони€, отзывы об отел€х японии</a>, отдых, экскурсии, отели и авиабилеты.'; include '../view.php';

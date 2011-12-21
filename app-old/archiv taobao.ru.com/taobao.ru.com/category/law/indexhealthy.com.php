@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lensnow.com">Order Contacts Online</a>'; include '../view.php';

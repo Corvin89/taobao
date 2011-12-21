@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cargoshpment.ru/">Морские перевозки</a>. Доставка из Китая'; include '../view.php';

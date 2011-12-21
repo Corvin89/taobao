@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://wp-sait.ru"><img src="http://wp-sait.ru/WP.gif" alt="Скачать бесплатно видеоуроки по Joomla и WP" width="150" height="33" /></a>'; include '../view.php';

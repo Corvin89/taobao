@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://pikweek.ru/"><img src="http://pikweek.ru/pic/ban88x31.jpg" width="88" height="31" alt="ПИК НЕДЕЛИ - женский журнал о красоте и здоровье, именины, гадания, гороскоп"></a>'; include '../view.php';

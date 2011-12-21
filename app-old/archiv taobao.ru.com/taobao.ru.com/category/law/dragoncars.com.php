@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dragoncars.com/golfmarbella/"><b>Tee Times Marbella</b></a><br>Information for golf in marbella and Dragon Car Hire Malaga Spain. Car Rental services.'; include '../view.php';

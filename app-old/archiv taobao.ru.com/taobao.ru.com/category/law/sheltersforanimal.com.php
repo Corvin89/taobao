@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sheltersforanimal.com" id="RFCAE2B">Online listings to Pet shelters and animal services</a>- Pet Finder needs, Services, Clinic, Dogs And Cats, Training Workshop,'; include '../view.php';

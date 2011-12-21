@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sppu.org/">SPPU.org General Website and Article Directory</a>'; include '../view.php';

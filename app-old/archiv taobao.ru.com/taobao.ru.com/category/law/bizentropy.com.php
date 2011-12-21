@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://forum.bizentropy.com/' target='_blank'><img src='http://bizentropy.com/img/bentropy.btn.0.gif' alt='bizEntropy.com'></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.polyarka.ru/chsektor.htm" title="Недорогой отдых в частном секторе Геленджика">Недорогой отдых в частном секторе Геленджика</a>'; include '../view.php';

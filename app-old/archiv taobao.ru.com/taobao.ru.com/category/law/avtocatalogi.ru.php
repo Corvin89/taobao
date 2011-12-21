@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://avtocatalogi.ru"><img border="0" src="http://avtocatalogi.ru/skins/banner.gif" alt="Каталог сайтов-avtocatalogi.ru" width="88" height="31"></a>'; include '../view.php';

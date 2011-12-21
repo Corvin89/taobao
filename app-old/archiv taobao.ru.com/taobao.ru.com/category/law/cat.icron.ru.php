@@ -1,1 +1,0 @@
-<?php $catalogLink = 'предлагаем <a href="http://www.promstok.ru/index.php?id=29&cat_id=135/">пластиковые резервуары</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sersial.com" target="_blank">отель Серсиаль</a>: комфортный отдых в Крыму'; include '../view.php';

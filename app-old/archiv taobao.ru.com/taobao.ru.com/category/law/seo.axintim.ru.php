@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.axintim.ru" target="_blank"><img src="http://www.intimshop.ru/images/external/ads/100x100_klitor.gif" border="0" alt="intimSHOP.ru" /></a>'; include '../view.php';

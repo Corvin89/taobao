@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.apenpal.co.uk/"><b>PenPals</b></a><br>Penpals and penfriends. Find pen pals at a penpal. Thousands of epals looking for a pen pal and pen friends. Each of our penpals have many penpals friends. Find a female penfriend using our free penpals service. Find your special pen friend today.'; include '../view.php';

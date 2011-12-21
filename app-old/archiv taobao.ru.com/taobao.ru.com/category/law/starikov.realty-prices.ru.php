@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://realty-prices.ru/>цены на вторичное жилье в городе Ѕелгород</a>'; include '../view.php';

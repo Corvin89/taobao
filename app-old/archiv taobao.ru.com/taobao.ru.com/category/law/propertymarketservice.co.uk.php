@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.propertymarketservice.co.uk/link_directory/">Online Business Web Directory | Link Exchange - PropertyMarketService.co.uk</a>'; include '../view.php';

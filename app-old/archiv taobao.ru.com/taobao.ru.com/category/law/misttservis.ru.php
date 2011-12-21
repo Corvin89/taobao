@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.misttservis.ru">Забронировать билет на поезд!</a>'; include '../view.php';

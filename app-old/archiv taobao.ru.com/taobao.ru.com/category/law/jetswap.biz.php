@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.jetswap.biz/forum/>Форум - раскрутка сайта и заработок в интернете.</a>'; include '../view.php';

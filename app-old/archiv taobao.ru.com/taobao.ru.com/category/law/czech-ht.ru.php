@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Holidaytime - отдыхайте с нами в Чехии. Путешествие в Прагу. <a href="http://info-czech.ru/">Чехия экскурсии в Праге</a>, отзывы о Чехии и авиабилеты.'; include '../view.php';

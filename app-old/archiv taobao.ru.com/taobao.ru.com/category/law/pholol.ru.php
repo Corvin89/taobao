@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Улучши настроение побывав на сайте <a href="http://www.pholol.ru/">http://www.pholol.ru/</a>, здесь много смешных фото.'; include '../view.php';

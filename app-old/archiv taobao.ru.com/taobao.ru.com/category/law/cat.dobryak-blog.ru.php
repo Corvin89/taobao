@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.dobryak-blog.ru" title="Большой каталог ссылок">Большой каталог ссылок</a>'; include '../view.php';

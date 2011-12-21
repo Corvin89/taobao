@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://officesell.ru">мебель для дома</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.omedic.ru">Новостной медицинский сервер</a>'; include '../view.php';

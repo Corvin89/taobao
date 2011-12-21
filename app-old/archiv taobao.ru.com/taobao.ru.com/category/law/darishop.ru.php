@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Лучшие подарки " href="http://www.darishop.ru"><img src="http://www.darishop.ru/Untitled.gif" width="88" height="31" border="0" alt="купить копии часов,интернет магазин реплики телефонов,элитная косметика"></a>'; include '../view.php';

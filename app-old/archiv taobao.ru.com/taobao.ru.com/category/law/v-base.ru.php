@@ -1,1 +1,0 @@
-<?php $catalogLink = 'V-BASE.RU <a href="http://www.v-base.ru/skatalog_1.htm" title="клапан регулирующий">клапан регулирующий</a>.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.traveltourismdirectory.net/Tour_Operators/Africa_Tours/">Tour Sites</a>'; include '../view.php';

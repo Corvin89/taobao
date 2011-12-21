@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.ipapa.ru' target='_blank'><b>Я папа! Современное отцовство</b></a><br />Все о воспитании и психологии взаимоотношений отца с ребенком.'; include '../view.php';

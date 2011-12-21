@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://web.ua-companies.com/' target='_blank'><img src='http://web.ua-companies.com/images/button_88x31.gif' border=0 title='Каталог ВЕБ сайтов. Лучшие ВЕБ сайты Интернета' alt='Каталог ВЕБ сайтов. Лучшие ВЕБ сайты Интернета'></a>'; include '../view.php';

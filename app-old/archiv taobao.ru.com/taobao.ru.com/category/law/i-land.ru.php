@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://mobil.gvendelin.ru">Магазин белых мобильных телефонов</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dateclick.org/"><b>Dating Online</b></a><br>You can find potential partners using our matching and messenger services to find your dream date. Search through thousands of personals and photos. Go ahead, it's free to browse!'; include '../view.php';

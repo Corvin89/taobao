@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ExclusiveInternetDirectory.com">Free Link Submission Directory, Improve Website Rank with DirectoryShock.com - Submit Web</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.money.moryam.net">Обменный WM-валют в Одессе.</a>'; include '../view.php';

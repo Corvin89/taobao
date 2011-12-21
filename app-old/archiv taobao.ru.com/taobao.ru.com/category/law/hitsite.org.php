@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://katalog.hitsite.org"><img src="http://katalog.hitsite.org/baner1.gif" alt="Hitsite Белый каталог красивых сайтов." width="88" height="31" border="0"></a>'; include '../view.php';

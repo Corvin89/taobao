@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mainostoimistot.info/">mainostoimistot.info-seo web directory</a>'; include '../view.php';

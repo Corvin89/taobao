@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.munoa.org/">Munoa- Submit Your Site</a>'; include '../view.php';

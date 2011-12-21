@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ff-plaza.in.ua/">Ёкономи€ топлива</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ipad-apple.su/" target="_blank">Интернет магазин сотовых телефонов</a>'; include '../view.php';

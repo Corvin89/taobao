@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.alarmfire.ru">Охранные сигнализации, пожарные сигнализации, видеонаблюдение</a>'; include '../view.php';

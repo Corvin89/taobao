@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Европейские <a href="http://okras.prodecor.ru/">декоративные краски</a> для стен. Декоративная краска <a href="http://okras.prodecor.ru/polistof.htm">Polistof</a>.  Декоративная краска <a href="http://okras.prodecor.ru/sabula.htm">Sabula</a>.'; include '../view.php';

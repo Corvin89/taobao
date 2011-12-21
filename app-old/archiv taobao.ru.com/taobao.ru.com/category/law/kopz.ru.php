@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.oseo.ru">Раскрутка с помощью регистрации в белых каталогах</a>'; include '../view.php';

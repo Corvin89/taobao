@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vkontakte-odnoklassniki-mail-qip-twitter-rian-news.ru/">vkontakte-odnoklassniki-mail-qip-twitter-rian-news.ru</a>'; include '../view.php';

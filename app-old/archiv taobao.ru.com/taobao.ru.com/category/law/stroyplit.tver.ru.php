@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Компания СтройПлит:<a href="http://www.stroyplit.tver.ru">продажа тротуарной плитки Тверь</a>. Ассортимент нашей продукции также содержит: <a href="http://www.stroyplit.tver.ru">брусчатый камень Тверь</a>.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.smartylinks.com" target="blank">Reciprocal Links Directory</a> - Smarty Links is the right place to get linked!'; include '../view.php';

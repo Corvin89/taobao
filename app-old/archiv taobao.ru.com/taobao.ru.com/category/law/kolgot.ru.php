@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.kolgot.ru"><img src="http://www.kolgot.ru/upload/banner.gif" width="88" height="31" border="0" alt="Колготки, чулки, носки, белье оптом от производителей."></a>'; include '../view.php';

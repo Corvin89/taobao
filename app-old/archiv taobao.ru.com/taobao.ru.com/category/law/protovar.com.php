@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://protovar.com/">Промышленная доска объявлений Промышленные Товары.com - protovar.com</a>'; include '../view.php';

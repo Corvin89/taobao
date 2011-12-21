@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://classifiednewmexico.com" id="R13C71C">Free Listing Of Classifieds In New Mexico NM United States</a>'; include '../view.php';

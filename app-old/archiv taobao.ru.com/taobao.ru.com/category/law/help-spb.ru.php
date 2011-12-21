@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=_blank href=http://help-spb.ru>обслуживание компьютеров петербург, настройка  сетей. Настройка windows. компьютерная служба  Петербург.</a>'; include '../view.php';

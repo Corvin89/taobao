@@ -1,1 +1,0 @@
-<?php $catalogLink = '<li><a href="http://autoreg.biz">Автоматическая раскрутка сайта, скрипты, программы.</a></li>'; include '../view.php';

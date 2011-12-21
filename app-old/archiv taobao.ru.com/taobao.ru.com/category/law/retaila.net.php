@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://retaila.net">www.retaila.net - сообщество поставщиков. Новости сетевой розницы. Обсуждение и рейтинг ритейлеров</a>'; include '../view.php';

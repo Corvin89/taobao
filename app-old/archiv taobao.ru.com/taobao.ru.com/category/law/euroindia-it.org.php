@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.euroindia-it.org">Euro India Directory</a>'; include '../view.php';

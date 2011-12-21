@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dealerscomputer.com" id="R53FF2A">Quality web resource directory to computer dealers and sound system suppliers</a>- Security systems, televisions, recording equipment, lighting, communications, home entertainment'; include '../view.php';

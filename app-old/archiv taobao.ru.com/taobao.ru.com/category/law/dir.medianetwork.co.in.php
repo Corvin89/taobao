@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://dir.medianetwork.co.in/">Medianetwork Web Directory</a>'; include '../view.php';

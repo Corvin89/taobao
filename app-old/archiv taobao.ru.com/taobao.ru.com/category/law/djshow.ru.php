@@ -1,1 +1,0 @@
-<?php $catalogLink = 'DJ Show - <a href="http://www.djshow.ru" target="_blank">организация и проведение дискотек. DJ / ди-джей / диджей на свадьбу. Аренда звука для дискотек.</a>'; include '../view.php';

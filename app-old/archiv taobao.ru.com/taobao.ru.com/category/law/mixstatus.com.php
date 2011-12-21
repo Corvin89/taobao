@@ -1,1 +1,0 @@
-<?php $catalogLink = 'лучшие <a href="http://mixstatus.com">статусы</a> на любое настроение'; include '../view.php';

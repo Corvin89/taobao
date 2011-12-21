@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tobestroika.ru/cat/" target="_blank">Каталог ссылок на </a><a href="http://www.tobestroika.ru/" target="_blank">www.tobestroika.ru</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.topdirectory.com/">Top Directory - Human Edited Directory</a>'; include '../view.php';

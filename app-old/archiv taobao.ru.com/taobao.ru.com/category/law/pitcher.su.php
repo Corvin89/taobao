@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Ìטנ בויסבמכא - <a href="http://pitcher.su">בויסבמכüםûי לÿק, פוהונאצטÿ בויסבמכא, baseball, בויסבמכ, בויסבמכüםאÿ בטעא</a>.'; include '../view.php';

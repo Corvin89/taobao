@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kiwi-sochi.ru" target="_blank"><b>kiwi-sochi.ru - Частный пансион Киви. Недорогой отдых в Сочи и на Красной Поляне. 300 метров до моря, рядом санаторий Известия.</b></a>'; include '../view.php';

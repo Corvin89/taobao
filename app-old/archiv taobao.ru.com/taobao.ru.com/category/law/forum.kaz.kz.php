@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://forum.kaz.kz">Форум KAZ.KZ</a> - общаемся на все темы'; include '../view.php';

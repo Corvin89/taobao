@@ -1,1 +1,0 @@
-<?php $catalogLink = '—овременные <a href="http://www.eberle.ru/index.php?categoryID=91">инфракрасные обогреватели</a> и механические <a href="http://www.eberle.ru/">терморегул€торы EBERLE </a> от компании ЅиЋюкс.'; include '../view.php';

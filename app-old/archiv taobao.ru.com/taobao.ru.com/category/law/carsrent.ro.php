@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.carsrent.ro/directory/">Rent a car Bucharest</a> Professional rent a car services in Bucharest. Rent a car with driver.'; include '../view.php';

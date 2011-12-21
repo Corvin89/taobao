@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mshop-avon.ru/"><img src="http://www.mshop-avon.ru/images/baner88x31.gif" width="88" height="31" border="0" alt="Посетить Интернет каталог косметики AVON"></a>'; include '../view.php';

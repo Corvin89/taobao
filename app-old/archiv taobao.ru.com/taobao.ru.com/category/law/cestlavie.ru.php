@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cestlavie.ru/" title="роман про любовь"><img src="http://cestlavie.ru/images/a.gif" width=88 height=31 border=0 alt="C'EST LA VIE (се-ля-ви) маленьких человеков роман-ностальгия о любви, изменах, встречах и расставаниях, жизни, смерти и переплетении человеческих судеб. Автор Косинский В.Ф."></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://progjava.eu">Каталог сайтов на тему программирование на языке java и прочее</a>'; include '../view.php';

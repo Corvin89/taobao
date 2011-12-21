@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://multifocus.biz.ua/">Весь интернет в одном каталоге!</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Бесплатная консультация врач <a href="http://medical.inet-online.ru/medic/06.php">гинеколог</a>'; include '../view.php';

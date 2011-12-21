@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Бізнес довідка Черкаси <a href="http://501501.com.ua">Каталог фірм</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lesruk.ru/" title="бесплатная доска объявлений" target="_blank"><img src="http://www.lesruk.ru/img/knopka.gif" border="0" alt="крупнейшая электронная доска объявлений" width="100" height="40"><br><b>Доска объявлений</b></a>'; include '../view.php';

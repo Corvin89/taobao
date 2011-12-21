@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a  href="http://www.zharikoff.ru"><p>Картины в японском стиле</p></a>'; include '../view.php';

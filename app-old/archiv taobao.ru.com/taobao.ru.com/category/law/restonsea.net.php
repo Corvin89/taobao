@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.restonsea.net">Анапа п. Джемете отель</a> "Валенсия" описание, фотографии, форма заказа. Курортный район <a href="http://www.restonsea.net/katalog-resursov-metki/vityazevo-gostevoi-dom">Витязево гостевые дома</a>.'; include '../view.php';

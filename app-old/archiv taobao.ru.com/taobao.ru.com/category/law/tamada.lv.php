@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tamada.lv/wedding/banquet.html" target="_blank">Свадебные банкеты.</a><BR> Организация и проведение свадебных банкетов.'; include '../view.php';

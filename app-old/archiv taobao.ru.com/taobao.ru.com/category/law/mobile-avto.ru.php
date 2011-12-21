@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mobile-avto.ru" target="_self">Прикольные  телефоны, в стиле автомобилей Ferrari 599 GTB и другие,  телефоны-часы,  айфоны в Интернет магазине mobile-avto. Доставка почтой по России,  Ближнее и Дальнее Зарубежье.</a>'; include '../view.php';

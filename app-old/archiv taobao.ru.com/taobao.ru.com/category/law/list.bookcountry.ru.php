@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bookcountry.ru/">Книжный магазин "Страна книг" - книги почтой по всему миру</a>'; include '../view.php';

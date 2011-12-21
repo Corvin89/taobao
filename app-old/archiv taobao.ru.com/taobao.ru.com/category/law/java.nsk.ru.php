@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Java <a href="http://java.nsk.ru/">игры для мобильного</a> телефона'; include '../view.php';

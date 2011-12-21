@@ -1,3 +1,0 @@
-<?php $catalogLink = '<!-- HotINDEX.RU Counter -->
-<a href="http://www.hotindex.ru/?from=bcatalog&id=121102"><img src="http://counter.catalog.hotindex.ru/?id=121102" width="88px" height="31px" alt="Портал HotINDEX: знакомства, товары, хостинг, создание сайта, Интернет-магазин, развлечения, анекдоты, юмор, эротика, погода, курсы валют и многое другое!" style="border: 0px" /></a>
-<!-- End HotINDEX.RU Counter -->'; include '../view.php';

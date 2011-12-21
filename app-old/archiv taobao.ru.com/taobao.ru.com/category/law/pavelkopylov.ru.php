@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pavelkopylov.ru/" target="_blank"><img src="http://www.pavelkopylov.ru/links/banners/banner.gif" border="0" width="88" height="31" alt="Обручальные и Свадебные кольца от PavelKopylov. Ювелирные украшения на заказ. Каталог - обручальные кольца из белого, желтого золота, платины, с бриллиантами." /></a>'; include '../view.php';

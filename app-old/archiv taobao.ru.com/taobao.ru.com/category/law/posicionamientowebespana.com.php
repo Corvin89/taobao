@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.quejuegos.org">Juegos gratis</a>'; include '../view.php';

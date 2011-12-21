@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.singleout.info/">Single Out</a>'; include '../view.php';

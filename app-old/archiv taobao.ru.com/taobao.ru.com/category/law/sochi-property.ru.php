@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sochihousing.ru/">Sochi Property - Недвижимость в Сочи, Красной Поляне, Краснодарском Крае</a>'; include '../view.php';

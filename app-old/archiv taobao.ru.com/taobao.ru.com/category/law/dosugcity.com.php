@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.dosugcity.com"><b>Dosugcity.com-проститутки, индивидуалки и дешевый секс</b></a>'; include '../view.php';

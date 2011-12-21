@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.fingerfunk.com">Marketing Directory</a>'; include '../view.php';

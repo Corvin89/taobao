@@ -1,1 +1,0 @@
-<?php $catalogLink = '<b><a href="http://sibstroy.info/?id=30">Ворота Новосибирск</a></b>'; include '../view.php';

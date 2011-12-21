@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.zubiloclub59.ru/" title="Тюнинг и ремонт ВАЗ Пермь" keywords="тюнинг, ремонт, ваз, пермь, 2108, 2109, 2113, 2114, 2115, 21099, 2115">Тюнинг и ремонт ВАЗ Пермь</a>'; include '../view.php';

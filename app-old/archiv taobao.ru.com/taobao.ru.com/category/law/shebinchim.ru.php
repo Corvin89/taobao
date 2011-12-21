@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.shebinchim.ru/" title="ООО Шебекинская индустриальная химия.">Производство и реализация товаров химии.</a>'; include '../view.php';

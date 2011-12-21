@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.whitetigermedia.com"><b>White Tiger Media</b></a><br>Graphic and Web site design. Custom Logos, Voice Services, Photography, Custom built PC's'; include '../view.php';

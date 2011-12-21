@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.financingcarloans.net" id="REEE31E">Internet Site Search Provides Auto loans, Car Financing Services Online</a>- Free Car Loan And Financing Classifieds. Credit Guide, Personal Loans, Auto News'; include '../view.php';

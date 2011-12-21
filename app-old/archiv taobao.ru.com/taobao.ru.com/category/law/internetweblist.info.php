@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rosaceasymptomscure.com" id="RAC363F">rosacea symptoms treatments</a>'; include '../view.php';

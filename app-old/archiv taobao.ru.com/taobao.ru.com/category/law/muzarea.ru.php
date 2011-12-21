@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="muzarea.ru" title="Все о клавишных">Сайт о музыкальной аппаратуре</a>'; include '../view.php';

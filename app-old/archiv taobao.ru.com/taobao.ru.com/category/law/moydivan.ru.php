@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Продажа <a href=http://www.moydivan.ru>мягкой мебели - диваны</a>, кровати, стулья'; include '../view.php';

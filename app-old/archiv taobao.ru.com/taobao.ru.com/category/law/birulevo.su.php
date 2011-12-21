@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Сайт московского района <a href="http://birulevo.su/">Бирюлево</a> - <a href="http://birulevo.su/component/option,com_datsogallery/Itemid,38/">фотографии Бирюлево</a>, предприятия и форум жителей'; include '../view.php';

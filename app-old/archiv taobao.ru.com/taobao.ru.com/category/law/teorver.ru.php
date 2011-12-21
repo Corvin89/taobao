@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.teorver.ru">Математический справочник</a>'; include '../view.php';

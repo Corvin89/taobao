@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Массаж в Подольске. Антицеллюлитный массаж."href="catalog.podolskmassage.ru"> Массаж в Подольске. Лучший массаж.</a>'; include '../view.php';

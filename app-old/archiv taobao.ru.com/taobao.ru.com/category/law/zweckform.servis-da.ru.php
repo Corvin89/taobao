@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://zweckform.servis-da.ru"  title="Avery Zweckform">Avery Zweckform</a>'; include '../view.php';

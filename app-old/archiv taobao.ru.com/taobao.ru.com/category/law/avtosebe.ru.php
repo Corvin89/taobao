@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Автосебе.ру -  <a href="http://avtosebe.ru">авто услуги в Москве</a> Выбери свое авто на портале Avtosebe.ru'; include '../view.php';

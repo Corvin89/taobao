@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.overdrivedirectory.com>Overdrive Directory</a> - Quality Deep link Directory'; include '../view.php';

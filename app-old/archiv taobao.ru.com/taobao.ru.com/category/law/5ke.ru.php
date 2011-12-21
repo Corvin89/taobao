@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://5ke.ru">www.5ke.ru</a> - Бюро переводов "Инфоплюс"'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.leshiygame.ru">flash игры</a>'; include '../view.php';

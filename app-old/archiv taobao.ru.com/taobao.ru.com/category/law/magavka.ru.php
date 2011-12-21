@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.magavka.ru' target='_blank'><b>Клуб коллекционеров Magavka.ru.</b></a><br />интернет - клуб коллекционеров'; include '../view.php';

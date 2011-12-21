@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://fps.net.ru/">Статьи о раскрутке сайтов, бесплатная раскрутка сайта.</a>'; include '../view.php';

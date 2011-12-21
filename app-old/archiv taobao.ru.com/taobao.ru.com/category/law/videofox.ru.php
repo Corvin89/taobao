@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.videofox.ru">VIDEOFOX.ru</a> - Обзоры и тесты видеокамер. Цифровые видеокамеры и фотоаппараты.'; include '../view.php';

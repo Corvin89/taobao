@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mashina.info" target="_blank"><img src="http://www.mashina.info/links/88_2.gif" border=0 width="88" height="31" alt="MAHINA.INFO - Международный автомобильный портал"></a>'; include '../view.php';

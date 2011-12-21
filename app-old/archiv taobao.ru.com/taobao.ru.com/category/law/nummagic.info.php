@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://nummagic.info" target="_new">Магия чисел. Нумерология online.</a>'; include '../view.php';

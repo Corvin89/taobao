@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://openpsp.ru" title="игры PSP">Игровая приставка Sony PSP</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rocknrollmusic.ru">Рок музыка России</a>'; include '../view.php';

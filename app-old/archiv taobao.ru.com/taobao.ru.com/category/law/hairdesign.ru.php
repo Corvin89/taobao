@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hairdesign.ru/"><img src="http://www.hairdesign.ru/img/88_31.gif" width="88" height="31" border="0" alt="Коррекция облысения методом замещения волос, алопеция, изготовление париков" title="Коррекция облысения методом замещения волос, алопеция, изготовление париков"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://globalua.com/" title="каталог сайтов" target="_blank"><img src="http://globalua.com/cpic/gl7.gif" /></a>'; include '../view.php';

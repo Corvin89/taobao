@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://astrol.info">Астрология - серьезно. Исследования, статьи, прогнозы</a>'; include '../view.php';

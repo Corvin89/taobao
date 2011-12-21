@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://torgrielt.ru/>Торговая недвижимость</a>'; include '../view.php';

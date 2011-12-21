@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.zxcv.eu">Samlade Svenska lankar -zxcv.eu</a>'; include '../view.php';

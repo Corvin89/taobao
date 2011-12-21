@@ -1,1 +1,0 @@
-<?php $catalogLink = 'сайт <a href="http://grsquad.net/">энциклопедия бронетанковой техники и вооружения</a> России'; include '../view.php';

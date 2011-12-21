@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a title="CROPP Тольятти" href="http://cropptown.h16.ru" target="_blank">
-<img alt="CROPP Тольятти"  src="http://cropptown.h16.ru/banner1.gif" border="0"></a>'; include '../view.php';

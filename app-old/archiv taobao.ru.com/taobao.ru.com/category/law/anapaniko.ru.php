@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://anapaniko.ru" target="_blank" >Отдых в Витязево на базе отдыха НИКО</a>'; include '../view.php';

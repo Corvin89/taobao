@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.fashionpeople.ru/>Мода на FASHION PEOPLE</a> представляем Вам модные показы <a href=http://www.fashionpeople.ru/weeks/weeksinfo_6.htm>Mercedes Benz Fashion Week</a> в Берлине, Нью-Йорке и Москве. Добро пожаловать в виртуальный мир моды - будьте красивыми, стильными, модными!'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Самый <a href="http://www.weve.ru">умный каталог сайтов</a> в Рунете'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://directorysingapore.com/">Business Directory of Singapore</a>'; include '../view.php';

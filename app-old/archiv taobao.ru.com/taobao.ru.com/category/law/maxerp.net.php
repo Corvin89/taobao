@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.maxerp.net/">Maxerp Web Directory</a>'; include '../view.php';

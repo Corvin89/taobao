@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://iranbazaar.ru"><img src="http://www.iranbazaar.ru/images/news/banir88.gif" alt="Бизнес в Иране. Представительские и маркетинговые услуги" width="88" height="31" border="0" align="absmiddle"></a>'; include '../view.php';

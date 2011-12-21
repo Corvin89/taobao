@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://dreamdirectory.org/">Free Website Directory, Submit Your Site</a>'; include '../view.php';

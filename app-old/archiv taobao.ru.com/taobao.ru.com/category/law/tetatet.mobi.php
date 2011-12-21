@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tetatet.mobi/">советы по соблазнению женщин</a>'; include '../view.php';

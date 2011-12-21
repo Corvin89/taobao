@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.domhlopoti.ru/kulinar.html" target="_blank" title="Домашние хлопоты - сайт о доме, уюте и благоустройстве, кулинарии."><b>Домашние хлопоты</b> - советы хозяйкам, как правильно выбрать продукты и приготовить обед .</a>'; include '../view.php';

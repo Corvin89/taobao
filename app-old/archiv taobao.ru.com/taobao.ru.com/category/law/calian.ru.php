@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Магазин кальянов - <a href=http://www.calian.ru>продажа кальянов в Москве</a>. Доставка по Москве и Подмосковью.'; include '../view.php';

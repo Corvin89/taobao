@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.avto-zakaz.com.ua/">Перевозка грузов автотранспортом - весь спектр грузоперевозок по Киеву и всей Украине</a>'; include '../view.php';

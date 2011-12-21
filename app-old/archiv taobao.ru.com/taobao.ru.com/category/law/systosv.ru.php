@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Каталог автомобилей на нашем сайте <a href="http://1000car.ru/">http://1000car.ru/</a><br />ABITGAMER сообщает <a href="http://www.abitgamer.com/gamenews/16-bioshock-2-utyok-v-massy.html">BIOSHOCK 2</a> стал доступен игрокам.<br /><a href="http://www.mestanet.ru/afisha/">Расписание тренингов</a> на нашем сайте<br /><br />'; include '../view.php';

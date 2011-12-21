@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.statesarizona.com">Arizona Yellow Pages</a>'; include '../view.php';

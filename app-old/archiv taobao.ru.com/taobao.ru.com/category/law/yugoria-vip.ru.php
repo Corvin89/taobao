@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Снять <a href="http://yugoria-vip.ru/" target="_blank" title="аренда загородных коттеджей">коттедж или дом в Москве</a> и пригороде'; include '../view.php';

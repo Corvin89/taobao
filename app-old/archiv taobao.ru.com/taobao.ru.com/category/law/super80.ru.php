@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.super80.ru/">Модерируемый каталог сайтов</a>'; include '../view.php';

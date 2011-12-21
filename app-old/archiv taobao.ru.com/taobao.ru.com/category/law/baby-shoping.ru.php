@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://baby-shoping.ru/index.php"><img src="http://baby-shoping.ru/igrushki.gif" width="88" height="31" border="0" alt="Игрушка ребёнку"></a>'; include '../view.php';

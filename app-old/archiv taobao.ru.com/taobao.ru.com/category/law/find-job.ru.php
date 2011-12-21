@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.find-job.ru/'>тесты для выбора профессии, должностные инструкции, выбор профессии</a>, <a href='http://www.find-job.ru/glossary/'>Словарь профессий</a>'; include '../view.php';

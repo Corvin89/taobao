@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.stroysk.ru>Фирма "Стройсервис СК" на своем сайте предлагает</a> <a href=http://www.stroysk.ru/about.php>современные межкомнатные двери</a> <a href=http://www.stroysk.ru/dver.php>CARDINALE zebrano</a> укомплектованные уплотнителем и петлями  '; include '../view.php';

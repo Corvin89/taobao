@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://gigienamoloka.ru">Соблюдение гигиены молока</a>'; include '../view.php';

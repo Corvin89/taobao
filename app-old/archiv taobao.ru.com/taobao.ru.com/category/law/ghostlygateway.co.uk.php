@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ghostlygateway.co.uk">Paranormal Search Engine And Directory</a>'; include '../view.php';

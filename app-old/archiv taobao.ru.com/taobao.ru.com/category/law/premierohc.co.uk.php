@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.premierohc.co.uk">Premier Occupational Healthcare</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Кулинарные фантазии" href="http://funcook.net/" target="_blank"><img  src="http://funcook.net/images/button.gif"  width="88" border="0" height="31" alt="Кулинарные фантазии"></a> - все об изготовлении украшений из овощей и фруктов, оформлении и подаче  блюд; литература; история  возникновения блюд'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gujaratclick.com" id="R0">Gujarat Online Website Directory Listing</a>'; include '../view.php';

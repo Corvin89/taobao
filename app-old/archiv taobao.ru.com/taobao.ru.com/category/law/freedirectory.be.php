@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sublime-free-directory.com/freedirectory">Freedirectory.be</a>'; include '../view.php';

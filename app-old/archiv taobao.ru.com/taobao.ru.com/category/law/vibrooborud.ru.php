@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Отечественная виброплита, импортная <a href="http://vibrooborud.ru" target="_blank" title="виброплита">виброплита</a>, недорогая виброплита со склада в Москве'; include '../view.php';

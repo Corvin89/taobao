@@ -1,1 +1,0 @@
-<?php $catalogLink = 'исследования <a href="http://www.marttel.ru" target="_blank">Агенства недвижимости</a> Строительное оборудование'; include '../view.php';

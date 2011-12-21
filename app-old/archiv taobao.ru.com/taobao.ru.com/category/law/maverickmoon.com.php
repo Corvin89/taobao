@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.maverickmoon.com/">MaverickMoon - Submit Your Site</a>'; include '../view.php';

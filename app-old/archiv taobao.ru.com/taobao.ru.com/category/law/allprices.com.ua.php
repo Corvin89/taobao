@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.allprices.com.ua"><img src="http://www.allprices.com.ua/images/knopki/5.gif" alt="Прайсы Украины" width="88" height="31" border="0"></a>'; include '../view.php';

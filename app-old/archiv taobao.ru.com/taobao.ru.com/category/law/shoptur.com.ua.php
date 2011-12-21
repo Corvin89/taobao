@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pos-market.com.ua"><img src="http://www.pos-market.com.ua/published/publicdata/SHOPTURSHOP/attachments/SC/images/pmarket.jpg" ></a>'; include '../view.php';

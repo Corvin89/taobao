@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://obruchka.com/" target="_blank"> Свадебные тосты</a>'; include '../view.php';

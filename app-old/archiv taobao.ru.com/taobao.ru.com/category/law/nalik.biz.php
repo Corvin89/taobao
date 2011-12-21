@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://nalik.biz/">Портал бизнес-объявлений Налик.Биз</a>'; include '../view.php';

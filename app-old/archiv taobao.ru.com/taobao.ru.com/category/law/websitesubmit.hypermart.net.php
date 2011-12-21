@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Add URL to Google and Yahoo search" href="http://websitesubmit.hypermart.net"><img src="http://websitesubmit.hypermart.net/b.gif" alt="free search engine website submission top optimization" border=0 height=31 width=88></a>'; include '../view.php';

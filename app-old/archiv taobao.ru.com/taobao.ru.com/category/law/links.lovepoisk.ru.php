@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lovepoisk.ru" target="_blank">Сайт знакомств LovePoisk.Ru это сотни тысяч анкет людей, которые ждут тебя. Здесь твои друзья и твоя любовь...</a> А так же <a href="http://links.lovepoisk.ru" target="_blank">каталог ссылок</a> наших друзей.'; include '../view.php';

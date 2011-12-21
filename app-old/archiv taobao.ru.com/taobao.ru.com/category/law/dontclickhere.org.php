@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dontclickhere.org/directory/">Complete Waste Of Time Directory</a>'; include '../view.php';

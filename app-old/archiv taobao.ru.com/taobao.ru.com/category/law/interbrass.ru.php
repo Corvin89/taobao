@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Круглые ручки <a href="http://www.interbrass.ru/fighter1.html" id="link656">FIGHTER</a> от компании Интербрасс. <a href="http://www.interbrass.ru/katalog.php?link=876">http://www.interbrass.ru/</a>'; include '../view.php';

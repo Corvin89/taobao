@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.good-hunting.ru/hunt/kitchen/'>Охотничья кухня</a>, <a href='http://www.good-hunting.ru/'>охотничьи рассказы, способы охоты, охотничьи собаки</a>'; include '../view.php';

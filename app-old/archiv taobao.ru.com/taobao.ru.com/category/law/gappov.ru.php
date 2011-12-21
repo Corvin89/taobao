@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gappov.ru/">Модерируемый каталог сайтов</a>'; include '../view.php';

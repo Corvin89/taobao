@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Смотрите <a href="http://fuck4kino.ru/latino/">Латино</a> и другой трах онлайн бесплатно на fuck4kino.ru'; include '../view.php';

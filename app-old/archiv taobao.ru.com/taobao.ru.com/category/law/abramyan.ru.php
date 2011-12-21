@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.abramyan.ru/">Абрамьян.ру - каталог избранных сайтов. Добавить ссылку в каталог!</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Профессиональный <a href="http://www.stabedit.ru">каталог статей и рефератов</a>'; include '../view.php';

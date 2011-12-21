@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://vfstudio.ru/" target="_blank"><img src="http://vfstudio.ru/images/vfbutton.gif" width=88 height=31 alt="Цифровые книги о 3dsmax, Русификация 3dsmax" border="0"></a>'; include '../view.php';

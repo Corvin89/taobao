@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://mobil.prodavay.com/">Добавить объявление о сотовом телефоне</a>'; include '../view.php';

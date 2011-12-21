@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lutonengineering.com/">Free Web Directory - Deep Links OK!</a>'; include '../view.php';

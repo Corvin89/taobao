@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bedandfoam.com">Steam Showers</a> - Bathroom Steam Showers is a nationwide bathroom fixture distributor with luxury home bath hardware. Find steam baths, shower panels, bidets and toto toilets for high end bathrooms.'; include '../view.php';

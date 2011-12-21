@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.avtoweek.info"> аталог сайтов автомобильной тематики</a>'; include '../view.php';

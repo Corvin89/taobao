@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Радиолюбителю: <a href="http://www.electroscheme.ru/">Даташиты, Схемы часов, Радиотехника</a>'; include '../view.php';

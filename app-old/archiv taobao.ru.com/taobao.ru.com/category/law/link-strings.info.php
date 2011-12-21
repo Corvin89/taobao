@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.link-strings.info/">Link Strings</a>'; include '../view.php';

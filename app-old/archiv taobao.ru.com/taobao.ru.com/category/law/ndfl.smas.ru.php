@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.ndfl.smas.ru'>Помощь в заполнении декларации 3 ндфл</a>'; include '../view.php';

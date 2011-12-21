@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.flowers-land.ru">Доставка цветов по Москве. Заказ букетов по низким ценам</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://humor.vb1.ru/">Юмористический портал HUMOR.VB1.RU. Развлечения, юмор, анекдоты, приколы и не только.</a>'; include '../view.php';

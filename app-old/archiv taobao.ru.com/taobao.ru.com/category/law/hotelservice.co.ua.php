@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hotelservice.co.ua">Ukraine Apartments</a><br>
-Big choice of private fully serviced apartments for short- or long-term rent for any type of budget in Kiev, Odessa, Kharkov, Lvov and other cities of Ukraine. English speaking staff. Transfer and other services.'; include '../view.php';

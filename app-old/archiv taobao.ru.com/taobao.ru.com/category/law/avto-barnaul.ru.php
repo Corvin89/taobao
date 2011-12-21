@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.barnaul-avto.ru">Авторынок Барнаула на barnaul-avto.ru: <b>объявления о продаже автобусов в Барнауле</b></a>'; include '../view.php';

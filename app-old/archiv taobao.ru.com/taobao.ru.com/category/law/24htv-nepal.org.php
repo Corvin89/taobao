@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.24htv-nepal.org/">24htv Nepal Directory</a>'; include '../view.php';

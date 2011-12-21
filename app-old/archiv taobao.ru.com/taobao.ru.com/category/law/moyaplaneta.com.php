@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.moyaplaneta.com" target="_blank"><img src="http://www.moyaplaneta.com/images/logo.gif" border="0" width="88" height="31" alt="Moyaplaneta.com - Сайт о путешествиях - Моя Планета"></a>'; include '../view.php';

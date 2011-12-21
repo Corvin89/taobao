@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.invacatalog.ru>Ноый каталог сайтов</a>'; include '../view.php';

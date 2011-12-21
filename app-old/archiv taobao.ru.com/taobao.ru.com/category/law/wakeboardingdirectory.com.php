@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.wakeboardingdirectory.com">Wakeboards, Wakeboarding and Wakeboard Companies - Wakeboarding Directory</a>'; include '../view.php';

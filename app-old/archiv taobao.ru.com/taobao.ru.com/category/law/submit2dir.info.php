@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.submit2dir.info" id="R9987FC">Submit2Dir</a>'; include '../view.php';

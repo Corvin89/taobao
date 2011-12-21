@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.game-model.ru' target='_blank'><b>Game-model.ru - Коллекционные, для сборки и радиоуправляемые</b></a><br />Website Description'; include '../view.php';

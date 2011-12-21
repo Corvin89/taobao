@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.transgo.ru">Статьи по строительству и ремонту для начинающих</a>'; include '../view.php';

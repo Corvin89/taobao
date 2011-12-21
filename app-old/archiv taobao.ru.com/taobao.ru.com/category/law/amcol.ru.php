@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.amcol.ru/"><img border="0" src="http://service.data-chip.ru/88_31.gif" width="88" height="31" alt="Ремонт установка и настройка бытовой техники в Москве: телевизоров, холодильников, ремонт микроволновых печей свч, стиральных машин.."></a>'; include '../view.php';

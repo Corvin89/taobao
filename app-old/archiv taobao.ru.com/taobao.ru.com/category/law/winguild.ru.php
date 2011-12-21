@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.winguild.ru/">Гильдия производителей деревянных окон</a> - <a href="http://www.winguild.ru/about.html">деревянные окна</a> и <a href="http://www.winguild.ru/news.html">деревянные двери</a>'; include '../view.php';

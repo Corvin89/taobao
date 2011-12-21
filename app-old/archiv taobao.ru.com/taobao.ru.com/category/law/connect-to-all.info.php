@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.connect-to-all.info/">Connect To All</a>'; include '../view.php';

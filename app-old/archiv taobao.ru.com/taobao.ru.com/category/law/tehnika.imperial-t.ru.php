@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://imperial-t.ru/sitemap">бытовая техника</a> и <a href="http://tehnika.imperial-t.ru/">интернет справочник</a>'; include '../view.php';

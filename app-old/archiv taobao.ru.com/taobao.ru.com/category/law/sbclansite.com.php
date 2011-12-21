@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sbclansite.com/">Free Image Hosting A1 Family Friendly Directory with Deeplinks</a>'; include '../view.php';

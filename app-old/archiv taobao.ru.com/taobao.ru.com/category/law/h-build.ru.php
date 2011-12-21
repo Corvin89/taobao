@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://h-build.ru>Строительство деревянных домов из оцилиндрованного бревна</a>'; include '../view.php';

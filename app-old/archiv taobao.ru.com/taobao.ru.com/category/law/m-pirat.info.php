@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Все о морских пиратах на сайте www.m-pirat.info: <a href='http://www.m-pirat.info/'> закат пиратства, последний корсар, каперы</a>. Истории, книги, фотографии.'; include '../view.php';

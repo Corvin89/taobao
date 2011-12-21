@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.modkitch.ru">Кухни модерн - итальянская кухонная мебель</a>'; include '../view.php';

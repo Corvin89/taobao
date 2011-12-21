@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.canonfoto.ru">Продажа цифровых фотоаппаратов Canon, Olympus</a>'; include '../view.php';

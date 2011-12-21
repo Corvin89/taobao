@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.e-mailblasters.com">Email Blast | Email Marketing Solutions | Email Marketing Lists</a><br>Now Auto-mail Millions of Targeted Opt-In Prospects Every Month Using The Worlds Most<br>Astonishing "Set And Forget" Technology!'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://tradeoffer.ru/">Бесплатные объявления</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.muslimdating.org.uk/"><b>Muslim Dating</b></a><br>Asian Dating Site For Muslim Dating.'; include '../view.php';

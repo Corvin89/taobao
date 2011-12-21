@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://slavhost.ru/">Профессиональный хостинг Slavhost.ru</a>'; include '../view.php';

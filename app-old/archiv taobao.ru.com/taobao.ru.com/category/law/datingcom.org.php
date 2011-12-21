@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.datingcom.org/"><b>Dating COM</b></a><br>Dating COM For Friends Dating. Start Dating Girls, Date Singles Seeking Love & Romance.'; include '../view.php';

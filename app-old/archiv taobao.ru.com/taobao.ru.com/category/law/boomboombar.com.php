@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.boomboombar.com/"><b>Boom Boom Bar</b></a><br>Boom Boom Bar Patong beach Soi bangla Phuket Thailand, Sedish Bar Phuket, Swedish Bar Patong Beach.'; include '../view.php';

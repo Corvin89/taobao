@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.oblozhki.ru/" target="_blank"><b>Обложки.ру - школьные обложки оптом! </b></a> <a href="http://www.oblozhki.ru/catalog.php" target="_blank">Обложки для учебников, тетрадей, атласов и дневников</a>,  <a href="http://www.oblozhki.ru/catalog/index.php" target="_blank">каталог сайтов</a>.'; include '../view.php';

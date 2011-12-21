@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rech-tour.ru/">Аренда теплохода</a> от компании судовладельца.'; include '../view.php';

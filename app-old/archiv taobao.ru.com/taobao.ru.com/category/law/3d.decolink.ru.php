@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://3d.decolink.ru/">Архитектура, стоительство, дизайн</a> <a href="http://3d.decolink.ru/3dviz.htm">3D - визуализация проекта</a> <a href="http://3d.decolink.ru/port.htm">проект интерьера, фото</a>'; include '../view.php';

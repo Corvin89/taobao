@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.chaspolitiki.ru">Мировые новости на сайте Час Политики</a>'; include '../view.php';

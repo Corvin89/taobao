@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://3ae6ok.ru" target="_blank"><img src="http://www.artbanner.com.ua/bannermake/banners/4996153728570789.png" border="0" width="468" height="60" /></a>'; include '../view.php';

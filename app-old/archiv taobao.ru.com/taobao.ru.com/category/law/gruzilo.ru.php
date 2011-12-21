@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=_blank href="http://www.gruzilo.ru" target="_blank"><img src="http://www.gruzilo.ru/gruzilo_banner.gif" width="88" height="31" border="0" alt="рыболовный интернет-магазин www.Gruzilo.ru. Рыболовные снасти и сопутствующие товары оптом и в розницу. Доставка по России.</a>'; include '../view.php';

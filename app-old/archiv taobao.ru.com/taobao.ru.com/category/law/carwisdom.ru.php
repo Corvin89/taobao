@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.carwisdom.ru">Автомобильные мудрости</a>'; include '../view.php';

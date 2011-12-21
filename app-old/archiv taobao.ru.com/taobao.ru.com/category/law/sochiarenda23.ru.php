@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sochiarenda23.ru"><strong>Сдам в аренду жилье и другую недвижимость в частном секторе Сочи</strong></a>, все объекты с фотогалереей и телефонами собственника.<a href="http://www.sochiarenda23.ru"><strong>Отдых в городе-курорте Сочи</strong></a>.'; include '../view.php';

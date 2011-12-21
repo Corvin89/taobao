@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rolstavni.com/rollet/zroll.html"> защитные рольставни</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.coins-gb.ru/">"Монеты Великобритании" - информационный сайт</a>'; include '../view.php';

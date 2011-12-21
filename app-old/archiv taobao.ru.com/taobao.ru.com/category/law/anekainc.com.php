@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.anekainc.com/links">Aneka Women Care Directory</a>'; include '../view.php';

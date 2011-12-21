@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://domna5.ru" target="_blank"  title="Школа ремонта">Школа ремонта</a> - информационный портал о строительстве, ремонте и обустройстве Дом на 5.'; include '../view.php';

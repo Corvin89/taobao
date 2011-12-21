@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linkxchange.ru/">добавить ссылку</a>'; include '../view.php';

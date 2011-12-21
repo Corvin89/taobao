@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.erotikdirectory.com" title="Erotikdirectory - Webkatalog fur Erotikseiten" target="_blank">Erotikdirectory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://bb.pro-z.net/"><img src="http://bb.pro-z.net/images/button.gif" alt="Питание и бодибилдинг - протеины, анаболические стероиды, анаболики. Культуризм и бодибилдинг - кто такие бодибилдеры, качки." width="88" height="31" border="0"></a>'; include '../view.php';

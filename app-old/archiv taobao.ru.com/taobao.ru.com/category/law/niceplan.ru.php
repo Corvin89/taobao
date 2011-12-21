@@ -1,1 +1,0 @@
-<?php $catalogLink = 'niceplan.ru <a href="http://www.niceplan.ru">интересный источник информации для карьеристов</a>'; include '../view.php';

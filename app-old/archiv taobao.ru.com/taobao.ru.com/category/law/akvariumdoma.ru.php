@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.akvariumdoma.ru>Содержание аквариума</a> - статьи аквариумистов на www.akvariumdoma.ru!'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://photoshopia.su/">Дизайн и графика. Все самое лучшее</a>'; include '../view.php';

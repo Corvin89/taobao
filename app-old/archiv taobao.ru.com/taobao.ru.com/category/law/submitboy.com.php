@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.submitboy.com" id="R6E10C0">Submit Site : Submit Boy</a> - Web Directory. Add your link today.'; include '../view.php';

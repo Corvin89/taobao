@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.humidorswholesaler.com">Humidors Wholesaler Humidor Store</a>'; include '../view.php';

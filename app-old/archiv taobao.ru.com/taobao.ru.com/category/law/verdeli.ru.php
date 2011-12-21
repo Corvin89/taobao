@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.verdeli.ru/index.html'>музыкальное сопровождение, заказать музыкантов, музыканты на банкет</a>'; include '../view.php';

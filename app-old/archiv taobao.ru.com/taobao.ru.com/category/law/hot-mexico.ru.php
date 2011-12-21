@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!--www.hot-mexico.ru-opisanie-->   <a href="http://www.hot-mexico.ru/" title="мальдивиана, мальдивы отдых - мальдивы карта, путешествия">мальдивиана, мальдивы отдых - мальдивы карта, путешествия</a>   <!--www.hot-mexico.ru-opisanie-->'; include '../view.php';

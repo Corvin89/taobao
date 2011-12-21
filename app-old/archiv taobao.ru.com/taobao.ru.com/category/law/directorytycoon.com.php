@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.directorytycoon.com">Directory Tycoon</a>Human edited web directory providing links to directories, blogs, forums, Internet services, web resources, latest news and media, health sites, computer software, games and entertainment, and more.'; include '../view.php';

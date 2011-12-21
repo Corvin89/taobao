@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lessonsphotoshop.ru/" target=_blank>Уроки Фотошоп</a>'; include '../view.php';

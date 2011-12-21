@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://wmpeklama.biz/katalog/" target="_parent">wmpeklama - каталог</a>'; include '../view.php';

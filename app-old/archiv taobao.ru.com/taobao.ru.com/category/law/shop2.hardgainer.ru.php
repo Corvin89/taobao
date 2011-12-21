@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://shop.hardgainer.ru">Протеины, гейнеры, аминокислоты</a> и другое <a href="http://shop.hardgainer.ru">спортивное питание</a> с доставкой по Москве и России'; include '../view.php';

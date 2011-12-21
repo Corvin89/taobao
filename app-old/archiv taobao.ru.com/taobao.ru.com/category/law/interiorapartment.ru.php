@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://wisto.ru/">Авто</a> обзор: <a href="http://nissanss.ru/">Ниссан</a>, <a href="http://mitsubish.ru/">Mitsubishi</a>, <a href="http://toyotass.ru/">Тойота</a><br>'; include '../view.php';

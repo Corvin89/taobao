@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://web-hosting-providers.askbee.net" id="R641F85">Web Hosting Providers</a>'; include '../view.php';

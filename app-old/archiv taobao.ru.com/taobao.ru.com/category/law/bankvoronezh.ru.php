@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bankvoronezh.ru/">Банк для избранных ссылок сети. Добавить ссылку в каталог!</a>'; include '../view.php';

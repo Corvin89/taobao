@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://gigga.ru/">Доска объявлений. Бесплатное размещение объявлений</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.urgencias-24h.com" id="R0">Directorio Urgencias 24h</a>'; include '../view.php';

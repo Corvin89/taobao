@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://xitepod.com/">Xitepod.com</a>'; include '../view.php';

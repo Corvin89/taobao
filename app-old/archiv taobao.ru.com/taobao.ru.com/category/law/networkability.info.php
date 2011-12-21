@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="Find Any Golf Course">http://www.whatisgolf.net/golf_courses.php</a>'; include '../view.php';

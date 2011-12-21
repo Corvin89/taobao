@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.edmoz.com">Edmoz Web Directory</a>'; include '../view.php';

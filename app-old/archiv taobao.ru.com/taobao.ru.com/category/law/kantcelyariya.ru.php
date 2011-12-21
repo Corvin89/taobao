@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.kantcelyariya.ru/">ѕисьменные принадлежности дл€ школы и офиса</a>, доска объ€влений, полезные ресурсы.'; include '../view.php';

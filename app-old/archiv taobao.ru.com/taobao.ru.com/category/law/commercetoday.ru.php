@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Каталог сайтов COMMERCETODAY.RU - <a target=blank_ href=http://www.commercetoday.ru/>добавить сайт</a>'; include '../view.php';

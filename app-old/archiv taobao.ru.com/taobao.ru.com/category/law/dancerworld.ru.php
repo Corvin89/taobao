@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.dancerworld.ru/'>Танец живота, бальные танцы, техника танца, восточные танцы</a>. <a href='http://www.dancerworld.ru/styles/119/'>Фарсилама</a>'; include '../view.php';

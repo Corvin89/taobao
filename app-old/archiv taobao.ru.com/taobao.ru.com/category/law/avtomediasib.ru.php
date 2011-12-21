@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.avtomediasib.ru target="_blank"><img src=http://www.avtomediasib.ru/pic/am3.gif alt="АМАСИБ" width="120" height="42" border="0" title="Автомобили и спецтехника Сибири"></a>'; include '../view.php';

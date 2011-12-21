@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.a-bcd.ru">A-BCD.ru - Деловые новости, Деловые предложения. Торговля, бизнес, экономика</a>'; include '../view.php';

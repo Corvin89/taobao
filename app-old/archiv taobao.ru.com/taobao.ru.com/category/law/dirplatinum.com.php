@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dirplatinum.com/">The Platinum Quality Links</a>'; include '../view.php';

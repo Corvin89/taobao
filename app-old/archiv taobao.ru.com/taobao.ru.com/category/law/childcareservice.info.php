@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.childcareservice.info" id="R81F72A">Child care service online finder locate sites about physicians, schools and more</a>- Infant Care, schools, elementary education, Day programs, Caregivers, recreation'; include '../view.php';

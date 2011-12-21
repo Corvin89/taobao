@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a title="Раскрутка и продвижение индексируемости ваших сайтов" target="_blank" href="http://softdark.ru/">
-<img border="0" src="http://softdark.ru/cat.gif" width="88" height="31"></a>'; include '../view.php';

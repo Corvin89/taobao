@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bigwebdirectory.org/">Big Web Directory</a>'; include '../view.php';

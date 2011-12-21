@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://earnings-splits-ipo.com">earnings-splits-ipo.com</a>'; include '../view.php';

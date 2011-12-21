@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.fitnesscrew.com.au/links/">FITNESS CREW PERSONAL TRAINING</a>'; include '../view.php';

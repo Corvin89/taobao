@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://empyray.ru">белый каталог сайтов без капчи empyray.ru</a>'; include '../view.php';

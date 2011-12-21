@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://growrose.ru">Опыт выращивания роз</a>'; include '../view.php';

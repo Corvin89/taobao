@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href='http://shopshaman.ru/' target=_blank><IMG src='http://shopshaman.ru/i2/banner.gif' border=0  height=31  width=88 alt='Магазин ШАМАН: бубны, варганы, маракасы, поющие чаши и колокола, окарины, амулеты из серебра, руны и многое другое.'> </A>'; include '../view.php';

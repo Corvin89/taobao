@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.adultdatingsites.org.uk/"><b>Adult Dating Sites</b></a><br>Adult dating sites is an adult dating site where you can find an adult sex buddy for no strings attached NSA adult fun. With 1000's of members, singles, men, women, swingers, married couples and adult contacts meeting for fun & sex.'; include '../view.php';

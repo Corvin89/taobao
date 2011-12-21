@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://apple-ria.ru">Ноутбуки Apple MacBook</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.webdirectory1.net/">Web Directory</a><br />Grow your traffic, reputation and pagerank with a listing in our web directory. Free and sponsored listings available.'; include '../view.php';

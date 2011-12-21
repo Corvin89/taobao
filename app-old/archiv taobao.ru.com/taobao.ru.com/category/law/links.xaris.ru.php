@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://links.xaris.ru" title="Каталог сайтов XARIS" target="_blank"><img src="http://links.xaris.ru/ban_88_31.gif" alt="Каталог ссылок XARIS. " width="88" height="31" border="0" /></a>'; include '../view.php';

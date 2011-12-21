@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.anapapansion.ru">Анапа</a>. Частный пансион Алые паруса. Описание, фотографии, форма заказа. <a href="http://www.anapapansion.ru/article18.html">Витязево гостиница Ергос</a>.'; include '../view.php';

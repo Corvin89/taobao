@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Алена - <a href="http://www.all-party.ru/">тамада на свадьбу </a>, <a href="http://www.all-party.ru/">конферансье</a>.'; include '../view.php';

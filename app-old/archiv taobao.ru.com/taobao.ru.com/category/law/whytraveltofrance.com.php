@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.whytraveltofrance.com">Why travel to france</a>'; include '../view.php';

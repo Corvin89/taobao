@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.webquartet.com" id="R0">Philippines, Philippine Search Engine and Directory Listings</a>'; include '../view.php';

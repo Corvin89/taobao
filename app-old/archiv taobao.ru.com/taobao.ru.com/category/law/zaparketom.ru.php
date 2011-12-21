@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Любое стоительное оборудование - <a href=http://stroymashina.ru/np11.php>швонарезчики</a>, виброплиты, <a href=http://stroymashina.ru/np7.htm>затирочные машины</a>. Звоните и заказывайте!'; include '../view.php';

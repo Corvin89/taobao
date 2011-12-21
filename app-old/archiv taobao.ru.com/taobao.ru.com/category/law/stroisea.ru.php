@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.stroisea.ru/">www.stroisea.ru</a> Своими руками любой <a href=http://www.stroisea.ru>ремонт</a> дома и квартиры.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=_blank href=http://www.oismeb.ru/index.html>ћебельна€ мастерска€.–емонт,обивка и перет€жка м€гкой мебели на дому</a>'; include '../view.php';

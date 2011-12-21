@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.toy.dog-perm.ru/" target="_blank">–усский той-терьер, </a>  в питомнике "Ѕисер Ёльвиры".'; include '../view.php';

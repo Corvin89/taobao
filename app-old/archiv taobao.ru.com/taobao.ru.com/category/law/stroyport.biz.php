@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.stroyport.biz' target='_blank'><b>СтройПорт - строительный портал</b></a><br />СтройПорт- информационный строительный портал.'; include '../view.php';

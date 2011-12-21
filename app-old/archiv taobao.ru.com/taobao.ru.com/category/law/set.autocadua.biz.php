@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://set.autocadua.biz">SETАутокад - каталог інтернет-сторінок</a>'; include '../view.php';

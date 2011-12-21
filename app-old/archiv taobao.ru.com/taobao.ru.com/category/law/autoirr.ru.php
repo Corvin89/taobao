@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Продажа авто в туле <a href=http://www.autoby.su/>Из рук в руки citroen c4</a> Пежо партнер <a href=http://peugeot.autoby.su/>peugeot 1007</a> игры для девочек и мальчиков <a href="http://www.moregames.ru/">скачать бесплатную игру counter strike</a>'; include '../view.php';

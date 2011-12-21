@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://fenita.ru/">Доска объявлений о покупке-продаже товаров</a>'; include '../view.php';

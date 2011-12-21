@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Полный  <a href="http://www.katalogplitki.ru">каталог по плитке</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.links4rank.com/">Add URL to Home Business Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.delimitation.net">Delimitation Webmaster Directory</a>'; include '../view.php';

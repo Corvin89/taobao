@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.catalog.me.uz" target="_blank"><img src="http://www.catalog.me.uz/images/banner.gif" width="150" height="48" border="0" alt="Каталог Веб Сайтов Узбекистана" title="Каталог Веб Сайтов Узбекистана"></a>'; include '../view.php';

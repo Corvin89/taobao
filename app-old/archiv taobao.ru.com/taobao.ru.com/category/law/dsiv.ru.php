@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.szkv.ru/">Купить стропы, лебедки, подъемное оборудование, Воронеж</a>'; include '../view.php';

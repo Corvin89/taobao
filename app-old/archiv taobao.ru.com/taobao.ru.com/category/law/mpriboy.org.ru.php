@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mpriboy.com" target="_blank">отель Морской прибой</a> приглашают вас на отдых в Крым!'; include '../view.php';

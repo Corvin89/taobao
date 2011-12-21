@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.w-studio.ru"><img src="http://www.w-studio.ru/banners/ban1.gif" border="0" width="88" height="31" alt="Студия Web дизайна, разработка сайтов по самым низким ценам"></a>'; include '../view.php';

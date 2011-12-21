@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://oae-rest.com.ua/ru/tour/">Туры в ОАЭ</a> - Все об отдыхе в ОАЭ, отели, отзывы, погода, достопримечательности. <a href="http://oae-rest.com.ua/ru/tour/">Горящие путевки в ОАЭ</a>.'; include '../view.php';

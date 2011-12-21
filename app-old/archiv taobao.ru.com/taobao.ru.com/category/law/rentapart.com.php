@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rentapart.com/">paris apartments</a>'; include '../view.php';

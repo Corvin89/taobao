@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://onrise.net/" alt="игры, каталог сайтов"><img border="0" src="http://onrise.net/images/ban.gif" alt="игры, каталог"></a>'; include '../view.php';

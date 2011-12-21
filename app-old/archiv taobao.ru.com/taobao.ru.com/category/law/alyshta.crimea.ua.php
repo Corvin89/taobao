@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.alyshta.com" target="_blank"><em>Отдых в Алуште</em>: пансионаты и отели Алушты</a>'; include '../view.php';

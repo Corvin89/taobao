@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://childfit.ru">Фитнес для детей</a>'; include '../view.php';

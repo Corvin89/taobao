@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://bisswanger.info/>Строительный портал Bisswanger Дизайн интерьера</a>'; include '../view.php';

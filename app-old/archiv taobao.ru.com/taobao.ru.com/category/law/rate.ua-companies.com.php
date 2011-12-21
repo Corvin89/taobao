@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://rate.ua-companies.com/' target='_blank'><img src='http://rate.ua-companies.com/images/button_88x31.gif' border=0 title='Rate - попул€рный рейтинг. –ейтинг попул€рных сайтов' alt='Rate - попул€рный рейтинг. –ейтинг попул€рных сайтов'></a>'; include '../view.php';

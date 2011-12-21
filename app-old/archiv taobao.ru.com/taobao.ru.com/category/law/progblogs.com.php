@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.progblogs.com/">ProgBlogs - A Directory of Programming Blogs</a>'; include '../view.php';

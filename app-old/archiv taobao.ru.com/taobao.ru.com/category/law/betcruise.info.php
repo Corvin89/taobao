@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://betcruise.info"><img src="http://betcruise.info/banner.gif" alt="Футбольная статистика по результатам матчей ведущих национальных чемпионатов Европы, Азии, Америки" width="88" height="31" border="0"></a>'; include '../view.php';

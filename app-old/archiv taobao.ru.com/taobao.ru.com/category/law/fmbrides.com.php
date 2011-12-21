@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.fmbrides.com/" id="R0">F-M Brides Wedding Directory</a>'; include '../view.php';

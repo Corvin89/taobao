@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://anapa-zamok.ru"><img src="http://anapa-zamok.ru/zamok.gif" height="31" width="88" border="0" alt="Отдых в Анапе в поселке Воскресенский в гостевом доме Старый замок"></a><b>Доступный семейный отдых в Анапе в поселке Воскресенский в гостевом доме Старый замок</b>'; include '../view.php';

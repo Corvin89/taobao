@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.indexinsearch.info/">Index In Search</a>'; include '../view.php';

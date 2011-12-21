@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://it-deco.com">IT-Deco</a> - Отделка, Дизайн, Витражи, Мозаика'; include '../view.php';

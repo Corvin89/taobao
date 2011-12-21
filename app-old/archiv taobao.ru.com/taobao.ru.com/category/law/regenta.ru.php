@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.regenta.ru/kosmeticheskiy-remont.html">Косметический ремонт в квартире</a>.  <a href="http://www.regenta.ru/evroremont.html">Евроремонт в квартире</a>.  <a href="http://www.fasadbuild.ru/">Вентфасады</a>.  А также <a href='http://www.ground-sochi.ru/'>участки в Сочи</a> в кол-ве 5 шт.'; include '../view.php';

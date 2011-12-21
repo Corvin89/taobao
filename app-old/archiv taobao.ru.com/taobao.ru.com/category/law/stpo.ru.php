@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.stpo.ru/" target="_blank"><img src="http://www.stpo.ru/pics/88x31x1.gif" border="0" alt="СТПО - продажа промышленных неликвидов. Оборудование, материалы с хранения." width="88" height="31"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dir-listing.com">Free Directory Listing - Dir Listing Web Directory is a human edited, Fast Link Approval, Search Engine Friendly Free Web Directory which has optional features of regular, reciprocal and featured links</a>'; include '../view.php';

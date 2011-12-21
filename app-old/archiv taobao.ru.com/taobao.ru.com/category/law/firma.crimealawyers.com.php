@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Предприятия Украины <a href="http://www.crimealawyers.com">юридическая консультация</a>'; include '../view.php';

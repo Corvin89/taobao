@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Tires4you.ru - <a href="http://www.tires4you.ru">шины, колесные диски</a> все модели и размеры'; include '../view.php';

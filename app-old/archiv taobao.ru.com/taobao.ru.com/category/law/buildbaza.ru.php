@@ -1,1 +1,0 @@
-<?php $catalogLink = '—овременные производители предоставл€ют все необходимые материалы дл€ обустройства ¬ашего дома: <a href="http://buildbaza.ru">гидроизол€ци€</a>, <a href="http://buildbaza.ru">пеноблок, пенокомплекс,</a>, <a href="http://buildbaza.ru">пазогребнева€ плита</a>, <a href="http://buildbaza.ru">√ Ћ, профиль дл€ гипсокартона</a> и т.д.'; include '../view.php';

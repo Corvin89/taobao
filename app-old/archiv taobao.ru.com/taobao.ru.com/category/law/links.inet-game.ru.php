@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://realotdih.ru/" title="Места отдыха. Курорты, санатории, пансионаты"><img src="http://realotdih.ru/small.gif" height="31" width="88" border=0 alt="Места отдыха. Курорты, санатории, пансионаты"></a>
-<a href="http://links.inet-game.ru/" >links.inet-game.ru - Каталог ссылок</a>'; include '../view.php';

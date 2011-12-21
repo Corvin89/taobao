@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Ёлитный <a href="http://www.cues.com.ua/">кий биль€рдный</a>'; include '../view.php';

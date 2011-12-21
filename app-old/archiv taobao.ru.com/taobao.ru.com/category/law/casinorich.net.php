@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.casinorich.net/">интернет-казино СasinoRich</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.itechno.ru>договор на юридические услуги составление договора</a>'; include '../view.php';

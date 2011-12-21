@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://zoritrav.ru" target="_blank"><strong><font color="#CCCCCC">ЗориТрав.ру</font></strong><font color="#CCCCCC"> 
-- Фитотерапия. Народная медицина. Консультация фитотерапевта.</font></a>'; include '../view.php';

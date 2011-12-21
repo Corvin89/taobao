@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p><a href="http://www.kanimi.ru">Скачать Анимированные картинки с сайта www.kanimi.ru</a>.</p>'; include '../view.php';

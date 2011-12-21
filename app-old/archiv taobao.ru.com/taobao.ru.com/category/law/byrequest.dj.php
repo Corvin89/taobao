@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.byrequest.dj">By Request DJ & Karaoke Company | We Know Weddings!</a> - Fargo Moorhead's premier disc jockey service. One look at our website tells you we know weddings.'; include '../view.php';

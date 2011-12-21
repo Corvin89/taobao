@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.dronlink.net">Интернет каталог. Раскрутка вашего ресурса бесплатно. Добавьте ваш сайт в наш каталог.</a>'; include '../view.php';

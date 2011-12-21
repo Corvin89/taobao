@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.kypbma.ru/" target="_blank" ><b>KYPbMA Team - All the best only for you</b></a>'; include '../view.php';

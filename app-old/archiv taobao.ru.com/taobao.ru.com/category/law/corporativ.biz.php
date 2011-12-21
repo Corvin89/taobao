@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://corporativ.biz/">кейтеринг</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://soft-4u.net target=_blank>Современный блог свободных программ</a>'; include '../view.php';

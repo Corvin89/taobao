@@ -1,1 +1,0 @@
-<?php $catalogLink = '<b>Каталог ссылок</b> - <a href="http://cat.realapex.ru">Бесплатно добавить сайт в каталог ссылок!</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bigwedding.ru/">פמעמ סגאהüבא, פמעמדנאפû סגאהüבא</a>'; include '../view.php';

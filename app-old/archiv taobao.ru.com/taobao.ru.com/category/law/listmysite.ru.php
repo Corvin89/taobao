@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.listmysite.ru>Добавить ссылку</a> - Тематический обмен ссылками'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Для Вашего сайта <a href="http://www.webcreation.com.ua/">продвижение сайта в Украине, раскрутка сайта Украина</a>'; include '../view.php';

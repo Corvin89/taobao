@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cultuurtechnologie.net/">Cultu UR Technologie Directory</a>'; include '../view.php';

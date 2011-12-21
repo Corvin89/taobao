@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.back-linking.com">Free Listing Web Directory Free Link Submit Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.nikremont.ru/"> Ателье по ремонту одежды любой сложности Москва</a>'; include '../view.php';

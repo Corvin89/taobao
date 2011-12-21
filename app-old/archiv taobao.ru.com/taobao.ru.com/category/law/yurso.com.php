@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://yurso.com">Судовое оборудование. Судовое снабжение</a> - ООО Юрсо.'; include '../view.php';

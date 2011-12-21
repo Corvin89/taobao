@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tvours.com/">Мир сотовых телефонов. Здесь всегда Вам рады</a>'; include '../view.php';

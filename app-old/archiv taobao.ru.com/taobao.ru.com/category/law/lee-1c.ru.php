@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lee-1c.ru">Установка 1с предприятие, обновление 1с бухгалтерия</a>'; include '../view.php';

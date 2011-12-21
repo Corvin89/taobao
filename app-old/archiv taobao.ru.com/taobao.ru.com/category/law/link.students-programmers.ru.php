@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://linkz.students-programmers.ru">Качественный каталог ссылок</a>'; include '../view.php';

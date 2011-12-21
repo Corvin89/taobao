@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://poznaisebya.com" title="PoznaiSebya.Com - познавательный портал Познай Себя" target="_blank">PoznaiSebya.Com - познавательный портал Познай Себя, фильм секрет, скачать книги, эзотерика, Фен Шуй</a>'; include '../view.php';

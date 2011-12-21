@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://gothic.km.ua/component/option,com_datsogallery/Itemid,63/" target="_blank">готическая галерея</a>'; include '../view.php';

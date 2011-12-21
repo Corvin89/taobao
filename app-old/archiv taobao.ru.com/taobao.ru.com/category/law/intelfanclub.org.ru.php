@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://intelfanclub.org.ru">Клуб Intel - новости, описания процессоров интел</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.food-world.ru/">национальные кухни, соусы</a>, <a href="http://www.food-world.ru/useful/post/">меню поста</a>'; include '../view.php';

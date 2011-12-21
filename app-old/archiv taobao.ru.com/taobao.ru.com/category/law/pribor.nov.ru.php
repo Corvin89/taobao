@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pribor-avtomatika.ru"> теплый пол, установка  </a> <a href="http://pribor.nov.ru" title="щиты автоматики, автоматика">автоматика </a>'; include '../view.php';

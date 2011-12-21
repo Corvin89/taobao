@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.renema.ru" title="Туристские анекдоты и доски бесплатных объявлений для туристов. Наставления начинающим и полезные советы опытным туристам."><img src="http://www.renema.ru/ban88.gif" width="88" height="31" border="0" alt="Renema.py: как и с кем пойти в поход."></a>'; include '../view.php';

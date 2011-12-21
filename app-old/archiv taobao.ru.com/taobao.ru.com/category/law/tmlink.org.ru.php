@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tm.org.ua" target="_blank">Трансцендентальная Медитация</a>: <a href="http://www.tm.org.ua/charts/research.html" target="_blank">научно подтвержденная</a> технология умственного развития, оздоровления и устранения стресса.'; include '../view.php';

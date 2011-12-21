@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.allvet.ru/guide/vet_help.php">Ветеринарная помощь в клинике или на дому, причем круглосуточно. Вызвать ветеринара можно просто, позвонив в клинику.</a>'; include '../view.php';

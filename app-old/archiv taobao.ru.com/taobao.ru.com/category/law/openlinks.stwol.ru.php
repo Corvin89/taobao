@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://openlinks.stwol.ru/">Белый каталог Интернет-сайтов</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<table width="100%"><tr><td><div align="center"><a href="http://catalog.blackdwhite.com/">Белый каталог сайтов</a></div></td></tr></table>'; include '../view.php';

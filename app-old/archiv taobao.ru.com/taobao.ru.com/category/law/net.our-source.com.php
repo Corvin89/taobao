@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://net.our-source.com/' target='_blank'><img src='http://net.our-source.com/images/button_88x31.gif' border=0 title='Поисковой Интернет сайт. Поиск Интернет сайтов' alt='Поисковой Интернет сайт. Поиск Интернет сайтов'></a>'; include '../view.php';

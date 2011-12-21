@@ -1,1 +1,0 @@
-<?php $catalogLink = 'с насосом <a href='http://www.vacuumbanks.ru'>вакуумные банки</a> из китая, для влажного <a href='http://www.vacuumbanks.ru'>вакуумного массажа</a> и <a href='http://www.vacuumbanks.ru'>кровопускания хиджама</a>'; include '../view.php';

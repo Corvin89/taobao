@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vitaille.com"><b>Vitaille Recipe Resources and Food Related Information</b></a> - All food web site with thousands of recipes, forums, techniques, and tips. The only place on the net to get the Tastes of Vitaille cookbook.'; include '../view.php';

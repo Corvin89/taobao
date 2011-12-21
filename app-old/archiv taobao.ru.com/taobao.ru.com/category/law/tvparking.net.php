@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tvparking.net/">Телевидение онлайн. Интернет, как средство информации.</a>'; include '../view.php';

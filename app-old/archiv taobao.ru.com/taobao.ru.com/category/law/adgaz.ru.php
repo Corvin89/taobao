@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Компания ООО АдыгРегионаГаз реализует <a href="http://www.adgaz.ru">природный газ</a> по выгодным ценам.'; include '../view.php';

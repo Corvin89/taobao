@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sitefetch.com" id="RD09C14">SiteFetch.com - Find It All In Our Directory</a>'; include '../view.php';

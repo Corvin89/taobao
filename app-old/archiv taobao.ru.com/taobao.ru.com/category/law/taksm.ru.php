@@ -1,1 +1,0 @@
-<?php $catalogLink = 'хорошие <a href="http://taksm.ru">такелажные работы</a>, <a href="http://taksm.ru">такелаж</a>, <a href="http://taksm.ru">погрузочно-разгрузочные работы</a>'; include '../view.php';

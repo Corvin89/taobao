@@ -1,2 +1,0 @@
-<?php $catalogLink = 'Всегда <a href="http://cat.asd4-base.ru/">тематический каталог</a> - Добавить интересный сайт в каталог<br>
-<strong><a href="http://asd4-base.ru/">Базы для AllSubmitter 6</a> - Сверить, купить, скачать,  посмотреть</strong>'; include '../view.php';

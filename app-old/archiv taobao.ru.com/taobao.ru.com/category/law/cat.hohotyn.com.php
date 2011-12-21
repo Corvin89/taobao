@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://hohotyn.com target=blank>Смешные картинки на Хохотун.com</a>'; include '../view.php';

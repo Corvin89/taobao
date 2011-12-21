@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vmeste62.ru">Дисконтная система Единство</a>'; include '../view.php';

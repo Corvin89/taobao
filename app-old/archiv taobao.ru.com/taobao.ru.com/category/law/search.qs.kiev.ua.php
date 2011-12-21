@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A HREF="http://qs.kiev.ua/">”краинска€ поискова€ система, каталог сайтов QS</A>'; include '../view.php';

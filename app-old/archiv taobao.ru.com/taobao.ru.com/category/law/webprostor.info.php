@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://webprostor.info">WebProstor</a> - создание сайтов, интернет магазин в аренду<a href=http://simbur.net>магазин электроники, доска объ€влений</a>,<a href=http://cap.simbur.net>Ёффективна€ реклама сайтов!</a>'; include '../view.php';

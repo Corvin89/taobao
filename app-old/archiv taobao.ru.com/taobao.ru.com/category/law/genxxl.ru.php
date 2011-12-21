@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.genxxl.ru/"> Бодибилдинг </a>'; include '../view.php';

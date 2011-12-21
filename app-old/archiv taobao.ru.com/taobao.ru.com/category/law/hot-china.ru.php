@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!--www.hot-china.ru-opisanie--> Увлекательные и незабываемые туры и путешествия в Китай:  <a href="http://www.hot-china.ru/" title="туры в китай - центр шанхай отели, визы китай">туры в китай - центр шанхай отели, визы китай</a> Самые низкие цены на туры в Китай на www.hot-china.ru!  <!--www.hot-china.ru-opisanie-->'; include '../view.php';

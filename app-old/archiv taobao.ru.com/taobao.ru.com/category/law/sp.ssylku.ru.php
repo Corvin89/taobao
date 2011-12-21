@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://spidvirus.ru">спид</a>'; include '../view.php';

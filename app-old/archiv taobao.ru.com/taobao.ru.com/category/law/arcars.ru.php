@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://arcars.ru/" target="_blank">Портал про Альфа Ромео</a>'; include '../view.php';

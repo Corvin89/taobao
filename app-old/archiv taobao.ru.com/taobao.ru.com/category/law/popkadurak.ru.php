@@ -1,1 +1,0 @@
-<?php $catalogLink = 'ƒобро пожаловать на наш &lt;a href=&quot;http://www.popkadurak.ru/&quot;&gt;попугайный портал&lt;/a&gt;.'; include '../view.php';

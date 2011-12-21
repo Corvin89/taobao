@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mp3babu.com/">Mp3babu Music Directory</a>'; include '../view.php';

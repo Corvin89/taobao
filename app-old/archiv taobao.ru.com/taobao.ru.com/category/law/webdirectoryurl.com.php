@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.symptombronchitis.com">symptoms bronchitis</a>'; include '../view.php';

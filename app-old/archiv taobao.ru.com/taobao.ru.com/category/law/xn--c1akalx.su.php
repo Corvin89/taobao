@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.xn--c1akalx.su/">Ѕесконтактные грили, угольные грили</a>'; include '../view.php';

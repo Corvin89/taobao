@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://links.holod-ok.com/" title="Каталог сайтов холодильного оборудования">Каталог сайтов холодильной тематики</a>
-<a href="http://holod-ok.com/" title="Холодильное оборудования">Все о холодильном оборудовании</a>'; include '../view.php';

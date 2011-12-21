@@ -1,1 +1,0 @@
-<?php $catalogLink = 'доступный <a href="http://tg.crimea.ua" target="_blank"><strong>отдых в Утесе</strong></a>: отель Тихая Гавань - все удобства, бассейн, сауна, ресторан'; include '../view.php';

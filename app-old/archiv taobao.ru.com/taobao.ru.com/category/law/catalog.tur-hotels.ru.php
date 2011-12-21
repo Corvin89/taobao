@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://catalog.tur-hotels.ru/' target=_blank title='Каталог сайтов, обмен ссылками'><strong> Каталог сайтов, обмен ссылками </strong></a>'; include '../view.php';

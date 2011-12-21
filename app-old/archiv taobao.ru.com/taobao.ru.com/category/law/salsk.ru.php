@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.salsk.ru">Salsk.Ru Портал города Сальска Ростовской области</a>'; include '../view.php';

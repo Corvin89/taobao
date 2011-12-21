@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.bgam.org/>ќфисна€ мебель, шкафы купе, кухни, детска€ мебель, стенки</a>'; include '../view.php';

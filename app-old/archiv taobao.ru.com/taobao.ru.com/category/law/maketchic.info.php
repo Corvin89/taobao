@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://maketchic.info/component/option,com_datsogallery/Itemid,30/func,viewcategory/catid,1/'>оформление интерьеров</a>'; include '../view.php';

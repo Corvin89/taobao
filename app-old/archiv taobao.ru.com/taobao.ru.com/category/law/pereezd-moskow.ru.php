@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://pereezd-moskow.ru/">ќфисный переезд</a>'; include '../view.php';

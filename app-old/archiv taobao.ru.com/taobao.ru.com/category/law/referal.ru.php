@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://referal.ru" target="_blank"><img src="http://referal.ru/referal.gif" border="0" width="88" height="31" alt="Referal.ru"></a>'; include '../view.php';

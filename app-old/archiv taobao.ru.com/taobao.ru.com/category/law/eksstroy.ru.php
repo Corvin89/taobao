@@ -1,1 +1,0 @@
-<?php $catalogLink = 'ООО ЭксСтрой - осуществляем <a href="http://eksstroy.ru/" title="ООО ЭксСтрой - Строительство домов" target="_blank">строительство домов</a>, загородных коттеджей.'; include '../view.php';

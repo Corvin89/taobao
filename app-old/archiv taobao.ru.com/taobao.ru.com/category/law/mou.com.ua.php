@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://design.indevel.net/">Создание сайта компании. Web-дизайн студия INDevelopment.</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://wmr.w-money-bux.ru/?r=1" target="_blank">Портал эффективной рекламы и продвижения от wmr.W-money-bux.Ru</a>'; include '../view.php';

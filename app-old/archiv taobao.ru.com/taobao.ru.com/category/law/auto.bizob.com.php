@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://auto.bizob.com/">Доска объявлений об автомобилях</a>'; include '../view.php';

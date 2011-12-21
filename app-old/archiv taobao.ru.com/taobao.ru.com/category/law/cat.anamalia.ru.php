@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=""_blank"" href="http://cat.anamalia.ru/"><img border="0" src="http://www.anamalia.ru/links/ban881.gif" width="88" height="31" alt="Альманах непознанного. Истина где-то рядом"></a>'; include '../view.php';

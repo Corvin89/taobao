@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Особенности и стили, современная <a href="http://www.odris.ru">драматургия</a>, основы драмы и режиссуры.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://best.wmrinfo.ru">Тематический seo каталог сайтов</a>'; include '../view.php';

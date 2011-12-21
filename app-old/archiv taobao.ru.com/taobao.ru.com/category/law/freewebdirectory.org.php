@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://domaineagle.com/befree/">www.freecreditreport.com</a>'; include '../view.php';

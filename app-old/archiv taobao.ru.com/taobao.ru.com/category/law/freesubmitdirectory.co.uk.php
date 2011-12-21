@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.eyeallergiessymptoms.com">Eye Allergy Relieve</a>'; include '../view.php';

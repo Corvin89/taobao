@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tes-trans.com.ua/chartering.html">Фрахтование</a>'; include '../view.php';

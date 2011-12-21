@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://damascus.ru/">Этнические товары, арафатки этническая мебель, амулеты, бумеранги</a>'; include '../view.php';

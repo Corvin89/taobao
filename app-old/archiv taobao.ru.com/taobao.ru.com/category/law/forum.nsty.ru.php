@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Форум работа, <a title="forum.NSTY:: форум" href="http://www.forum.nsty.ru">форум</a> ремонт форум, forum, общение'; include '../view.php';

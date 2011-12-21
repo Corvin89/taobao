@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ipotem.ru">»потечные программы</a>'; include '../view.php';

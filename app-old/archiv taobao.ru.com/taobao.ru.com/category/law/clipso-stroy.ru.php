@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.clipso-stroy.ru/">Натяжные потолки Clipso</a> - мечта может стать реальностью.'; include '../view.php';

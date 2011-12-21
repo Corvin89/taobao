@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.defensedirectory.info/">Defense Directory</a>'; include '../view.php';

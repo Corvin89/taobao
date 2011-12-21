@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.autobike.ru/">Мотоциклы, автомобили и другая техника под заказ из Японии</a>'; include '../view.php';

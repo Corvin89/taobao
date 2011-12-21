@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://euroks.ru/"><img border="0" src="http://euroks.ru/Banner/8831_01.gif" width="88" height="31" alt="ЕвроКонсалтинг - Профессиональные бухгалтерские и юридические услуги."></a>'; include '../view.php';

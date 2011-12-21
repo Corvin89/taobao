@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.giftsspb.ru/" title="сувениры петербург">Бизнес сувениры</a> в Петербурге.'; include '../view.php';

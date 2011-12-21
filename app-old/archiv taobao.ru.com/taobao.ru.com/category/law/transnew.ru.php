@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.transnew.ru>Транспортные новости</a> - грузоперевозки, дорожное сообщение, новости экономики'; include '../view.php';

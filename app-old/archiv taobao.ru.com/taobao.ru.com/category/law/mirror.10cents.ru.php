@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.10cents.ru"><strong>10cents.ru</strong> - Цифровые товары за виртуальные деньги.  «10 центов»</a>'; include '../view.php';

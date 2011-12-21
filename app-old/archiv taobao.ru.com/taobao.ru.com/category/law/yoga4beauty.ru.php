@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://yoga4beauty.ru">5 минут Йоги для красоты и здоровья</a>'; include '../view.php';

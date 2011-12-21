@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://interbizmag.ru/">Все для начинающего вебмастера</a>'; include '../view.php';

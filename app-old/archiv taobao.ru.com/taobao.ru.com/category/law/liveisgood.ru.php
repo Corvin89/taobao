@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://liveisgood.ru/" target="_blank">Мы поможем советом, как отрегулировать пластиковые окна.</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.maxiwarez.ru/">Портал Maxiwarez - Скачать без регистрации программы</a>'; include '../view.php';

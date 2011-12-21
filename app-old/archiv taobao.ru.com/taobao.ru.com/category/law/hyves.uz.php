@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://hyves.uz">Белый каталог статей</a>'; include '../view.php';

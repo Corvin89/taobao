@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.prefix-pro.ru"> флаеры санкт-петербург, петербург</a>'; include '../view.php';

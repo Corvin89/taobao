@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://prolpg.ru'>Lpg</a> и <a href='http://prolpg.ru'>lpg массаж</a>   - <a href='http://www.sostarennoye.ru/'>приемы старения</a>'; include '../view.php';

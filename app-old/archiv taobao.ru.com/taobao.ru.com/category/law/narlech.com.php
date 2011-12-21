@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://narlech.com/">Ќародное лечение</a>: лечение запора на портале NarLech.Com'; include '../view.php';

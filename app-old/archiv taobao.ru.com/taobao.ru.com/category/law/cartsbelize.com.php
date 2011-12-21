@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cartsbelize.com/" target="new">Golf Carts, San Pedro, Ambergris Caye, Belize, Golf Cart Rentals</a> - Carts Belize offers premium golf cart rentals for transportation around San Pedro, Ambergris Caye, Belize'; include '../view.php';

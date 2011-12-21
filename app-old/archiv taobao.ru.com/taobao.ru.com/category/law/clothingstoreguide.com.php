@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.clothingstoreguide.com" id="R11750F">Online Directory of providing links Clothing and fashion related resources.</a>'; include '../view.php';

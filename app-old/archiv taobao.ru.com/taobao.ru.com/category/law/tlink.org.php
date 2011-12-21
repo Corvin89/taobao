@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tlink.org">TLink General Web Directory by Novel Concept Studio</a>'; include '../view.php';

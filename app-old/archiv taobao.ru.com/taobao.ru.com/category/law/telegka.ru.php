@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.telegka.ru"><img border="0" alt="Тележка.ру - гидравлические тележки" src="http://www.telegka.ru/images/button.gif"></a>'; include '../view.php';

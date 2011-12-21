@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://classifiedspalau.com" id="RE58F16">Free Listing Of Classifieds In Palau PW United States</a>'; include '../view.php';

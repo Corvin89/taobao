@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.coolstreaming.us/download/">Download</a>'; include '../view.php';

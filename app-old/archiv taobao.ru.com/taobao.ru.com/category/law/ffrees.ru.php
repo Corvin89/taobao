@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ffrees.ru" title="Каталог ссылок раскрутки FFREES.RU"><font size="-2"><b>Готовые скрипты продающих сайтов</b></font></a>'; include '../view.php';

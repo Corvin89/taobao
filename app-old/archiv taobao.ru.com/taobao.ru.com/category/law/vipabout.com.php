@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://redirect.alexa.com/redirect?vipabout.com/directory">VipAbout Directory</a>'; include '../view.php';

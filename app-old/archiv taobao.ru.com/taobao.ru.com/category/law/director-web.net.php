@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.director-web.net" TARGET="_blank" style="text-decoration: none; font-family: helvetica; color: #012477; font-size: 12px;">Director Web</a>'; include '../view.php';

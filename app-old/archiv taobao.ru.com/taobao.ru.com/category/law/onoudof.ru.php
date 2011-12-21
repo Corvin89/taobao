@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://onoudof.info/mneniya/23010143-u-rpc-okonchatelno-sneslo-kryshu.html">У РПЦ окончательно снесло крышу?</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.redevile.ru>Салон красоты RedDevil</a> - кocмeтoлoгия лицa и тела, маникюр, педикюр.'; include '../view.php';

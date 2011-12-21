@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://miracle-world.net/" title="Информация для туристов" target="_blank">Туристический портал</a>,
-<a href="http://xn----7sbn7ahywt5a.xn--p1ai/" title="Статьи для путешественников" target="_blank">Информация для путешественников</a>.'; include '../view.php';

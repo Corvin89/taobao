@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mnpu.ru">лмос.ПС</a>'; include '../view.php';

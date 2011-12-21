@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bostonwebcrew.com/">Spacesaving Furniture</a>'; include '../view.php';

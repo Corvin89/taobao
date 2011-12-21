@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.webtraffic2010.com/">Buy Facebook Fans</a>'; include '../view.php';

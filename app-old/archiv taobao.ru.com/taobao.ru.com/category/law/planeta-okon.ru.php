@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.planeta-okon.ru">изготовление стеклопакетов, звукопоглащение</a>, <a href="http://www.planeta-okon.ru/metal/">технология установки окон</a>'; include '../view.php';

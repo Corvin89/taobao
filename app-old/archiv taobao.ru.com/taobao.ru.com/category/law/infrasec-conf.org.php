@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.infrasec-conf.org/">Infra-Sec</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dirmed.cn/">DirMed - медицинский каталог</a>. –екомендую. Ќаши <strong><a title ="игры и прохождени€" href="http://www.rugame.org/" target="_blank">игры и прохождени€</a>, секреты и моды</strong>.'; include '../view.php';

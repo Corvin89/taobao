@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Поисковая оптимизация, <a title="analysis.NSTY:: анализ страниц" href="http://www.analysis.nsty.ru">анализ страницы сайта</a> финансовый анализ, анализ предприятия'; include '../view.php';

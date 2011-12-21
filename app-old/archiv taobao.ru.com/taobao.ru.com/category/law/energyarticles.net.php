@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.energyarticles.net/'>Energy Articles</a> - Free Article Submission For Authors, Free Content for Publishers!'; include '../view.php';

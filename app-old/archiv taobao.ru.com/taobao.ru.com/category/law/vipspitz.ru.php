@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vipspitz.ru/">Померанский шпиц продажа щенков питомник Янтарная Бусинка http://www.vipspitz.ru/</a>'; include '../view.php';

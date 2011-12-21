@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.ucoz.ru/" target="_blank">Фелинологический портал - кошки, коты, котята</a>'; include '../view.php';

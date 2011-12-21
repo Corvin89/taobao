@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.symptomspanicattacks.com">panic attacks causes</a>'; include '../view.php';

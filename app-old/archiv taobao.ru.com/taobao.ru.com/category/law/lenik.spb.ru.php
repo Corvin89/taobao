@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://lenik.spb.ru/portfolio.php">Оригинальный дизайн сайтов.</a> <a href="http://lenik.spb.ru/developing.php"><strong>Создание сайтов верстка</strong>.</a> <a href="http://lenik.spb.ru"><strong>Лучшая дизайн студия</strong>.</a>'; include '../view.php';

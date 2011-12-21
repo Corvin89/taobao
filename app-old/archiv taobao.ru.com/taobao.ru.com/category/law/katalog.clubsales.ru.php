@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://discount-kaluga.ru/" target="_blank"><img src="http://discount-kaluga.ru/bann/8831.gif" border="0" width="88" height="31" title="Дисконт Калуга - дисконт, скидки, акции по Калуге" alt="Дисконт Калуга - дисконт, скидки, акции по Калуге"/></a>'; include '../view.php';

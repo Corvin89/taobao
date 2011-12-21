@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rundir.com/">The Running Directory</a>'; include '../view.php';

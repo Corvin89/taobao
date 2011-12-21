@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.mir999.ru/"><img border="0" alt="Создание сайтов, продвижение, доработки сайта, обмен банерами, рассылки, бизнес предложения, хостинг, домен" src="http://www.mir999.ru/pic/baner.gif"></a>'; include '../view.php';

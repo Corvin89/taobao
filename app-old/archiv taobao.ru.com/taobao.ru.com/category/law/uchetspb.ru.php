@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://uchetspb.ru">Бухгалтерский учет</a> в Санкт-Петербурге'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ladysworld.ru">Свадебный салон Мир Женщин</a>: Свадебные платья, Вечерние платья, Украшения'; include '../view.php';

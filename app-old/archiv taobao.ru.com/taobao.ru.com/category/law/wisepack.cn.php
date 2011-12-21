@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.wisepack.cn/desiccant/" id="R0">Desiccant</a>'; include '../view.php';

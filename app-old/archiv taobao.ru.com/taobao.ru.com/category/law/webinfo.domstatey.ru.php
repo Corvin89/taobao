@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://webinfo.domstatey.ru">Информация о веб-ресурсах</a>'; include '../view.php';

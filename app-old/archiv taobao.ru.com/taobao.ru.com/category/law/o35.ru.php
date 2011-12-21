@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.o35.ru"> Каталог сайтов Вологодская область Онлайн</a>'; include '../view.php';

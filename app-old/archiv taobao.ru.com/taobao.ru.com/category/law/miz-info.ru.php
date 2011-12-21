@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.miz-info.ru/guitar/amp/'>Звукоусиление</a>, <a href='http://www.miz-info.ru/'>бас гитара, изготовление гитар, струны для гитары, музыкальная теория</a>'; include '../view.php';

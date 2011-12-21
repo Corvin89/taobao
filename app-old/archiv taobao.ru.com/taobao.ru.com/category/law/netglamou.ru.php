@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=" http://www.netglamou.ru/">свадебный тамада</a> представл€ет сайт на, котором есть свадебные рассказы, критика и отзывы. ¬се о <a href="http://www.netglamou.ru/">проведение свадьбы</a>.'; include '../view.php';

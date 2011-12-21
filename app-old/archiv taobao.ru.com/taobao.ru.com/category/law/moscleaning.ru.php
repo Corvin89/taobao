@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.moscleaning.ru">уборка в Москве</a>. Клининговые услуги.'; include '../view.php';

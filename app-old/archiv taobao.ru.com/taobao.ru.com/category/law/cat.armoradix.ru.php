@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.armoradix.ru/">Наши партнёры</a><a href="http://armoradix.ru/">Средства индивидуальной защиты, Бронежилеты, Шлемы, Огнетушители, Противогазы и респираторы</a>'; include '../view.php';

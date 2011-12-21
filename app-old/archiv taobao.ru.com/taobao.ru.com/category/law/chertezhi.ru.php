@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.chertezhi.ru/modules/files/viewcat.php?cid=33">курсовой проект</a>'; include '../view.php';

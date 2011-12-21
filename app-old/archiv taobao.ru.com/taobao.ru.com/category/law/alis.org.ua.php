@@ -1,1 +1,0 @@
-<?php $catalogLink = 'ЧП Алис - производство и продажа<a href="http://www.alis.org.ua/"> холодильного оборудования</a>'; include '../view.php';

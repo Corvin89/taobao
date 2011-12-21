@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.stroystream.ru/" target="_blank"><img src="http://www.stroystream.ru/img/button.gif" border="0" alt="СтройСтрим.Ру - портал по строительству и ремонту" width="88" height="31"></a>'; include '../view.php';

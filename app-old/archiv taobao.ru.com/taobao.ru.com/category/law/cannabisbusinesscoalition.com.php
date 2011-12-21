@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cannabisbusinesscoalition.com/">Cannabis Business Coalition</a>'; include '../view.php';

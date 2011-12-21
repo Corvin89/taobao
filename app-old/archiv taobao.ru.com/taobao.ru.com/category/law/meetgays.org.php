@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.meetgays.org/"><b>Meet Gays</b></a><br>Meet Gays, the gay dating site for the gay community. Features include gay chat and gay webcams, gay personals and gay dating.'; include '../view.php';

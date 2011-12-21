@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://work-market.ru" title="работа">работа вакансии</a>'; include '../view.php';

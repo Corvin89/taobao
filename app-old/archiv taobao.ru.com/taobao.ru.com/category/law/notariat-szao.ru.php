@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://notariat-szao.ru/ ">нотариус суббота</a>'; include '../view.php';

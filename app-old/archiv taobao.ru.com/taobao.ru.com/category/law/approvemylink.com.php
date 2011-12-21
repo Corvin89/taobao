@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.approvemylink.com">Approve My Link</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='gmpi-plugins.org'>gmpi-plugins.org</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.wmz-for-you.info/"><img border="0" src="http://www.wmz-for-you.info/pic/money.gif" alt="Заработок в интернете web money wmz вебмани webmoney веб мани" width="88" height="31"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pro-exports.com/" target="_blank"><img src="http://www.pro-exports.com/pic/pro-exports-88-31-1.gif" alt="Pro-Exports: iron ore, scrap metal, cement, bauxite ore, sugar - export CIF ASWP, FOB" width="88" height="31" border="0"></a>'; include '../view.php';

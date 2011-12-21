@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.taxhelpattorney.com">Tax Attorney</a> -   Law office of Jeff Fouts represents victims of IRS audits and federal tax probes. Firm focus is on tax solutions to help stop the Internal Revenue Service harassment and remove tax liens against your property.'; include '../view.php';

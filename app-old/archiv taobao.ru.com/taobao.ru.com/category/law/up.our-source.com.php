@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://up.our-source.com/' target='_blank'><img src='http://up.our-source.com/images/button_88x31.gif' border=0 title='Только вверх - Рейтинг качественных сайтов' alt='Только вверх - Рейтинг качественных сайтов'></a>'; include '../view.php';

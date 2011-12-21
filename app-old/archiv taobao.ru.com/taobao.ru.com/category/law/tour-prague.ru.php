@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tour-prague.ru/">Туристический каталог сайтов - Тур Каталог</a>'; include '../view.php';

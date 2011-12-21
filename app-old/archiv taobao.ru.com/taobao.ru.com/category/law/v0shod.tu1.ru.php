@@ -1,1 +1,0 @@
-<?php $catalogLink = 'href="http://www.v0shod.tu1.ru/">Интернет магазин с мгновенной доставкой товара'; include '../view.php';

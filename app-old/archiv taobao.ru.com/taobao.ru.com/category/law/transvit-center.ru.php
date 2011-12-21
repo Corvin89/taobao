@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Трансформаторы, блоки питания, <a href="www.transvit-center.ru">печатные платы</a>, ЭПРА и БП'; include '../view.php';

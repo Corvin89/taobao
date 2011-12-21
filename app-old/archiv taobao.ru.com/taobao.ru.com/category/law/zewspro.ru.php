@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://zewspro.ru" target="_blank" title="Скачать бесплатно фильмы, музыку, программы, книги, обои - бесплатные программы. Огромный выбор программ, фильмов, ежедневное обновление"><img src="http://zewspro.ru/images/banners/slaed_3.gif" border="0" width="80" height="15"></a>'; include '../view.php';

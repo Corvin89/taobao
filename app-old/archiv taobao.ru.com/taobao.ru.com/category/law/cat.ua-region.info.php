@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Предприятия Украины" href="http://www.ua-region.info/">Предприятия Украины</a>'; include '../view.php';

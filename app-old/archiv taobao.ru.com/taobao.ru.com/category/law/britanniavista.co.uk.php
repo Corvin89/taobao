@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.eyerevolution.co.uk">eyerevolution: London based virtual tours and photography</a>'; include '../view.php';

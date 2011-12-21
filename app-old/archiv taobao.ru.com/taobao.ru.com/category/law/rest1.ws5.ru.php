@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://rest1.ws5.ru"><strong>Отдых в Сочи</strong></a> - гостиницы, пансионаты и частный сектор'; include '../view.php';

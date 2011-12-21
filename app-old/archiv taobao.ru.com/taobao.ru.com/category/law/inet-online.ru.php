@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Бесплатная <a href="http://inet-online.ru/modules/catads/">доска объявлений</a>.'; include '../view.php';

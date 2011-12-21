@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://tvoytuning.in.ua" target="_blank"><img src="http://tvoytuning.in.ua/file/tt_button.gif" border="0"></a>'; include '../view.php';

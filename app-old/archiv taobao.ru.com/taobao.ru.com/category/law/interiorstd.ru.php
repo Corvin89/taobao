@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.interiors-design.ru">Дизайн интерьера квартиры</a>'; include '../view.php';

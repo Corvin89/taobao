@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://fakel-portos.ru">Ф.А.К.Э.Л. - П.О.Р.Т.О.С. - За Счастливую Русь!</a>'; include '../view.php';

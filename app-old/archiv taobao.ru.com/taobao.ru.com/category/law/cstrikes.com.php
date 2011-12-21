@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.cstrikes.com/' target='_blank '><img src='http://cstrikes.com/uploads/files/files-jELV1023CT.jpg' border='1' alt='Counter-Strike Community - Www.Cstrikes.Com'></a>'; include '../view.php';

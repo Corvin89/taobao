@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pmc5.ru/" target="new"><img src="http://www.pmc5.ru/pmc.gif" width="88" height="31" border="0" alt="Сувенирные и рекламные магниты на холодильник с вашим изображением"></a>'; include '../view.php';

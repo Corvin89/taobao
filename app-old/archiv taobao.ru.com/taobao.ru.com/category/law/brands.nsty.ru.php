@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Бренд года, продвижение <a title="brands.NSTY:: бренд" href="http://www.brands.nsty.ru">бренд</a> разработка бренда, brand'; include '../view.php';

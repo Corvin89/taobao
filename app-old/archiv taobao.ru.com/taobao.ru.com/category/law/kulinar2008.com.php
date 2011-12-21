@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.kulinar2008.com"><img src="http://www.kulinar2008.com/pic/image.jpg" width="81" height="33" > </a><a href="http://www.kulinar2008.com" title="Гурман Сайт для истинных ценителей кулинарии" onclick="this.target='_blank'">"Гурман" Сайт для истинных ценителей кулинарии</a>'; include '../view.php';

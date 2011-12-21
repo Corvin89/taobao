@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gigastock.ru/">новости интернета</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tradewithuk.com/" id="R0">UK - Exporters & Importers</a>'; include '../view.php';

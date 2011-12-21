@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.teatrkvassa.ru>Шоу-группа  TEATRKVASSA:</a> <a href=http://www.teatrkvassa.ru/abaut.php>танцевальное представление</a> <a href=http://www.teatrkvassa.ru/show/index.php>интерактивный хип-хоп</a> особая стилистика  '; include '../view.php';

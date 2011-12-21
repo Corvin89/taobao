@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.yellowpagestockton.com" id="R1CC894">Stockton City Business Search Community Network</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dvdpoisk.com">Dvd поиск - купить фильмы на dvd</a>'; include '../view.php';

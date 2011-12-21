@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.embs.ru>Империя Бизнеса</a>'; include '../view.php';

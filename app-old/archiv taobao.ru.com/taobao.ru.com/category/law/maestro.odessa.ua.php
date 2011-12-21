@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.maestro.odessa.ua/service.html"> Недвижимость Одессы.</a>'; include '../view.php';

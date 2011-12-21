@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Предлагаем <a href="http://www.moi-prazdnik.ru">услуги по организации свадьбы</a> любого масштаба.'; include '../view.php';

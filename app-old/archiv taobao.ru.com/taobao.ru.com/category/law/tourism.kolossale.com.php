@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.tourism.kolossale.com>Как хорошо отдохнуть. Горящие туры и туроператоры.</a>'; include '../view.php';

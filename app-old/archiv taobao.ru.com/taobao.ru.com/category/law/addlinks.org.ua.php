@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://addlinks.org.ua" target="_blank">Каталог рабочих ссылок</a>'; include '../view.php';

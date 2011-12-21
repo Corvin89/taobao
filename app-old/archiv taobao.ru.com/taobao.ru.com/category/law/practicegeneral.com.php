@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.practicegeneral.com" id="RE5BE55">Web MD Physician Directory To Information On General Practices, Physician, Doctors</a> - Net Provider Links To General Practitioner, Doctor, By Specialist, By Clinic.'; include '../view.php';

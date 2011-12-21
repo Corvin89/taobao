@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.leahey.org/dir" id="R23927F">Self Improvement Directory</a>'; include '../view.php';

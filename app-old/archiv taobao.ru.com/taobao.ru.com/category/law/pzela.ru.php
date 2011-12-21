@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p><a href="http://pzela.ru/" >Книги по пчеловодству. Условия вывода маток и содержание пчелиной семьи.</a></p>'; include '../view.php';

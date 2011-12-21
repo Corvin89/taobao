@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sbfx.net">Free online directory</a>'; include '../view.php';

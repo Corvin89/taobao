@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!-- start baner allthelink.ru  --><a href="http://www.allthelink.ru" target="_blank" ><img src="http://www.allthelink.ru/images/cat.jpg" width="88" height="31" border="0" alt= "AlltheLink.ru" /></a><!-- end baner allthelink.ru  -->'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tofas-auto.com/"> Авто KIA, новости, новинки, spectra</a> - Всё о автомобилях KIA!'; include '../view.php';

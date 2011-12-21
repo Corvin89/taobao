@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://stroitelnye-smesi.ru/index.php?categoryID=82">Цемент навалом и таррированный, сухие строительные смеси,</a> <a href="http://stroitelnye-smesi.ru/index.php?categoryID=80">кирпич и блоки,</a> <a href="http://stroitelnye-smesi.ru/">клей для плитки и газосиликата, гидроизолирующие смеси.</a>'; include '../view.php';

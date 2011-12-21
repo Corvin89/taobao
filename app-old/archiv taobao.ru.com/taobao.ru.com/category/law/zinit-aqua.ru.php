@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://zinit-aqua.ru">ООО Зинит, установки обратного осмоса</a>'; include '../view.php';

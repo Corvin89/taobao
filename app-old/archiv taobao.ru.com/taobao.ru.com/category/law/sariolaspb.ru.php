@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sariolaspb.ru" target="_blank">Питомник русский той-терьеров "ИЗ САРИОЛЫ". </a>'; include '../view.php';

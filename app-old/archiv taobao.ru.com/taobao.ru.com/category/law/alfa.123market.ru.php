@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a title=Цифровые товары. Моментальная доставка. href=http://www.123-market.ru>Цифровые товары. Моментальная доставка.</a>
-<a title=Каталог сайтов ALFA href=http://www.alfa.123market.ru>Каталог сайтов ALFA</a>'; include '../view.php';

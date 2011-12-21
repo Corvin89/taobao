@@ -1,1 +1,0 @@
-<?php $catalogLink = 'металлодетекторы - Глубинные <a href="http://www.kladovik.ru"> металлодетекторы</a>, металлоискатели'; include '../view.php';

@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://www.artgallerybiz.com/" target="_blank">Shankoff Art Gallery</a><br>
-Art gallery for contemporary impressionist paintings in oils and watercolors<br><a href="http://www.artgallerybiz.com/" target="_blank" style="font-size:smaller;color:gray;text-decoration:none;">http://www.artgallerybiz.com/</a>'; include '../view.php';

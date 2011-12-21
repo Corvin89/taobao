@@ -1,3 +1,0 @@
-<?php $catalogLink = '<!-- pelleta.com.ua start -->
-<table height="31" border="0" width="88" cellpadding="0" cellspacing="0"><tr><td nowrap="nowrap"><a href="http://pelleta.com.ua/brikety-iz-opilok-b402.html"><img border="0" src="http://pelleta.com.ua/img/p1.gif" alt="Брикеты из опилок"></a><a href="http://bio-ex.com.ua"><img border="0" src="http://pelleta.com.ua/img/p2.gif" alt="Топливные брикеты"></a><a href="http://pelleta.com.ua"><img border="0" src="http://pelleta.com.ua/img/p3.gif" alt="Пиломатериалы украина"></a></td></tr></table>
-<!-- pelleta.com.ua start end -->'; include '../view.php';

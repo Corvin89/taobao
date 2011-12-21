@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://mobil.bizboard.biz/">Доска объявлений о мобилках</a>'; include '../view.php';

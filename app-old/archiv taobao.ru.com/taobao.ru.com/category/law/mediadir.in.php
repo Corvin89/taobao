@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mediadir.in">MediaDir Web Directory</a>'; include '../view.php';

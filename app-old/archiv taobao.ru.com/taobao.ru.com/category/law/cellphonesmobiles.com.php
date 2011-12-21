@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cellphonesmobiles.com/">Cell Phones Mobiles Directory</a>'; include '../view.php';

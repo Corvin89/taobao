@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.childhoodobesitycause.com">childhood obesity cause</a>'; include '../view.php';

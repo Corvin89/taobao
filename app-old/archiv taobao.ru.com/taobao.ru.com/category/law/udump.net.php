@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.udump.net/">Udump.net</a>'; include '../view.php';

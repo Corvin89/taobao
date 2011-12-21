@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.SettlementX.com/">Settlement X</a> - Your Online Settlement Guide'; include '../view.php';

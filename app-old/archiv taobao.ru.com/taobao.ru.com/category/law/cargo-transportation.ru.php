@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cargo-transportation.ru/">Современные грузоперевозки и таможенные услуги в оптимальные сроки</a>, <a href="http://www.cargo-transportation.ru/log/prot/">Охрана и сопровождение</a>'; include '../view.php';

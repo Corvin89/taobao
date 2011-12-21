@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.woodprocessing.ru/wood/review/">ќбозрени€</a>, <a href="http://www.woodprocessing.ru/">ћы знаем, что такое современна€ деревообработка: модернизированный процесс деревообработки</a>'; include '../view.php';

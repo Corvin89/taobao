@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.allfreetop.com/">Белый каталог сайтов</a>'; include '../view.php';

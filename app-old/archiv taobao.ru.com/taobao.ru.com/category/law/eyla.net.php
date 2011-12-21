@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://eyla.net">Обои</a>, <a href="http://eyla.net">обои для рабочего стола</a>, <a href="http://eyla.net">обои на рабочий стол</a>, <a href="http://eyla.net">обои рабочего стола</a>, <a href="http://eyla.net">девушки обои</a>'; include '../view.php';

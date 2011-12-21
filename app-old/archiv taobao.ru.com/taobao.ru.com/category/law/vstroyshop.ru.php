@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.vstroyshop.ru/">Встраиваемая техника BOSCH, кухонные мойки BLANCO SCHOCK TELMA TEKA FRANKE, смесители DAMIXA GROHE</a>'; include '../view.php';

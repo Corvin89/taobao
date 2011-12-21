@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.fosterage.ru/preshcool/'>Дошкольное образование</a>, <a href='http://www.fosterage.ru/'>воспитание ребенка, высшее образование, развитие детей, воспитание подростков</a>'; include '../view.php';

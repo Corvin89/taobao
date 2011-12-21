@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.perfumewomen.net" id="RB9EF2C">Portal page provider links to website on perfume retailers and body care ads</a>- Gift Store, Drug Stores, Bodycare, Outlet, Flower Shop, Luxury Perfumes'; include '../view.php';

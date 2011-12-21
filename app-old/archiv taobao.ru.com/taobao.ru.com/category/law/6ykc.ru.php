@@ -1,1 +1,0 @@
-<?php $catalogLink = '—борник <a href="http://6ykc.ru/">электронные книги</a> и многое другое'; include '../view.php';

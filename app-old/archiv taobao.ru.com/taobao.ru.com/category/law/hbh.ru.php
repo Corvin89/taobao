@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hbh.ru/" target="_blank">Фототерапия</a>'; include '../view.php';

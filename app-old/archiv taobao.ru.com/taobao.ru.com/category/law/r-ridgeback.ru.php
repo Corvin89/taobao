@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.r-ridgeback.ru" target="_blank">Питомник родезийских риджбеков "ДАНАРИ"</a>'; include '../view.php';

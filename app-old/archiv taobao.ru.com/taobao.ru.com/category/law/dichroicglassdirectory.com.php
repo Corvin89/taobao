@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dichroicglassdirectory.com/" id="R0">Dichroic Glass Directory</a> - A comprehensive directory for supplies, shopping, artists and information about dichroic glass.'; include '../view.php';

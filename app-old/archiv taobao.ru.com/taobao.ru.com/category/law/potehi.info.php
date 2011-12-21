@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://potehi.info">организация праздников</a> - <a href="http://www.atlanticco.ru/index.php?option=com_content&view=article&id=22&Itemid=102">детские уличные тренажеры</a>- <a href="http://www.lpgcentre.ru/korrektsiya-figuryi.html">лимфодренаж</a>'; include '../view.php';

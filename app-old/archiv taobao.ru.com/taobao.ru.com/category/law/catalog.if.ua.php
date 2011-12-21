@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://catalog.if.ua" target="_blank"><img src="http://www.catalog.if.ua/images/catalogifuam.gif" alt="Прикарпатcький каталог" width="88px" height="31px" border="0"></a>'; include '../view.php';

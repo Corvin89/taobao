@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.katob.ru/sps/aai/combi/acae">»звещатель пожарный комбинированный адресный ACA-E</a> ¬ широком ассортименте все дл€ тушени€ и предупреждении пожара'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://www.frank.ru/links/count.php?command=count&id=161377">FRANK.RU - Франция, Бельгия, Люксембург, Монако, Нидерланды</A>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.utes.com.ua" target="_blank">Отдых в Утесе</a>: эллинги, санатории, гостиницы и отели Крыма'; include '../view.php';

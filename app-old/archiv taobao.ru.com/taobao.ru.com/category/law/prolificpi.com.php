@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.chinesewholesaler.com">wholesaler</a>'; include '../view.php';

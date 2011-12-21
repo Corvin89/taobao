@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://falcon-site.com"> Форекс для начинающих</a>'; include '../view.php';

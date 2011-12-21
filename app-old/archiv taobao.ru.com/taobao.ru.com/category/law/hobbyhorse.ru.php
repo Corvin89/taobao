@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://hobbyhorse.ru/create/">Развивающие игрушки</a>: обучающие пазлы, конструктор из картона, детские оригами, лупа для жуков'; include '../view.php';

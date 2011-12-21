@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Помощь по оформлению <a href="http://englandvisa.ru">визы в англию</a>'; include '../view.php';

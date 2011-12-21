@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.margokeram.ru/" target="_blank"><b>Магазин склад Москва продажа керамическая плитка керамогранит клинкерные ступени клинкерная плитка</b></a>'; include '../view.php';

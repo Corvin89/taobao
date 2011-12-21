@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://visper.org.ua/informers.html" target="_blank"><img src="http://visper.org.ua/img_visper.org.ua_11.gif" border="0" width="88" height="15" alt="Visper services" /></a>'; include '../view.php';

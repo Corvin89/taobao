@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tdorion.ru /"><img border="0" src="http://www.tdorion.ru/images/tdorion.gif" width="88" height="31" alt="Бытовые очистители, ионизаторы, увлажнители воздуха. Ионизаторы-очистители воздуха с HEPA, TiO2, фотокаталитическими фильтрами. Антицеллюлитное белье Benactiv."></a>'; include '../view.php';

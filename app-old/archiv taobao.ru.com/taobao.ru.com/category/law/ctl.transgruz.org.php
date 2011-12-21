@@ -1,1 +1,0 @@
-<?php $catalogLink = '"ТРАНС-ГРУЗ" - <a href="http://ctl.transgruz.org" target="_blank">Каталог транспортных компаний.</a>'; include '../view.php';

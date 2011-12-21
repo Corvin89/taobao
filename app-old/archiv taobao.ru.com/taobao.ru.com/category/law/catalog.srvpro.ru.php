@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://srvpro.ru/>управление рисками +в ресторанном бизнесе</a>'; include '../view.php';

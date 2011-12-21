@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ixtys.ru"><img src="http://www.ixtys.ru/banner.gif" width=88 height=31 border=0 alt=" IXTYS - оптовая продажа рыболовных товаров  " ><br> IXTYS - оптовая продажа рыболовных товаров  </a>'; include '../view.php';

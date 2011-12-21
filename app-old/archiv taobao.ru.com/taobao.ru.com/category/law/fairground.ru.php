@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Каталог сайтов с которыми можно <a href="http://www.fairground.ru/links/" target="_blank">обменяться ссылками</a>. Не забудьте <a href="http://www.fairground.ru/links/add/" target="_blank">добавить ссылку</a> на Ваш каталог!'; include '../view.php';

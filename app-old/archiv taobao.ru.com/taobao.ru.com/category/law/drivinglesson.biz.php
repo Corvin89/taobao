@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.drivinglesson.biz">UK Driving Schools Directory.</a>'; include '../view.php';

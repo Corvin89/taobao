@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.adyta.ru/">Более 15 000 рефератов,10 000 сочинений,25 000 биографий</a>'; include '../view.php';

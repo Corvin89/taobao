@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://domostroy.stwol.ru/">Каталог строительной тематики "Домострой"</a>'; include '../view.php';

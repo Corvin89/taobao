@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.HyperLinkMania.com">Hyper Link Mania Free Hyper Link Website Submission Directory URL Submit Web List</a>'; include '../view.php';

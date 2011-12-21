@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tea-world.ru">чай и кофе, кофейни москвы</a>, <a href="http://www.tea-world.ru/tea/sorts/103/">красный чай</a>'; include '../view.php';

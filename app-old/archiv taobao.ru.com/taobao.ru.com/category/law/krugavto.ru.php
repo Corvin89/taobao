@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.krugavto.ru">“ехническа€ оснащенность автомобилей</a>'; include '../view.php';

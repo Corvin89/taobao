@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.global-complect.ru'>Биде и раковины Gustavberg</a> - <a href='http://www.bitovka.info/'>бытовки в Москве</a>'; include '../view.php';

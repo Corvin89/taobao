@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://reiki4healing.info">reiki4healing.info</a>'; include '../view.php';

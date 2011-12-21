@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://flashlin.net">Раскрутись по полной на нашем каталоге сайтов. Каталог  сайтов, обмен ссылками</a>'; include '../view.php';

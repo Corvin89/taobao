@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.katalog.kolossale.ru>Раскрути свой бизнес. Заработай на хлеб с маслом и икрой.</a>'; include '../view.php';

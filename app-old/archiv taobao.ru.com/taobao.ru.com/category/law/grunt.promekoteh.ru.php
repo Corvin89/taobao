@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.grunt.promekoteh.ru">Разработка котлованов</a>. <a href="http://www.grunt.promekoteh.ru">Бесплатный планировочный грунт с доставкой</a> - <a href="http://www.nedvizimost-sochi.ru">недвижимость Сочи</a>'; include '../view.php';

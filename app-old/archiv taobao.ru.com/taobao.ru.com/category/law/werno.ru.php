@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.werno.ru/flashgames/">Бесплатные флеш игры онлайн</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'многообразие <a href="http://kyrort.su" target="_blank">отдыха в России</a>: пляжи <a href="http://kyrort.su/rossiya/sochi/" target="_blank">Сочи</a>, Кавказ и <a href="http://kyrort.su/rossiya/bajkal-prozrachnaya-glubina/" target="_blank">Байкал</a>'; include '../view.php';

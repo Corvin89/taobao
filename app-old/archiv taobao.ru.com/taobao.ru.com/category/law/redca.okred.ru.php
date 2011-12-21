@@ -1,1 +1,0 @@
-<?php $catalogLink = '<b><A href="http://redca.okred.ru/">Каталог с прямыми ссылками!</A></b>'; include '../view.php';

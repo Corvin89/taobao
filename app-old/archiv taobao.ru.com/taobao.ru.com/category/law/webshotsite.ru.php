@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.volosovo-city.ru/link/" target="_blank"><img src="http://www.volosovo-city.ru/counter/count.php?js" border="0" width="1" height="1"><img src="http://www.volosovo-city.ru/catlogo.gif" alt="Город Волосово" border="0" width="88" height="31" title="Город Волосово"></a>'; include '../view.php';

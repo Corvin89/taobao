@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ovochi.ru/">ќвощи, рецепты овощных блюд, заготовка и  хранение овощей на сайте www.ovochi.ru</a>'; include '../view.php';

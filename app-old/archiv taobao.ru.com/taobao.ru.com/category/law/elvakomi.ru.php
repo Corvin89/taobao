@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.elvakomi.ru" target="_blank" title="межевание земель">межевание земель.</a>'; include '../view.php';

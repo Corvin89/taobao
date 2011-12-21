@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.autoex.info">Автомобильная доска объявлений, каталог статей и фирм. Новости автомобилей</a>'; include '../view.php';

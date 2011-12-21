@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.singlegirls.org.uk/"><b>Single Girls</b></a><br>Single Girls Dating. The single girls dating site for single girls looking for single men and for single men seeking single girls.'; include '../view.php';

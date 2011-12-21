@@ -1,1 +1,0 @@
-<?php $catalogLink = '<b><a href="http://allworknet.com/"><img src="http://www.yandex.ru/cycounter?http://allworknet.com/" border="0" width="88" height="31">  http://allworknet.com/ Портал Вебмастеру - всё для работы в интернете.</a></b>'; include '../view.php';

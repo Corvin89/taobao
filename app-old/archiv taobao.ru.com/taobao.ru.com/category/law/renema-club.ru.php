@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.renema-club.ru/" title="Клуб туристов Renema">Клуб туристов Renema. Походы. Фотографии. Маршруты.</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Играйте в <a href="http://www.luckdeal.com/ru/" target="_blank"><b>азартные игры</b></a> онлайн - игровые автоматы в <a href="http://www.luckdeal.com/ru/" target="_blank"><b>интернет казино</b></a> онлайн.'; include '../view.php';

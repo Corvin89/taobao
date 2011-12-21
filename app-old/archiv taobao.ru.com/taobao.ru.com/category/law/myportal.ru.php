@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.myportal.ru/">Мой портал.ру - каталог лучших сайтов сети. Добавить ссылку в каталог!</a>'; include '../view.php';

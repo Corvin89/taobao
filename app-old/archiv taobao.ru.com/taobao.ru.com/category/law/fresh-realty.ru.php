@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://fresh-realty.ru/">сдать, снять, квартиру, комнату Агентство недвижимости Fresh Realry</a>'; include '../view.php';

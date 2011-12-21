@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.searchenginesgalaxy.com/">Search Engines & Directory List</a>'; include '../view.php';

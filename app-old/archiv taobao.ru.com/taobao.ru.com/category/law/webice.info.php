@@ -1,1 +1,0 @@
-<?php $catalogLink = '<li><a href="http://webice.info">Информационный сайт. бесплатные  программы для раскрутки сайта. Продажа ссылок.</a></li>'; include '../view.php';

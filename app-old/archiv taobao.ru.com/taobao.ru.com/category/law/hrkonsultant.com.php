@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.hrkonsultant.com' target='_blank'><b>Консультант по трудоустройству</b></a><br />Составление резюме, поиск работы, найти работу бесплатно'; include '../view.php';

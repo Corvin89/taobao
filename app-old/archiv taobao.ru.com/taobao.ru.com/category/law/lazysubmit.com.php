@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.LAZYSUBMIT.com/"> Free Website Directory / Submit Link  </a>'; include '../view.php';

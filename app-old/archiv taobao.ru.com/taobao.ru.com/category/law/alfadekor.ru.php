@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.alfadekor.ru/" target="_blank">Альфа Декор - гобелены, зеркала, иконы.</a>'; include '../view.php';

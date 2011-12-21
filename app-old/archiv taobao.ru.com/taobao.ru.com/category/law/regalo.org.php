@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.regalo.org">Regalos Originales e Ideas de Regalos</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.100-divanov.net" target="_blank">Мебельная фабрика 100 Диванов</a>'; include '../view.php';

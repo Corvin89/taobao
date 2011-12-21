@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://realty-prices.ru/>цена на жилье</a>'; include '../view.php';

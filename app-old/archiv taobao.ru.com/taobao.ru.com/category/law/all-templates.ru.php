@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Готовые шаблоны - <a href="http://all-templates.ru/">качественные шаблоны сайтов</a>, шаблоны на CMS.'; include '../view.php';

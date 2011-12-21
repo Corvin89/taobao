@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.nomera-lodok.ru/" target="_blank">Номера для надувных лодок из ПВХ, катеров, яхт, гидроциклов. Номера ГИМС</a>'; include '../view.php';

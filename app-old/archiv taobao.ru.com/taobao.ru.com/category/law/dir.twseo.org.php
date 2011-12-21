@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://dir.twseo.org" id="RBA6BF5">????????</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.topshopper.ru"><img src="http://cat.topshopper.ru/topshopper.gif" alt="Topshopper.ru" border="0" width="88" height="31"></a>'; include '../view.php';

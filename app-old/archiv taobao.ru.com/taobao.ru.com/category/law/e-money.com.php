@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://e-money.com">E-currency merchants articles and link catalog</a>'; include '../view.php';

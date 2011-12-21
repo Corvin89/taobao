@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://annix.ru">строительные и отделочные материалы</a>'; include '../view.php';

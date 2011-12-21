@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.prasdnik.ru/">языческие праздники, пасха</a>, <a href="http://www.prasdnik.ru/religion/farsi/">Религиозные праздники: Фарси</a>'; include '../view.php';

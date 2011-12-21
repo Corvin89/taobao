@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p><a href="http://abs.da.ru"><img src="http://members.tripod.com/~bulatov/logof.gif" width="88" height="31" alt="—траничка где вы найдете все что нужно."></a></p>'; include '../view.php';

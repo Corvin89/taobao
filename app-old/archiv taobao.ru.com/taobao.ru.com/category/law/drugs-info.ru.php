@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.drugs-info.ru/prep/analg/">Анальгетики, антипиретики и спазмолитики</a>, <a href="http://www.drugs-info.ru/">электронная аптека  витамины и минералы, спазмолитики и анальгетики, вакцина и антибиотики</a>'; include '../view.php';

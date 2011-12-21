@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://economicsmaster.ru" target="_blank" title="Бизнес-школа Мастера экономики"><img src="http://economicsmaster.ru/btn.gif" alt="Бизнес-школа Мастера экономики" width="88" height="31" border="0"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://classifiedvermont.com" id="R1E1D61">Free Listing Of Classifieds In Vermont VT United States</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://vek-21.msk.ru/" title="Добро пожаловать на развлекательный портал для всей семьи: анекдоты, песни и многое другое."><img src="http://vek-21.msk.ru/info/ban2.gif" border=0 width=88 height=31></a>'; include '../view.php';

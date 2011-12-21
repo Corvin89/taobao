@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.buhgaltery.ru">бухучет, учет финансов</a>, <a href="http://www.buhgaltery.ru/audit/calculation/186/">положение управленческом учете</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://noki.ru" title="Сотовые телефоны и аксессуары">Сотовые телефоны и аксессуары</a>'; include '../view.php';

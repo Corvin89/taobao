@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://malamut.com.ua/index/part/dogs/type/puppy.html">щенки аляскинских маламутов </a>  от Питомника<b> "Васильев остров"</b>'; include '../view.php';

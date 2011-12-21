@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://directory.thehealthyvillage.com/">Alternative Health Directory</a>'; include '../view.php';

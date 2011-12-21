@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.allofax.com/">Allofay Premium Web Directory</a>'; include '../view.php';

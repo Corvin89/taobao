@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Курорт <a href="http://www.classictour.org">Анапа, Витязево, Джемете</a>. Санатории, пансионаты и отели. Фотографии и описания. <a href="http://www.classictour.org/index.php?name=News&op=article&sid=14">Джемете пансионат "Морская волна"</a>.'; include '../view.php';

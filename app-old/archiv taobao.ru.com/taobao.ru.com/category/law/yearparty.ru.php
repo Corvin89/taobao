@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.yearparty.ru">ћетоды регулировани€ и управлени€ бизнесом</a>'; include '../view.php';

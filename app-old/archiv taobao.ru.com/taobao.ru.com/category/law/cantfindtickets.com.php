@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cantfindtickets.com/">Ticket Directory</a>'; include '../view.php';

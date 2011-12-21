@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://www.stomoney.ru/">Смартфон, GPRS и как заработать деньги в интернете
-<img src="http://stomoney.ru/img/stologo_88x31_1.gif" width="88" height="30" ></a>'; include '../view.php';

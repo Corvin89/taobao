@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://trucksale.ru"><B>TRUCKSALE.RU</B></a> - крупнейший рынок по <a href="http://trucksale.ru"><B>продажа грузовиков, грузовых автомобилей, тягачей, прицепов, автобусов и спецтехники</B></a>. У нас Вы найдете любые <a href="http://trucksale.ru"><B>грузовики, тягачи, автобусы, прицепы и грузовые автомобили</B></a>.'; include '../view.php';

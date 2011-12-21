@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.printmaster.ru">PrintMaster.ru</a> - качественна€ расходка и профили дл€ принтеров'; include '../view.php';

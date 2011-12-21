@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://pt-ex.ru"><img src="http://pt-ex.ru/ptlogo.gif" border=0 alt="Щебень, гравий, песок строительный. Реализация нерудных материалов." title="Щебень, гравий, песок строительный. Реализация нерудных материалов."></a>'; include '../view.php';

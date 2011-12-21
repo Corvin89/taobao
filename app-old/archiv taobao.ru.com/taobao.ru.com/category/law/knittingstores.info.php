@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.knittingstores.info/"><img src="http://3.bp.blogspot.com/_BGva0Pjekzc/Sg7HnyEf8OI/AAAAAAAAACc/jBHvvsyGD80/s400/sbanner.jpg"alt="knitting stores | yarn stores" ></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.evpatoriya.com" target="_blank">Отдых в Евпатории</a>: пансионаты, санатории, гостиницы и отели Крыма'; include '../view.php';

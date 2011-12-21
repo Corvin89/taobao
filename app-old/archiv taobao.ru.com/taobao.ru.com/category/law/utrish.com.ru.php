@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://utrish.com.ru" title="Отдых в Анапе в Малом Утрише"><img src="http://utrish.com.ru/utrish.gif" width="88" height="31"></a> <a href="http://utrish.com.ru">Анапа. Отдых в Малом Утрише</a>.Описание и фотографии базы отдыха на Черном море. Форум, форма заказа.'; include '../view.php';

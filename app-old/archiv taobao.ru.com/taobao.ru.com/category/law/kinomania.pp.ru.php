@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.kinomania.pp.ru/links/">Увеличь количество посетителей с нашего каталога</a>'; include '../view.php';

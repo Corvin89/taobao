@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sufficed.com/">Sufficed.com Directory</a>'; include '../view.php';

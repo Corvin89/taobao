@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ariom.ru/"><img src="http://ariom.ru/img/ariom-88-31.jpg" alt="Сайт Лотоса" width="88" height="31" border="0"></a> - <a href="http://ariom.ru/">Сайт Лотоса</a>: системы развития человека, современная эзотерика. Несколько тысяч книг по теме. Журнал «Эзотера». Форумы, календарь событий, виртуальный тренинг.'; include '../view.php';

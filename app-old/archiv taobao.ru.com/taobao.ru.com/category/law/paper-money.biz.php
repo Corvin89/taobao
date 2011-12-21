@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.paper-money.biz/">"Боны мира" -  частная коллекция бонистики, иностранные боны</a>'; include '../view.php';

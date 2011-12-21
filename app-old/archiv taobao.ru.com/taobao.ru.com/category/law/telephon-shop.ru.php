@@ -1,1 +1,0 @@
-<?php $catalogLink = '<strong><a href="http://www.telephon-shop.ru/katalog">Телефоны, дата-кабели, bluetooth гарнитуры и адаптеры, карты памяти, адаптеры на 2 sim карты и многое другое на  telephon-shop.ru</a></strong>'; include '../view.php';

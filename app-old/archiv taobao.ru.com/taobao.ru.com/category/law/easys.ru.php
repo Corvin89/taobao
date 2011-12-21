@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.easys.ru/">www.easys.ru</a>, <a href="http://www.easys.ru/easy_board/40227.html">Сайт повествует о фильмах и книгах про Гарри Поттера, произведенных европейским автором Жанной Роулин.</a>'; include '../view.php';

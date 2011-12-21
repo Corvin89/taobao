@@ -1,1 +1,0 @@
-<?php $catalogLink = 'ЗАО "Ареал-Авто" - <a href="http://www.areal-avto.ru/" title="установка газового оборудования на авто" target="_blank">установка газового оборудования на авто</a>'; include '../view.php';

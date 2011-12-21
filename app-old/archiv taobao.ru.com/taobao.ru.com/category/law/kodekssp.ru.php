@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.kodekssp.ru">Юридическое агентство "Кодекс" г. Сергиев Посад</a>'; include '../view.php';

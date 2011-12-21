@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.michonexteriors.com/">Siding installation replacement</a>'; include '../view.php';

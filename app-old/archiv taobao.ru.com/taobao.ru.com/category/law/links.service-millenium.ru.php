@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://service-millenium.ru" target="_blank">Ремонт лазерных копиров и ноутбуков hp ,а так же продажа и востановление и заправка картриджей</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://arttek.spb.ru/shel/" target="_blank"> Шелкография</a>. АРТТЕК специализируется по <a href="http://arttek.spb.ru/shel/" target="_blank">нанесение логотипа на футболки, печать на футболках</a>.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://guitartime.ru/" target="_blank" title="Guitar Time - Гитарный юмор, статьи, анекдоты, обои, гитаристы, интересное и гитарное"><img src="http://guitartime.ru/img/gt88.gif" alt="Guitar Time - Развлечения и отдых на гитарную тему" border="0"></a>'; include '../view.php';

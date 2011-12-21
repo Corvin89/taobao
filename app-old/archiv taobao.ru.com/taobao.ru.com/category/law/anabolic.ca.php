@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.anabolic.ca"><b> Bodybuilding Forum</b></a> - Learn How to Build Muscle Mass fast by reading our bodybuilding articles and participating in our bodybuilding forum.'; include '../view.php';

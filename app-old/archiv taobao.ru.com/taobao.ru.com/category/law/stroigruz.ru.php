@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.stroigruz.ru/><b>Земляные работы  - все виды дорожных работ, аренда самосвалов </b></a>'; include '../view.php';

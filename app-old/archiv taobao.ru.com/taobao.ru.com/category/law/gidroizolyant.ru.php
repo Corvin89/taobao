@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gidroizolyant.ru">∆идка€ гидроизол€ци€</a>'; include '../view.php';

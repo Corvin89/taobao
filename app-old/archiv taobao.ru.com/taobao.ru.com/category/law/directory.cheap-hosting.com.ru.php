@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p><a href="http://www.cheap-hosting.com.ru"><b>Cheap Hosting - PHP Web Hosting</b></a><br>And reviews of the best web hosting providers that offer low cost website hosting services.</p>'; include '../view.php';

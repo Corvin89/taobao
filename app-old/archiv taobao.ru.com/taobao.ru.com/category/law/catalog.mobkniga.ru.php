@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mobkniga.ru">Все для мобилы!</a>'; include '../view.php';

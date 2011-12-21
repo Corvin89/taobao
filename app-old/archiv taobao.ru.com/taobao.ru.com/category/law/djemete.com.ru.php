@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://djemete.com.ru">Джемете</a> частный пансион "На Морской". Описание, фотографии, цены. <a href="http://djemete.com.ru/forum/">Форум об отдыхе в Джемете</a>.'; include '../view.php';

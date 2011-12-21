@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.suckful.net/">SuckFul.net - Free Website Directory - Link Submit - Web Submission - Websites that Don't Suck! </a>'; include '../view.php';

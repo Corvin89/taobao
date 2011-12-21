@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.kedr-vostok.com" target="_blank">отель Кедр - Восток</a>: комфортный отдых в Крыму'; include '../view.php';

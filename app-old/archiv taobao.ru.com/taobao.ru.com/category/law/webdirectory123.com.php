@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a(.*)href="http://(.*)webdirectory123.com(.*)>(.*)</a>'; include '../view.php';

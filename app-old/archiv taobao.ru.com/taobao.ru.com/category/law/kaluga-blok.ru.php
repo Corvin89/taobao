@@ -1,1 +1,0 @@
-<?php $catalogLink = ' ачественные <a href="http://www.kaluga-blok.ru">строительные бетонные блоки</a>'; include '../view.php';

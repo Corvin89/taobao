@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Отличные <a href="http://www.zakon.dp.ua/">юридические услуги</a>'; include '../view.php';

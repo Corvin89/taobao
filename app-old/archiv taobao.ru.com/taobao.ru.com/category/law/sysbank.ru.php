@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sysbank.ru">Банковские системы зарубежных стран</a>'; include '../view.php';

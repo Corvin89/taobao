@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://potehachas.ru'>организация взрослых праздников</a> от MAXEMOTIONS <br> <a href="http://www.atlanticschool.ru/ru/chastniy-detskiy-sad-atlantik-sao">частный детский сад в САО</a>'; include '../view.php';

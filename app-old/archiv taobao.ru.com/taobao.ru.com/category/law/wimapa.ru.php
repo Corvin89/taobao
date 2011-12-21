@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://the-besttourism.ru/">Туризм</a>, <a href="http://dinapol.ru/">развлечение</a>, <a href="http://mirtrip.ru/">мир</a> <a href="http://restoran-avgustin.ru/">еды</a>'; include '../view.php';

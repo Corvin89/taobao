@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mcseforum.com" id="R4B0C94">MCSE Certification Forum</a>'; include '../view.php';

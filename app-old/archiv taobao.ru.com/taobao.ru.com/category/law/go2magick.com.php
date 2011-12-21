@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.go2magick.com'>Мастер и Маргарита - Магический портал</a>'; include '../view.php';

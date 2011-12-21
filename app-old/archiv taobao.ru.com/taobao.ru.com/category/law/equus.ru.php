@@ -1,1 +1,0 @@
-<?php $catalogLink = '„то такое equus по латыни вы можете узнать <a href="http://www.equus.ru">здесь</a>.'; include '../view.php';

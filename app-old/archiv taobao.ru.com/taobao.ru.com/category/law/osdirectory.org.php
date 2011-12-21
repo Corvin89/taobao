@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.osdirectory.org">Open Source Directory</a>'; include '../view.php';

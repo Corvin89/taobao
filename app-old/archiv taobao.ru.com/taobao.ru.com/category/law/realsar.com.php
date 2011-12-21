@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!--Начало текстовой ссылки RealSar.com--> <a href="http://www.realsar.com/">RealSar - бизнес, коммерческая недвижимость, станки и оборудование</a> <!--Конец текстовой ссылки RealSar.com-->'; include '../view.php';

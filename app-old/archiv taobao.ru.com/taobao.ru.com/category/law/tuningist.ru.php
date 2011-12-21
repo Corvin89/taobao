@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tuningist.ru/exhibitions/">Выставки</a>, <a href="http://www.tuningist.ru/">бампера, авто тюнинг ваз</a>'; include '../view.php';

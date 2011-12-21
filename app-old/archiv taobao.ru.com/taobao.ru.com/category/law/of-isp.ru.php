@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://of-isp.ru/>Форум Интернет Сервис Провайдеров</a>'; include '../view.php';

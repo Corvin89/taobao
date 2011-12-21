@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Если хотите <a href="http://www.pnzstroy.ru/">продать или купить квартиру через агентство недвижимости в Пензе</a> - обращайтесь на PnzStroy.ru.<br>'; include '../view.php';

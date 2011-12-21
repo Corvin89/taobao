@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://pilatesball.ru">ѕилатес на м€че</a>'; include '../view.php';

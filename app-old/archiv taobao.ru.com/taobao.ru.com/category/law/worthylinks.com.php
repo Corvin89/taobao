@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.worthynews.com">Worthy News - Christian News Service</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sharpwebseo.com">Sharp Web Seo Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://bizbi.ru" target="_blank">Бизби</a> - Наро-Фоминск деловой'; include '../view.php';

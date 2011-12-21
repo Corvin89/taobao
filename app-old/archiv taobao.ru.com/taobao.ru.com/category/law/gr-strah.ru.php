@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://gr-strah.ru/>Гражданское страхование</a>'; include '../view.php';

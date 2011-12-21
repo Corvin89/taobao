@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.imperiareferatov.ru">Рефераты на заказ. Заказ рефератов </a>'; include '../view.php';

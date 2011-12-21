@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.arendapeterburg.ru" target="_blank"><img src="http://www.arendapeterburg.ru/banners/arendapeterburg.gif" alt="Квартиру в Санкт-Петербурге для посуточной аренды" width="88" height="31" border="0"></a>'; include '../view.php';

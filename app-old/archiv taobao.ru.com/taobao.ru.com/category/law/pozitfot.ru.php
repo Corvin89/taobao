@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Нашёл большую галерею фотографий на <a href="http://www.pozitfot.ru">http://www.pozitfot.ru</a>, очень много фото окружающего мира.'; include '../view.php';

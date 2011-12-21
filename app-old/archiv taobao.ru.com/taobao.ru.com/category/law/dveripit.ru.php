@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://dveripit.ru/dvernye_zamki/" target="_blank">дверные замки</a>. Все тонкости и нюансы описаны на сайте Двери Петербурга.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://shopslink.ru/">Белый каталог интернет магазинов</a>'; include '../view.php';

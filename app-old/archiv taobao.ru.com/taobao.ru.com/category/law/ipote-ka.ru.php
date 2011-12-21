@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://ipote-ka.ru/>»потека дл€ народа</a>'; include '../view.php';

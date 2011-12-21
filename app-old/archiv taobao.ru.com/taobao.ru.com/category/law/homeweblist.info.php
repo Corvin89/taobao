@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.buyingtravelinsuranceonline.com    ">travel insurance advice</a>'; include '../view.php';

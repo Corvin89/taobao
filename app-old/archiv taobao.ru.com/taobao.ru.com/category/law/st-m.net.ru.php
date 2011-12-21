@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://st-m.net.ru">Создание сайтов в Казане</a>'; include '../view.php';

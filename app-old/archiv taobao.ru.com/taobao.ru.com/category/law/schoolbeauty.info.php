@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.schoolbeauty.info" id="R8D3E5F">Local links source provider for colleges and vocational schooling</a>- Cosmetology School Directory Beauty Schools online Guide'; include '../view.php';

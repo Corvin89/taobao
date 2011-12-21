@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://stremyanka.ru >шкафы купе, гардеробные комнаты угловые raum plus Москва. Интернет магазин мебель. Изготовим проекты</a>'; include '../view.php';

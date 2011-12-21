@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mobilapa.ru/sot">Нужен мобильный телефоны? </a> Сотовые телефоны по брендам'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.emigrazia.ru/">миграционная служба, закон о иммиграции</a>, <a href="http://www.emigrazia.ru/info/migratory_service/">миграционная служба россии</a>'; include '../view.php';

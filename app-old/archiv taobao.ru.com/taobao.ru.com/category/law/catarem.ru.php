@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://catarem.ru">Стрительство и ремонт. Портал отделочных материалов.</a>'; include '../view.php';

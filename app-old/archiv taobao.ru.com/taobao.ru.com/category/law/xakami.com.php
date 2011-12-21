@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.aupairjobs.org/">Au Pairs</a>'; include '../view.php';

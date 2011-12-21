@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://medic.naletu.su">Каталог сайтов на медицинские темы</a>'; include '../view.php';

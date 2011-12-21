@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.avtobazar.com.ua' target='_blank'><b>Автобазар. Сайт бесплатных обьявлений.</b></a><br />Автобазар - продажа новых и подержанных автомобилей на Украине.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kat.cinemella.ru">Каталог от Киномании</a>'; include '../view.php';

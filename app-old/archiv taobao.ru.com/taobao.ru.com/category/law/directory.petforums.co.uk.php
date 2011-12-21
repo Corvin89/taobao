@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.petforums.co.uk" title="Pets" border="0"><img src="http://www.petforums.co.uk/directory/images/petforums.gif" title="Pets" alt="Pets" border="0"></a>'; include '../view.php';

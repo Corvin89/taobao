@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.logist.od.ua">ogist.od.ua</a> - Разработка бизнес плана Защита на кредитном отделе'; include '../view.php';

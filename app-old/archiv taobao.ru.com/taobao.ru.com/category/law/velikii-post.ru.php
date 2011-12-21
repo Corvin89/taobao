@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://velikii-post.ru' target='_blank'><b>Великий пост, рецепты постных блюд</b></a><br />Всё о великом посте, статьи, приготовление и рецепты постных блюд и многое другое.'; include '../view.php';

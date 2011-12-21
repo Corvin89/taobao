@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.deepbidding.co.uk">Premium web Directory</a>'; include '../view.php';

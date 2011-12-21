@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.techaudio.org">Audio Video Electronics Directory</a>'; include '../view.php';

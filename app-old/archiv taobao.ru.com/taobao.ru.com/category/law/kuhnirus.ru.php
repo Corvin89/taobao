@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Ёксклюзивна€ <a href="http://www.kuhnirus.ru">мебель дл€ кухни - эксклюзивные кухни</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tyres-test.com" target="_blank">Автомобильные летние шины с различными характеристиками</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '(YaCa0)'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://paskha.org.ua" target="_blank">Фольклор, живопись, народное творчество на тематику праздника Пасхи на www.paskha.org.ua</a>'; include '../view.php';

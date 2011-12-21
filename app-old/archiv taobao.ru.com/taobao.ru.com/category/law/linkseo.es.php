@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linkseo.es/">Link Seo</a>'; include '../view.php';

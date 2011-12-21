@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vetcare.ru/vyizov-veterinara/">вызов ветврача</a>, <a href="http://www.vetcare.ru/">ветеринара на дом</a>.'; include '../view.php';

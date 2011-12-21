@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.remont-minsk.by/"><img src="http://www.remont-minsk.by/image/banner.gif" alt="Ремонт в Минске" width="88" height="31" border="0"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'У нас на сайте <a href=http://www.hardtest.ru>обзоры компьютерных статей</a> о железе и программном обеспечении.'; include '../view.php';

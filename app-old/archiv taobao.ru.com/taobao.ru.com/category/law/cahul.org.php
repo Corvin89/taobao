@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cahul.org/"><img src="http://cahul.org/counter.php?id_counter=3&url=http://www.sensylight.ru&key=2ede3fae6fbd7f09ec1448786fe547dd&host=http://cahul.org/" alt="Каталог сайтов Кагула" border="0"></a>'; include '../view.php';

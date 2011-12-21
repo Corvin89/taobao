@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.findhosting.co.uk">Free Domain Name & Web Hosting Directory</a>'; include '../view.php';

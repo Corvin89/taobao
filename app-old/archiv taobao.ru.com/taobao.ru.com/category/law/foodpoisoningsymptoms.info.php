@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.foodpoisoningsymptoms.info" id="R0">foodpoisoningsymptoms.info</a>'; include '../view.php';

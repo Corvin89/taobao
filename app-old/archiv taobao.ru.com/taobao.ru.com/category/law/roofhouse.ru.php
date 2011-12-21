@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://roofhouse.ru/">Roofhouse.ru - сайт про установку стропил, выравнивание основания, утепление крыши и кровлю из металлочерепицы</a>'; include '../view.php';

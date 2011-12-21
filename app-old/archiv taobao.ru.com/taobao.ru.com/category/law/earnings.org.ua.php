@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a title="Заработок в Интернете. Основные способы заработка. Как заработать?" href="http://earnings.org.ua" target="_blank">
-<img alt="Заработок в Интернете. Основные способы заработка. Как заработать?"  src="http://earnings.org.ua/banner.gif" border="0"></a>'; include '../view.php';

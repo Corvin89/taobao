@@ -1,2 +1,0 @@
-<?php $catalogLink = '<br><li>Ћучший <a target="_blank" href="http://www.scanerlink.ru">скрипт накрутки т»÷ев и PRов: scanerlink.ru</a></li><br>
-<li><a target="_blank" href="http://abuse.scanerlink.ru">Ѕаза поискового спама - Scanerlink Abuse</a></li><br>'; include '../view.php';

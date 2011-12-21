@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://yut-vityazevo.ru"><img src="http://yut-vityazevo.ru/yut.gif " height="31" width="88" border="0" alt="Курорт Анапа. Отдых в Анапе в курортом поселке Витязево в гостевом доме Уют."></a><b>Курорт Анапа. Отдых в Витязево в гостевом дом Уют</b>'; include '../view.php';

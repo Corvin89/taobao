@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.domovoi.ru/?host=10775"><img src="http://www.domovoi.ru/count.php?id=10775" alt="Аренда квартир, Квартиры, Снять квартиру, Сдам квартиру, Домовой.ru" border=0></a>'; include '../view.php';

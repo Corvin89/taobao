@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://soulsick.ru/">Психология</a>'; include '../view.php';

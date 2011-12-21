@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://baza.blog-moto.ru/"><font face="Verdana" size=2 color="black">Авто-мото каталог - baza.blog-moto.ru</font></a>'; include '../view.php';

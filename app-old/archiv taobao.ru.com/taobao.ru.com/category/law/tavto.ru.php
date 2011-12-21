@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tavto.ru"><img src="http://www.tavto.ru/i/tavto.gif" width=88 height=31 border=0 alt="ТАВТО.РУ - Автопортал Татарстана" /></a>'; include '../view.php';

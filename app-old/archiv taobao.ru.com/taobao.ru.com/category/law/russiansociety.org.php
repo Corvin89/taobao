@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.russiansociety.org/">Русское общество в Греции</a>: статьи о <a href="http://www.russiansociety.org/category/articles/">раннем развитии</a> детей, <a href="http://www.russiansociety.org/category/articles/bilingvizm/">билингвизме</a> и другие полезные материалы'; include '../view.php';

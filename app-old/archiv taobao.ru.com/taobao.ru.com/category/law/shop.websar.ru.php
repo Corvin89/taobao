@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://shop.websar.ru/">Интернет-магазин: регистрационные ключи, рефераты и дипломы, скрипты и программы</a>'; include '../view.php';

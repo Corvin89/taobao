@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.datingagencyuk.org/"><b>Dating Agency</b></a><br>Free to Join UK Dating Agency For Online Dating UK.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://mobilzone.ru/anim/">Заставки для телефонов</a>, <a href="http://mobilzone.ru/mp3/">реалтоны</a>, <a href="http://mobilzone.ru/logo/">цветные картинки</a>, <a href="http://mobilzone.ru/catalog/">мобильные телефоны</a>'; include '../view.php';

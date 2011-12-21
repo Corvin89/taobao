@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://sitizona.ru" title="Антивирус нод 32 скачать бесплатно. Ключи и пароли." target="_blank"><img src="http://sitizona.ru/Newbutton/button.gif" border="0" alt="Антивирус нод 32 скачать бесплатно. Ключи и пароли." /></a><a href= "http://sitizona.ru/">Антивирус нод 32 скачать бесплатно. Ключи и пароли.</a>'; include '../view.php';

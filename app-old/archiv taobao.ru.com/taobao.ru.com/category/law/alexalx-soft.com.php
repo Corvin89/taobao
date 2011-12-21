@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.alexalx-soft.com" target="_blank">AlexAlx-Soft.Com - Мир Софта</a>'; include '../view.php';

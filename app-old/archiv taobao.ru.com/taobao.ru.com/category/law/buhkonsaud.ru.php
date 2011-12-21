@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.buhkonsaud.ru">Финансовый консалтинг</a> предлагает "Бухгалтерская компания"'; include '../view.php';

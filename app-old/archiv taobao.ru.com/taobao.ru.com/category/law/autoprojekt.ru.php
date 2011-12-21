@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.autoprojekt.ru/auto/mitsubishi.html" target=_blank>MITSUBISHI</a>'; include '../view.php';

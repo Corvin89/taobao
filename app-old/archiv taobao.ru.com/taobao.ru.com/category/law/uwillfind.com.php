@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.uwillfind.com/">Add URL & Submit Site to Free Website Directory</a>'; include '../view.php';

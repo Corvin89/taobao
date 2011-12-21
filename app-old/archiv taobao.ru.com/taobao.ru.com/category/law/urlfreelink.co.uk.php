@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.servicesgeneralaviation.com">General Aviation Services</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.legaldocumentsweb.com"><b>LegalDocumentsWeb.com</b></a><br>Whether it's free legal forms online, free downloadable legal documents, desktop software or even a simple template, LegalDocumentsWeb.com saves you time and money with reliable do-it-yourself legal forms and informative legal resources.'; include '../view.php';

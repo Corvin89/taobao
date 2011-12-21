@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.perma-link.com">Perma Link, Permanent Link Directory, Free Website & Link Submission Directory</a>'; include '../view.php';

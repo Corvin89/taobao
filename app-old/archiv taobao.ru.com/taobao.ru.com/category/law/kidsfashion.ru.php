@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Kidsfashion.ru: <a href="http://kidsfashion.ru/">интернет магазин детской одежды</a>, <a href="http://kidsfashion.ru/catalogue.html">детская одежда оптом</a>, <a href="http://kidsfashion.ru/">интернет магазин детских товаров</a>'; include '../view.php';

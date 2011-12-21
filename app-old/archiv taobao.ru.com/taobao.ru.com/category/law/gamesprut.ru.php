@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gamesprut.ru">компьютерные игры, обзор игр, новые игры, чит коды, коды к играм, прохождение игр</a>'; include '../view.php';

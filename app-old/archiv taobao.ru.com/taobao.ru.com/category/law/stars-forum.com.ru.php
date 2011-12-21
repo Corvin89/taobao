@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.1stanapa.ru">Гостиницы Витязево</a> описания и контактная информация. <a href="http://www.1stanapa.ru/description72.html">Анапа гостиница "Нева"</a>.'; include '../view.php';

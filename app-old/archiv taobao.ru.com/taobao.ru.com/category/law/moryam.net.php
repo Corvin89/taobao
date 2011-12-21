@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Программы, знакомства, общение для моряков." href="http://www.moryam.net/">В рейсе и дома. Роза  ветров.Сайт для моряков.</a>'; include '../view.php';

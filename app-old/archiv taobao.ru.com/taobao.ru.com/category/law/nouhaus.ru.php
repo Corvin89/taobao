@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.nouhaus.ru">Строительные материалы: кирпич, жби</a>'; include '../view.php';

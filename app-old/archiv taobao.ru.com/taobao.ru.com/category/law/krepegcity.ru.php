@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.krepegcity.ru/assort2.htm" title="болт высокопрочный">Болт высокопрочный</a>. Бесперебойные поставки. Доставка по г. Санкт-Петербург бесплатно.'; include '../view.php';

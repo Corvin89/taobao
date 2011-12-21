@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://prwebdirectory.com/">PRWebDirectory / Free Website Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.vibrostroy.com">АВЕЛАНА. Оборудование для заводов ЖБИ.</a>'; include '../view.php';

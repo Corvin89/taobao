@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.howtovegetablegardening.com">winter sowing vegetables</a>'; include '../view.php';

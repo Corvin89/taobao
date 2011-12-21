@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.orenschools.ru/cncat_from.php?r4cc367d7bc334">Каталог сайтов образовательных учреждений Оренбургской области</a>'; include '../view.php';

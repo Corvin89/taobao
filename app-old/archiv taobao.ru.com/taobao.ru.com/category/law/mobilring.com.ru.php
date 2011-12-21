@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mobilring.com.ru/">Мелодии, логотипы, java игры. Огромный выбор полифонических мелодий, новейших java игр и логотипов</a>'; include '../view.php';

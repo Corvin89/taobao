@@ -1,1 +1,0 @@
-<?php $catalogLink = '<b>Оптиме</b> - <a href ="http://www.optime.ru/del/">переезды, грузоперевозки автомобилей</a>, <a href ="http://www.optime.ru/equipment/">торговое оборудование, погрузчики Unc</a>, <a href ="http://www.optime.ru/Estate/">образцы квартир, аренда офиса</a>'; include '../view.php';

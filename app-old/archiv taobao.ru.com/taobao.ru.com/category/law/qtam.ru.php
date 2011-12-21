@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://qtam.ru">√орода обои и картинки на рабочий стол</a>'; include '../view.php';

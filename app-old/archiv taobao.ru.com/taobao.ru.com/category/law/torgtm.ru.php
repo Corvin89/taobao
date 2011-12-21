@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.torgtm.ru">TorgTM.ru - Торговля. Бизнес. Информация. Российский бизнес-портал.</a>'; include '../view.php';

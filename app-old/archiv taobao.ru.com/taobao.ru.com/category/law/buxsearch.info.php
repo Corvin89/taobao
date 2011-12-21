@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.buxsearch.info">BuxSearch.info</a>'; include '../view.php';

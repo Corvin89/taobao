@@ -1,1 +1,0 @@
-<?php $catalogLink = 'недолга€ <a href='http://lpgpro.ru'>lpg процедура</a> и <a href='http://lpgpro.ru/fotoepilyaciya.html'>фотоэпил€ци€</a>  - продаолжаютс€ в течении 30 минут. и <a href='http://www.lpgcentre.ru/vakuumnyiy-massazh.html'> вакуумный аппаратный массаж</a> - <a href='http://www.lpgcentre.ru/tsenyi.html'>lpg цены</a>'; include '../view.php';

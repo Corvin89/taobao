@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.stroimbany.ru/">Строительство русской бани в Туле</a>'; include '../view.php';

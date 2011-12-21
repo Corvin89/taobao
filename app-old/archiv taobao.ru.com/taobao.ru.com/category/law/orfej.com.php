@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.orfej.com/directory">Orfej free gambling directory</a>'; include '../view.php';

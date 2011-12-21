@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.landprof.ru/">Наши партнеры</a><a href="http://landprof.ru/">Покупка и продажа земельных участков, недвижимость за рубежом, купить земельный участок.</a>'; include '../view.php';

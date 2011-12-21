@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://cable.co.ua' target='_blank'><b>Кабель и провод Украины</b></a><br />Кабельно-проводниковая продукция производства Украина для оптовых покупателей'; include '../view.php';

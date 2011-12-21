@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.barshop.ru">продажа виски</a>'; include '../view.php';

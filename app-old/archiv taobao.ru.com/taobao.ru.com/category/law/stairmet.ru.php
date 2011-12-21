@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.stairmet.ru'>металлические лестницы</a> и <a href='http://www.stairmet.ru'>балясины</a>, <a href='http://www.stairmet.ru'>стеклянные ограждения</a> и <a href='http://www.stairmet.ru'>балконные ограждения</a>'; include '../view.php';

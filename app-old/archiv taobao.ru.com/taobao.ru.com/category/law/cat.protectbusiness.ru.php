@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.protectbusiness.ru/">Наши партнёры</a><a href="http://protectbusiness.ru/">Средства индивидуальной защиты, Бронежилеты, Шлемы, Огнетушители, Противогазы и респираторы</a>'; include '../view.php';

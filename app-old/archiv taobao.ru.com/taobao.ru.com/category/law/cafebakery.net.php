@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cafebakery.net" id="RF342F7">Category locating directory listing page offers Bagel Cafes and eatery shops</a>- Cream Cheese, Gourmet Delis Luncheon, Bakers Eateries Pantry, Bake Store'; include '../view.php';

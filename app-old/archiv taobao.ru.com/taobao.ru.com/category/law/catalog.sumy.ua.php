@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://catalog.sumy.ua/" title="Каталог сайтов города Сумы"> <img border="0" src="http://catalog.sumy.ua/images/banner.gif" 
-alt="Каталог сайтов города Сумы" title="Каталог сайтов города Сумы" ></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.quitsmokingtipshelp.com">stop smoking help</a>'; include '../view.php';

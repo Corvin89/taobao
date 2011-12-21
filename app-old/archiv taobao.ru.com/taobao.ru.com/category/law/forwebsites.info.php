@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.forwebsites.info.com/">ForWebsites Directory</a>'; include '../view.php';

@@ -1,2 +1,0 @@
-<?php $catalogLink = '<p align="center"><a href="http://www.bioexplorer.net"><img
-src="http://www.bioexplorer.net/logo.gif"  width="88" height="31" alt="BioExplorer" boder = "0"> </a></p>'; include '../view.php';

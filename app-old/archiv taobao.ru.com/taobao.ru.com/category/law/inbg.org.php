@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.inbg.org">Директория за хостинг, уеб дизайн и интернет реклама</a>'; include '../view.php';

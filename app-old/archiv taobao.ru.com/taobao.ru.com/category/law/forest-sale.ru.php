@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="дверная коробка" href="http://forest-sale.ru/6-dvernye-bloki-derevyannye.html"><strong>дверная коробка </strong></a>'; include '../view.php';

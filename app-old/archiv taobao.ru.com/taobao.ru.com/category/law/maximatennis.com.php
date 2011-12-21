@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://maximatennis.com'>Latest film-noir cinema movies</a>'; include '../view.php';

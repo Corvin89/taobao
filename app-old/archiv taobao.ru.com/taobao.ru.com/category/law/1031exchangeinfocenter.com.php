@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.1031exchangeinfocenter.com">1031 Exchange Info Center</a>'; include '../view.php';

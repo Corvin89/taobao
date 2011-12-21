@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.officecenter.ru' target=_blank><img src='http://www.officecenter.ru/mywebs_modules/link/88_31.gif' width=88 height=31 border=0 alt='Аренда помещений: офис, склад'></a>'; include '../view.php';

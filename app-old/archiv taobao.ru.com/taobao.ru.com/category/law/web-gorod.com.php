@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://web-gorod.com/top.php"><img src="http://web-gorod.com/i/button.gif" alt="WEB-ГОРОД - Место обитания сайтов" width="88" height="31" border="0"></a>'; include '../view.php';

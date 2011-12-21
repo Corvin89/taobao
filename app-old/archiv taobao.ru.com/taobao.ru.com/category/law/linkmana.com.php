@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linkmana.com">LinkMana.com - Submit a Free Deep Link Website - Web Submisson Directory - Spider List</a>'; include '../view.php';

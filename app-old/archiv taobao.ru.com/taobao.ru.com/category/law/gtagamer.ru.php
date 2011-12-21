@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://gtagamer.ru" target="_blank">Криминальный Мир GTA</a>'; include '../view.php';

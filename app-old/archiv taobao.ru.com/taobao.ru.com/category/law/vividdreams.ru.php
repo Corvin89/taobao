@@ -1,2 +1,0 @@
-<?php $catalogLink = '”слышав о возможности осознать себ€ во сне сп€щим, люди часто спрашивают: "«ачем мне учитьс€ этому?
-<a href="http://vividdreams.ru/38593-poleznye-primeneniya-osoznannyx-snov.html">ѕолезные применени€ осознанных снов</a>'; include '../view.php';

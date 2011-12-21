@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.raskrutka.com/">RASKRUTKA.COM - создание, поддержка и раскрутка сайтов</a> Самый полный комплекс по созданию и продвижению сайтов'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.stroyexpertiza.com/">Независимая экспертиза качества строительства</a>'; include '../view.php';

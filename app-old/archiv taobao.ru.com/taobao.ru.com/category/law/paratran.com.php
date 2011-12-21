@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://paratran.com>»нтернет справочник параметров бипол€рных транзисторов. 2sc2625 описание тут есть.</a>'; include '../view.php';

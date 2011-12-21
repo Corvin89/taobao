@@ -1,1 +1,0 @@
-<?php $catalogLink = '<div>На <a href="http://zarubezh.ru/forum/">форуме для туристов</a> можно узнать про <a href="http://www.zarubezh.ru/articles/category/59">услуги переводчика</a> <a href="http://www.zarubezh.ru/">за рубежом</a>.</div>'; include '../view.php';

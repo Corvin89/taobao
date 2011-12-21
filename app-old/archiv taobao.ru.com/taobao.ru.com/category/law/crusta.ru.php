@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://crusta.ru' target='_blank'><b>Детские болезни</b></a><br />Точная и подробная информация по лечению детских заболеваний на медицинском портале Crusta.ru'; include '../view.php';

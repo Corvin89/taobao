@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.condom.ru/client_zone/business-plan/">Аренда торговых автоматов. Кондоматы для всех.</a>'; include '../view.php';

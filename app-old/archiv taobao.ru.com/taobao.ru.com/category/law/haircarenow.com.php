@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.haircarenow.com' target='_blank'><b>Средства от выпадения волос для мужчин и женщин</b></a><br />Качественные препараты, произведенные в США, от поставщика.'; include '../view.php';

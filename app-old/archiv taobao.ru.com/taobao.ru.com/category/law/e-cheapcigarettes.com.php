@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.e-cheapcigarettes.com/">Online cheap cigarettes</a> - Buy cheap cigarettes from our store. Cheap tobacco for your with fast delivery.'; include '../view.php';

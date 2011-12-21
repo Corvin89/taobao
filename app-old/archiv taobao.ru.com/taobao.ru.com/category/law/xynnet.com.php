@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.xynnet.com/">Xynnet Web Directory</a>'; include '../view.php';

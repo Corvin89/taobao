@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://balloon-printing.com">balloon-printing.com</a>'; include '../view.php';

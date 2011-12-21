@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p><a href="http://itvds.ru" target="_top">ItVds.ru Хостинг Сайты Домены Движки VDS Реселлинг</a></p>'; include '../view.php';

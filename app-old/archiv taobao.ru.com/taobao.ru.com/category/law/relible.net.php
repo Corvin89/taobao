@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://relible.net"> А также полезные советы, правила этикета.</a>'; include '../view.php';

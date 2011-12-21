@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.planeta-training.ru">Тренинги и семинары. Измени свою жизнь!</a>'; include '../view.php';

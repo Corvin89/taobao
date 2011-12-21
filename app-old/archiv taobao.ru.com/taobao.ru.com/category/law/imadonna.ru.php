@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.imadonna.ru>Мадонна - биография, дискография, фильмография</a>'; include '../view.php';

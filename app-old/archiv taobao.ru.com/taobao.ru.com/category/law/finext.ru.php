@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.finext.ru/">Финансовые новости</a>'; include '../view.php';

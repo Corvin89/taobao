@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.sea-web.ru/ >Хороший каталог ссылок</a>'; include '../view.php';

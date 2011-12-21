@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://www.adultsextoys.com/">Adult Sex Toys</A> - Explore our adult sex toy forums and directory of toy resources.'; include '../view.php';

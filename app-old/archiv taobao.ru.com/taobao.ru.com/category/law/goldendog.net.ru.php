@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://goldendog.net.ru" target=blank><img src="http://goldendog.net.ru/link/ban.gif" width=88 height=31 border=0  alt="племенной питомник лабрадоров ретриверов и голден ретриверов"></a>'; include '../view.php';

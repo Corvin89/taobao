@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rucat.cn">RuCat - наш каталог</a> / <a href="http://www.webfermer.info/">форум веб-мастеров</a>'; include '../view.php';

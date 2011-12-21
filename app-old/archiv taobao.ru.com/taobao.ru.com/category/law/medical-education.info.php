@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a(.*)href="http://(.*)Medical-Education.info(.*)>(.*)</a>'; include '../view.php';

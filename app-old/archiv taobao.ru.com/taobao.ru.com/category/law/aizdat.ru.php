@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://aizdat.ru/" target="_blank"><img src="http://aizdat.ru/banners/banner2.gif" alt="aizdat.ru - свободная публикация стихотворений, стихи современных авторов, электронные книги" width="88" height="31" border="0"></a>'; include '../view.php';

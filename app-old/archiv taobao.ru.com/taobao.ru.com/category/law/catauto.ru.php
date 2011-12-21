@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.catauto.ru/">CatAuto - каталог авто сайтов</a>'; include '../view.php';

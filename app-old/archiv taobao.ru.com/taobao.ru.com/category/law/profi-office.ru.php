@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.profi-office.ru/"><img src="http://www.profi-office.ru/images/logo.gif" width="88" height="31" alt="ќфисна€ мебель" border="0"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Modernroofs.ru - <a href="http://www.modernroofs.ru/">сайт по кровле и монтажу</a>'; include '../view.php';

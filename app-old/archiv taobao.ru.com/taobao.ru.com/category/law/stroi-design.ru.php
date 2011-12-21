@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.stroi-design.ru/historical/indian/">Исторические стили интерьера: Индийский стиль</a>, <a href="http://www.stroi-design.ru/">конструктивизм в интерьере, минимализм в интерьере, стили дизайна интерьера</a>'; include '../view.php';

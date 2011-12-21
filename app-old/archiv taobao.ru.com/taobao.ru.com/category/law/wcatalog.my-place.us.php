@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://electrodance.ru" target="_blank" title="Electrodance.ru - Информационно-музыкальный портал"><img src="http://electrodance.ru/Banners/knopka88x31.gif" border="0" width="88" height="31"></a>'; include '../view.php';

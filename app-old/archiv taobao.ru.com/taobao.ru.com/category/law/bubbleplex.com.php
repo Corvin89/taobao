@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bubbleplex.com/">Bubbleplex: Website Index</a>'; include '../view.php';

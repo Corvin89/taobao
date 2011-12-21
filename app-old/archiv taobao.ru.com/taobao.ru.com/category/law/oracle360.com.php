@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.oracle360.com" id="RD5B5B9">Oracle360 Web Directory</a>'; include '../view.php';

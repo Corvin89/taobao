@@ -1,3 +1,0 @@
-<?php $catalogLink = '<!-- www.d-vision.ru -->
-<a href="http://www.d-vision.ru" target="_blank"><IMG border='0' height=31 width=88 src='http://www.d-vision.ru/images/dv.gif' alt='Компания Даймонд Вижн (Diamond Vision Ltd). Разработка программных продуктов.  Приложения для операционной системы Windows. Базы данных. Интернет-проекты. Импорт готовых лекарственных средств, витаминов и фармацевтических субстанций в Российскую Федерацию.'></a>
-<!-- /www.d-vision.ru -->'; include '../view.php';

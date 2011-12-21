@@ -1,1 +1,0 @@
-<?php $catalogLink = '&lt;p&gt;&lt;a href=http://catalog.uanics.com&gt;Обзор интернета - общетематический каталог сайтов&lt;/a&gt;'; include '../view.php';

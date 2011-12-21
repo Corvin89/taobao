@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Автомобили мира на сайте <a href="http://www.alwast.ru">http://www.alwast.ru</a>, хороший фотосайт.'; include '../view.php';

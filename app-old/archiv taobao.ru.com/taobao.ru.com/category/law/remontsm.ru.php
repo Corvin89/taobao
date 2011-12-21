@@ -1,1 +1,0 @@
-<?php $catalogLink = 'СМ сервис. Услуги по <a href="http://remontsm.ru/">ремонту стиральных и посудомоечных машин</a>'; include '../view.php';

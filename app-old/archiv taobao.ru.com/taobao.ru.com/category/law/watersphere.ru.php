@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.watersphere.ru">катера и яхты, спиннинг</a>, <a href="http://www.watersphere.ru/fishing/summer/">реки для рыбалки</a>'; include '../view.php';

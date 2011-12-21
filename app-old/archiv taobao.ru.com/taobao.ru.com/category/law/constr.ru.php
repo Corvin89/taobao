@@ -1,4 +1,0 @@
-<?php $catalogLink = '<a href="http://www.constr.ru/">АЛЮМИНИЕВЫЙ ПРОФИЛЬ СО СКЛАДА.</a>
-Более 3000 наименований алюминиевого профиля и комплектующих.
-Для производства <a href="http://www.constr.ru/wdv.html">окон</a>, <a href="http://www.constr.ru/dveri.html">дверей</a>, <a href="http://www.constr.ru/vitrazhi.html">витражей</a>, <a href="http://www.constr.ru/ventfasad.html">вентфасадов</a>, <a href="http://www.constr.ru/peregorodki.html">интерьерных перегородок</a>, <a href="http://www.constr.ru/shkafi.html">шкафов - купе</a>.
-Скидки до 15 % от оптовой цены завода-изготовителя.'; include '../view.php';

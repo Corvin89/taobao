@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://webcat.naletu.su">Обще тематический каталог сайтов</a>'; include '../view.php';

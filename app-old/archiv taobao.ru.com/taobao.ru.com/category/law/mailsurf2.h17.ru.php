@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=_blank href=http://www.mailsurf2.h17.ru>Самый лучший сайт о зароботке в сети!</a>'; include '../view.php';

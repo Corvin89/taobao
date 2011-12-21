@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gaypornblogz.com">Gay Porn Blogs Directory</a>'; include '../view.php';

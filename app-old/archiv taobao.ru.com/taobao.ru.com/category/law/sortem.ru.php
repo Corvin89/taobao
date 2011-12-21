@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Советские автомобили и легенды СССР на <a href="http://www.sortem.ru">http://www.sortem.ru</a>, ваз, газ, уаз и другие модели.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bestwebdirectory.info">Best Web Directory</a>Most reliable Search engine friendly human edited web directory. Submit here to increase your link popularity & Traffic.'; include '../view.php';

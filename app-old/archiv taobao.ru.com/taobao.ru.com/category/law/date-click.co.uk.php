@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.date-click.co.uk/"><b>Dating UK</b></a><br>Finding dates with singles is as easy as a click of a mouse at Date Click!'; include '../view.php';

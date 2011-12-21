@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://mortgagepages.com">mortgagepages.com</a>'; include '../view.php';

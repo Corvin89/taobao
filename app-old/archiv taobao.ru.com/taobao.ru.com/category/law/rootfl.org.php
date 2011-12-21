@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rootfl.org/">Root Fl Directory</a>'; include '../view.php';

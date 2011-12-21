@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.teatr.hit.lv/" target=_blank>Театр "Дебют" 95 рижской средней школы.</a>'; include '../view.php';

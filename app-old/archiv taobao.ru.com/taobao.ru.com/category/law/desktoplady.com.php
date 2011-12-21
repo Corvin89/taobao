@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://desktoplady.com'>Лучшие обои на рабочий стол с обнаженными знаменитостями!</a>'; include '../view.php';

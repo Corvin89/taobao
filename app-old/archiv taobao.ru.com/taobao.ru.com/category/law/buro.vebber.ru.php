@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://buro.vebber.ru target='_blank'>buro.vebber.ru</a>'; include '../view.php';

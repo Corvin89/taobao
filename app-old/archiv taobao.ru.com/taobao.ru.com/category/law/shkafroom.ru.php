@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.shkafroom.ru">Ўкафы-купе, остекление балконов, стеллажи, перегородки</a>'; include '../view.php';

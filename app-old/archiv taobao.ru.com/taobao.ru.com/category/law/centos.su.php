@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.centos.su">CentOS - лучшая ОС</a>'; include '../view.php';

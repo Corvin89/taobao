@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://OdontoSoft.com">OdontoSoft Millennium, Dental Practice Management Software</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.healthypregnancytipsadvice.com">pregnancy health tips</a>'; include '../view.php';

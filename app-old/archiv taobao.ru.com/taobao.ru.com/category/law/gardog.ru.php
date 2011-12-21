@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gardog.ru">Немецкие овчарки. Хорошее соотношение цены и качества. www.gardog.ru </a>'; include '../view.php';

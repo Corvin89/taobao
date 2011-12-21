@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A HREF="http://bestcat.stwol.ru">Превосходный каталог сайтов</A>'; include '../view.php';

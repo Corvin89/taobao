@@ -1,1 +1,0 @@
-<?php $catalogLink = 'ruarenda.ru - это <a href="http://www.rusflat.ru/" target="_blank">Снять элитную квартиру в аренду </a> , <a href="http://www.freehome.ru/" >Доска объявлений о продаже недвижимости, цены от собственников </a> , <a href="http://www.rusflat.ru/proposition/sale/purchase/" target="_blank">На  rusflat.ru  покупка квартир </a>'; include '../view.php';

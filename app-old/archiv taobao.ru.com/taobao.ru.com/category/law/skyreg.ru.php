@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.skyreg.ru">Продвижение сайта в интернете</a>'; include '../view.php';

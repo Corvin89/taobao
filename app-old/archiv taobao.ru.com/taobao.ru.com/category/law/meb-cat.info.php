@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://shkafs.su">http://shkafs.su</a> Шкафы купе идеал прямо с призводства Спб'; include '../view.php';

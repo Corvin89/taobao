@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.zermic.com">Zermic Directory</a>'; include '../view.php';

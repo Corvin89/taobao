@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.topturfsc.com/directory/">Top Turf Hydroseeding Directory</a>'; include '../view.php';

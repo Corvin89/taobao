@@ -1,1 +1,0 @@
-<?php $catalogLink = 'HeatDom.RU - <a href="http://www.heatdom.ru/">Автономное отопление коттеджа, дачи. Инфракрасное отопление</a>.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.YearFuture.net">YearFuture</a>'; include '../view.php';

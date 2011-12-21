@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Сано" href="http://sano.com.ua">Сано: </a><a title="современное питание свиней, коров и домашней птицы" target="_blank" href="http://sano.com.ua">Современное питание свиней, коров и домашней птицы</a>'; include '../view.php';

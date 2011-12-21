@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.eyeretinaldisorder.com" id="R0">eye retina</a>'; include '../view.php';

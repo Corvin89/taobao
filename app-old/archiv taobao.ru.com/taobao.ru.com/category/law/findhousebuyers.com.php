@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.findhousebuyers.com"><b>We Buy Houses</b></a> - Member of the Find Houses Buyers Directory.'; include '../view.php';

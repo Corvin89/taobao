@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://rest4.ws5.ru/">Строго Тематический Каталог Ссылок</a>'; include '../view.php';

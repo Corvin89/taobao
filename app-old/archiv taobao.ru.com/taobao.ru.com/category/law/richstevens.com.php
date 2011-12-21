@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.richstevens.com"><b>RichStevens.com</b></a><br>Got Rich? If you don't... get him here... the one and only Rich Stevens at RichStevens.com ...Who is Rich Stevens? Maybe you have heard Rich Stevens on the radio? Saw him on TV? Lots of fun stuff is waiting for you right now. Come check it out.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.influenzasymptomstreatments.com">influenza treatments</a>'; include '../view.php';

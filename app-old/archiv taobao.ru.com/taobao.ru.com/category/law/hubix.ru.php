@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hubix.ru/"><img src="http://www.hubix.ru/hubix1.gif" width="88" height="31" border="0" alt="HUBIX SARATOV – СИП, линейная арматура для СИП (СИП-2, СИП-4), изолированный диэлектрический инструмент и снаряжение для работ под напряжением, обогреватели, система электрического отопления, панели OWEL"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.panasonic-pbx.ru' target='_blank'><b>АТС Panasonic серии KX-TDA</b></a><br />АТС Panasonic серии KX-TDA включает в себя АТС KX-TDA30, АТС KX-TDA100, АТС KX-TDA200 и АТС KX-TDA600.'; include '../view.php';

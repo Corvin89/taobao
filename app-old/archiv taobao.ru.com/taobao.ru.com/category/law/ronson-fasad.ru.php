@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ronson-fasad.ru/">Навесные вентилируемые фасады, крепление в межэтажные перекрытия</a>'; include '../view.php';

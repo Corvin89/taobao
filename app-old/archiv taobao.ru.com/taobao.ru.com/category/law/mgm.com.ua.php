@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://mgm.com.ua/" target="_self"><img alt="Молодогвардеец" border="1" height="31" src="http://mgm.com.ua/images/banners/knopka.gif" title="Молодогвардеец" width="88" /></a>'; include '../view.php';

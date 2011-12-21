@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://linkexchange.netnsk.ru/" target="_blank">Link exchange from netnsk.ru</a><br/><a href="http://netnsk.ru/" target="_blank">p2p DC++ BitTorrent eMule Novosibirsk</a>'; include '../view.php';

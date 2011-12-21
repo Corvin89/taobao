@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://wallpaper-free.ru/" title="Бесплатные обои для рабочего стола">Бесплатные обои для рабочего стола</a>'; include '../view.php';

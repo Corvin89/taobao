@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.medkomplekt.ru/index.php?id=11 target=_blank>Хирургический инструмент. Медицинский инструмент</a>. <a href=http://www.medkomplekt.ru/index.php?id=9 target=_blank>Медицинское оборудование</a>. <a href=http://www.medkomplekt.ru/index.php?id=12 target=_blank>Предметы ухода за больными</a>.'; include '../view.php';

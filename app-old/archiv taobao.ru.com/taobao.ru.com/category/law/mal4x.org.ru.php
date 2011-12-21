@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title='Локальная сеть MAL4X'href='http://test' target=_blank> <img alt='Локальная сеть MAL4X'src='http://test/img/mal4x88X31.jpg'border='0'></a>'; include '../view.php';

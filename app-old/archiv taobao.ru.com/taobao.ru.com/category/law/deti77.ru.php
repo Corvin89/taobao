@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.deti77.ru/">ƒетские кол€ски, кроватки, автокресла и мебель</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.rezkazerkal.ru/' target='_blank'><b>—текольна€ мастерска€</b></a><br />ѕродажа стекла и зеркал, монтаж зеркал, аварийное остекление, резка стекла по размерам заказчика'; include '../view.php';

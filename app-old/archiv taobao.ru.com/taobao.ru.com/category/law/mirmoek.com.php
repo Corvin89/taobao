@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=_blank href=http://www.mirmoek.com>Мойки BLANCO SCHOCK TEKA, духовые шкафы bosch, стиральные машины</a>'; include '../view.php';

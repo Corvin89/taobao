@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.FAT64.NET/" id="R0">FAT64.NET</a>'; include '../view.php';

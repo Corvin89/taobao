@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.businessstory.com.ua/" target="_blank">История Украинского бизнеса</a>'; include '../view.php';

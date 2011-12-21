@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://raskrutka.com">Raskrutka.com - –аскрутка сайтов</a> - все виды услуг дл€ вашего сайта. ’остинг, доменное им€, раскрутка, обучение, реклама.'; include '../view.php';

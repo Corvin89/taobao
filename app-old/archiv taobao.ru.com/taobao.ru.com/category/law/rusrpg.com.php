@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://rusrpg.com" target="_blank"><img src="http://rusrpg.com/ourbtn/rusrpg_1.gif" width="88" height="31" alt="RUSRPG.COM - каталог ролевых сайтов России" title="RusRpg.com - каталог ролевых сайтов России" border="0"></a>'; include '../view.php';

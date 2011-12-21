@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ehealthdirectory.eu"><img src="http://www.ehealthdirectory.eu/images/ehealthdirectoryeu.gif" alt="eHealth Directory EU" border="0"/></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p>Недвижимость за рубежом - сайт <a href="http://www.zarubezhom.ru/">здесь</a></p>'; include '../view.php';

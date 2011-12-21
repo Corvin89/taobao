@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Продаём <a href="http://www.infrakrasnik.ru/">карбоновые обогреватели</a> (495) 580-4070'; include '../view.php';

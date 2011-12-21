@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://aetnadentalplancare.com/aetna-dental-plan/"">aetna dental plan</a>'; include '../view.php';

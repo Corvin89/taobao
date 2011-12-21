@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cloun.ru/">детские праздники</a> пройдут весело если  <a href="http://www.cloun.ru/">пригласить клоуна</a> в гости!'; include '../view.php';

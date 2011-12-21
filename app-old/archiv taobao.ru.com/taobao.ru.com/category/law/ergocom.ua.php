@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ergocom.ua/" target="_blank"><b>“онометры в ”краине - “ѕ  "Ёргќ ом"</b>. Ёлектронные тонометры NISSEI и механические тонометры и стетоскопы Little Doctor.</a>'; include '../view.php';

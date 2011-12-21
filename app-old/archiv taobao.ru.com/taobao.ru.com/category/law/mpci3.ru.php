@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://fliby.ru/">СПО Флибустьеры</a>'; include '../view.php';

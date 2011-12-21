@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pirofire.ru">Организация фейерверк шоу, пиротехника, салюты</a>'; include '../view.php';

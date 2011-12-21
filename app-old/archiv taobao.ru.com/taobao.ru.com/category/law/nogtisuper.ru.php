@@ -1,2 +1,0 @@
-<?php $catalogLink = '—алон красоты ќчи „ерные предлагают свои услуги а именно : 
-<a href='http://nogtisuper.ru/naraschivanie-nogtey/index.php'>наращивание ногтей</a>, <a href='http://www.glazkisuper.ru'>химическа€ завивка ресниц</a>, <a href='http://www.lpgcentre.ru/uslugi/miostimulyatsiya.html'>миостимул€ци€</a> и <a href="http://www.zagori.ru">моментальный загар</a>'; include '../view.php';

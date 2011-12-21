@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a HREF="http://www.dinobigioni.com.ua/" TITLE="http://www.italianshoes.in.ua/" TARGET="_blank" ><img src="http://www.dinobigioni.com.ua/images/dinobigioni_88x31.JPG"><br>обувь dino bigioni</a>'; include '../view.php';

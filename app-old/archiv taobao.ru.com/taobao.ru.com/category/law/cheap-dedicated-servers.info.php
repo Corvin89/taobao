@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p><a href="http://www.cheap-dedicated-servers.info/" target="_blank"><b>Low Cost Dedicated Servers</b></a><br>Information about the cheapest dedicated web servers hosting deals available and cheap dedicated server hosts.</p>'; include '../view.php';

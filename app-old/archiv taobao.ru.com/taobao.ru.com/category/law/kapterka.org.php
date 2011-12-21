@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.kapterka.org">Магазин военной одежды</a> и военного снаряжения. Одежда, обувь, камуфляж.'; include '../view.php';

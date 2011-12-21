@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://altayzemlia.ru/">Алтай земля, купить землю, продать землю. Недвижимость Горный Алтай</a>'; include '../view.php';

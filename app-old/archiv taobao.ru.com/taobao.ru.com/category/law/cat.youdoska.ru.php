@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.youdoska.ru">Каталог сайтов</a> | <a href="http://youdoska.ru">Онлайн доска объявление в интернете</a>'; include '../view.php';

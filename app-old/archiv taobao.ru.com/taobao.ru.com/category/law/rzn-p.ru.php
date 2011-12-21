@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://rzn-p.ru/>Строительство коттеджа из пенобетона</a>'; include '../view.php';

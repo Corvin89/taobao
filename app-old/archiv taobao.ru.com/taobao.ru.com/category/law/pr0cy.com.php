@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://pr0cy.com/>Сервис проверки доменов. Бесплатная авторегистрация в каталогах</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Alary.ru - <a href="http://www.alary.ru/turkey.php">Горящие туры в Турцию</a>'; include '../view.php';

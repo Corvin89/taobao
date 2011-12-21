@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.studylist.ru">вузы россии, рейтинг вузов россии, медицинские вузы россии, рейтинг вузов россии 2009</a>'; include '../view.php';

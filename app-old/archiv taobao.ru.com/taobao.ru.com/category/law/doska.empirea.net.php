@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://doska.empirea.net" target="_blank"><img src="http://doska.empirea.net/images/logo.gif" alt="Доска объявлений. Бесплатные объявления с фото." border="0" width="88" height="31"></a>'; include '../view.php';

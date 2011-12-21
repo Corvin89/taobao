@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.aquapoint.ru/">Котлы, радиаторы, отопление, сантехника, бассейны, теплый пол, водонагреватели </a> - интернет-магазин AquaPoint.ru.'; include '../view.php';

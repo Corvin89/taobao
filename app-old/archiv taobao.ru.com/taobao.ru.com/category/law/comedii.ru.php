@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Комедия-боевик о простом поваре <a href="http://comedii.ru/68-s-chandni-chouka-v-kitaj-chandni-chowk-to-china.html">из Чандни Чоук</a>, ошибочном принятом за реинкарнацию древнего воина Лиу Шенга посетителями из постоянно притесняемой китайской деревни.'; include '../view.php';

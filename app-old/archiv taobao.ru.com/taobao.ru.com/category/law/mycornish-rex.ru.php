@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mycornish-rex.ru/">mycornish-rex.ru cайт питомника породы корниш рекс Letoile Refined в Краснодаре.</a>'; include '../view.php';

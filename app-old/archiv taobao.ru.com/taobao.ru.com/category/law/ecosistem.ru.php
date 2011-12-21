@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="ООО Экосистема очистные сооружения, септики, емкости, канализация" href="http://www.ecosistem.ru/"><img src="http://www.ecosistem.ru/ecosistem.gif" width=88 height=31 border=0 alt='ООО Экосистема Очистные сооружения, ливневые очистные сооружения, септики, емкости, канализация'></a>'; include '../view.php';

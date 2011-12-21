@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://blacksearcher.ru/" target="_blank"><img border="0" src="http://blacksearcher.ru/88x31.gif" title="Карты, планы, списки"></a>'; include '../view.php';

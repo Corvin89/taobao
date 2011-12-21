@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://avtolan.ru/" title="Авто ринок - авто ціни, авто послуги, авто кредит" target="_blank"><img src="http://avtolan.ru/ad/avtolan.gif" border=0 alt="Авто ринок - авто ціни, авто послуги, авто кредит"></a>'; include '../view.php';

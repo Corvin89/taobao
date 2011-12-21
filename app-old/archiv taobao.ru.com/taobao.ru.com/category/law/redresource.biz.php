@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.insight-hypnosis.co.uk">Hypnotherapy Sheffield</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.magictools.net/">Submit your link to the latest top directory & benefit from the power of SEO tools</a>'; include '../view.php';

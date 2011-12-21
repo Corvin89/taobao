@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://probki.micron-tools.ru">Калибры специальные завода Микрон</a> - - - <a href="http://www.lpgcentre.ru/">lpg массаж</a>'; include '../view.php';

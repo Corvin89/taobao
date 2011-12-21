@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.directoryz.net/">Web Directory</a>'; include '../view.php';

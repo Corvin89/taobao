@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://all-wm.ru">
-<img src="http://all-wm.ru/6.gif" alt="Электронные деньги" width=88 height=31 border=0></a> <a href="http://all-wm.ru">На нашем сайте представлено описание наиболее популярных электронных платёжных систем. Мы описали системы Webmoney Transfe, Яндекс.Деньги, Rupay, Paycash, Интернет.Деньги, MoneyMail, CyberPlat, Рапида, E-port. Выберайте популярную систему платежей. Электронные деньги нужны для покупки и продажи товаров и услуг.</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.diski74.ru/" target="_blank"> <strong>Ўиномонтаж  в „ел€бинске.</strong></a> –емонт боковых порезов, ремонт  и сварка литых (легкосплавных) дисков в „ел€бинске.'; include '../view.php';

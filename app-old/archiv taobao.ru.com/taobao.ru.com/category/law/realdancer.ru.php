@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.realdancer.ru/?tag=%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B3%D0%B55">меренге</a>'; include '../view.php';

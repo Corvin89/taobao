@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p>Статьи о современной <a href="http://www.kuppi.ru/comp/">компьютерной технике</a>, а также тесты и <a href="http://www.kuppi.ru/obzor_comp/">обзоры компьютерной техники,</a> <a href="http://www.kuppi.ru/">рейтинги мировых производителей</a> компьютерной техники</p>'; include '../view.php';

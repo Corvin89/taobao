@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.IST-TECH.COM" id="RD620F9">IST-TECH.COM - PR5 DIRECTORY FOR YEARS</a>'; include '../view.php';

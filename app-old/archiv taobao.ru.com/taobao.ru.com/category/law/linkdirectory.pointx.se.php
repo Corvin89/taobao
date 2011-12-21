@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://linkdirectory.pointx.se/">PointX - Link Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://textgames.ru" target="_blank"><img src="http://textgames.ru/txgbanner/txgkat.gif" width="88" height="31" alt="Форумные текстовые игры" title="Форумные текстовые игры" border="0"></a>'; include '../view.php';

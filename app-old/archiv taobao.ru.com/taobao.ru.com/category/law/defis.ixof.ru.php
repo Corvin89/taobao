@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://defis.ixof.ru/dir/" target="_blank"><img src="http://defis.ixof.ru/templates/defis.org.ua/images/icon/soft.gif" border="0" alt="зона твоего бизнеса"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Flash карта 1GB на <a href="http://moboy.ru">moboy.ru</a>'; include '../view.php';

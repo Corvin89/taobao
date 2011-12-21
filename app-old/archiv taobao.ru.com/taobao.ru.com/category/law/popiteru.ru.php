@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.popiteru.ru/">Клубы Санкт-петербурга, путешествие по Санкт-петербургу</a> - по ПитеруРУ'; include '../view.php';

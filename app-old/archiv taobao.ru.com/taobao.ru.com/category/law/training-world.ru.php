@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.training-world.ru/">аналитика, стратегический анализ предприятия</a>, <a href="http://www.training-world.ru/business/time/">тайм менеджмент</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://resource.in-global.net/' target='_blank'><img src='http://resource.in-global.net/images/button_88x31.gif' border=0 title='Каталог ресурсов. Каталог полезных ресурсов' alt='Каталог ресурсов. Каталог полезных ресурсов'></a>'; include '../view.php';

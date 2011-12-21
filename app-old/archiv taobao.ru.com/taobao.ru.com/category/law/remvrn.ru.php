@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://remvrn.ru/">Сантехнические работы Воронеж</a>'; include '../view.php';

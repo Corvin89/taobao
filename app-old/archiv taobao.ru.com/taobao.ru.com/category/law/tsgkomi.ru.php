@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tsgkomi.ru" target="_blank" title="портал недвижимости Коми">портал недвижимости Коми.</a>'; include '../view.php';

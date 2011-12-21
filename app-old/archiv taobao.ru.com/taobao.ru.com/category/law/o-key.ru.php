@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.o-key.ru/"><img src="http://www.o-key.ru/img/ban_88_31.gif" width="88" height="31" alt="O-KEY.ru Интернет-супермаркет" border="0"></a>'; include '../view.php';

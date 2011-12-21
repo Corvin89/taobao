@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://photoslavna.ru/">Постановочная съемка, свадебная съёмка, репортажная съёмка, съёмка событий в Сочи</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.aleksia.net/links">Aleksia Dating in Europe - Find love with serious women from East Europe. For long term relationship and marriage only. FREE Membership, Online chatppp.</a>'; include '../view.php';

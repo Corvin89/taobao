@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.krasnaya-polyana-hotels.ru/" target="_blank" title="Красная поляна, гостиницы Красной поляны, отдых на Красной поляне"><img src="/links/images/hotel_kraspol.gif" width="88" height="31" alt=" Красная поляна, гостиницы Красной поляны, отдых на Красной поляне "></a>'; include '../view.php';

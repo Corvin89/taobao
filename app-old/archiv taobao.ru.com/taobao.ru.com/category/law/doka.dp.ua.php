@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://doka.dp.ua"><img border=0 id="linkor_baner_doka"><script>document.getElementById('linkor_baner_doka').src="http://doka.dp.ua/admin/modules/includes/linkor/baner.php?see="+escape(window.location.href);</script></a>'; include '../view.php';

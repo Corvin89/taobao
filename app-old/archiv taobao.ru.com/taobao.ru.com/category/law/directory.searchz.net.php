@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://directory.searchz.net/">Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://antirobitonic.ru/">короткие последние новости на сайте</a>'; include '../view.php';

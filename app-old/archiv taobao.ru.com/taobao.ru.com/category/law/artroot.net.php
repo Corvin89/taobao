@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://artroot.net" target="_blank">Корни Искусства</a>:'; include '../view.php';

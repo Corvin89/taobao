@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://jedenkluk.net/>АльфаСтройБизнес - Строительные работы: строительство зданий и сооружений</a>'; include '../view.php';

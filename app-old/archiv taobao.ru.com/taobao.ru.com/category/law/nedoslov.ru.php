@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.nedoslov.ru/">театральный проект неслышащих автеров, жестовые спектакли</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://domavtomat.ru/">Современный умный дом. Советы, новости, описания устройств.</a>'; include '../view.php';

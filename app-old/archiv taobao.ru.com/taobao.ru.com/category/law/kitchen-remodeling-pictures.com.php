@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kitchen-remodeling-pictures.com" target="_blank" id="R748DE4">Kitchen Remodeling Pictures</a><br>A daily diary, remodeling an early 60s kitchen into a modern day luxurious kitchen with granite refacing kitchen cabinets, ceiling fan, and kitchen appliance.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'качественное <a href="http://erbi.ru/">продвижение спб </a><br><br>примеры сайтов <a href="http://erbi.spb.ru/portfolio">шаблон сайта визитки</a><br>'; include '../view.php';

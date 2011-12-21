@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.appuntidiclasse.net/directory/">Appuntidiclasse.net</a>'; include '../view.php';

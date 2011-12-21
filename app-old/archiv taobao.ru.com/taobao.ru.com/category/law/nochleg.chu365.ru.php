@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.nochleg.chu365.ru/">Каталог сайтов Чувашской республики по тематике проживания</a> и <a href="http://www.chu365.ru/">Проживание в Чувашской республике</a>'; include '../view.php';

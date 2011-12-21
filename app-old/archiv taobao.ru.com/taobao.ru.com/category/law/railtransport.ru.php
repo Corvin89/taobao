@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Железнодорожная доска объявлений: <a href="http://railtransport.ru/">Покупка вагонов</a>, продажа, аренда железнодорожного подвижного состава, <a href="http://railtransport.ru/">запчасти для вагонов</a>.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.gid-usadba.ru>∆изнь и смерть великого кн€з€ юсупова</a>. Ёкскруси€ по усадьбе јрхангельское.'; include '../view.php';

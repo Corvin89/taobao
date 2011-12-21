@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Студия точного кадра. <a href="http://www.media.davest.ru">Видеосъемка</a> и качественная <a href="http://www.media.davest.ru">фотосъемка</a>, профессиональная <a href="http://www.media.davest.ru">студия звукозаписи</a>. Делаем <a href="http://www.media.davest.ru">озвучивание фильмов</a> и рекламных роликов. Реально низкие цены.'; include '../view.php';

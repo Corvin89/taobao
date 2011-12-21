@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.stream-studio.ru">Продвижение сайтов</a>'; include '../view.php';

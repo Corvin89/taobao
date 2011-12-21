@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://vaz-fan.ru/>≈сли у вас внедорожник, то вы должны знать</a>'; include '../view.php';

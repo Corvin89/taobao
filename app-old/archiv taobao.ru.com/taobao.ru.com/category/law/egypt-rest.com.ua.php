@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://egypt-rest.com.ua/ru/tour/">Туры в Египет</a>. Информация о курортах Египта. <a href="http://egypt-rest.com.ua/ru/tour/sharm-el-sheikh.htm">Отдых в Шарм Эль Шейхе</a>. Горящие путевки в Египет, <a href="http://egypt-rest.com.ua/ru/tour/khurgada.htm">Отдых в Хургаде</a>.'; include '../view.php';

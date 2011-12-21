@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://vityzevo.info/"><img src="http://vityzevo.info/vit.gif " height="31" width="88" 
-border="0" alt="Отдых в Витязево и в Анапе на море. Фото Витязево и Анапы. Оптимальные недорогие цены рядом с морем в Витязево."></a>'; include '../view.php';

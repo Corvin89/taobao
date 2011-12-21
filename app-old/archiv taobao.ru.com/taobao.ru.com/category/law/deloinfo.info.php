@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://deloinfo.info/">Доска объявлений о товарах</a>'; include '../view.php';

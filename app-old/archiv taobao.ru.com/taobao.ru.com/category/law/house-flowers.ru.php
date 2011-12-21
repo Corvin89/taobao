@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://house-flowers.ru><img border=0 src=http://house-flowers.ru/img/ban1.jpg width=88 height=31 alt=Домашние цветы и растения></a>'; include '../view.php';

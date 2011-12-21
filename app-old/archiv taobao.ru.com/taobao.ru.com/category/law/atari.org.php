@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://atari.org">atari.org</a>'; include '../view.php';

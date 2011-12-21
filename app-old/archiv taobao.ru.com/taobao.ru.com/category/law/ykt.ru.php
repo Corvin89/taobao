@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ykt.ru/yaknet/default.asp"><img src="http://www.ykt.ru/yaknet/image.asp?id=shredershop" border="0" width="50" height="30"></a>'; include '../view.php';

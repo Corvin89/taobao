@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://brigadir.com.ua" target="_blank"><img width="88" height="31" border="0" src="http://brigadir.com.ua/b/3.gif" alt="Каталог Бригадир :: Напольные покрытия, Украина, Одесса"></a>'; include '../view.php';

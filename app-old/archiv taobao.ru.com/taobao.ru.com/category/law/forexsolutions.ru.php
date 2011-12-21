@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.forexsolutions.ru">Форекс каталог<img src="http://forexsolutions.ru/images/admin/poweredby.jpg" alt="Форекс каталог">'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bluelist.ru">Синие страницы - Каталог сайтов <img src="http://bluelist.ru/images/admin/poweredby.jpg" alt="Синие страницы - Каталог сайтов ">'; include '../view.php';

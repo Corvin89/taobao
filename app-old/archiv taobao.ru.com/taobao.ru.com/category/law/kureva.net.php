@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kureva.net">Легкий способ бросить курить раз и навсегда</a>'; include '../view.php';

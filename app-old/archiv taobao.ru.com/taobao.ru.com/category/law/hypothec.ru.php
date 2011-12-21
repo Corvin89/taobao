@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hypothec.ru/info/">информация об ипотеке</a>, <a href="http://www.hypothec.ru/">кредит на жилье, ипотека недвижимость</a>'; include '../view.php';

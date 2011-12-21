@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.catalano-info.ru/" target="_blank" title="CATALANO. Информационная поддержка."><img src="http://www.catalano-info.ru/img/8831.gif" width="88" height="31" border="0" alt="Сайт информационной поддержки Catalano в России. Catalano - один из ведущих мировых производителей элитного санфаянса."></a><br>'; include '../view.php';

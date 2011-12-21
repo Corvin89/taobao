@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.netvolos.ru/"><img src="http://www.netvolos.ru/img/88_31.jpg" width="88" height="31" border="0" alt="Пересадка волос, трансплантация волос, лечения облысения" title="Пересадка волос, трансплантация волос, лечения облысения"></a>'; include '../view.php';

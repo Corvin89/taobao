@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a TARGET=_blank href="http://www.roststroy.com/">РостСтрой: </a> <a TARGET=_blank href="http://www.roststroy.com/prod_sss.htm">сухие строительные смеси</a>,  <a TARGET=_blank href="http://www.roststroy.com/prod_gazobeton.htm">газобетон</a>,  <a TARGET=_blank href="http://www.roststroy.com/prod_zhelezobeton.htm">железобетон</a>.'; include '../view.php';

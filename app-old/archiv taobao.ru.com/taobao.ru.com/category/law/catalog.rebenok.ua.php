@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://rebenok.ua/" >подарки детям</A>'; include '../view.php';

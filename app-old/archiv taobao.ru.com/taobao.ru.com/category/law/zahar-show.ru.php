@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Недорогой <a href="http://www.zahar-show.ru/">тамада на свадьбу</a> для проведения свадьбы или корпоративного праздника.<br>'; include '../view.php';

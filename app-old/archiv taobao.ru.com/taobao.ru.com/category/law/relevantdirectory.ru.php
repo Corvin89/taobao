@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.relevantdirectory.ru/">Каталог сайтов Relevant Directory Россия</a> - бесплатный каталог ссылок на сайты компаний, фирм и предприятий России.'; include '../view.php';

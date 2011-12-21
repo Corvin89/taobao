@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://capital-eye.ru">Глаз столицы - сайт о профессиональной фотографии</a>'; include '../view.php';

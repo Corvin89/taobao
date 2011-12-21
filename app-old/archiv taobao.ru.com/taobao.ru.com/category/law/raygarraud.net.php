@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="/" target="_blank">Виртуальные гадания</a> по Книге Перемен. WWW.ICZIN.RU'; include '../view.php';

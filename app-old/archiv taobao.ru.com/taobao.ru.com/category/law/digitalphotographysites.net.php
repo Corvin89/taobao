@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.digitalphotographysites.net">Digital Photography Sites Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.allrooms.ru" target="_blank" title="портал недвижимости Москва">портал недижимости Москва.</a>'; include '../view.php';

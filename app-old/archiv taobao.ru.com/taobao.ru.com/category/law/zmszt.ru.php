@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.zmszt.ru/" title="Арматурный завод ЗМС Знамя труда">ЗМС Знамя труда</a>. <a href="http://www.zmszt.ru/reg_davl.htm" title="Регулятор давления">Регулятор давления</a> производство и комплектные поставки.'; include '../view.php';

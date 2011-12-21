@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ladaparts.ru">Largest Lada parts provider online - www.ladaparts.ru</a>'; include '../view.php';

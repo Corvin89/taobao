@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lovefazenda.ru" target=blank><b>ЛЮБИМАЯ ФАЗЕНДА</b></a> - обо всём на приусадебном участке.'; include '../view.php';

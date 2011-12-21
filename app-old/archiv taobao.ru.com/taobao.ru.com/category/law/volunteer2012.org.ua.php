@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://volunteer2012.org.ua/" title="Каталог инти" target="_blank"><img src="http://volunteer2012.org.ua/bn/cat.gif" width="88" height="31" alt="Каталог интим" border="0"></a>'; include '../view.php';

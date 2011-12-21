@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://frazeologi.ru/">Словарь народной фразеологии</a><a href="http://cat.frazeologi.ru/">Наши партнёры</a>'; include '../view.php';

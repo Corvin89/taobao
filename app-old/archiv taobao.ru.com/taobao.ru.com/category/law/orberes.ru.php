@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.orberes.ru" target="_blank" border="0"><img src="http://www.orberes.ru/images/88_31.gif"  alt="http://www.orberes.ru - ёвелирные издели€ из серебра оптом></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tvradio.ru/">Каталог сайтов ТВ - Радио. Добавить ссылку в каталог!</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://business.mediadir.in">DPN Business Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://medievalage.ru>скачать компьютерные спортивные игры</a>'; include '../view.php';

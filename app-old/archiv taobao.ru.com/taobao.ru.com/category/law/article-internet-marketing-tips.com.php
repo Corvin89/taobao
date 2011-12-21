@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://article-internet-marketing-tips.com/'>Article Internet Marketing Tips</a> - Free Article Submission For Authors, Free Content for Publishers!'; include '../view.php';

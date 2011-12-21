@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.newleafcounseling.com" id="RD961D8">New Leaf Counseling: Therapy, Psychology, and Behavior</a>'; include '../view.php';

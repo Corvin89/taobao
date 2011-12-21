@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bizrussia.ru">BizRussia.ru - Российский бизнес-портал. Пресс-релизы, деловые предложения, каталог сайтов, каталог фирм. Все отрасли экономики.</a>'; include '../view.php';

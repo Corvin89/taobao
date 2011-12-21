@@ -1,1 +1,0 @@
-<?php $catalogLink = '<b><a href="http://www.web-olymp.ru"> —айты на заказ, оптимизаци€ сайтов, продвижение сайтов.–азработка сайтов, фирменный стиль</a><a href="http://www.websajt.ru/">.</a><a  href="http://www.web-olymp.ru">ѕродвижение сайта, раскрутка в поисковых системах.</a></b>'; include '../view.php';

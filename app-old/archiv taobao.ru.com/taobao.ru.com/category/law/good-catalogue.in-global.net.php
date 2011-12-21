@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://good-catalogue.in-global.net/' target='_blank'><img src='http://good-catalogue.in-global.net/images/button_88x31.gif' border=0 title='Белый каталог сайтов. Добавить сайт в белый каталог сайтов' alt='Белый каталог сайтов. Добавить сайт в белый каталог сайтов'></a>'; include '../view.php';

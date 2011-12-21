@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.submit-url.org">Submit URL Directory - Suggest URL - Sublime Directory</a>'; include '../view.php';

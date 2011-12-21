@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.agrohim.com.ua/products.html" target="_blank"><img src="http://www.agrohim.com.ua/images/content/banner_88x31.gif" alt=": ООО ТК Агрохимэнерго : Дезинфицирующие средства : +38(0542)22-46-85" width="88" height="31" border="0"></a>'; include '../view.php';

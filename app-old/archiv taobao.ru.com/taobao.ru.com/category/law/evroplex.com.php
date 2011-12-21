@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://evroplex.com'><img src='http://evroplex.com/images/banner/eplx_88_31.gif' width='88' height='31' border='0' alt='ЕВРОПЛЭКС - утеплитель из экструдированного пенополистирола' title='ЕВРОПЛЭКС - утеплитель полов, стен, лоджий'></a>'; include '../view.php';

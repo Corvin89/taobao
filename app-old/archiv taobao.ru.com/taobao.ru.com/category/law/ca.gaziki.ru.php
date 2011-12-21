@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gaziki.ru/" title="Газики.Ру - продажа транспорта" target="_blank"><img src="http://www.gaziki.ru/img/btt.gif" border="0" alt="Газики.Ру - продажа транспорта" width="40" height="40"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.language-directory.com/">The Language Directory</a>'; include '../view.php';

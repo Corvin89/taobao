@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.russiansexyladies.com" target="_blank"><b>Sexy Russian Women</b></a><br>Sexy Russian escort women. Nude or semi-nude photos. Profiles with detailed contacts.'; include '../view.php';

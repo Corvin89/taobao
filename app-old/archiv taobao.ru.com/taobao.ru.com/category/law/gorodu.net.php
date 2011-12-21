@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="коттеджные поселки" href="http://www.gorodu.net/"><img border="0" src="http://www.gorodu.net/images/banners/banner.jpg"></a>'; include '../view.php';

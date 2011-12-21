@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mirsotovih.ru">Мобильная техника</a> на www.mirsotovih.ru'; include '../view.php';

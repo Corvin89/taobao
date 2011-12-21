@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://ezoterik.org/' target='_blank'><img src='http://ezoterik.org/img/logo2.gif' alt="Ezoterik.org - сайт Эзотерики и Оккультизма, Магии" widht="88" height="31" border="0">Ezoterik.org - сайт Эзотерики и Оккультизма, Магии, Теософии и Кармы, есть библиотека, фото галерея и раздел эзотерики на видео </a>'; include '../view.php';

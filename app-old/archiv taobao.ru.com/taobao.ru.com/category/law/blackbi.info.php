@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://blackbi.info">Каталог сайтов Черная Блоха</a>'; include '../view.php';

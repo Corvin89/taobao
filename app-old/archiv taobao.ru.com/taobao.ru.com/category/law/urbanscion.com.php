@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.urbanscion.com/scion_directory">Scion Directory</a>'; include '../view.php';

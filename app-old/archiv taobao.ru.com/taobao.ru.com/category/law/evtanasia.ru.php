@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.evtanasia.ru/evtanasia/">Усыпление животных</a>. <a href="http://www.evtanasia.ru/sp-forum/">Вопросы по усыплению животных</a>.'; include '../view.php';

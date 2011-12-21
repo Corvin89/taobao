@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sergeylazarev.name" target="_blank"> Неофициальный сайт Сергея Лазарева. Биография, дискография, новости и статьи, фотографии.</a><a href="http://www.sl-chat.net" target="_blank"> Чат фанов певца и актера Сергея Лазарева</a>'; include '../view.php';

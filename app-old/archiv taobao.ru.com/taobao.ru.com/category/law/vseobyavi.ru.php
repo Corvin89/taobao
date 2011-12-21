@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://vseobyavi.ru/">Доска универсальных объявлений Все Объявы</a>'; include '../view.php';

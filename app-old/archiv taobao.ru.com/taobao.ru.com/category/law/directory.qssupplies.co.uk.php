@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.qssupplies.co.uk/Heated-Towel-Rail/106.htm">Towel Rails</a>'; include '../view.php';

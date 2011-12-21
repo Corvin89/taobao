@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Производство и продажа оптом: <a href="http://www.bilux.ru">промышленные обогреватели</a> и <a href="http://www.bilux.ru">обогреватели для дома</a>. Приглашаем дилеров.'; include '../view.php';

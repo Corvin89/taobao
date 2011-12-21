@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.f-vrn.ru"> Воронежский форум</a>'; include '../view.php';

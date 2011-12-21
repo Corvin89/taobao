@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.worldpromo.ru/" target="_blank"><img src="http://www.worldpromo.ru/images/banners/wp_opt_16.gif" width=88 height=31 border=0 alt="Рекламное агентство предлагает промоутеров."></a>'; include '../view.php';

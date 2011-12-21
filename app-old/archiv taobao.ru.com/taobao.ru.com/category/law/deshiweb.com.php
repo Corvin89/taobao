@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.deshiweb.com/dir">Deshiweb Directory</a>'; include '../view.php';

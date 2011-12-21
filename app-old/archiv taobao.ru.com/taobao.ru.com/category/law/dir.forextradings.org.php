@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://dir.forextradings.org">FX Directory</a>'; include '../view.php';

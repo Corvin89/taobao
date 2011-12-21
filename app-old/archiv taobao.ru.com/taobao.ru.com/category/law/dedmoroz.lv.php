@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dedmoroz.lv/" target="_blank">Сайт Деда Мороза.</a> Новый Год Кабана.<br>Гороскоп года огненной свиньи.<br><a href="http://www.dedmoroz.lv/horoscopes/index.html" target="_blank">Как встречать год свиньи?</a>'; include '../view.php';

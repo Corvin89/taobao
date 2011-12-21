@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.catalog.provesillya.com/" title="Каталог свадебных ссылок и статей" target="_blank">Каталог свадебных ссылок и статей</a>'; include '../view.php';

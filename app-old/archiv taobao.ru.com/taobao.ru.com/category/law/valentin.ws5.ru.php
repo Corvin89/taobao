@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.valentin.ws5.ru"> <strong>Гостиницы Сочи</strong></a>  - Каткова Щель'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.partnervermittlung-osteuropa.net">Partnervermittlung in Osteuropa Kiew</a> - Kontaktanzeigen aus der Ukraine'; include '../view.php';

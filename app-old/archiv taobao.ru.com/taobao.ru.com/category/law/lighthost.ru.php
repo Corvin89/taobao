@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.lighthost.ru target=_blank title="http://www.lighthost.ru - Лайт Хостинг - Легко и Просто!"> <img src="http://www.lighthost.ru/ban/88x31.gif" alt="Лайт Хостинг от 1$: Perl, PHP, SSI, MySQL, мультидомены. Домен бесплатно!" width=88 height=31 border=0></a>'; include '../view.php';

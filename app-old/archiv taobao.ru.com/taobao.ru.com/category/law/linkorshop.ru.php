@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linkorshop.ru" target="_blank">Компьютеры и оргтехника</a>'; include '../view.php';

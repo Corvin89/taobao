@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.relevantdirectory.com.ua/">Каталог сайтов Relevant Directory Украина</a> - бесплатный каталог ссылок на сайты компаний, фирм и предприятий Украины.'; include '../view.php';

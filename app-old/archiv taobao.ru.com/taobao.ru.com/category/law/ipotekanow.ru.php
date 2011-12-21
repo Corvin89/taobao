@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ipotekanow.ru">»потечные программы, квартиры в кредит, ипотека недвижимости</a>'; include '../view.php';

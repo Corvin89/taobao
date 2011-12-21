@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.keep-memories.ru/"><img src="http://s09.radikal.ru/i182/1009/3e/8988490bc4ee.gif" title="Храни воспоминания"/></a>'; include '../view.php';

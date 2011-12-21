@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://favourpets.ru/">Наши любимые домашние животные</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mostaraplast.ru" target="_blank" border="0" style="border: none;"><img src="http://www.mostaraplast.ru/index_files/buttom.gif" border="0" title="Тарапласт - Пластиковая тара и упаковка: пластмассовые ящики для хранения, пластиковые ведра, пищевые контейнеры"> Тарапласт - Пластиковая тара и упаковка </a>'; include '../view.php';

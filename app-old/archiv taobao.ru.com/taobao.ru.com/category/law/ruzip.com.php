@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ruzip.com">Потчовые Индексы России</a>'; include '../view.php';

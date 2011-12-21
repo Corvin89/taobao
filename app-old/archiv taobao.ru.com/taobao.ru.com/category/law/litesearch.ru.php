@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.litesearch.ru">Легкий поиск - Каталог сайтов <img src="http://litesearch.ru/images/admin/poweredby.jpg" alt="Легкий поиск - Каталог сайтов ">'; include '../view.php';

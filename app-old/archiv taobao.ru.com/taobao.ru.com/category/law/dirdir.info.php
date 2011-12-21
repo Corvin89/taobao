@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dirdir.info" id="R0">DIRDIR Web Directory</a>'; include '../view.php';

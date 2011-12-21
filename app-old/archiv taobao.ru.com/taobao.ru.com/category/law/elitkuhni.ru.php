@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Студия Элит Кухни в Петербурге - <a href="http://www.elitkuhni.ru" target="_blank">элитная мебель для кухни</a>, бытовая техника, аксессуары для кухни. www.elitkuhni.ru'; include '../view.php';

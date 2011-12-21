@@ -1,1 +1,0 @@
-<?php $catalogLink = 'href="http://raskrutisam.com/" target=_blank><img border="0" src="http://raskrutisam.com/raskr8831.gif" width="88" height="31">'; include '../view.php';

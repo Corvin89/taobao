@@ -1,1 +1,0 @@
-<?php $catalogLink = 'информационно-развлекательный <a href="http://infomir.org.ua/">портал</a>    "Инфомир".'; include '../view.php';

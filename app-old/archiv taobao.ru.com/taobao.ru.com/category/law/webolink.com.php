@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.webolink.com/">Webo-Link Directory</a>'; include '../view.php';

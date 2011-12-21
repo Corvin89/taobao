@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.blueurl.com/">Add Blue URL Directory Link</a> Listing for <a href="http://www.blueurl.com/Business/Law/">Law</a>'; include '../view.php';

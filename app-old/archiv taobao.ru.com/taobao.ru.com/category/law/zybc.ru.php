@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://zybc.ru/2007/08/26/canon-eos-40d/>Новинка! Canon eos 40d Body</a>'; include '../view.php';

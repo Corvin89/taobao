@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.marketmage.com" id="R18322E">Investment and Finance Directory</a>'; include '../view.php';

@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hypnosistoday.com"><b>Hypnosistoday.com: Powerful, Effective Hypnosis for Today's World</b></a><br>We offer hypnosis books, hypnosis MP3's, and hypnosis music. FREE samples!<br />
-www.hypnosistoday.com'; include '../view.php';

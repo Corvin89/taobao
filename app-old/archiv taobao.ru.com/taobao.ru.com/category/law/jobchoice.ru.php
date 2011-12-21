@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.jobchoice.ru">Поиск работы и подбор персонала</a>'; include '../view.php';

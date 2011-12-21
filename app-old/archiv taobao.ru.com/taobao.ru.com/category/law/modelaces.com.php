@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.modelaces.com/">Model Aces | Pro-Built Scale Model Aircraft</a>'; include '../view.php';

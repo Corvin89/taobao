@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_self" href="http://wmkatal.awardspace.com/" onmouseout="ImgOut(a1)" onmouseover="ImgOver(a1)" style="font-size: 10pt"><font color="#000000">Белый каталог сайтов" </font></a></nobr><br>'; include '../view.php';

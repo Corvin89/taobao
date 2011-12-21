@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cnyfindit.com/">Central New York Links and Web Portal (CNY, Syracuse)</a>'; include '../view.php';

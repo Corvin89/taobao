@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://sport.bizboard.biz/">Добавить объявление о спортивном оборудовании</a>'; include '../view.php';

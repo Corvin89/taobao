@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://mosaiclife.ru/>Мозаика - один из древнейших видов изобразительного искусства</a>'; include '../view.php';

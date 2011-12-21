@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://mp3mp3mp3.ru/>альтернативная музыка</a><br><a href="http://lovevia.net/">сайт знакомств</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pr5directory.com">Google PR5 Directory - Submit your website for increase rankings in the Search Engines - PR5Directory.com</a>'; include '../view.php';

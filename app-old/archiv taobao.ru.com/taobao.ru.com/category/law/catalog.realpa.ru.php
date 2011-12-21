@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.realpa.ru/" target=_blank><img src="/images/button.gif" height=33 width=88 border=0 alt="Реальные Пацаны" title="Сериал Реальные Пацаны Смотреть бесплатно 1 и 2 сезон Скачать"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.darkstar.ru">Авто-мото сайт</a>'; include '../view.php';

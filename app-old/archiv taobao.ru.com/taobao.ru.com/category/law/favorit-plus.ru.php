@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Скидки на  мебель <a href="http://www.favorit-plus.ru/">офисная мебель угловой компьютерный стол  </a>'; include '../view.php';

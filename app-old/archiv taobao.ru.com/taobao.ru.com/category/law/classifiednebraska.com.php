@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://classifiednebraska.com" id="RD445D5">Free Listing Of Classifieds In Nebraska NE United States</a>- Defensive driving instruction, driver testing, training, golf driving'; include '../view.php';

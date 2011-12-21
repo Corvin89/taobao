@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://medcat.flouting.ru/"><img src="http://medcat.flouting.ru/medb.gif" alt="Медицинский каталог - сайты врачей и больниц." width=88 height=33 border=0></a>'; include '../view.php';

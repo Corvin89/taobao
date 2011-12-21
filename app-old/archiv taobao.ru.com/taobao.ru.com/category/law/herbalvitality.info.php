@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.herbalvitality.info"><b>Herbalife</b></a><br>ShapeWorks is the new personalised diet program, is tailored to your own shape, body composition and lifestyle. Personalise your protein intake to create a successful weight management programme.'; include '../view.php';

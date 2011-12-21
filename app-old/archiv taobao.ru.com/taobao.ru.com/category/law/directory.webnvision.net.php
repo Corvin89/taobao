@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://directory.webnvision.net">Web n Vision Directory</a>'; include '../view.php';

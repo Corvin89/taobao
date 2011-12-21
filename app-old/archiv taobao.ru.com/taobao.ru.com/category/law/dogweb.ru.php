@@ -1,1 +1,0 @@
-<?php $catalogLink = 'DogWeb - атлас пород собак, <a title="DogWeb" href="http://www.dogweb.ru/dogwork/"target="_blank">собачья работа</a>, собачьи рекорды, ежедневные новости, каталог ссылок.'; include '../view.php';

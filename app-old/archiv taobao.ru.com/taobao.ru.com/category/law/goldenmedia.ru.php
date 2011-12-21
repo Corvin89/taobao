@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.goldenmedia.ru" >PR, медиа, реклама, корпоративный PR, продвижение бренда</a>'; include '../view.php';

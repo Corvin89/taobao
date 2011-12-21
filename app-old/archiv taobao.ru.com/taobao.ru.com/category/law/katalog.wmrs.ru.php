@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p><a href="http://katalog.wmrs.ru" target="_top">Wmrs.ru надежный хостинг сайтов реселлинг от 17 руб</a></p>'; include '../view.php';

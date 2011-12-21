@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href=http://pointart.ru target=_blank>PointArt.ru - живопись портрет скульптура картины художников статьи журналы арт портал художников сетевая арт галерея художник.</a>
-<a href="http://cat.pointart.ru/">Наши партнёры</a>'; include '../view.php';

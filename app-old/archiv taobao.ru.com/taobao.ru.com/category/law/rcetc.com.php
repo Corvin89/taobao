@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rcetc.com"><img src="http://www.rcetc.com/banner5000.jpg"></a>'; include '../view.php';

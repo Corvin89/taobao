@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.tourbig.ru/">Наши партнеры</a><a href="http://tourbig.ru/">туризм горящие туры отдых горящие путевки визы авиабилеты экскурсия</a>'; include '../view.php';

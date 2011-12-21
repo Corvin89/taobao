@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://anapa-map.info" target="_blank">Карта Анапы с улицами</a>'; include '../view.php';

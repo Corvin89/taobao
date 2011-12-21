@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://madbox.ru">IRKUTSK EXTREME - snowboard, skateboard, BMX, inline, parkour | street art, graffiti, creative, party | video, photo, mp3</a>'; include '../view.php';

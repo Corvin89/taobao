@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://microcentr.ru" title="Микроцентр">Центр электронной микроскопии</a>'; include '../view.php';

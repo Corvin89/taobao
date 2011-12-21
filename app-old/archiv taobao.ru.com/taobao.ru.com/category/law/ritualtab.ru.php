@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ritualtab.ru/" target="_blank">Некрологические ритуальные таблички - заказ, изготовление</a>'; include '../view.php';

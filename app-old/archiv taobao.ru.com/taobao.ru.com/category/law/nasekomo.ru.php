@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://nasekomo.ru">Изучение различных видов насекомых</a>'; include '../view.php';

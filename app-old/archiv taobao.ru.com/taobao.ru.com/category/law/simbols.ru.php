@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://simbols.ru/">Символы</a>'; include '../view.php';

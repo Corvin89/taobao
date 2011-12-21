@@ -1,1 +1,0 @@
-<?php $catalogLink = '¬се о вине и винограде - <a href=http://www.winerus.ru>сорта винограда, виды вина</a>'; include '../view.php';

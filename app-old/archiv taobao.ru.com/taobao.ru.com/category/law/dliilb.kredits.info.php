@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kredits.info" title="кредиты">Все о кредитах</a>'; include '../view.php';

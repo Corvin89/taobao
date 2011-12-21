@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.staff-control.ru/docs/instructions/">Должностные инструкции директора</a>, <a href="http://www.staff-control.ru/">сотрудники, управленческие кадры</a>'; include '../view.php';

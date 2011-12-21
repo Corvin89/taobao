@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://top-xxx.ru">порнушный сайтец</a> на top-xxx.ru'; include '../view.php';

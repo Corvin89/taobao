@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.xoomaworldwide.ru" target="_blank"><img src="http://www.xoomaworldwide.ru/88-31xbaner.gif" width="88" height="31" border="0" alt="Xooma - x2o"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.feodosiya.su" target="_blank"><strong>Отдых в Феодосии</strong></a>: пансионаты, санатории, гостиницы и отели Феодосии'; include '../view.php';

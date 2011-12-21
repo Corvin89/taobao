@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Всё для веб-мастера."  href="http://www.script.moryam.net/">Скрипты для сайта. Бесплатно.</a>'; include '../view.php';

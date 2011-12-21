@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dooleydrums.com/">Download Drum Loops And Drum Samples @ DooleyDrums.com</a><br />Acoustic drum loops and drum samples with free high quality wav file previews.<br />'; include '../view.php';

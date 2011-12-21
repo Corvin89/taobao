@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Компания Гермес-Электро это <a href="http://www.germes-elektro.ru">кабель видеонаблюдения</a> и реально низкие цены!'; include '../view.php';

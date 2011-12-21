@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.nextonmarket.com/shops/optimarket">Оптимаркет (ТЦ "Оптимаркет",Торговый комплекс "Оптимаркет")</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://nosex.ru" target='_top' onmouseover="window.open('http://nosex.ru')"><img src="button.gif" border='0' width='88' height='31' alt="NOSEX.RU - ÊÀÒÀËÎÃ ÝÐÎÒÈÊÈ"></a>'; include '../view.php';

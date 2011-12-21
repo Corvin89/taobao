@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mirned.com" target="_blank"><img src="http://www.mirned.com/images/buttons/88x31.jpg" alt="Àãåíòñòâî ÌÈÐ ÍÅÄÂÈÆÈÌÎÑÒÈ" title="Àãåíòñòâî ÌÈÐ ÍÅÄÂÈÆÈÌÎÑÒÈ" border="0" height="31" width="88"></a>'; include '../view.php';

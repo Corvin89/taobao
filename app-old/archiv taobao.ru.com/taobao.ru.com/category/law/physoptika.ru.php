@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://physoptika.ru/" title="Лихтер - лекции по физики Оптика">Лихтер - лекции по физики "Оптика"</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'разместить <a href='http://vosxod.spb.ru'>обьявления</a> городов'; include '../view.php';

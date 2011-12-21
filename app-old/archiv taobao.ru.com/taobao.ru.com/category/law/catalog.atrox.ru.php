@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.atrox.ru"> поисковое продвижение сайтов и раскрутка интернет сайтов в Краснодаре, реклама в интернет, оптимизация</a>'; include '../view.php';

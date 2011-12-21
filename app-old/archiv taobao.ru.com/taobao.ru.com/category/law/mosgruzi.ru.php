@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mosgruzi.ru">Грузоперевозки на автомобилях Газель и Бычок</a>'; include '../view.php';

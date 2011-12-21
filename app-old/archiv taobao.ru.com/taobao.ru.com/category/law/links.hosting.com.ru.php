@@ -1,1 +1,0 @@
-<?php $catalogLink = '<p><a href="http://www.hosting.com.ru"><b>Hosting.com.ru Cheap Web Hosting services</b></a><br>Low cost web hosting service that supports MySQL, PHP web hosting, multiple domain hosting and FrontPage website hosting plans with free web site builder, FREE domain name and more.</p>'; include '../view.php';

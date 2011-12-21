@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://3tuza.com"><img src="http://3tuza.com/88_31.gif" height="31" width="88" alt="Онлайн казино 3tuza.com" border="0"></a>'; include '../view.php';

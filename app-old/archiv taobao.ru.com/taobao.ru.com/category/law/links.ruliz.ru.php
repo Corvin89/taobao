@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://video.ruliz.ru/" title="RULIZ - Онлайн видео со всего интернета на одном сайте.">RULIZ - Онлайн видео со всего интернета на одном сайте.</a>'; include '../view.php';

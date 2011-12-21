@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://alyans.kiev.ua" title="Агенство недвижимости.">Агенство недвижимости Альянс Брок</a>'; include '../view.php';

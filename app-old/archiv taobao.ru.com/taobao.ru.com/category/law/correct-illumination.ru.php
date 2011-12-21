@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.correct-illumination.ru">прожектор, уличное освещение</a>, <a href="http://www.correct-illumination.ru/illum/item/1/">освещение дома</a>'; include '../view.php';

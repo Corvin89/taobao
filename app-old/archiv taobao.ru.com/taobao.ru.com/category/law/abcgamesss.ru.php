@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.abcgamesss.ru/" target=_blank>Азбука игр: Игры для ПК, обзоры игр для ПК</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://1k-m.ru/add/">Добавить объявление на доске объявлений - 1000 мелочей</a>'; include '../view.php';

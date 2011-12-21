@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vash-prazdnik.ru/ubiley/">Проведение юбилеев</a>'; include '../view.php';

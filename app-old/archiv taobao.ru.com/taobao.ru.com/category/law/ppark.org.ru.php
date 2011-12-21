@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ppark.crimea.ua" target="_blank">отдых в Ялте - отель Приморский Парк</a>  Ресторан,  Боулинг-клуб,'; include '../view.php';

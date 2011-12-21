@@ -1,1 +1,0 @@
-<?php $catalogLink = 'NSP.Su:  <a href="http://www.nsp.su/">металл</a>, <a href="http://www.nsp.su/cement/">предложение на цемент</a>, <a href="http://http://www.nsp.su/nonmetallic/">щебень гранитный спрос</a>, <a href="http://www.nsp.su/">керамзит</a>'; include '../view.php';

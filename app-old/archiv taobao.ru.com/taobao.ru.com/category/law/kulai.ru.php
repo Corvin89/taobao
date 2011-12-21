@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.kulai.ru' target='_blank'><b>Сайт консультантов компании Vision Николая и Валентины Кулай</b></a><br />БАД. Оздоровление экологически чистыми целебными травами.'; include '../view.php';

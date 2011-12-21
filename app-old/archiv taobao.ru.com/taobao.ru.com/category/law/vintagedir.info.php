@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.spicyclicks.info">Adult Seo Friendly Directory</a>'; include '../view.php';

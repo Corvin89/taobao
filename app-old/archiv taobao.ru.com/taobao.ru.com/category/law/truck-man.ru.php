@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://truck-man.ru/ target=_blank  title="Дилер грузовых автомобилей MAN, автобусов MAN, полуприцепов Schmitz, Kogel, Krone, Narko, Schwarte, Bar Tec"><img src=http://truck-man.ru/images/truckman.jpg width=88 height=31 border=0></a>'; include '../view.php';

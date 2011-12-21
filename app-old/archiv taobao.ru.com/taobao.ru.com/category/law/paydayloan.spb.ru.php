@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://paydayloan.spb.ru/'>Каталог сайтов о кредитах paydayloan.spb.ru</a>'; include '../view.php';

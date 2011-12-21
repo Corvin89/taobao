@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://actionstart.ru/"><img src="http://actionstart.ru/images/banner.gif" width="88" height="31" border="0"
-alt="Интернет магазин цифровой техники"></a>'; include '../view.php';

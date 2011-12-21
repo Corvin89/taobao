@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.olympia-greece.org/">Olympia Greece travel guide</a>'; include '../view.php';

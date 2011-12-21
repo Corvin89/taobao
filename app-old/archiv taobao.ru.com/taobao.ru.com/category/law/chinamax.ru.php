@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=" http://www.chinamax.ru " target="_blank"><img src=" http://www.chinamax.ru/images/button.gif" width="88" height="31" Alt="Производители Китая, заводы Китая, бизнес с Китаем, работа с Китаем, фирмы Китая, компании Китая, поиск нужной информации в Китае - ИНФОМАКС!"></a>'; include '../view.php';

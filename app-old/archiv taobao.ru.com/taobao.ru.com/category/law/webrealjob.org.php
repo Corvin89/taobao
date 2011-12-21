@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://www.webrealjob.org">Платные опросы</a> - всё о платных опросах
-<a href="http://www.compastour.ru"><img src=http://www.compastour.ru/foto/banner.gif width="100" height="100" vspace="0" border="1"  alt=”Отдых в Геленджике от агентства "Компас-тур"”></a>'; include '../view.php';

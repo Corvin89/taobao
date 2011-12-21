@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://maaw.com.ua/" target="_blank">Maaw - <strong>питомник</strong> <strong>сиамских</strong> и <strong>ориентальных</strong> <strong>кошек</strong>: Описание породы, статьи, консультации, книги и статьи по содержанию и уходу. Контакты. Объявления о <strong>продаже котят</strong>. Фотографии котят и кошек.</a>'; include '../view.php';

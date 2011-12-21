@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dom-rom.ru/" target="_blank">Снять сдать квартиру в Щёлково, Королёве, Мытищах, Ивантеевке, Пушкино, Фрязино, Подмосковье</a> <a href="http://www.dom-rom.ru/" target="_blank"> - DOM-ROM.RU</a>'; include '../view.php';

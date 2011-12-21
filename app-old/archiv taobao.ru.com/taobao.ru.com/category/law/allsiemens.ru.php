@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://allsiemens.com">Все для BenQ-Siemens</a> - <a href="http://allsiemens.com/icons/">иконки для siemens</a>, <a href="http://allsiemens.com/themes/">темы для siemens</a>, <a href="http://allsiemens.com/patch/">патчи для siemens</a>, <a href="http://allsiemens.com/flash/">прошивки для siemens</a> и многое другое.'; include '../view.php';

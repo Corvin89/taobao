@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.polihotels.com" title="Poli Hotels">Poli Hotels</a>'; include '../view.php';

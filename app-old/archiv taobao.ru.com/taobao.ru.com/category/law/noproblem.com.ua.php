@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://noproblem.com.ua">Комплексная автоматизация предприятий.</a>  Консалтинг, аудит, внедрение и обслуживание.'; include '../view.php';

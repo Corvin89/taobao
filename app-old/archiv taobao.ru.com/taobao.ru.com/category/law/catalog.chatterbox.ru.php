@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gameterritory.ru" target="_blank">мини игры: Древняя мозаика, Секрет Да Винчи, Тропик Бол. Ледниковый Период</a>'; include '../view.php';

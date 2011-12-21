@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.mearetour.ru/">Наши партнеры</a><a href="http://mearetour.ru/">туризм горящие туры отдых горящие путевки визы авиабилеты экскурсия</a>'; include '../view.php';

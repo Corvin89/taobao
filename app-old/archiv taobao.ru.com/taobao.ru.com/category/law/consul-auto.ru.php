@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.consul-auto.ru/" target="_blank"><img src="http://www.consul-auto.ru/images/ikon-consul.jpg" alt="Запчасти для иномарок" border="0" width="88" height="31"></a>'; include '../view.php';

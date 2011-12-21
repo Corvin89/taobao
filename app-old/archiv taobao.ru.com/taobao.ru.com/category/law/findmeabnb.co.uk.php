@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.findmeabnb.co.uk">Bed and breakfasts</a> - Bed and breakfast and guesthouse accommodation from findmeabnb.co.uk'; include '../view.php';

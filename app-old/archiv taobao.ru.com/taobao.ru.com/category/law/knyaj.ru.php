@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Авторский сайт писателя Юрия Сергеева" href="http://www.knyaj.ru" target="_blank"> <img alt="Авторский сайт писателя Юрия Сергеева"  src="http://www.knyaj.ru/images/banners/knyaj_b_88x31.gif" border="0"></a>'; include '../view.php';

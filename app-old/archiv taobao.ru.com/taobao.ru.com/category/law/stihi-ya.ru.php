@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.stihi-ya.ru"><a href="http://www.stihi-ya.ru">Стихия: стихи на заказ.</a> Любые стихи для любого торжества!</a>'; include '../view.php';

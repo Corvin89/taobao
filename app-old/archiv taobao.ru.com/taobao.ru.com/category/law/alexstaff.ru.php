@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.alexstaff.ru/">американский стаффордширский терьер. профессиональная дрессировка собак http://www.alexstaff.ru/</a>'; include '../view.php';

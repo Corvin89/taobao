@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://centralchurchvirginia.org/'>Popular game-show blockbasters</a>'; include '../view.php';

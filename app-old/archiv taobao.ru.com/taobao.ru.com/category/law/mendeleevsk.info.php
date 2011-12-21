@@ -1,1 +1,0 @@
-<?php $catalogLink = '<strong><a href="http://www.mendeleevsk.info">Город Менделеевск</a></strong>'; include '../view.php';

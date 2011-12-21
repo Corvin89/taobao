@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://iptelephonia.ru/">VoIP телефония - новости, статьи, обзоры, VoIP решения для бизнеса.</a>'; include '../view.php';

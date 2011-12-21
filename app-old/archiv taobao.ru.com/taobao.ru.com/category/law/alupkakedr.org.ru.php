@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.kedr-zapad.com" target="_blank">Алупка - отдых в Крыму</a>: отель Кедр - Запад - комфортный отдых, все удобства, стоянка на территории'; include '../view.php';

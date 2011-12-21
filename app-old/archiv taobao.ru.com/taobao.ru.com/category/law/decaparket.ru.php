@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.decaparket.ru">Массивная доска tarkett, haro, upofloor</a> в фирме ДекаПаркет'; include '../view.php';

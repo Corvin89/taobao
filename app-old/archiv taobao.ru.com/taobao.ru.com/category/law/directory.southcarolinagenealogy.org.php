@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://directory.southcarolinagenealogy.org/">Genealogy Resources Directory - South Carolina Genealogy</a>'; include '../view.php';

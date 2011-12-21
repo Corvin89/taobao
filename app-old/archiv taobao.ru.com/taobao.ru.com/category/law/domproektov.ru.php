@@ -1,1 +1,0 @@
-<?php $catalogLink = '“ерем - <a href="http://www.domproektov.ru">типовые проекты, проекты домов</a>. —троительство по типовым проектам домов.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://felimur.org' target='_blank'><b>Кошки Челябинск</b></a><br />Кошки Челябинск, Отдам котят в хорошие руки, объявления о продаже котят, помощь котятам'; include '../view.php';

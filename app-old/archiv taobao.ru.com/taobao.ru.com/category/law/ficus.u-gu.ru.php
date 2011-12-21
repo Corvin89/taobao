@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ficus.u-gu.ru"target="_blank" >Гастерия</a>'; include '../view.php';

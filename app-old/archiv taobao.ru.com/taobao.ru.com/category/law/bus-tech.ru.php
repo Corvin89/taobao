@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Автосервис в Марьино осуществляет <a href="http://www.bus-tech.ru">ремонт микроавтобусов мерседес</a> любой сложности.'; include '../view.php';

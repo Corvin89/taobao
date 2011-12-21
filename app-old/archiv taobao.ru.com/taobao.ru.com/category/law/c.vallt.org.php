@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://vallt.org">Бесплатный торрент трекер</a>'; include '../view.php';

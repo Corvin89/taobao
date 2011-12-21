@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://blogs.mediadir.in">DPN Blog Directory</a>'; include '../view.php';

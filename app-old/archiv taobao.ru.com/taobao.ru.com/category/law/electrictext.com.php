@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.electrictext.com/'>ElectricText Article Directory</a> - Free Article Submission For Authors, Free Web and Newsletter Content for Publishers!'; include '../view.php';

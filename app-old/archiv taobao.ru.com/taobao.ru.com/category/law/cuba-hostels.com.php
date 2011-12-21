@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.cuba-hostels.com/">Cuba-Hostels.com - Accommodations in Cuba</a>'; include '../view.php';

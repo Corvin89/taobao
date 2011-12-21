@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dumfries-and-galloway.co.uk/" target="_blank">Dumfries and Galloway Online</a>'; include '../view.php';

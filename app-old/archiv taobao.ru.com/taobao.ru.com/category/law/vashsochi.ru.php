@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vashsochi.ru">Хорошее <b>информационное поле</b> для туристов.</a> Справочник по <a href="http://www.vashsochi.ru"><b>отдыху в Сочи.</b></a> Большая подборка частных мини-отелей Адлера.'; include '../view.php';

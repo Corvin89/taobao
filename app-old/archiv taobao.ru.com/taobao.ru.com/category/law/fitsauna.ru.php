@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://fitsauna.ru">Все о бане и сауне</a>'; include '../view.php';

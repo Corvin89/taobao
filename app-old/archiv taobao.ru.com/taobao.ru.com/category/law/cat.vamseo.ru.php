@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://vamseo.ru/">Ќаучись раскручивать сайт сам без помощи сеошников бесплатно.</a>  <a href="http://cat.vamseo.ru/">Ќовый каталог хороших сайтов</a>'; include '../view.php';

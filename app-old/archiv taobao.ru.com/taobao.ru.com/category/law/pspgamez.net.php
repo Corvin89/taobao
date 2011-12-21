@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://pspgamez.net/">PSPgamez.NET::Инфрмационно- Развлекательный портал о PSP</a>'; include '../view.php';

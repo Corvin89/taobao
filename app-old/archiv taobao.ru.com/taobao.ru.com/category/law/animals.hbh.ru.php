@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://animals.hbh.ru/" target="_blank">Памятник природы Сихотэ - Алинь. Центр реабилитации диких животных Утес</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.syndir.com/">SynDir.com</a>'; include '../view.php';

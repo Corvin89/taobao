@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://iphone.empirea.net" target="_blank"><img src="http://iphone.empirea.net/images/logo.gif" alt="Apple Iphone продажа, ремонт, замена дисплея, замена задней крышки, программы, сервисное обслуживание, аксессуары, решение проблем, доставка, покупка, Украина, Ивано-Франковск" border="0" width="88" height="31"></a>'; include '../view.php';

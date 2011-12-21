@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ambradirectory.com/">AmbraDirectory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.massinfo.ru">"ќбъ€влени€ о продаже новых и б/у товаров</a>'; include '../view.php';

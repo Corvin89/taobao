@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Лучший <a href="http://www.photoshop-planet.ru/">Форум Adobe Photoshop</a> Photoshop-Planet.Ru'; include '../view.php';

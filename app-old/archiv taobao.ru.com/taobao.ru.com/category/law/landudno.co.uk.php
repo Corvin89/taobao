@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.landudno.co.uk/">Landudno Hotels Guesthouse Accommodation Directory</a>'; include '../view.php';

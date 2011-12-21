@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://pacient.biz">Журнал "Пациент". Советы врача. Новости медицины</a>'; include '../view.php';

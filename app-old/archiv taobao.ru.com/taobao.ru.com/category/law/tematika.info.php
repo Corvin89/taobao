@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://tematika.info/">Покупка-продажа товаров</a>'; include '../view.php';

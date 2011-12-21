@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.otbelivanie-zubov.ru/"> Стоматология, отбеливание зубов </a>'; include '../view.php';

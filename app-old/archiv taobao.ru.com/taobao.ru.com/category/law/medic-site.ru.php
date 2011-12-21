@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.medic-site.ru/">Справочник лекарств: антиокcиданты, антигипоксанты</a>'; include '../view.php';

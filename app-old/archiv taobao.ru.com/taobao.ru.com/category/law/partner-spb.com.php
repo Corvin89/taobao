@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.partner-spb.com/" >Железнодорожные и автомобильные грузоперевозки, контейнера, крытые вагоны, негабарит</a>'; include '../view.php';

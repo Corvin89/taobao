@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lesnica.ru/">Все о лестницах и ограждениях.</a> Статьи о лестницах. <a href="http://www.lesnica.ru/">Добавление своей статьи.</a>'; include '../view.php';

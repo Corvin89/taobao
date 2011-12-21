@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.philosofia.ru/other/sight/'>Улучшаем зрение</a>, <a href='http://www.philosofia.ru/'>хатха йога, философия, теософия, занятия йогой</a>'; include '../view.php';

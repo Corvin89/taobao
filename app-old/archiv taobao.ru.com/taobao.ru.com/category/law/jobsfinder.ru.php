@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.jobsfinder.ru" target="_top">Работа</a>'; include '../view.php';

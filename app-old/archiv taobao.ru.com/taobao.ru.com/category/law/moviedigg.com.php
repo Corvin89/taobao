@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.moviedigg.com/">MovieDigg Directory</a>'; include '../view.php';

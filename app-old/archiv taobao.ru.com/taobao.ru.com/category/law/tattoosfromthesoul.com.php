@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tattoosfromthesoul.com" id="RC0D98">Tattoo and Body Piercing</a>'; include '../view.php';

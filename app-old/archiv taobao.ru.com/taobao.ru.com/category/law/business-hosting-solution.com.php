@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.business-hosting-solution.com"><strong>Small Business Web Hosting Services</strong></a> - Small business web hosting services for personal websites and business web hosting. eCommerce web hosting services.'; include '../view.php';

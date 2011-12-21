@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://dvdschool.ru/" target="_blank" title="Каталог видеокурсов на DVD"><img src="http://dvdschool.ru/img/knopka88-31.gif" alt="Каталог видеокурсов на DVD" width="88" height="31" border=0 /></a>'; include '../view.php';

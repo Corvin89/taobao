@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.plakati.ru">фотообои</a>'; include '../view.php';

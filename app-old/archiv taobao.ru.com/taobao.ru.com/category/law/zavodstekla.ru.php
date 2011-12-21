@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a title="Балахнинский завод стеклотары" target="_blank" href="http://www.zavodstekla.ru">ЗАО Балахнинское стекло</a> - завод по производству стеклотары'; include '../view.php';

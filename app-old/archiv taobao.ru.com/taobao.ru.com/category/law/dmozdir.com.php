@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linkbuilding.us">Link Building Web Directory - Internet Site Resources and Information</a>'; include '../view.php';

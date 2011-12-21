@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.alltelevision.ru/satellite/info/">информация о спутниках</a>, <a href="http://www.alltelevision.ru/">цифровое телевидение, инфолайн</a>'; include '../view.php';

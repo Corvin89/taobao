@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dom-invest.ru/">обмен ссылками на сайте</a>'; include '../view.php';

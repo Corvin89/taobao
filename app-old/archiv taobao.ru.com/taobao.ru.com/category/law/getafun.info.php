@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.getafun.info>каталог белых сайтов, развлечения, отдых, знакомства</a>'; include '../view.php';

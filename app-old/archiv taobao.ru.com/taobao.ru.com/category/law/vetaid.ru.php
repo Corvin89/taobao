@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vetaid.ru/veterinar_na_dom/">Ветеринарная помощь ВетЭйд. Вызов ветеринара</a> по Москве и области.'; include '../view.php';

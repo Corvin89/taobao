@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vgame.biz/catalog/podarok/ny.html" title="новогодние подарки, новый год подарки" target="_top" dir="ltr" lang="ru">новогодние подарки, новый год подарки</a>'; include '../view.php';

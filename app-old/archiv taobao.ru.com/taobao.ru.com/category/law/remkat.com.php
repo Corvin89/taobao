@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.remkat.com"><img src="http://www.remkat.com/images/btn_1.gif" alt="Каталог Ремонта и Строительства" width="88" height="31" border="0" ></a>'; include '../view.php';

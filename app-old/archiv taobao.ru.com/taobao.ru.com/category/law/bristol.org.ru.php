@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://bristol.crimea.ua" target="_blank">ялта - отдых в  рыму</a>: отель Ѕристоль - лучшие традиции комфортного отдыха!'; include '../view.php';

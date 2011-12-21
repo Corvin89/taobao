@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://finax.ru' target='_blank'><b>Все о российских финансах</b></a><br />Сайт о российских финансах. Курсы валют, последние новости о финансах.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.artonline.ru/" target="_blank">Artonline.ru - покупка и продажа картин</a> - Продажа и покупка полотен в жанрах: живопись, пейзаж, ню и другие. Информация о выставках и галереях.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tombraidervault.com/links/">Tomb Raider Vault Links Directory</a>'; include '../view.php';

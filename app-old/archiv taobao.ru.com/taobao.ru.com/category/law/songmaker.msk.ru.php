@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.songmaker.ru">Сонгмейкер-сочинитель песен!</a>'; include '../view.php';

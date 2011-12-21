@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.NextDirectory.info" id="R3FBA0F">Web Promotion Directory - Next Directory</a>'; include '../view.php';

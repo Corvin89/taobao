@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lipcolorsense.com">LipColorSense Related Websites</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!--www.hot-egypt.ru-opisanie-->   <a href="http://www.hot-egypt.ru/" title="египет, отдых в египте - погода египет, древний отели хургады">египет, отдых в египте - погода египет, древний отели хургады</a>   <!--www.hot-egypt.ru-opisanie-->'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mebelbuy.ru">Магазин мягкой мебели</a>'; include '../view.php';

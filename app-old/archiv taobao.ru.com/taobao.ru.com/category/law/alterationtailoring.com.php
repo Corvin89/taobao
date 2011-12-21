@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.alterationtailoring.com" id="R83A2F5">Seamstresses And Tailors - Alterations Tailoring</a>- Textile Cleaning, Family Cleaners  Alterations, Laundromat Supplies, Dressmaker'; include '../view.php';

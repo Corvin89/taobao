@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.kiev-service.com/">Kiev-Service: Rent apartments, accommodation, flowers deliveries</a> - весь спектр услуг для туристов в Киеве'; include '../view.php';

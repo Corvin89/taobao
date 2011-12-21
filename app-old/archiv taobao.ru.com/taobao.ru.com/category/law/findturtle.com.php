@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ecarjunction.com/">Used cars For Sale</a>'; include '../view.php';

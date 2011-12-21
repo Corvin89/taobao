@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dostavkasmesiteley.ru/sm/ideal.php">Сантехника ideal standart</a>  на сайте нашей компании http://www.dostavkasmesiteley.ru'; include '../view.php';

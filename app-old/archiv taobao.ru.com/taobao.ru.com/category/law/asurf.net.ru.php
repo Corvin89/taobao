@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://rpanel.in/"><img src="http://rpanel.in/img/banner88.gif" width="88" height="31" border="0" alt="Система обмена показами-2"></a><br><a href="http://telefen.net/">Интернет магазин сотовых
-телефонов и аксесуаров</a>'; include '../view.php';

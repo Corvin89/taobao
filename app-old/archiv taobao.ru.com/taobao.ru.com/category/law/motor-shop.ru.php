@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.motor-shop.ru/avtosteklo/">автостекло на все марки авто</a>'; include '../view.php';

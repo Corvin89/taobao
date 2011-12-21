@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Каталог Camelion, <a href="http://www.sampo21.ru">энергосберегающие лампы</a>, светильники, фонари.'; include '../view.php';

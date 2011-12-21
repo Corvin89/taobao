@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://freeriderz.ru/">Содействие личностным преобразованиям</a>'; include '../view.php';

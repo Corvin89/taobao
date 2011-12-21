@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://webdosi.net">Доска обьявлений для вас. Размешайте вашу рекламу на нашей доске.</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.afteryourwedding.com.au/directory">AYW Directory</a>'; include '../view.php';

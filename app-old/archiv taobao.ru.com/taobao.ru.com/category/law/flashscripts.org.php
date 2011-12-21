@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Бесплатный <a href="http://flashscripts.org/?page=flashcat">скрипт каталога сайтов</a> на php'; include '../view.php';

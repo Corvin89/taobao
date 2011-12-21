@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=_blank href="http://rzgmu.info/">Независимый неофициальный форум РязГМУ</a>'; include '../view.php';

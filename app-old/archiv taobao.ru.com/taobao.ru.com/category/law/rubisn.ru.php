@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://rubisn.ru/>„ерный бизнес Ц различные качества черного предпринимател€  </a>'; include '../view.php';

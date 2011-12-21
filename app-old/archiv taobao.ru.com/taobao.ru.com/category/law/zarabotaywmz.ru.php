@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://zarabotaywmz.ru/" target="_blank">¬се что надо дл€ раскрутки сайта и заработок</a>'; include '../view.php';

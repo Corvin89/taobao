@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://subektivnaya-psihologiya.ru/">Субъективная психология</a>'; include '../view.php';

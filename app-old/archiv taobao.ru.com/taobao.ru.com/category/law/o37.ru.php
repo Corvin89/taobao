@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.o37.ru">Региональный каталог Ивановской области</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://inaquatech.ru>ООО ИНАКВА Тех водоподготовка</a>'; include '../view.php';

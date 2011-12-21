@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.odysseus.com.ua" "target="_blank">Отдых Затока</a>'; include '../view.php';

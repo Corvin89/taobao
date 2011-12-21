@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linkcapture.info">LinkCapture</a>'; include '../view.php';

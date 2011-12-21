@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.perfoprom.ru/">перфорированный лист</a>'; include '../view.php';

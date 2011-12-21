@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.beautyabroad.com/">Beautiful women from Ukraine</a>'; include '../view.php';

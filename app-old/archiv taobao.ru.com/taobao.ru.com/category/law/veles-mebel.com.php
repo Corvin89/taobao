@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.veles-mebel.com" target="_blank"><img src="http://veles-mebel.com/images/veles_mebel_88_31.gif" alt="Мебельная компания Велес" width=88 height=31 border=0></a>'; include '../view.php';

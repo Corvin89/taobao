@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Интернет магазин душевых кабин.  <a href="http://appollo-lux.ru/product.php?id=29">Душевая кабина Appollo TS-518  </a> Душевые кабины оптом.'; include '../view.php';

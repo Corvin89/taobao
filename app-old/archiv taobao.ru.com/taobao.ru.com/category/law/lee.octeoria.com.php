@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://lee.octeoria.com">Каталог ссылок по ОС</a>'; include '../view.php';

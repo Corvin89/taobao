@@ -1,1 +1,0 @@
-<?php $catalogLink = '<b>Доски деловых объявлений <a href=http://myboard.com.ru/>Галактика Сообщений</a></b>'; include '../view.php';

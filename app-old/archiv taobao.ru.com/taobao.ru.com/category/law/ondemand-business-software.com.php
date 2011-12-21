@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ondemand-business-software.com/">On-Demand Business Software</a>'; include '../view.php';

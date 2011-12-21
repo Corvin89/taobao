@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://castingcars.ru/">Фотогалерея автомобилей</a>'; include '../view.php';

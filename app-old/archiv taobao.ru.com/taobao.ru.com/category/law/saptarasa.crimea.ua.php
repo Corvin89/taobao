@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.saptarasa.org.ua" target="_blank"><strong>Ведическая кулинария</strong></a>: простые и удобные рецепты на каждый день.'; include '../view.php';

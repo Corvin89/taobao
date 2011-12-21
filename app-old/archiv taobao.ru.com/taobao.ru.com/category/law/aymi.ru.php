@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://aymi.ru">”даленна€ работа</a>  зарплата до 1000$ в мес€ц.'; include '../view.php';

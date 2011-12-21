@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.indianafortwayne.com" id="R83A185">Fort Wayne City Business Search Community Network</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.yousoft.ru">Лучшие ссылки на YouSoft</a>'; include '../view.php';

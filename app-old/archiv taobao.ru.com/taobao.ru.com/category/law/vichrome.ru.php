@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://vichrome.ru/" target="_blank"><img src="http://vichrome.ru/images/button.gif" width=88 height=31 alt="Новые технологии хромирования и золочения. Хромирование без гальваники. Антикризисные предложения. Покраска и изготовление предметов декора" border="0"></a>'; include '../view.php';

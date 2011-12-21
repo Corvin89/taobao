@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://bestisland.ru">туры на острова</a> по всему миру'; include '../view.php';

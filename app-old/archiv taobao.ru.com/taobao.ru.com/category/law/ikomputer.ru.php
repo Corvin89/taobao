@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ikomputer.ru">ikomputer.ru</a>'; include '../view.php';

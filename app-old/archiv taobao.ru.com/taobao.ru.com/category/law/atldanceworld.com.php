@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.atldanceworld.com/directory/">Atlanta Dance Directory</a>'; include '../view.php';

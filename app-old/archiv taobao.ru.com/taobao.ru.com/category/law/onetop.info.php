@@ -1,1 +1,0 @@
-<?php $catalogLink = '<br> ету <a href="http://www.adamin.org">книжечку</a>берём тут <br>'; include '../view.php';

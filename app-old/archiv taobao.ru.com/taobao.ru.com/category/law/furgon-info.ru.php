@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.furgon-info.ru/" target="_blank"><img src="http://www.furgon-info.ru/images/fi.jpg" alt="Фургоны и грузовая техника - Паритет-М" border="0" width="88" height="31"></a>'; include '../view.php';

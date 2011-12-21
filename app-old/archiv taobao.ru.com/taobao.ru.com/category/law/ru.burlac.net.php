@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ru.burlac.net" target="_blank"><img border="0" src="http://www.burlac.net/img/b/88x31.gif" width="88" height="31" alt="масляная живопись Юрия Бурлаку в стиле импрессионизма"></a>'; include '../view.php';

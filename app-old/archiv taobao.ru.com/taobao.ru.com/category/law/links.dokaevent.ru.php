@@ -1,1 +1,0 @@
-<?php $catalogLink = '<!-- DokaEvent.ru --><a href="http://dokaevent.ru/" _mce_href="/" target=_blank><img src="http://dokaevent.ru/doka.gif" _mce_src="/doka.gif" width="88" height="31" alt="Диджей и Тамада на свадьбу, банкет, юбилей, корпоратив !" border="0"></a><!-- DokaEvent.ru -->'; include '../view.php';

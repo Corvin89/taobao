@@ -1,3 +1,0 @@
-<?php $catalogLink = '<!--www.entuaziast.ru  begin-->
-<a href="http://www.entuziast.ru" target="_blank"><img src="http://www.entuziast.ru/ent-button.jpg" width="88" height="31" border="0" alt='Компания "ЭНТУЗИАСТ" - Продажа строительного, сварочного, моечно-уборочного, теплового оборудования, компрессоров, насосов, абразивного, алмазного, ручного инструмента, бензо- пневмоинструмента, бетоносмесителей, плиткорезов.'></a>
-<!—www.entuziast.ru  end-->'; include '../view.php';

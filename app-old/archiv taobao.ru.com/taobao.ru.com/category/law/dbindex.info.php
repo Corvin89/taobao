@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dbindex.info">DBIndex</a>'; include '../view.php';

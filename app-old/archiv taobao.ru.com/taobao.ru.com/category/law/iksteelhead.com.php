@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.iksteelhead.com"  target="_blank">Охота, рыбалка, экскурсии на Камчатке.</a>'; include '../view.php';

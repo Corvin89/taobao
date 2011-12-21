@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.iTextLink.com" id="RC5C576">iTextLink Web Directory - Text Link</a>'; include '../view.php';

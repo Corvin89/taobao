@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://webzona.stwol.ru">Каталог сайтов "Webzona"</a>'; include '../view.php';

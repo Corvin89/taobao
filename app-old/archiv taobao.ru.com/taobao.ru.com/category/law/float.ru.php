@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Информационный портал на рыболовную тематику <a href="http://www.float.ru/">рыболовный портал</a>'; include '../view.php';

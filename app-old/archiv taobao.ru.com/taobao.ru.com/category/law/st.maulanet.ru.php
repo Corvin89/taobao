@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://st.maulanet.ru"><img src="http://st.maulanet.ru/banner.gif"></a>'; include '../view.php';

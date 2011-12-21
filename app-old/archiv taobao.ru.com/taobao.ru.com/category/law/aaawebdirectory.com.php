@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.nexcomp.com/weblaunch/">Free search engine submission</a>'; include '../view.php';

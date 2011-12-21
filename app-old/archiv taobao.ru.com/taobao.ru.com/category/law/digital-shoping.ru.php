@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://digital-shoping.ru/" title="Интернет магазин Digital-Shoping.Ru" target="_blank">Интернет магазин Digital-Shoping.Ru</a> - Цифровые товары'; include '../view.php';

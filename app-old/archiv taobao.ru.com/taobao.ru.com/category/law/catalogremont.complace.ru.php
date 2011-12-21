@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Качественный <a title="компьютерный сервис" href="http://www.complace.ru/" target="_self">компьютерный сервис</a> - www.complace.ru в Москве'; include '../view.php';

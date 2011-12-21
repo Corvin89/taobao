@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://realtor.crimea.ua" target="_blank"><strong>Недвижимость в Крыму</strong></a>: предложения агенств недвижимости и владельцев'; include '../view.php';

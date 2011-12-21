@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.reciprocate.info/">Reciprocate.Info</a><br />'; include '../view.php';

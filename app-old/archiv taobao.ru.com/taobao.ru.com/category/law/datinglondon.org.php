@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.datinglondon.org/"><b>Dating London</b></a><br>Dating London is a london dating site for london singles looking for dating in london.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://sochinorbekov.ru">Восточные практики в Сочи</a>'; include '../view.php';

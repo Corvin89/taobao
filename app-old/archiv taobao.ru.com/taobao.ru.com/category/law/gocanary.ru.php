@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Горящие туры на <a href="http://gocanary.ru">Тенерифе</a>'; include '../view.php';

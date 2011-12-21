@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://w32.net/">W32 Article Directory</a>'; include '../view.php';

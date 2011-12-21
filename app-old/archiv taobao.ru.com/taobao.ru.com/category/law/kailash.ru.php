@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kailash.ru/" target=_blank>Турцентр Кайлаш: туры в Тибет, Непал, Индию, Бутан, Китай, Монголию, Индонезию. Визы и авиабилеты.</a>'; include '../view.php';

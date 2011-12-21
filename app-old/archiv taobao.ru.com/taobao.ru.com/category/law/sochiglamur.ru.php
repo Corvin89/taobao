@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://sochiglamur.ru/hairstyling/treatment_and_hair_care.html"><strong>Лечения волос в Сочи</strong></a>, которое разрабатывается индивидуально для каждого нашего клиента дает огромный эффект. Наращивание волос в Сочи также имеет место БЫТЬ...'; include '../view.php';

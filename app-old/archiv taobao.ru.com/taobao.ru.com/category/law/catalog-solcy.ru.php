@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://oldash.ru"><img src="http://images.cooltext.com/1187728.jpg" width="120" height="40" alt="Агентство недвижимости города Сольцы" /></a>'; include '../view.php';

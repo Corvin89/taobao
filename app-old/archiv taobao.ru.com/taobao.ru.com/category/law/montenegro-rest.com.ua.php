@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://montenegro-rest.com.ua/ru/o_strane/kurorti/">Курорты Черногории</a>: Будва, Петровац, Бечичи, Игало, Милочер и т.д. <a href="http://montenegro-rest.com.ua/ru/tour/">Горящие путевки в Черногорию</a>.'; include '../view.php';

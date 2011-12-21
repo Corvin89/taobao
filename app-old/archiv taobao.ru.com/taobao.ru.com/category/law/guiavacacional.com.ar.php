@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.guiavacacional.com.ar/">Guia Vacacional</a>'; include '../view.php';

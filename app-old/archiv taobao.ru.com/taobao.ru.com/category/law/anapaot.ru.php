@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.anapaot.ru">Анапа отель</a> "Старый город". Отдых на море. <a href="http://www.anapaot.ru/otdykh-v-dzhemete">Джемете отдых</a>.'; include '../view.php';

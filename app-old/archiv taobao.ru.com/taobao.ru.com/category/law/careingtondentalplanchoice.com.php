@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://careingtondentalplanchoice.com/">careington dental plan</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.generalwebdirectory.co.uk">Link Exchange Reciprocal Link Submission Great Britain UK Directory</a>'; include '../view.php';

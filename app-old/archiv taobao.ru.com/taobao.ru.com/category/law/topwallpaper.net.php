@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a(.*)href="http://(.*)topwallpaper.net(.*)>(.*)</a>'; include '../view.php';

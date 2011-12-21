@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gyrzyf.info/pansionaty.html" target="_blank">пансионаты Гурзуфа</a>, санатории и <a href="http://www.gyrzyf.info/oteli.html" target="_blank">отели</a> в регионах <a href="http://www.gyrzyf.info" target="_blank">Гурзуфа</a>'; include '../view.php';

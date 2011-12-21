@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rusfoods.ru/firmprice/">Реестр продовольственных компаний</a>'; include '../view.php';

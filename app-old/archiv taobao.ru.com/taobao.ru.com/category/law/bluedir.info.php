@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://bluedir.info"><strong>Каталог сайтов BlueDir.Info</strong></a>, <a href="http://bluedir.info/add.php"><strong>добавить сайт.</strong></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.webplayers.org">Web Players Directory- The advertisement free human edited directory of useful sites only</a>'; include '../view.php';

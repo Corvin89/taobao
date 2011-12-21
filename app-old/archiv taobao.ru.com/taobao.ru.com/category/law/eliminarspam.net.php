@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.childrenhealthtip.com/safety/health-and-parenting-tips">Child Health And Parenting</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.guards-online.ru">видеорегистраторы, экономическая безопасность предприятия</a>, <a href="http://www.guards-online.ru/unit/vrec/">видеоглазок</a>'; include '../view.php';

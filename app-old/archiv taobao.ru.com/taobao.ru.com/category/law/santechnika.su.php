@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target=_blank href=http://santechnika.su>Элитная Сантехника по низким ценам. Петербург</a>'; include '../view.php';

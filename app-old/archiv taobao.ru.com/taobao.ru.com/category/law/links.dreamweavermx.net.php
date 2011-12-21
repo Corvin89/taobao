@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://links.dreamweavermx.net">Каталог Webmaster</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.chutok.ru/modules.php?name=Submit_News" target="_blank">Ќовости строительства</a> узнайте у нас.'; include '../view.php';

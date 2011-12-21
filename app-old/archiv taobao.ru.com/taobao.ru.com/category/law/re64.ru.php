@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.region64.ru/tenders">как поднять продажи</a> Как выжить предприятию во время мрового финансового'; include '../view.php';

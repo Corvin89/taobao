@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rend.ru/">Архитектурная тонировка стекол</a>'; include '../view.php';

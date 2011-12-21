@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.czehia.ru">Чехия, отдых в Чехии</a>'; include '../view.php';

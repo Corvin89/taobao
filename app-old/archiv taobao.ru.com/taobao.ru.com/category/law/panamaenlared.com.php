@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.panamaenlared.com" id="REDCC6">Panama en la Red</a>'; include '../view.php';

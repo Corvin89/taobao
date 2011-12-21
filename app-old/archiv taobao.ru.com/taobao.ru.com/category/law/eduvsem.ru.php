@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.eduvsem.ru">Образование и репетиторские услуги</a>'; include '../view.php';

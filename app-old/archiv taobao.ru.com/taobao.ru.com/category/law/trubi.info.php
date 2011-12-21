@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.trubi.info">Наружные системы трубопроводов, полимерные трубы, монтаж трубопроводов</a>'; include '../view.php';

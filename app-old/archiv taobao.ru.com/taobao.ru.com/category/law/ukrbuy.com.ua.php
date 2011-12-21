@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ukrbuy.com.ua/" title="UkrBuy.Com.UA | On-line сервис моментальной оплаты товаров и услуг в Украине" STYLE="color:Blue; font-size:13px; ">UkrBuy.Com.UA | On-line сервис моментального пополнения счета, мобильные телефоны</a>'; include '../view.php';

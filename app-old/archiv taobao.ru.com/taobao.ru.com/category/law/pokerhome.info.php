@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pokerhome.info" id="RB66599">Poker Directory</a>'; include '../view.php';

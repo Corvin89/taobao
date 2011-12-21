@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kgta.ru/"><img src="http://kgta.ru/kgtabaner.gif" width=88 height=31 border=0 alt="Сайт студентов КГТА"></a><br>'; include '../view.php';

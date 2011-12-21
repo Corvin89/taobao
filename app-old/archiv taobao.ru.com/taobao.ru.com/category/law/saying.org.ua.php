@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://saying.org.ua" target="_blank">Изречения, высказывания, цитаты известных личностей на www.saying.org.ua</a>'; include '../view.php';

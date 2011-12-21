@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Отличные предложения от <a href="http://www.italonkerama.ru">http://www.ItalonKerama.ru</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.metalbuy.ru">ѕродажа металлопроката, стальна€ лента</a>'; include '../view.php';

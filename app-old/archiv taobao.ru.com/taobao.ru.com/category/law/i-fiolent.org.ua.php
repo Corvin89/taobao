@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.fiolent.ru" target="_blank"><em>Отдых на Фиоленте</em>: пансионаты и базы отдыха Фиолента</a>'; include '../view.php';

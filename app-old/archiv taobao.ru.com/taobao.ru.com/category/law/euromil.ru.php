@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.euromil.ru/"><img src="http://www.euromil.ru/templates/euromil/images/ban.gif" width="88" height="31" border="0" alt="авиаперевозки, чартер" title="заказ авиабилетов, самолета и бизнес авиация"></a>'; include '../view.php';

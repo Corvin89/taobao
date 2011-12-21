@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://telepop.ru/news/32">Сенсорный мобильный телефон Samsung Highlight</a>'; include '../view.php';

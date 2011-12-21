@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.allstatesusadirectory.com/computers_and_internet/">Internet Directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://katalog.foton-adk.ru">Каталог автомобильный сайтов. Обмен ссылками</a><br><a href="http://www.ad-k.ru">запчасти для китайских автомобилей</a>'; include '../view.php';

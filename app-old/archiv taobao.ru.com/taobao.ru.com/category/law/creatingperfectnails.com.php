@@ -1,1 +1,0 @@
-<?php $catalogLink = 'I have an <a href="http://www.creatingperfectnails.com">acrylic nail salon</a> offering a range of acrylic & gel nail services at my salon. Digital nail art is also available. All services guaranteed.'; include '../view.php';

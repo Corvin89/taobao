@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.topselect.ru/">TOPSelect - выбор есть всегда</a>'; include '../view.php';

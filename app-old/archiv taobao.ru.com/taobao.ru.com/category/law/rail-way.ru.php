@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.rail-way.ru/company/production/'>ѕроизводство ж.д. транспорта</a> <a href='http://www.rail-way.ru/'>паровоз, “епловозы, железнодорожный музей, мотовозы</a>'; include '../view.php';

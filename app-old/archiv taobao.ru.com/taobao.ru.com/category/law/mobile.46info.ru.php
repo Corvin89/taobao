@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://mobile.46info.ru/" target="_blank">ћобильные развлечени€: java-игры, картинки, мелодии.</a>'; include '../view.php';

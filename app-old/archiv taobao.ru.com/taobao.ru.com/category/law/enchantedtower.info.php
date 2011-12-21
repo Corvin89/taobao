@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.rioserver.com/">Web hosting</a>'; include '../view.php';

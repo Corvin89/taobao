@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://profmaster.biz" title="стройматериалы">магазин стройматериалов</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.galatico.com" id="RA61E61">Free Links Directory</a>'; include '../view.php';

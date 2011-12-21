@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.iwebdirectory.co.uk/">iWebDirectory.co.uk | Submit URL - Link Exchange Web Directory</a>'; include '../view.php';

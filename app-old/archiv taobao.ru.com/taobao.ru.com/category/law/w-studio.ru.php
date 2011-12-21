@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://www.w-studio.ru">хгцнрнбкемхе яюирнб, пюгпюанрйю хмрепмер люцюгхмнб, янгдюмхе яюирнб, онддепфйю яюирнб, пюяйпсрйю яюирнб</a>'; include '../view.php';

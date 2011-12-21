@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mybrasil.ru">Отдых и туры в Бразилию</a>'; include '../view.php';

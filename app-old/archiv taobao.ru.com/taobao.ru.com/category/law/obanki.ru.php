@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.obanki.ru">Ёнциклопеди€ бизнеса</a>'; include '../view.php';

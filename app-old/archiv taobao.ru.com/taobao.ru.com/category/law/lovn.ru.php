@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://lovn.ru/tools/" target="_blank" title="ТИЦ и PR сайта, кнопка-информер"><img src="http://lovn.ru/tools/cy-pr.php?color=11" width="88" height="31" border="0" alt="PR-ТИЦ сайта (счётчик-информер)"></a>'; include '../view.php';

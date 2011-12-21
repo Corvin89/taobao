@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.italkuh.ru">Классические итальянские кухни</a>'; include '../view.php';

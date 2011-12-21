@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.figuresofspeech.co.uk" id="RC2BE20">Figures Of Speech</a>'; include '../view.php';

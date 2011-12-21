@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.maxxfusion.com/">Affordable Shopping Cart Software and Network Management Systems by Maxxfusion – Website design - hosting - maintenance</a>'; include '../view.php';

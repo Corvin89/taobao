@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://erovideo.sextaboo.org/">Видео для взрослых SexTaboo.org</a>'; include '../view.php';

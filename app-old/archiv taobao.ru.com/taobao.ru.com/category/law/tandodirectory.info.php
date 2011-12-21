@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.tandodirectory.info/">Tando Directory</a>'; include '../view.php';

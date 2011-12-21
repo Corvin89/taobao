@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://Screenwriters.LA" id="RC1F76F">Screenwriters.LA Screenwriting Links</a>'; include '../view.php';

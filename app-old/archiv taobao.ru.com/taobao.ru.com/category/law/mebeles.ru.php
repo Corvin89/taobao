@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mebeles.ru/" title="ћебельный магазин детской и м€гкой мебели россии - мебель и диваны в ћоскве, м€гка€ мебель, диваны и кресла" target="_blank"><img src="http://www.mebelvcem.ru/ban.gif" alt="мебельный магазин детской и м€гкой мебели, диваны и кресла, кровати" width="88" height="31" border="0"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = 'только <a href="http://www.supplyland.ru/">современное полиграфическое оборудование</a> в Москве и Подмосковье'; include '../view.php';

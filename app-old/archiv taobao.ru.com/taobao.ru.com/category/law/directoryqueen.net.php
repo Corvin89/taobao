@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.qlWeb.com">DO NOT click here, if you are as excited today as the first day when you launched your first Directory.</a>'; include '../view.php';

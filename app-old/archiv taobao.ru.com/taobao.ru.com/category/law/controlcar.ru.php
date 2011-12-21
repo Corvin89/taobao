@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.controlcar.ru">Автомобильные системы управления</a>'; include '../view.php';

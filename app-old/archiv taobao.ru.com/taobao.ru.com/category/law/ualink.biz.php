@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://ualink.biz"><img border="0" src="http://ualink.biz/88x31.gif" alt="Українські лінки - Білий каталог сайтів, безкоштовна розкрутка сайтів, реєстрація в каталозі" width="88" height="31"></a>'; include '../view.php';

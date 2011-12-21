@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://pb.pryd.ru/derev.htm">Деревянные дома</a> <a href="http://pb.pryd.ru/karkas.htm">Каркасные дома</a> <a href="http://pb.pryd.ru/texnol.htm">Строительство дачь</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.forumvirus.com">Forum Virus Forum Directory</a>'; include '../view.php';

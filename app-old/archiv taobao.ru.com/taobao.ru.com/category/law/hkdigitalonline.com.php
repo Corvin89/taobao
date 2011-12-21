@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.hkdigitalonline.com">Website Designing India</a><br>H K Digital Online is the Online Marketing Company provide creative Website design, SEO Services,Website Development, Software Development, Multimedia Solutions, Networking Solutions, Print Designing and Web Hosting needs in India.'; include '../view.php';

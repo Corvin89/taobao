@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://regdomen.net">Регистрация домена в зонах . net .ru .com .info .biz .ua .cc .tv .tk и многих других популярных зонах дешего.</a>'; include '../view.php';

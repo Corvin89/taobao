@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.scriptsdesign.com/links">Web Design Dubai Link Directory</a>'; include '../view.php';

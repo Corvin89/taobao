@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.biglist.ru"><img src="http://www.biglist.ru/pics/logo.gif" alt="BigList.ru - Доска бесплатных объявлений товаров и услуг по городам России" border="0"></a>'; include '../view.php';

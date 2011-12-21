@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ooo-sunrise.ru/collection-2011/">Ўкольна€ форма коллекци€ 2011 года</a>'; include '../view.php';

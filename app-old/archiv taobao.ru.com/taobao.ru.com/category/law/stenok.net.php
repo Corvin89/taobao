@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.seversrub.com">Срубы домов деревянные срубы сруб бани продажа срубов расчет срубов купить срубы</a>'; include '../view.php';

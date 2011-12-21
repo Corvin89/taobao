@@ -1,2 +1,0 @@
-<?php $catalogLink = '<p><a href="http://avto-man.ru"><span lang="ru">Последние АВТО новости в онлайн 
-версии автомобильного журнала АВТОМАН - </span>http://avto-man.ru</a></p>'; include '../view.php';

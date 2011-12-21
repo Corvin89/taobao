@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.gamblingdir.net">Gambling Directory</a>'; include '../view.php';

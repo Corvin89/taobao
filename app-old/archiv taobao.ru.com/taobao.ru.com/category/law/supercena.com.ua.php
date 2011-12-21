@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Сеть магазинов  Джинсы суперцена  - лидер продаж широчайшего ассортимента <a href=" http://www.supercena.com.ua/traiders ">турецких джинсов</a> на любой вкус.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://webcolori.ru/" title="Студия Веб дизайна WEBCOLORI">Студия Веб дизайна WEBCOLORI<br><img src="http://webcolori.ru/avatar1.png" /></a>'; include '../view.php';

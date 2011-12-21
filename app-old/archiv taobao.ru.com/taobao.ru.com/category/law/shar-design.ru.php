@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Shar-Design украсит Ваш <a href="http://www.shar-design.ru">юбилеи свадьбы</a>.'; include '../view.php';

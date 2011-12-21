@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://smehodrom.com/" title="Смеходром - Каталог сайтов" target=_blank><img src="http://smehodrom.com/catalog/images/btn.jpg" border=0 /></a>'; include '../view.php';

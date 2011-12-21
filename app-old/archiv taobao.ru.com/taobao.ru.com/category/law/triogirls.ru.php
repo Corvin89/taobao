@@ -1,1 +1,0 @@
-<?php $catalogLink = ' вартиры на сутки.<a href="http://www.triogirls.ru"> развлечени€ дл€ мужчин</a>'; include '../view.php';

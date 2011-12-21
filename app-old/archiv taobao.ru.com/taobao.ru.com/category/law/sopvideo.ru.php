@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sopvideo.ru">Камеры видеонаблюдения, комплексные системы безопасности</a>'; include '../view.php';

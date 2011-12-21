@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dirred.com/">The Web-Link Highlighter</a>'; include '../view.php';

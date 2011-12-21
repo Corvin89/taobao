@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://free.msk.ru/"><img src="http://free.msk.ru/button.gif" width=88 height=31 border=0 alt="Free.Msk.Ru :: Сайт о бесплатном"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://xn----jtbhedwflfaearfc.xn--p1ai/">РУССКИЙ-ТОРРЕНТ.РФ - Национальный русский торрент трекер.</a>'; include '../view.php';

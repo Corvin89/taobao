@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://forum.lishnih.net">Форум аниматоров и WEB-мастеров.</a><a href="http://www.lishnih.net">Клуб любителей анимации.</a>'; include '../view.php';

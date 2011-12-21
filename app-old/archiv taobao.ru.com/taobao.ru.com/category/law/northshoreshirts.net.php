@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.northshoreshirts.com" id="R0">North Shore Shirts - Funny and Island Style T-shirts</a>'; include '../view.php';

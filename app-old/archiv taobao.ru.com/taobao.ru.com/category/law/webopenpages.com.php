@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.webopenpages.com">Free Submission Web General Directory General Website Listings</a>'; include '../view.php';

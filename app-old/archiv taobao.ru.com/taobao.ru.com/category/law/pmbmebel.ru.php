@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Перовская мебельная база это <a href="http://www.pmbmebel.ru">спальня суламифь</a> и реально низкие цены!'; include '../view.php';

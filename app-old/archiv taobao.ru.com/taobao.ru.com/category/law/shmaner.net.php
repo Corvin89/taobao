@@ -1,1 +1,0 @@
-<?php $catalogLink = '<li><a href="http://www.shmaner.net">Каталог фирм и  организаций Росии и стран СНГ</a></li>'; include '../view.php';

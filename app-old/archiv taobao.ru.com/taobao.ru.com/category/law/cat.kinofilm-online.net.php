@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.kinofilm-online.net">Каталог ссылок cat.kinofilm-online.net</a>'; include '../view.php';

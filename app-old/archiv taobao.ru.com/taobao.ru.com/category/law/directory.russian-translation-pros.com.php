@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.Russian-Translation-Pros.com/">Translation directory</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.MaviDir.com" id="R91943E">MaviDir Web Directory </a>'; include '../view.php';

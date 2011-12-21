@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.allthingsaverage.com">average of</a>'; include '../view.php';

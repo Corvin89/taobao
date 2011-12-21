@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.diplomexpress.ru">Заказ диплома. Диплом на заказ. </a>'; include '../view.php';

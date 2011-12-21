@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.trybochist.ru/">Трубочисты Петербурга-услуги; статьи; советы</a>'; include '../view.php';

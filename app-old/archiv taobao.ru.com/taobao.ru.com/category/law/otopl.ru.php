@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.otopl.ru">Otopl.ru - пластиковые трубопроводы, системы отопления, водоснабжение</a>'; include '../view.php';

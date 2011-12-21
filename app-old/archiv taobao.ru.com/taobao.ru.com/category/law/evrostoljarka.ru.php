@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=/ target=_blank><img src=/img/88x31.gif width=88 height=31 border=0 alt="Компания `ГОРОД МАСТЕРОВ` г. Белгород - деревянные окна и двери, мебель, рольставни, ворота. Обмен ссылками."></a>'; include '../view.php';

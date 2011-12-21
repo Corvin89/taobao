@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://stroitelniportal.ru"><img src="http://stroitelniportal.ru/images/counter.gif" width=88 height=31 border=0
-alt="√лавный строительный портал страны. —троительство, ремонт, интерьер, дом, мебель, отделочные материалы - все фирмы и цены"></a>'; include '../view.php';

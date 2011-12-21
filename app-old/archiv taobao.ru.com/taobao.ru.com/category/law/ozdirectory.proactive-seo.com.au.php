@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.ozdirectory.proactive-seo.com.au/" id="RE56B8">Oz-Directory Australian Web Directory</a>'; include '../view.php';

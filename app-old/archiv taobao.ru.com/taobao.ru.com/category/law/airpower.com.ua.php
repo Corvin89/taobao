@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kompressor.net.ua">Первый Украинский Компрессорный Портал</a>'; include '../view.php';

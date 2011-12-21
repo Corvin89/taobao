@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.csb-audit.ru" title="Бухгалтерские услуги">Бухгалтерское обслуживание</a>'; include '../view.php';

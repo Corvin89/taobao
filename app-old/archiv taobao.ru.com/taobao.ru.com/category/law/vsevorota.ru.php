@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.vsevorota.ru/">Строительная компания Vsevorota</a>: <a href="http://www.vsevorota.ru/Sdvijnye/">автоматические ворота, сдвижные ворота</a> для Вашей дачи, коттеджа и просто гаража.'; include '../view.php';

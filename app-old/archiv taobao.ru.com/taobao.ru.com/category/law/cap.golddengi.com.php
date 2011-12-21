@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Cap.Golddengi.Com - <a href=http://www.cap.golddengi.com> - Активная Раскрутка Сайта</a>. Моим рефералам <a href=http://www.capgolddengi.com>РефБек</a> 115% каждый день. Показы от 0.025$ за 1000кр. VIP-посетители от 0.45$ за 1000.'; include '../view.php';

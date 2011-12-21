@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dircity.info">DirCity Web Directory</a>'; include '../view.php';

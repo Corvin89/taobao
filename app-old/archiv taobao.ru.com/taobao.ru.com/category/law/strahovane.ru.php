@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://strahovane.ru/>Страхование в Украине</a>'; include '../view.php';

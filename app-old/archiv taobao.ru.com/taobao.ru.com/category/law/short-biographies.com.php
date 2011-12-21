@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://short-biographies.com/linksmetro/' target=_blank><b>Short Biographies</b></a><br>Biographies of famous men and women from around the world<br><br>'; include '../view.php';

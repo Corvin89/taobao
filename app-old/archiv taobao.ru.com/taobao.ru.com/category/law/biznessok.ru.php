@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.biznessok.ru">–оль и значение финансового контрол€</a>'; include '../view.php';

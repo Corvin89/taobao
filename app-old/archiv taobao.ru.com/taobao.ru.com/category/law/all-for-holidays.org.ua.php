@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://all-for-holidays.org.ua/">ѕоздравлени€ и тосты по любому поводу.</a>'; include '../view.php';

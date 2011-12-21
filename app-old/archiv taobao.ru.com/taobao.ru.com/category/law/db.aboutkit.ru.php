@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.aboutkit.ru">Лекции по Компьютерным Информационным Технологиям</a>'; include '../view.php';

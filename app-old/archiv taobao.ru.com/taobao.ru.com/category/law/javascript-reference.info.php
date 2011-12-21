@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.seoexpress.de">Webmastershop</a>'; include '../view.php';

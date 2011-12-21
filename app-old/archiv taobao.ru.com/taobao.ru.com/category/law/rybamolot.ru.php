@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://rybamolot.ru">ядовитые представители рыб</a>'; include '../view.php';

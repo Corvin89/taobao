@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://goldstil.spb.ru/">схемы часов, бензиновая зажигалка</a>'; include '../view.php';

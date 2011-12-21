@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.paper-news.com>каталог сайтов бумажной отрасли, дизайн, полиграфии, недвижимости и квартир</a>'; include '../view.php';

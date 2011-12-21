@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://weblinks.4next.ru">Общетематический каталог Интернет-сайтов</a>'; include '../view.php';

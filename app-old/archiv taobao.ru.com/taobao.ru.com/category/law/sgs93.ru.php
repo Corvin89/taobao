@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sgs93.ru/production/" target="_blank">Электро-светотехническая и кабель-проводниковая продукция.</a> - <a href="http://www.sgs93.ru/" target="_blank">ЗАО "Спецглавснаб"</a>.'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://web-master.h14.ru" target="_blank"><img border="0"; src="http://web-master.h14.ru/pic/main/mini-banner.gif" width="88" height="31" alt="Все для создания своего собственного Web-сайта. Все для Web-технологий: PHP, HTML, CSS, SSI."></a>'; include '../view.php';

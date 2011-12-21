@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://bluetoothmarketing.com.ua"><img border=0 id="linkor_baner_doka"><script>document.getElementById('linkor_baner_doka').src="http://bluetoothmarketing.com.ua/admin/modules/includes/linkor/baner.php?see="+escape(window.location.href);</script></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.monplus.com">Компания МониторПлюс - продажа мониторов, LCD мониторов, жк-панелей</a>'; include '../view.php';

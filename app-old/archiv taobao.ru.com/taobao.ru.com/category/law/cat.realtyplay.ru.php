@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://cat.realtyplay.ru/">Наши партнеры</a><a href="http://realtyplay.ru/">Cнять квартиру, сдать квартиру, купить квартиру, продать квартиру, дом, офис, участок.</a>'; include '../view.php';

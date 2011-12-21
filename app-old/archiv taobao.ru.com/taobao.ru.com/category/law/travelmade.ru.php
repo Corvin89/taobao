@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Туры в Австрию от <a href=http://www.travelmade.ru>туристического агентства ТрэвелМэйд</a>.'; include '../view.php';

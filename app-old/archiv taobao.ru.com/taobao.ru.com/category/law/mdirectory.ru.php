@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.mdirectory.ru">Каталог медицинских сайтов<img src="http://mdirectory.ru/images/admin/poweredby.jpg" alt="Медицинский каталог">'; include '../view.php';

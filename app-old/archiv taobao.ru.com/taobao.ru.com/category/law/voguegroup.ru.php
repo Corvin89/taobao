@@ -1,1 +1,0 @@
-<?php $catalogLink = '<b>Крупнейший производитель Vogue Group.</b> <a href="http://voguegroup.ru/">Колготки носки чулки белье оптом</a>'; include '../view.php';

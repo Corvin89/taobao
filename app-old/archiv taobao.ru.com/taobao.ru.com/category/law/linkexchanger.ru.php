@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.linkexchanger.ru>LinkExchanger - php скрипт каталога ссылок.</a>'; include '../view.php';

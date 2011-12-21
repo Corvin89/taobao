@@ -1,1 +1,0 @@
-<?php $catalogLink = '<A href="http://www.vknigge.ru">Авторские сказки</A>'; include '../view.php';

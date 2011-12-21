@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.arkan-reef.ru"><img src="http://www.arkan-reef.ru/baner88x31.gif" alt="ARKAN-REEF Satellite" border="0" height="31" width="88"></a>'; include '../view.php';

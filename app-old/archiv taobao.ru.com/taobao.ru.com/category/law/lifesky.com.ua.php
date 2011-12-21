@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.lifesky.com.ua/" target="_blank">Металлоискатели в Одессе</a>'; include '../view.php';

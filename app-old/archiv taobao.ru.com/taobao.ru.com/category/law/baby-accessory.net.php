@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.baby-accessory.net" id="R3DB7E2">Location search directory guide offers free links to baby products and kids clothing suppliers</a>- Boutique Kid Shopping, Cotton Fashion, Gift Shop, Garment Collection'; include '../view.php';

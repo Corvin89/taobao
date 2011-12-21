@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://www.auto.kolossale.com>Как купить автомобиль.</a>'; include '../view.php';

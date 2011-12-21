@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://kilobyte.com.ua"><img src="http://catalog.kilobyte.com.ua/images/informer5.png" width="88" height="31" border="0" alt="ÕÎÑÒÈÍÃ" /></a>'; include '../view.php';

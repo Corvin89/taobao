@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.work-board.com/" title="Доска объявлений, недвижимость, работа, вакансии">Доска объявлений, Недвижимость крыма, аренда</a>'; include '../view.php';

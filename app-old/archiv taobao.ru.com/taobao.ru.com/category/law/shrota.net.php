@@ -1,1 +1,0 @@
-<?php $catalogLink = 'Оптовые поставки сельхозпродукции - <a href="http://shrota.net" target="new" >жмых</a>, <a href="http://shrota.net/prod.htm" target="new" >шрот</a>, масло.'; include '../view.php';

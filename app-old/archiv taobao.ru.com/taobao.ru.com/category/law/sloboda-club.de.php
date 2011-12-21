@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sloboda-club.de"><img border="0" src="http://www.sloboda-club.de/images/banners/sloboda.gif" width="88" height="31" alt="Sloboda-Club"></a>'; include '../view.php';

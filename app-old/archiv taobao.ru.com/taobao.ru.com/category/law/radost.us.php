@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://radost.us" title="Запознанства"><img src="http://radost.us/add_url/102-50.JPG" width="102" height="50" border="0" alt="Bad Girl"></a>'; include '../view.php';

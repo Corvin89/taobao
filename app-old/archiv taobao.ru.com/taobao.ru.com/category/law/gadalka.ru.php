@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.gadalka.ru/main.php?url=http://www.keweenawtoday.com'><img border="0"src="http://www.gadalka.ru/images/g_knopka_3.gif" width="88" height="31" alt="Каталог Гадалка"></a>'; include '../view.php';

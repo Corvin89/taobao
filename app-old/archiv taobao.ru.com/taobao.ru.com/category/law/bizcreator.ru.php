@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://bizcreator.ru">cоздание фирмы</a>'; include '../view.php';

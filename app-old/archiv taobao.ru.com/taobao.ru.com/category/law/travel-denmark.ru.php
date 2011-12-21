@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.travel-denmark.ru/cottages/" target="_blank">Коттеджи в Дании</a>'; include '../view.php';

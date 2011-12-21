@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://gronlink.net">Каталог сайтов. Бесплатная раскрутка.</a>'; include '../view.php';

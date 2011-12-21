@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.pubsbrew.com" id="RE7F6B4">Brew Pub independent breweries, lunches and dinners, Brewery, Brew Pubs Guide</a> - Brew Pub independent breweries, lunches and dinners, Brewery, Brew Pubs Guide'; include '../view.php';

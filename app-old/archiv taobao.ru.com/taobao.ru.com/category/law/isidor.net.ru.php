@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://isidor.net.ru"><img src="http://isidor.net.ru/isidor.gif" width="88" height="31" border="0" alt="Анапа: курортный район Витязево - гостиница «Исидор»"></a> <a href="http://isidor.net.ru">Витязево</a>: гостиница с полным пансионом - «Исидор». Описание, фотографии, форма заказа, отзывы.'; include '../view.php';

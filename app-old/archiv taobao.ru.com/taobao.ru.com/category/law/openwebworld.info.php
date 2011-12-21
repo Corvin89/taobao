@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.openwebworld.info">Open Web World</a>'; include '../view.php';

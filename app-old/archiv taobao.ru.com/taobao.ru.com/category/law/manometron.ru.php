@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.manometron.ru">судовые манометры</a>'; include '../view.php';

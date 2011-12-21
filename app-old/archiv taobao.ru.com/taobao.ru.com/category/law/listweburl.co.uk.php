@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.bedwettingcausecure.com">bed wetting cure</a>'; include '../view.php';

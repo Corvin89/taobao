@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a target="_blank" href="http://doskaob.com/">Услуги - спрос, предложение</a>'; include '../view.php';

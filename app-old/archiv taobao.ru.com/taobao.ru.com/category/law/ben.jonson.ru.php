@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://ben.jonson.ru" target="_blank">Каталог сайтов</a> BEN. PHP <a href="http://freedomen.ru/hosting.shtml">хостинг</a> от бесплатной <a href="http://freedomen.ru/">проверки доменов</a>.'; include '../view.php';

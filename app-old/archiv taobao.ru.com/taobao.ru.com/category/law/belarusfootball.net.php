@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.belarusfootball.net' target='_blank'><b>Виртуальный футбол - чемпионат Беларуси</b></a><br />Виртуальный футбол, основанный на результатах реального чемпионата Беларуси по футболу'; include '../view.php';

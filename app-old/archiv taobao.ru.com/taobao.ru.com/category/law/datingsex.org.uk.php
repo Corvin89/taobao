@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.datingsex.org.uk/"><b>Dating Sex</b></a><br>Dating sex adult dating site containing adult sex contacts for adults looking for nsa adult fun & casual sex.'; include '../view.php';

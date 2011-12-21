@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://date.interby.net">Сайт знакомств - знакомства InterBy</a>'; include '../view.php';

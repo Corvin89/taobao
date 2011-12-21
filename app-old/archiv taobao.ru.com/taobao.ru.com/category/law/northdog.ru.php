@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.northdog.ru" target="_blank">Северные ездовые собаки. Аляскинский маламут, хаски, самоед и другие.</a> Статьи о породах, ездовой спорт, выставки.'; include '../view.php';

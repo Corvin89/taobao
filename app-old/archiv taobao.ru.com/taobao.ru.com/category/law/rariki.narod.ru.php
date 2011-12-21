@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href=http://rariki.narod.ru><img src=http://rariki.narod.ru/ssilki/brarik.gif alt="Мир Нумизматики на Рарики.Народ.Ру" border=0></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.villambali.com/">Bali Luxury Villas</a> - Villa M located in Umalas Bali for private holiday rental'; include '../view.php';

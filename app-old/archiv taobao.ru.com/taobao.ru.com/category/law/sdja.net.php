@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.sdja.net">Search the SDJA SEO Friendly Web Link Directory</a>'; include '../view.php';

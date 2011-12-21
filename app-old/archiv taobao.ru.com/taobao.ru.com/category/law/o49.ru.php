@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.o49.ru">Каталог Сайтов Магаданской области</a>'; include '../view.php';

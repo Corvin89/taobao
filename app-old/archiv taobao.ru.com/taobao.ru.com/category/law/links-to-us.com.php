@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.linksuggestadd.info">Link Suggest Add</a>'; include '../view.php';

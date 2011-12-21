@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.dbuj.com" id="R0">DBUJ Web Directory</a>'; include '../view.php';

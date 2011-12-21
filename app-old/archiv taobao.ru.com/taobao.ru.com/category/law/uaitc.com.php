@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://uaitc.com" target="_blank">Телекоммуникации, сети связи и интернет в Украине</a>'; include '../view.php';

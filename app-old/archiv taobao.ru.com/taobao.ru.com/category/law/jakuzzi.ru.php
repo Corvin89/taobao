@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.jakuzzi.ru/">Гидромассажные ванны</a>'; include '../view.php';

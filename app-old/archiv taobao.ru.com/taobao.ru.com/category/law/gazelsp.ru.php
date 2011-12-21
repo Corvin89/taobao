@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href='http://www.gazelsp.ru/' target='_blank'><img src='http://www.gazelsp.ru/button.gif' width='88' height='31' alt='Грузоперевозки по г. Сергиев-Посад' border='0'></a>'; include '../view.php';

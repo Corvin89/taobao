@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://idohod.ru/" target="_blank">Как заработать в деньги интернет</a>'; include '../view.php';

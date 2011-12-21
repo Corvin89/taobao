@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://gruzvoz.ru">gruzvoz.ru</a>пассажирские перевозки по Москве и России. 506-29-98'; include '../view.php';

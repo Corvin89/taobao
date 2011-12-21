@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.siemens.digitline.ru" target=_blank><img src="http://www.siemens.digitline.ru/images/banner/siemens.gif" border=0 alt="мини атс Panasonic Samsung Lg Siemens Avaya Nec Ericsson " width=88 height=31 ></a>'; include '../view.php';

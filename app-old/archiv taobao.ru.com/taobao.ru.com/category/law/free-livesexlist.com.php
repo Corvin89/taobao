@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://free-livesexlist.com">free-livesexlist.com</a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="fashioncity13.com">Coming of age cinema</a>'; include '../view.php';

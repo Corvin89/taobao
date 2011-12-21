@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.chip-sources.com">Chip-Sources.com - Chip Source</a>'; include '../view.php';

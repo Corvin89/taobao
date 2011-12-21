@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://cherry-cat.ru/">Каталог сайтов</a> Чери, <a href="http://www.chaoslend.ru/">дизайн квартир</a>, <a href="http://www.creditsbrf.ru">ипотека в Москве</a>, <a href="http://house-credit.ru/">помощь в получении кредита</a>, <a href="http://www.ukr-print.net/contents/page-1525.htm">пластиковые карты</a>,  
-<a href="http://russia.allbanks.org/services/?s=4">ипотека</a>, <a href="http://www.bankman.com.ua/rates/">курс валют</a>.'; include '../view.php';

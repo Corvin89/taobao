@@ -1,2 +1,0 @@
-<?php $catalogLink = '<a href="http://www.thailandholidayhomes.co.uk" target="_blank">Thailand vacation</a><br>
-Thailand vacation, luxury villas in Thailand for rent. Our luxury Thailand holiday villas and bungalows near Pattaya is the best place for your vacation<br><a href="http://www.thailandholidayhomes.co.uk" target="_blank" style="font-size:smaller;color:gray;text-decoration:none;">http://www.thailandholidayhomes.co.uk</a>'; include '../view.php';

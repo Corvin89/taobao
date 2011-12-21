@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.officespb.ru"><img src="http://www.officespb.ru/banner/officespb88x31.gif" border="0"></a>'; include '../view.php';

@@ -1,1 +1,0 @@
-<?php $catalogLink = '<a href="http://www.translatingservices.ru/">Ѕюро переводов Ч переводы текстов</a> Ч транслейтерские услуги, устные переводы, апостиль и легализаци€.'; include '../view.php';
