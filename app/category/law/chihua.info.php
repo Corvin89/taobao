@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://chihua.info/" title="Чихуа-хуа"><img
+src="http://chihua.info/images/a.gif" width=88 height=31 border=0 alt="маленькие собачки чихуахуа"></a>'; include '../view.php';

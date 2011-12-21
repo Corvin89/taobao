@@ -1,0 +1,1 @@
+<?php $catalogLink = 'bewoman.net <a href="http://www.bewoman.net">содержательный сайт для поваров</a>'; include '../view.php';

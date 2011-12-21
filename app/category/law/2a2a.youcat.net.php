@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://free.mirbb.ru">Все нахаляву Скрипты, Программы, Книги, Видео для взрослых XXX </a>'; include '../view.php';

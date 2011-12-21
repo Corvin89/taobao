@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sololaki.ru"target="_blank"><img src="http://sololaki.ru/sololaki.gif" alt="Грузия | тбилиси | новости | фото | форум | знакомство |фильмы|музыка|"width="88" height="32" border="0"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.buzycat.ru/">BuzzyCat - каталог статей, каталог ссылок, каталог фирм</a> добавляйте . у нас только прямые ссылки!'; include '../view.php';

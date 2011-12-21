@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://wb.samara.ws>Web Brothers & Company - Межнациональный портал, WB - это мы!</a>'; include '../view.php';

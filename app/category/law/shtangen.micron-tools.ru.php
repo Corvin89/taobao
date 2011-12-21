@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.shtangen.micron-tools.ru">штангенциркули</a> завода Микрон - 
+<a href='http://www.lpgcentre.ru/uslugi/dermotoniya.html'>Дермотония</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A href="http://www.fintalk.com/"><B>Fishing Tips</B></A> - Offering fishing charters, detailed sport fishing reports, and a featured sportsman's fishing forum for all anglers and fishing enthusiasts from Alaska to Florida.'; include '../view.php';

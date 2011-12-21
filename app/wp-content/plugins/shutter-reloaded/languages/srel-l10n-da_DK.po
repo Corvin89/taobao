@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shutter Reloaded in Danish / på dansk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-29 21:52-0800\n"
+"PO-Revision-Date: 2009-07-29 21:53-0800\n"
+"Last-Translator: \n"
+"Language-Team: Team Blogos <wordpress@blogos.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_c;_e;__ngettext:1,2;__ngetext_noop:1,2\n"
+"X-Poedit-Basepath: d:\\wordpress\\plugins\\shutter-reloaded\n"
+"X-Poedit-SearchPath-0: d:\\wordpress\\plugins\\shutter-reloaded\n"
+
+#: ../admin-page.php:8
+msgid "Permission denied"
+msgstr "Tilladelse nægtet"
+
+#: ../admin-page.php:72
+#: ../admin-page.php:98
+msgid "Please enter valid post ID."
+msgstr "Indtast gyldig indlægs-id."
+
+#: ../admin-page.php:85
+msgid "This post ID is not currently excluded."
+msgstr "Denne side-id er ikke udeladt i øjeblikket."
+
+#: ../admin-page.php:111
+msgid "This post ID is not currently included."
+msgstr "Denne side-id er ikke medtaget i øjeblikket."
+
+#: ../admin-page.php:126
+msgid "All options reset! You can either "
+msgstr "Alle indstillinger er nulstillet! Du kan enten"
+
+#: ../admin-page.php:126
+#, fuzzy
+msgid "deactivate Shutter Reloaded,"
+msgstr "afinstallere Shutter Reloaded,"
+
+#: ../admin-page.php:126
+msgid "or return to the settings page."
+msgstr "eller vende tilbage til siden med Indstillinger."
+
+#: ../admin-page.php:129
+msgid "Options saved!"
+msgstr "Indstillinger gemt!"
+
+#: ../admin-page.php:133
+msgid "Shutter Reloaded Options"
+msgstr "Shutter Reloaded-indstillinger"
+
+#: ../admin-page.php:136
+msgid "Hide Help"
+msgstr "Skjul hjælp"
+
+#: ../admin-page.php:137
+#: ../admin-page.php:138
+msgid "Show Help"
+msgstr "Vis hjælp"
+
+#: ../admin-page.php:141
+msgid "Setup and Usage"
+msgstr "Opsætning og brugsvejledning"
+
+#: ../admin-page.php:142
+msgid "Shutter is activated by <strong>the link</strong> pointing to the image you want to display, with or without a thumbnail (text links work too). The activation class and the title have to be set on that link."
+msgstr "Shutter aktiveres af <strong>linket</strong>, som peger på det billede, du ønsker at vise, med eller uden en miniature (tekstlink virker også). Klasse for aktiveringen og titlen skal være angivet på dette link."
+
+#: ../admin-page.php:143
+msgid "To take full control of Shutter's activation and to make multiple image sets on the same page, you will need to add the <strong>class=&quot;shutter&quot;</strong> or <strong>&quot;shutterset&quot;</strong> or <strong>&quot;shutterset_setname&quot;</strong> to your links in &quot;Code&quot; view on the Write/Edit Post page."
+msgstr "For at få fuld kontrol over, hvornår Shutter aktiveres og for at have flere billedsæt på samme side, skal du tilføje<strong>class=&quot;shutter&quot;</strong> eller <strong>&quot;shutterset&quot;</strong> eller <strong>&quot;shutterset_setname&quot;</strong> til dine links i &quot;HTML&quot;-visning på Skriv/Redigér indlæg-siden."
+
+#: ../admin-page.php:144
+msgid "To add caption to the images, set the <strong>title=&quot;...&quot;</strong> attribute of the <strong>links</strong> pointing to them."
+msgstr "For at tilføje en billedtekst til billederne skal du anvende <strong>title=&quot;...&quot;</strong>-attributten på de <strong>links</strong>, som linker til dem."
+
+#: ../admin-page.php:145
+msgid "If you want to use image sets, you will need to add <strong>class=&quot;shutterset&quot;</strong> to all <strong>links</strong> that point to the images for that set. If you want to apply css style to the links, you can add second class, like this: class=&quot;shutterset myClass&quot;, but &quot;shutterset&quot; should be first."
+msgstr "Hvis du vil bruge billedsæt, skal du tilføje <strong>class=&quot;shutterset&quot;</strong> til alle <strong>links</strong>, som peger på billederne i dette sæt. Hvis du vil anvende css-style på linksene, kan du tilføje en klasse mere, sådan her: class=&quot;shutterset minKlasse&quot;, men &quot;shutterset&quot; skal komme først."
+
+#: ../admin-page.php:146
+msgid "Adding class=&quot;shutterset&quot; will also trigger activation (for the first activation option). There is no need to add both &quot;shutter&quot; and &quot;shutterset&quot;."
+msgstr "Tilføjelse af class=&quot;shutterset&quot; vil også udløse aktivering (hvad den første mulighed for aktivering angår). Der er ikke behov for at tilføje både &quot;shutter&quot; og &quot;shutterset&quot;."
+
+#: ../admin-page.php:147
+msgid "To make more than one set per page, use <strong>class=&quot;shutterset_setname&quot;.</strong> The underscore is required and setname can be any short ASCII word and/or number (different for each set)."
+msgstr "For at oprette mere end et sæt pr. side skal du bruge <strong>class=&quot;shutterset_saetnavn&quot;.</strong> Understregningstegnet er påkrævet og saetnavn kan være et hvilket som helst kort ASCII-ord og/eller tal (forskellig for hvert sæt)."
+
+#: ../admin-page.php:148
+msgid "You can use the &quot;Activate shutter on all image links&quot; and also make sets by adding class=&quot;shutterset&quot; or class=&quot;shutterset_setname&quot; or rel=&quot;lightbox[...]&quot; to some of the image links."
+msgstr "Du kan bruge &quot;Aktivér shutter på alle billedlinks&quot; og også oprette sæt ved at tilføje class=&quot;shutterset&quot; eller class=&quot;shutterset_saetnavn&quot; eller rel=&quot;lightbox[...]&quot; til nogle af dine billedlinks."
+
+#: ../admin-page.php:152
+msgid "You can add Shutter Reloaded to your site in five different ways:"
+msgstr "Du kan tilføje Shutter Reloaded ('Blænder omladet') til dit websted på fem forskellige måder:"
+
+#: ../admin-page.php:158
+#: ../admin-page.php:164
+#: ../admin-page.php:170
+#: ../admin-page.php:176
+#: ../admin-page.php:182
+msgid "Active: "
+msgstr "Aktiv: "
+
+#: ../admin-page.php:160
+#: ../admin-page.php:166
+#: ../admin-page.php:172
+#: ../admin-page.php:178
+#: ../admin-page.php:184
+msgid "Activate"
+msgstr "Aktivér"
+
+#: ../admin-page.php:161
+msgid "Shutter on all image links with class=&quot;shutter&quot; or &quot;shutterset&quot; or &quot;shutterset_setname&quot;."
+msgstr "Shutter på alle billedlinks med class=&quot;shutter&quot; eller &quot;shutterset&quot; eller &quot;shutterset_saetnavn&quot;."
+
+#: ../admin-page.php:167
+msgid "Shutter on all image links. Sets created with class=&quot;shutterset&quot;, &quot;shutterset_setname&quot; or rel=&quot;lightbox[...]&quot; will still work."
+msgstr "Shutter på alle billedlinks. Sæt oprettet med class=&quot;shutterset&quot;, &quot;shutterset_saetnavn&quot; eller rel=&quot;lightbox[...]&quot; vil stadig virke."
+
+#: ../admin-page.php:173
+msgid "Shutter on all image links and automatically make image sets for each Post/Page."
+msgstr "Shutter på alle billedlinks og opret automatisk billedsæt for hvert indlæg/side."
+
+# __ngettext:1,2 thank you
+#: ../admin-page.php:179
+msgid "Shutter on all image links on specific page(s)."
+msgstr "Shutter på alle billedlinks på bestemt(e) side(r)."
+
+#: ../admin-page.php:185
+msgid "Shutter on all image links and use LightBox style (rel=&quot;lightbox[...]&quot;) activation and sets."
+msgstr "Shutter på alle billedlinks og brug LightBox-style (rel=&quot;lightbox[...]&quot;) aktivering og sæt."
+
+#: ../admin-page.php:198
+msgid "Shutter is activated for all links pointing to an image."
+msgstr "Shutter er aktiveret for alle links, der peger på et billede."
+
+#: ../admin-page.php:200
+msgid "Shutter is activated for all links pointing to an image and will create different image set for each Post/Page."
+msgstr "Shutter er aktiveret for alle links, der peger på et billede, og vil oprette forskellige billedsæt for hvert indlæg/side."
+
+#: ../admin-page.php:200
+msgid "This option is most suitable if you display several Posts on your home page and want to have different image set for each Post. It adds shutter's activation class at runtime and doesn't modify the html."
+msgstr "Denne indstilling passer bedst, hvis du viser adskillige indlæg på dit websted og ønsker at have forskellige billedsæt for hvert indlæg. Det tilføjer Shutter's aktiveringsklasse, når siden vises (\"at runtime\") og ændrer ikke på HTML."
+
+#: ../admin-page.php:202
+msgid "Excluded Posts or Pages (by ID):"
+msgstr "Udeladte indlæg eller sider (brug id):"
+
+#: ../admin-page.php:208
+#: ../admin-page.php:248
+msgid "[none]"
+msgstr "[ingen]"
+
+#: ../admin-page.php:214
+msgid "Add Excluded ID"
+msgstr "Tilføj id, der ikke skal medtages"
+
+#: ../admin-page.php:215
+#: ../admin-page.php:255
+msgid "Please enter the Page/Post ID that you want to add to this list."
+msgstr "Indtast side-/indlægs-ide, som du ønsker at tilføje til denne liste."
+
+#: ../admin-page.php:217
+msgid "Remove Excluded ID"
+msgstr "Fjerne id, der ikke længere skal medtages"
+
+#: ../admin-page.php:218
+#: ../admin-page.php:257
+msgid "Please enter the Page/Post ID that you want to remove from this list."
+msgstr "Indtast side-/indlægs-ide, som du ønsker at fjerne fra denne liste."
+
+#: ../admin-page.php:220
+msgid "Please enter the ID for the post/page you want to exclude. You can see it in your browser's status bar(at the bottom of the window) when hovering over the name at the <a href=\"edit-pages.php\">Edit Pages</a> or the <a href=\"edit.php\">Edit Posts</a> page."
+msgstr "Indtast id for det indlæg/den side, som du ønsker ikke at medtage. Du kan se id'en i din webbrowser's statuslinje (i bunden af vinduet), når du holder musen over indlæggets/sidens navn på <a href=\"edit-pages.php\">Redigér sider</a>- eller <a href=\"edit.php\">Redigér indlæg</a>-siderne."
+
+#: ../admin-page.php:230
+msgid "Shutter is activated for all links pointing to an image that have class = &quot;shutter&quot;, &quot;shutterset&quot; or &quot;shutterset_setname&quot;"
+msgstr "Shutter er aktiveret for alle links, som peger på et billede, som har class = &quot;shutter&quot;, &quot;shutterset&quot; eller &quot;shutterset_saetnavn&quot;"
+
+#: ../admin-page.php:232
+msgid "Class = &quot;shutter&quot; will display a single image, class = &quot;shutterset&quot; will create a single set for all images and class=&quot;shutterset_setname&quot;, where setname is a short ASCII word and/or number, will create multiple sets on the same page."
+msgstr "Class = &quot;shutter&quot; viser et enkelt billede; class = &quot;shutterset&quot; opretter et enkelt sæt for alle billederne; og class=&quot;shutterset_saetnavn&quot;, hvor saetnavn er et kort ASCII-ord og/eller tal, opretter flere sæt på samme side."
+
+#: ../admin-page.php:241
+msgid "Shutter is activated for the following Posts and Pages (by ID):"
+msgstr "Shutter er aktiveret for de følgende indlæg og sider (brug id):"
+
+#: ../admin-page.php:254
+msgid "Add ID"
+msgstr "Tilføj id"
+
+#: ../admin-page.php:256
+msgid "Remove ID"
+msgstr "Fjern id"
+
+#: ../admin-page.php:259
+msgid "Please enter the ID for the post/page you want to exclude. You can see it in your browser's status bar(at the bottom of the window) when hovering over the name at the <a href=\"edit-pages.php\">Manage Pages</a> or the <a href=\"edit.php\">Manage Posts</a> page."
+msgstr "Indtast id for det indlæg/side, som du ikke vil medtage. Du kan se id'en i din webbrowsers statuslinje (i bunden af vinduet) når du holder musen over indlæggets/sidens navn på <a href=\"edit-pages.php\">Redigér sider</a>- eller <a href=\"edit.php\">Redigér indlæg</a>-siderne."
+
+#: ../admin-page.php:268
+msgid "Shutter uses Lightbox style activation."
+msgstr "Shutter bruger aktivering med Lightbox-styles."
+
+#: ../admin-page.php:270
+msgid "Shutter is activated for all links pointing to an image, that have rel=&quot;lightbox&quot; or rel=&quot;lightbox[...]&quot;. To make sets of images, you will have to add rel=&quot;lightbox[abc]&quot;, where &quot;abc&quot; can be any short ASCII word and/or number."
+msgstr "Shutter er aktiveret for alle links, der peger på et billede, som har rel=&quot;lightbox&quot; eller rel=&quot;lightbox[...]&quot;. For at oprette billedsæt skal du tilføje rel=&quot;lightbox[abc]&quot;, hvor &quot;abc&quot; kan være et hvilken som helst kort ASCII-ord og/eller tal."
+
+#: ../admin-page.php:281
+msgid "Customization"
+msgstr "Brugertilpasning (se farvekoder <a target=\"_blank\" href=\"http://html-color-codes.info/\">her</a>. o.a.)"
+
+#: ../admin-page.php:287
+msgid "Make one set for all image links on the page that are not part of another set."
+msgstr ""
+
+#: ../admin-page.php:293
+msgid "Shutter color (default 000000):"
+msgstr "Shutter-farve (standard: 000000):"
+
+#: ../admin-page.php:293
+msgid "Please enter valid HTML color codes, from 000000 to FFFFFF."
+msgstr "Indtast gyldig HTML-farvekode, fra 000000 til FFFFFF."
+
+#: ../admin-page.php:300
+msgid "Shutter opacity (default 80):"
+msgstr "Shutter-gennemsigtighed (standard: 80):"
+
+#: ../admin-page.php:300
+msgid "Enter a number between 1 (see-through) and 99 (solid color)."
+msgstr "Indtast et tal mellem 1 (gennemsigtig) og 99 (helt uigennemsigtig farve)."
+
+#: ../admin-page.php:307
+msgid "Caption text color (default FFFFFF):"
+msgstr "Billedtekstens tekstfarve (standard: FFFFFF):"
+
+#: ../admin-page.php:314
+msgid "Menubar color (default 3E3E3E):"
+msgstr "Menufarve (standard: 3E3E3E):"
+
+#: ../admin-page.php:321
+msgid "Show images count for sets (Image 1 of ...):"
+msgstr "Vis billedtæller for sæt (Billed 1 af ...):"
+
+#: ../admin-page.php:327
+msgid "Images count color (default 999999):"
+msgstr "Billedtæller-farve (standard: 999999):"
+
+#: ../admin-page.php:334
+msgid "Text buttons (instead of images):"
+msgstr "Tekst-knapper (i stedet for billeder):"
+
+#: ../admin-page.php:340
+msgid "Text buttons color (default CCCCCC):"
+msgstr "Tekstknap-farve (standard: CCCCCC):"
+
+#: ../admin-page.php:347
+msgid "Open the images in full size:"
+msgstr "Åbn billederne i fuld størrelse:"
+
+#: ../admin-page.php:353
+msgid "Alternate loading (select if Shutter does not start):"
+msgstr "Alternativ indlæsning (vælg, hvis Shutter ikke starter):"
+
+#: ../admin-page.php:360
+msgid "To restore the defaults, delete the current value(s) and submit the form."
+msgstr "For at gendanne standarderne, slet de(n) nuværende værdi(er) og opdatér formularen (tryk Gem indstillinger)."
+
+#: ../admin-page.php:362
+msgid "Reset all options"
+msgstr "Nulstil alle indstillinger"
+
+#: ../admin-page.php:363
+msgid "Save Options"
+msgstr "Gem indstillinger"
+
+#: ../shutter-reloaded.php:125
+msgid "Previous"
+msgstr "Forrige"
+
+#: ../shutter-reloaded.php:125
+msgid "Next"
+msgstr "Næste"
+
+#: ../shutter-reloaded.php:125
+msgid "Close"
+msgstr "Luk"
+
+#: ../shutter-reloaded.php:125
+msgid "Full Size"
+msgstr "Fuldstørrelse"
+
+#: ../shutter-reloaded.php:125
+msgid "Fit to Screen"
+msgstr "Tilpas til skærm"
+
+#: ../shutter-reloaded.php:125
+msgid "Image"
+msgstr "Billede"
+
+#: ../shutter-reloaded.php:125
+msgid "of"
+msgstr "af"
+
+#: ../shutter-reloaded.php:125
+msgid "Loading..."
+msgstr "Indlæser ..."
+
+#: ../shutter-reloaded.php:181
+msgid "Shutter Reloaded"
+msgstr "Shutter Reloaded"
+

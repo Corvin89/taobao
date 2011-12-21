@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.webb-links.info/">Webb Links</a>'; include '../view.php';

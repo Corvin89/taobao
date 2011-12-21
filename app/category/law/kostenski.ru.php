@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://kostenski.ru' target='_blank' alt='Горнолыжный клуб КостенSki - все о лыжах и сноубордах!' title='Горнолыжный клуб КостенSki - все о лыжах и сноубордах!'>Горнолыжный клуб КостенSki</a> - все о лыжах и сноубордах! <a href='http://kostenski.ru/links/add,htm' target=_blank>Обмен ссылками</a>'; include '../view.php';

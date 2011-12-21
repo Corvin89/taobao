@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Вызов <a href="http://www.svarkasochi.ru"><strong>сантехника сочи</strong></a> на дом'; include '../view.php';

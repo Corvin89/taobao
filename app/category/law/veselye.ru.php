@@ -1,0 +1,1 @@
+<?php $catalogLink = 'ѕрофессиональные авторы предлагают <a href='http://www.stiho-mir.ru'>прикольные песни и стихи</a>, эксклюзивные авторские <a href='http://www.best-poems.ru'>стихи на заказ</a> и <a href='http://www.rifmy.ru/m_kollegi.php'>стихи коллегам</a> дл€ вашего праздника.'; include '../view.php';

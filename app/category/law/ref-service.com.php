@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ref-service.com/" >Продажа рефконтейнеров, рефрижераторных контейнеров</a>'; include '../view.php';

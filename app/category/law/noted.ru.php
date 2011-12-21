@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.noted.ru">Ноутбуки Samsung, ASUS, Acer, Sony, Toshiba</a>'; include '../view.php';

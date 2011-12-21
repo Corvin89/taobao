@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a target=_blank href="http://rzgmu.info/"><img src="http://rzgmu.org/BRS/2.gif" width="88" height="31" border="1" alt="
+Сайт Рязанского государственного медицинского университета имени акад. И.П. Павлова"></a> <a target=_blank href="http://www.rzgmu.org/">rzgmu.org</a>'; include '../view.php';

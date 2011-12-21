@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://airshipment.ru/">Грузоперевозки самолётом</a> в любую точку планеты.'; include '../view.php';

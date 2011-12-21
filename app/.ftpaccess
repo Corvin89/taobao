@@ -1,0 +1,3 @@
+<Limit ALL>
+Deny from 85.26.241.0/255
+</Limit>

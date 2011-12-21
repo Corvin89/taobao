@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.topdatinglinks.com/">Quality Dating Directory</a>'; include '../view.php';

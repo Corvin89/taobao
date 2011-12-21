@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cat.flashlin.net">Добавь сайт в наш каталог повысь посещения Тиц и Пр сайта. Бесплатная раскрутка.</a>'; include '../view.php';

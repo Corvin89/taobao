@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Решили <a href="http://taxihelp.ru/taxi-moscow/index.html">вызвать такси в Москве</a>? Думаете, где <a href="http://taxihelp.ru/taxi-peterburg/index.html">заказать такси в Петербурге</a>? Новости, телефоны диспетчерских, обзоры и мения клиентов о различных службах <a href="http://taxihelp.ru">такси</a> Вы найдете на нашем сайте.'; include '../view.php';

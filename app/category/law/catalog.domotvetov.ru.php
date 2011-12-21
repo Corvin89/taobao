@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.domotvetov.ru><img src="http://www.domotvetov.ru/img_baz/button.gif" border="0" alt="DomOtvetov.ru - Ответы на твои вопросы" width="88" height="31"></a>'; include '../view.php';

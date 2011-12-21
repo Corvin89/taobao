@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://texarena.com/186451_category.html'>XBox</a> Игровая приставка <a href='http://texarena.com/11633627_offer.html'>Xbox 360 (250 Gb)</a> Microsoft.<a href="http://link.techarena.ru">ресурс новых ссылок</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'строительство каминов печей <a href="http://www.yavdomike.ru">строительство печи</a> печи для дома'; include '../view.php';

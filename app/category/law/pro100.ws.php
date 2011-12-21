@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://pica4u.ru" target="_blank"><img src="http://pro100.ws/button.gif" alt="Картинки для тебя!" width="88" height="31" border="0"></a>'; include '../view.php';

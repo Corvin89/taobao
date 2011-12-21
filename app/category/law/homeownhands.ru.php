@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Ремонт водопровода и канализации. <a href="http://www.homeownhands.ru" title="Строительство и ремонт" target="_blank">Информационные материалы по строительству и ремонту</a> своего дома.'; include '../view.php';

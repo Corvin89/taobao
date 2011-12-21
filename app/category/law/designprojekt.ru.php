@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.designprojekt.ru/design/elementy_dekora.html" target=_blank>Ёлементы декора</a>'; include '../view.php';

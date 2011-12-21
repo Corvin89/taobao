@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shutter reloaded\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-22 01:00-0800\n"
+"PO-Revision-Date: 2009-11-08 11:28+0100\n"
+"Last-Translator: Le Blog de Lise <webmaster@liseweb.fr>\n"
+"Language-Team: Le Blog de Lise <webmaster@liseweb.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: ../admin-page.php:8
+msgid "Permission denied"
+msgstr "Non autorisé"
+
+#: ../admin-page.php:72
+#: ../admin-page.php:98
+msgid "Please enter valid post ID."
+msgstr "Merci de saisir un identifiant (ID) d'article valide"
+
+#: ../admin-page.php:85
+msgid "This post ID is not currently excluded."
+msgstr "L'identifiant (ID) de cet article n'est pas actuellement exclu."
+
+#: ../admin-page.php:111
+msgid "This post ID is not currently included."
+msgstr "L'identifiant (ID) de cet article est actuellement exclu."
+
+#: ../admin-page.php:126
+msgid "All options reset! You can either "
+msgstr "Options réinitialisées ! Vous pouvez soit "
+
+#: ../admin-page.php:126
+msgid "deactivate Shutter Reloaded,"
+msgstr "désinstaller Shutter Reloaded,  "
+
+#: ../admin-page.php:126
+msgid "or return to the settings page."
+msgstr "ou retourner sur la page de configuration."
+
+#: ../admin-page.php:129
+msgid "Options saved!"
+msgstr "Options enregistrées !"
+
+#: ../admin-page.php:133
+msgid "Shutter Reloaded Options"
+msgstr "Options Shutter Reloaded "
+
+#: ../admin-page.php:136
+msgid "Hide Help"
+msgstr "Cacher l'aide"
+
+#: ../admin-page.php:137
+#: ../admin-page.php:138
+msgid "Show Help"
+msgstr "Montrer l'aide"
+
+#: ../admin-page.php:141
+msgid "Setup and Usage"
+msgstr "Configuration et utilisation"
+
+#: ../admin-page.php:142
+msgid "Shutter is activated by <strong>the link</strong> pointing to the image you want to display, with or without a thumbnail (text links work too). The activation class and the title have to be set on that link."
+msgstr "Shutter est activé par <strong>le lien</strong> pointant sur l'image à afficher, avec ou sans vignette (fonctionne avec les liens hypertextes également). La classe d'activation et le titre doivent être indiqués pour le lien."
+
+#: ../admin-page.php:143
+msgid "To take full control of Shutter's activation and to make multiple image sets on the same page, you will need to add the <strong>class=&quot;shutter&quot;</strong> or <strong>&quot;shutterset&quot;</strong> or <strong>&quot;shutterset_setname&quot;</strong> to your links in &quot;Code&quot; view on the Write/Edit Post page."
+msgstr "Pour prendre le contrôle sur l'activation de Shutter et pour disposer de plusieurs ensembles d'images sur la même page, vous devez ajouter la <strong>class=&quot;shutter&quot;</strong> ou <strong>&quot;shutterset&quot;</strong> ou <strong>&quot;shutterset_nom&quot;</strong> à vos liens dans l'onglet &quot;Code&quot; dans la page d'édition des billets ou des pages."
+
+#: ../admin-page.php:144
+msgid "To add caption to the images, set the <strong>title=&quot;...&quot;</strong> attribute of the <strong>links</strong> pointing to them."
+msgstr "Pour ajouter une légende aux images, utilisez la balise <strong>title=&quot;...&quot;</strong> pour les <strong>liens</strong> qui pointent vers elles."
+
+#: ../admin-page.php:145
+msgid "If you want to use image sets, you will need to add <strong>class=&quot;shutterset&quot;</strong> to all <strong>links</strong> that point to the images for that set. If you want to apply css style to the links, you can add second class, like this: class=&quot;shutterset myClass&quot;, but &quot;shutterset&quot; should be first."
+msgstr "Si vous souhaitez utiliser des ensembles d'images, vous devrez ajouter la <strong>class=&quot;shutterset&quot;</strong> à tous les <strong>liens</strong> qui pointent vers les images de cet ensemble. Si vous souhaitez appliquer une feuille de style css aux liens, vous pouvez ajouter une seconde classe comme cecic : class=&quot;shutterset maCalsse&quot;, mais la classe &quot;shutterset&quot; doit être spécifiée en premier."
+
+#: ../admin-page.php:146
+msgid "Adding class=&quot;shutterset&quot; will also trigger activation (for the first activation option). There is no need to add both &quot;shutter&quot; and &quot;shutterset&quot;."
+msgstr "Ajouter la <strong>class=&quot;shutterset&quot;</strong> déclenchera également l'activation de Shutter (pour la première option). Il n'est pas nécessaire d'ajouter à la fois les classes  &quot;shutter&quot; et &quot;shutterset&quot;."
+
+#: ../admin-page.php:147
+msgid "To make more than one set per page, use <strong>class=&quot;shutterset_setname&quot;.</strong> The underscore is required and setname can be any short ASCII word and/or number (different for each set)."
+msgstr "Pour disposer de plus d'un ensemble d'images par page, utilisez la  <strong>class=&quot;shutterset_nom&quot;.</strong> Le <em>underscore</em> est obligatoire et le nom peut être un nom ou un nombre utilisant des caractères ASCII  (différent pour chaque ensemble d'images)."
+
+#: ../admin-page.php:148
+msgid "You can use the &quot;Activate shutter on all image links&quot; and also make sets by adding class=&quot;shutterset&quot; or class=&quot;shutterset_setname&quot; or rel=&quot;lightbox[...]&quot; to some of the image links."
+msgstr "Vous pouvez utiliser l'option &quot;Activer shutter pour tous les liens d'images&quot; et également définir des ensemble d'images en ajoutant <strong> class=&quot;shutterset&quot; ou class=&quot;shutterset_nom&quot; ou rel=&quot;lightbox[...]&quot; </strong>à certains liens vers les images."
+
+#: ../admin-page.php:152
+msgid "You can add Shutter Reloaded to your site in five different ways:"
+msgstr "Vous pouvez utiliser Shutter Reloaded de cinq façons différentes :"
+
+#: ../admin-page.php:158
+#: ../admin-page.php:164
+#: ../admin-page.php:170
+#: ../admin-page.php:176
+#: ../admin-page.php:182
+msgid "Active: "
+msgstr "Actif : "
+
+#: ../admin-page.php:160
+#: ../admin-page.php:166
+#: ../admin-page.php:172
+#: ../admin-page.php:178
+#: ../admin-page.php:184
+msgid "Activate"
+msgstr "Activer"
+
+#: ../admin-page.php:161
+msgid "Shutter on all image links with class=&quot;shutter&quot; or &quot;shutterset&quot; or &quot;shutterset_setname&quot;."
+msgstr "Shutter sur tous les liens pointant vers les images avec class=&quot;shutter&quot; ou &quot;shutterset&quot; ou &quot;shutterset_nom&quot;."
+
+#: ../admin-page.php:167
+msgid "Shutter on all image links. Sets created with class=&quot;shutterset&quot;, &quot;shutterset_setname&quot; or rel=&quot;lightbox[...]&quot; will still work."
+msgstr "Shutter sur tous les liens pointant vers les images. Les ensembles d'images créés avec  class=&quot;shutterset&quot;, &quot;shutterset_nom&quot; ou rel=&quot;lightbox[...]&quot; continueront de fonctionner."
+
+#: ../admin-page.php:173
+msgid "Shutter on all image links and automatically make image sets for each Post/Page."
+msgstr "Shutter sur tous les liens pointant vers les images ; des ensembles d'images seront automatiquement créés pour chaque billet ou page. "
+
+#: ../admin-page.php:179
+msgid "Shutter on all image links on specific page(s)."
+msgstr "Shutter sur tous les liens pointant vers les images sur une ou des page(s) spécifique(s)."
+
+#: ../admin-page.php:185
+msgid "Shutter on all image links and use LightBox style (rel=&quot;lightbox[...]&quot;) activation and sets."
+msgstr "Shutter sur tous les liens pointant vers les images en utilisant l'effet LightBox (rel=&quot;lightbox[...]&quot;)."
+
+#: ../admin-page.php:198
+msgid "Shutter is activated for all links pointing to an image."
+msgstr "Shutter est activé  pour tous les liens pointant sur une image."
+
+#: ../admin-page.php:200
+msgid "Shutter is activated for all links pointing to an image and will create different image set for each Post/Page."
+msgstr "Shutter est activé  pour tous les liens pointant sur une image et créera un ensemble d'images différent pour chaque article ou page."
+
+#: ../admin-page.php:200
+msgid "This option is most suitable if you display several Posts on your home page and want to have different image set for each Post. It adds shutter's activation class at runtime and doesn't modify the html."
+msgstr "Cette option convient si vous disposez de plusieurs billets sur votre page d'accueil et avez différents ensembles d'images pour chaque billet. Elle ajoute une classe d'activation de Shutter et ne modifie pas le code html."
+
+#: ../admin-page.php:202
+msgid "Excluded Posts or Pages (by ID):"
+msgstr "Exclure des billets ou des pages (par identifiant - ID) : "
+
+#: ../admin-page.php:208
+#: ../admin-page.php:248
+msgid "[none]"
+msgstr "[aucun]"
+
+#: ../admin-page.php:214
+msgid "Add Excluded ID"
+msgstr "Exclure l'identifiant (ID)"
+
+#: ../admin-page.php:215
+#: ../admin-page.php:255
+msgid "Please enter the Page/Post ID that you want to add to this list."
+msgstr "Saisissez l'identifiant (ID) du billet ou de la page que vous souhaitez ajouter à cette liste."
+
+#: ../admin-page.php:217
+msgid "Remove Excluded ID"
+msgstr "Ne pas exclure l'identifiant (ID)"
+
+#: ../admin-page.php:218
+#: ../admin-page.php:257
+msgid "Please enter the Page/Post ID that you want to remove from this list."
+msgstr "Saisissez l'identifiant (ID) du billet ou de la page que vous souhaitez retirer de cette liste."
+
+#: ../admin-page.php:220
+msgid "Please enter the ID for the post/page you want to exclude. You can see it in your browser's status bar(at the bottom of the window) when hovering over the name at the <a href=\"edit-pages.php\">Edit Pages</a> or the <a href=\"edit.php\">Edit Posts</a> page."
+msgstr "Saisissez l'identifiant (ID) du billet ou de la page que vous souhaitez exclure. Vous pouvez voir l'identifiant dans la barre de statut de votre navigateur (au bas de la fenêtre) en passant la souris sur son nom sur depuis l'onglet <a href=\"edit-pages.php\">Pages</a> ou <a href=\"edit.php\">Articles</a>."
+
+#: ../admin-page.php:230
+msgid "Shutter is activated for all links pointing to an image that have class = &quot;shutter&quot;, &quot;shutterset&quot; or &quot;shutterset_setname&quot;"
+msgstr "Shutter est activé  pour tous les liens pointant sur une image, avec la class = &quot;shutter&quot;, &quot;shutterset&quot; ou &quot;shutterset_nom&quot;"
+
+#: ../admin-page.php:232
+msgid "Class = &quot;shutter&quot; will display a single image, class = &quot;shutterset&quot; will create a single set for all images and class=&quot;shutterset_setname&quot;, where setname is a short ASCII word and/or number, will create multiple sets on the same page."
+msgstr "Class = &quot;shutter&quot; affichera une seule image, class = &quot;shutterset&quot; créera un seul ensemble pour toutes les images et class=&quot;shutterset_nom&quot;, où nom est un mot ou un nombre en caractères ASCII, créera plusieurs ensemble sur la même page."
+
+#: ../admin-page.php:241
+msgid "Shutter is activated for the following Posts and Pages (by ID):"
+msgstr "Shutter est activé pour les billets et pages suivants (par ID) : "
+
+#: ../admin-page.php:254
+msgid "Add ID"
+msgstr "Ajouter l'identifiant (ID)"
+
+#: ../admin-page.php:256
+msgid "Remove ID"
+msgstr "Supprimer l'identifiant (ID)"
+
+#: ../admin-page.php:259
+msgid "Please enter the ID for the post/page you want to exclude. You can see it in your browser's status bar(at the bottom of the window) when hovering over the name at the <a href=\"edit-pages.php\">Manage Pages</a> or the <a href=\"edit.php\">Manage Posts</a> page."
+msgstr "Saisissez l'identifiant (ID) du billet ou de la page que vous souhaitez exclure. Vous pouvez connaître l'identifiant depuis la page <a href=\"edit-pages.php\">Gérer les pages</a> ou <a href=\"edit.php\">Gérer les articles</a>."
+
+#: ../admin-page.php:268
+msgid "Shutter uses Lightbox style activation."
+msgstr "Shutter utilse l'effet Lightbox."
+
+#: ../admin-page.php:270
+msgid "Shutter is activated for all links pointing to an image, that have rel=&quot;lightbox&quot; or rel=&quot;lightbox[...]&quot;. To make sets of images, you will have to add rel=&quot;lightbox[abc]&quot;, where &quot;abc&quot; can be any short ASCII word and/or number."
+msgstr "Shutter is activé pour tous les liens pointant vers un image, avec rel=&quot;lightbox&quot; ou rel=&quot;lightbox[...]&quot;. Pour créer un ensemble d'images, vous devez ajouter rel=&quot;lightbox[abc]&quot;, où &quot;abc&quot; peut être un nombre ou un mot comportant des caractères ASCII."
+
+#: ../admin-page.php:281
+msgid "Customization"
+msgstr "Personnalisation"
+
+#: ../admin-page.php:287
+msgid "Make one set for all image links on the page that are not part of another set."
+msgstr "Réaliser un ensemble d'images avec tous les liens vers les images de la page qui ne font pas partie d'un autre ensemble."
+
+#: ../admin-page.php:293
+msgid "Shutter color (default 000000):"
+msgstr "Couleur de Shutter (par defaut 000000) :"
+
+#: ../admin-page.php:293
+msgid "Please enter valid HTML color codes, from 000000 to FFFFFF."
+msgstr "Saisissez un code de couleur HTML valide, de 000000 à FFFFFF."
+
+#: ../admin-page.php:300
+msgid "Shutter opacity (default 80):"
+msgstr "Opacité (par défaut 80) : "
+
+#: ../admin-page.php:300
+msgid "Enter a number between 1 (see-through) and 99 (solid color)."
+msgstr "Saisissez un nombre compris entre 1 (transparent) et 99 (opaque)."
+
+#: ../admin-page.php:307
+msgid "Caption text color (default FFFFFF):"
+msgstr "Couleur du texte de légende (par défaut FFFFFF) :"
+
+#: ../admin-page.php:314
+msgid "Menubar color (default 3E3E3E):"
+msgstr "Couleur de la barre de menu (par défaut 3E3E3E) :"
+
+#: ../admin-page.php:321
+msgid "Show images count for sets (Image 1 of ...):"
+msgstr "Montrer le compteur d'images (Image 1 sur ...) : "
+
+#: ../admin-page.php:327
+msgid "Images count color (default 999999):"
+msgstr "Couleur du numéro des images (par défaut 999999) :"
+
+#: ../admin-page.php:334
+msgid "Text buttons (instead of images):"
+msgstr "Texte à la place des boutons : "
+
+#: ../admin-page.php:340
+msgid "Text buttons color (default CCCCCC):"
+msgstr "Couleur du texte affiché à la place des boutons (par défaut CCCCCC) :"
+
+#: ../admin-page.php:347
+msgid "Open the images in full size:"
+msgstr "Ouvrir les images en grand format : "
+
+#: ../admin-page.php:353
+msgid "Alternate loading (select if Shutter does not start):"
+msgstr "Un autre téléchargement (si Shutter ne démarre pas) :  "
+
+#: ../admin-page.php:360
+msgid "To restore the defaults, delete the current value(s) and submit the form."
+msgstr "Pour restaurer les paramètres par défaut, cliquez sur le bouton  \"Réinitialiser toutes les options\"."
+
+#: ../admin-page.php:362
+msgid "Reset all options"
+msgstr "Réinitialiser toutes les options"
+
+#: ../admin-page.php:363
+msgid "Save Options"
+msgstr "Enregistrer"
+
+#: ../shutter-reloaded.php:125
+msgid "Previous"
+msgstr "Précédente"
+
+#: ../shutter-reloaded.php:125
+msgid "Next"
+msgstr "Suivante"
+
+#: ../shutter-reloaded.php:125
+msgid "Close"
+msgstr "Fermer"
+
+#: ../shutter-reloaded.php:125
+msgid "Full Size"
+msgstr "Pleine page"
+
+#: ../shutter-reloaded.php:125
+msgid "Fit to Screen"
+msgstr "Taille de l'écran"
+
+#: ../shutter-reloaded.php:125
+msgid "Image"
+msgstr "Image"
+
+#: ../shutter-reloaded.php:125
+msgid "of"
+msgstr "sur"
+
+#: ../shutter-reloaded.php:125
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: ../shutter-reloaded.php:181
+msgid "Shutter Reloaded"
+msgstr "Shutter Reloaded"
+

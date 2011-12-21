@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.nkr.net.ua" target="_blank"><img alt="Недвижимость Кривого Рога "  src="http://www.nkr.net.ua/banner.gif" border="0"></a>'; include '../view.php';

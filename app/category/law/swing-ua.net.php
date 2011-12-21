@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://swing-ua.net" target="_blank"><img src="http://swing-ua.net/images/swing-ua.gif" alt="Свинг Клуб BestHouse" border="0" width="88" height="31"></a>'; include '../view.php';

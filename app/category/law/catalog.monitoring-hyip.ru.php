@@ -1,0 +1,1 @@
+<?php $catalogLink = 'http://www.catalog.monitoring-hyip.ru/'; include '../view.php';

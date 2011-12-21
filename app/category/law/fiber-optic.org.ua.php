@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://fiber-optic.org.ua/" target="_blank"><img src="http://fiber-optic.org.ua/banners/fiberoptic.gif" border="0" alt="Оптоволоконные технологии" width="88" height="31" /></a>'; include '../view.php';

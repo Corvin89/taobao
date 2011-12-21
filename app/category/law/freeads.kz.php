@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://kokshetau.freeads.kz/"><img src="http://kokshetau.freeads.kz/content/banners/freeads.gif" alt="FREEADS.kz" /></a>'; include '../view.php';

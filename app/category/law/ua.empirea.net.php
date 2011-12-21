@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ua.empirea.net" target="_blank"><img src="http://ua.empirea.net/link/UA_Empirea.gif" alt="јукцион ”краины UA Empirea" border="0" width="88" height="31"></a>'; include '../view.php';

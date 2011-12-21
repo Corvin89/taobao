@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://norfa.biz/catalog-308025.html'>Копиры и многофункциональные устройства</a> Лазерное МФУ <a href='http://norfa.biz/price-9934800.html'>LaserJet Pro M1214nfh</a> Hewlett Packard. Каталог сайтов - <a href="http://link.norfa.ru/30_1.htm">Науки</a>'; include '../view.php';

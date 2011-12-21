@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.matchmasters.com">Matchmasters Dating Directory</a>'; include '../view.php';

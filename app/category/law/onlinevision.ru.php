@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.onlinevision.ru">Взгляд Онлайн - Белый каталог статей и справочник сайтов <img src="http://onlinevision.ru/images/admin/poweredby.jpg" alt="Взгляд Онлайн">'; include '../view.php';

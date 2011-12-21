@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://regchanges.ru">смена адреса</a>'; include '../view.php';

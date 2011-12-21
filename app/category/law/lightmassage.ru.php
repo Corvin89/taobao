@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://lightmassage.ru">Баночный массаж</a>, сделать <a href="http://lightmassage.ru/mary4a.html">массаж в Москве</a>'; include '../view.php';

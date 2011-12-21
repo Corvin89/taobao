@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://anapa-super.in"><img src="http://anapa-super.in/super.gif" height="31" width="88" border="0" alt="Курорт Анапа. Размещение отдыхающих на высоком берегу"></a>'; include '../view.php';

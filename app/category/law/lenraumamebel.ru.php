@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.lenraumamebel.ru target=_blank>Мебель из сосны</a> - производство Ленраумамебель'; include '../view.php';

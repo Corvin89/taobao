@@ -1,0 +1,1 @@
+<?php $catalogLink = '—ад цветов - статьи о цветах и декоративных кустарниках. <a title="сад цветов" href="http://www.sadcvetov.ru/legenda.html" target="_blank">÷веты в истории и легендах</a>, €зык цветов.'; include '../view.php';

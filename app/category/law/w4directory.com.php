@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.w4directory.com">W4 Web Directory</a>'; include '../view.php';

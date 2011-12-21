@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Магазин <a href='http://www.infostend.ru'>изготовление информационных стендов</a> дешево'; include '../view.php';

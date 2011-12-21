@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.alternativedating.org.uk/"><b>Alternative Dating</b></a><br>Alternative Dating, Chat, Webcams and Personals for Alternative Singles.'; include '../view.php';

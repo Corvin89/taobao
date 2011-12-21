@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.leon-sport.ru"><img src="http://www.leon-sport.ru/images/button.gif" alt="Леон-спорт - палатки, коврики, спальные мешки, рюкзаки" border="0"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.Outdoors1st.co.uk" target="_top"><img src="http://www.Outdoors1st.co.uk/banners/outdoors468.gif"; height="60" width="468" alt="Rated by Outdoors1st"></a>'; include '../view.php';

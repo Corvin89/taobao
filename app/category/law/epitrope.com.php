@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.epitrope.com" id="RC39595">Epitrope Directory</a> - Web Directory. Add your link today.'; include '../view.php';

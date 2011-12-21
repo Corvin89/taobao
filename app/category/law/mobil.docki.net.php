@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://mobil.docki.net/">Покупка-продажа мобильных телефонов</a>'; include '../view.php';

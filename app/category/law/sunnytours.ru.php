@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.sunnytours.ru" target="_blank" title="Турагентство СОЛНЕЧНЫЙ ТУР - дайвинг в Египте, индивидуальные туры, отдых в Подмосковье">
+<img border="0" src="http://www.sunnytours.ru/images/knopka.gif" width="88" height="31" alt="Турагентство СОЛНЕЧНЫЙ ТУР - дайвинг в Египте, индивидуальные туры, отдых в Подмосковье"></a>'; include '../view.php';

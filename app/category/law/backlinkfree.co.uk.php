@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.failureheart.com">heart failure symptoms</a>'; include '../view.php';

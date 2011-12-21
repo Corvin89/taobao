@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Здесь Вы можете скачать высококачественные <a href="http://mycovers.ru">обложки и описания фильмов DVD, MPEG4</a>'; include '../view.php';

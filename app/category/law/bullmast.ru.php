@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.bullmast.ru" target="_blank"> Легендарный бульмастиф Евер Голд Лайон и его потомки</a>'; include '../view.php';

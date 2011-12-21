@@ -1,0 +1,2 @@
+<?php $catalogLink = '<p><a href="http://www.metall-ua.com/ed-classified">–азмещайте свои объ€влени€</a> 
+в <a href="http://www.metall-ua.com/">промышленной</a> доске объ€влений.</p>'; include '../view.php';

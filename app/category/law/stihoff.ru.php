@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://stihoff.ru' target='_blank'><b>Поздравления в стихах на заказ</b></a><br />Эксклюзивные поздравительные стихи, заказ стихов.'; include '../view.php';

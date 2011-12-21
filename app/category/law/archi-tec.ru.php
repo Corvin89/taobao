@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.archi-tec.ru/">храмы, јнглийский стиль</a>, <a href="http://www.archi-tec.ru/">строительное искусство, японский стиль (сЄин)</a>'; include '../view.php';

@@ -1,0 +1,904 @@
+# Meta-data manager, allowing complete control over meta-data such as keywords/tags, title, description, stylesheets, and other goodies.  The data inserted can be static text, or pulled dynamically from the details of the post.
+# Copyright (C) 2007 John Godley
+# This file is distributed under the same license as the HeadSpace2 package.
+# John Godley, http://urbangiraffe.com/, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HeadSpace2 3.3.1 Uk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-09-22 17:19+0800\n"
+"PO-Revision-Date: 2010-09-16 17:03+0100\n"
+"Last-Translator: معاذ <wparabe@gmail.com>\n"
+"Language-Team: PAVONINE.COM.UA <atanasiy@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: MOROCCO\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 &amp;&amp; n%100!=11) ? 0 : ((n%10&gt;=2 &amp;&amp; n%10&lt;=4 &amp;&amp; (n%100&lt;10 || n%100&gt;=20)) ? 1 : 2);\n"
+"Project-Id-Version: \n"
+
+#: headspace.php:387
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "%d مكان الاستيراد %s"
+
+#: view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "%s منذ"
+
+#: view/admin/import.php:13
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "(غير متوفر في UTW و الاوسمة العادية)"
+
+#: models/inline_tags.php:163
+#, php-format
+msgid "(page %d of %d)"
+msgstr "(صفحة %d ال %d)"
+
+#: headspace.php:105
+msgid "404 Page"
+msgstr "صفحة غير موجودة 404"
+
+#: ajax.php:64
+msgid "<p style=\"color: red\">That function is not defined</p>"
+msgstr "<p style=\"color: red\">لم يتم التعرف على الدالة</p>"
+
+#: ajax.php:57
+msgid "<p style=\"color: red\">You are not allowed access to this resource</p>"
+msgstr "<p style=\"color: red\">غير مسموح لك بالولوج الى هذا المكان</p>"
+
+#: modules/page/tags.php:125
+msgid "<p>Tags: "
+msgstr "<p>اوسمة: "
+
+#: modules/page/plugin.php:139
+msgid "Add Plugin"
+msgstr "اضف إضافة"
+
+#: modules/page/tags.php:175
+msgid "Add tags to dictionary"
+msgstr "اضف الأوسمة الى القاموس"
+
+#: modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr "أضف CrazyEgg كود الى جميع الصفحات"
+
+#: modules/site/analytics.php:39
+msgid "Adds Google Analytic tracking code to all pages"
+msgstr "أضف كود جوجل انليتيك الى جميع الصفحات"
+
+#: modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr "أضف كود <a href=\"http://mint.com\">Mint</a> الى جميع الصفحات"
+
+#: modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr "أضف كود <a href=\"http://statcounter.com\">StatCounter</a> الى جميع الصفحات"
+
+#: modules/site/rpc.php:37
+msgid "Adds additional functions to allow blogging tools such as Ecto to use tagging"
+msgstr "Додає додаткові функції, що дозволяють таким інструментам блоґґінґу, як <a href=\"http://ecto.kung-foo.tv/archives/001325.php\">Ecto</a>, використовувати теґи"
+
+#: view/admin/modules.php:13
+msgid "Advanced"
+msgstr "إعدادات متقدمة"
+
+#: modules/page/page_title.php:109
+msgid "After"
+msgstr "قبل"
+
+#: modules/page/description.php:73
+msgid "All descriptions will be trimmed to this length"
+msgstr "جميع الأوصاف يتم تحديدها على هذا الطول"
+
+#: modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: modules/page/javascript.php:55
+msgid "Allow external JavaScript files to be referenced"
+msgstr "السماح لجافا سكريبت الخارجية  ان يتم ارشفتها"
+
+#: modules/page/page_title.php:89
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "السماح بان يتم تعديل عنوان الصفحة"
+
+#: modules/page/stylesheet.php:55
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "السماح بادراج ملف الاستايل في الصفحة"
+
+#: modules/page/theme.php:69
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "Allows a custom page-specific theme to over-ride the default theme"
+
+#: modules/page/noindex.php:56
+msgid "Allows a no-index/no-follow option to be set to prevent search engines and robots from indexing or following pages"
+msgstr "السماح بتعيين خصائص no-index/no-follow لمنع محركات البحث من الفهرسة والروبوتات او الصفحات التالية"
+
+#: modules/page/description.php:61
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "السماح بوصف قصير لصفحات المستعملة من قبل محركات البحت"
+
+#: modules/page/plugin.php:87
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "السماح للإضافات المعطلة من التفعيل في بعض الصفحات"
+
+#: modules/page/raw.php:48
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr "السماح بإدراج المعلومات في الميتا تاج"
+
+#: modules/page/rss_tagline.php:62
+msgid "Allows site RSS description to be changed"
+msgstr "السماح بتغيير وصف الخلاصات"
+
+#: modules/page/rss_name.php:62
+msgid "Allows site RSS name to be changed"
+msgstr "السماح بتغيير اسم الخلاصات"
+
+#: modules/page/site_tagline.php:61
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "السماح بتغيير وصف الموقع (في الميتا تاج)"
+
+#: modules/page/site_name.php:61
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "السماح بتغيير اسم الموقع (مدونة)"
+
+#: modules/page/tags.php:162
+msgid "Allows tags/keywords to be added to pages"
+msgstr "اسمح للاوسمة والكلمات ان تضاف للصفحات "
+
+#: modules/page/more_text.php:56
+msgid "Allows the 'more' text to be changed"
+msgstr "اسمح ل \"إقراء المزيد\" ان تتغير"
+
+#: modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "اسمح لنفسك تفعيل او تعطيل مختلف التنسيقات التلقائية للوردبريس "
+
+#: modules/page/tags.php:186
+msgid "Alphabetically order tags"
+msgstr "الترتيب الابجدي للاوسمة"
+
+#: modules/page/tags.php:201
+#: modules/page/tags.php:210
+msgid "Always"
+msgstr "دائما"
+
+#: headspace.php:100
+#: modules/site/page_counts.php:114
+msgid "Archives"
+msgstr "الأرشيف"
+
+#: view/admin/import.php:16
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "مع اي تغييرات في  قاعدة البيانات يجب أن <strong> خد نسخة إحتياطية قبل البدء في الإستيراد</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+
+#: headspace.php:103
+msgid "Author Pages"
+msgstr "كاتب الصفحات"
+
+#: modules/site/wp_formatting.php:97
+msgid "Auto-fancy quotes"
+msgstr "الاقتباس التلقائي"
+
+#: modules/site/wp_formatting.php:90
+msgid "Auto-formatting"
+msgstr "التنسيق التلقائي"
+
+#: modules/site/wp_formatting.php:104
+msgid "Auto-link"
+msgstr "روابط تلقائية"
+
+#: modules/page/tags.php:178
+msgid "Automatically add new tags to dictionary"
+msgstr "إضافة اوسمة جديدة تلقائيا الى القاموس"
+
+#: modules/page/page_title.php:108
+msgid "Before"
+msgstr "قبل"
+
+#: view/admin/edit_ajax.php:5
+#: view/admin/module_edit.php:8
+#: view/admin/site_module_edit.php:16
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: headspace.php:101
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: view/admin/options.php:16
+msgid "Check for updates"
+msgstr "تحقق من التحديثات"
+
+#: view/admin/options.php:17
+msgid "Check for updates from within HeadSpace"
+msgstr "التحقق من التحديثات من داخل HeadSpace"
+
+#: modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: modules/site/crazyegg.php:122
+msgid "CrazyEgg ID"
+msgstr "CrazyEgg ID"
+
+#: modules/page/theme.php:80
+msgid "Current theme"
+msgstr "القالب الحالي"
+
+#: modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "تخصيص عدد من التدوينات التي تظهر على صفحات البحث والأرشيف , وقم بإختيار هل تظهر التدوينة كاملة ام جزء منها"
+
+#: view/admin/options.php:37
+msgid "Delete HeadSpace"
+msgstr "إحذف  HeadSpace"
+
+#: modules/page/description.php:88
+msgid "Description"
+msgstr "وصف"
+
+#: modules/page/tags.php:222
+msgid "Dictionary"
+msgstr "قاموس"
+
+#: view/admin/modules.php:19
+msgid "Disabled"
+msgstr "تعطيل"
+
+#: view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "تعديل التصنيف &raquo;"
+
+#: modules/site/analytics.php:184
+msgid "Enter the URL you want outbound links tracked to, or leave empty for no outbound tracking"
+msgstr "أدخل عنوان الموقع الذي تريد تعقب روابطه الصادرة, واتركه فارغ غذا لم تريد تعقب"
+
+#: modules/site/analytics.php:163
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "أدخل كود جافا سكريب التعقب ل جوجل الكاملة , او فقط <code>_uacct</code> number"
+
+#: modules/site/mint.php:124
+msgid "Enter the relative URL to your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "ادخل رابطك الخاص بتنصيب Mint (i.e. <code>/mint/</code>)."
+
+#: modules/site/crazyegg.php:125
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a>"
+msgstr "ادخل عضويتك الكاملة <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a>"
+
+#: modules/site/analytics.php:170
+#: modules/site/crazyegg.php:132
+#: modules/site/mint.php:131
+#: modules/site/statcounter.php:158
+msgid "Everyone"
+msgstr "كل واحد"
+
+#: view/admin/options.php:3
+msgid "General Options"
+msgstr "الخيارات العامة"
+
+#: headspace.php:98
+msgid "Global Settings"
+msgstr "الإعدادات العامة"
+
+#: modules/site/analytics.php:34
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Google Section Targeting"
+
+#: modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "وصف الميتا لترويسة"
+
+#: headspace.php:133
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: view/admin/edit_post.php:6
+msgid "HeadSpace Meta data"
+msgstr "معلومات الميتا ل HeadSpace"
+
+#: view/admin/edit_category.php:1
+#: view/admin/settings.php:2
+msgid "HeadSpace Settings"
+msgstr "إعدادات HeadSpace"
+
+#: headspace.php:342
+msgid "HeadSpace has been removed"
+msgstr "تم حذف HeadSpace"
+
+#: modules/import/headspace_tags.php:31
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "اوسمة HeadSpace (تحويل الى اوسمة ووردبريس 2.3)"
+
+#: view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "أخبار HeadSpace2"
+
+#: headspace.php:99
+msgid "Home Page"
+msgstr "الصفحة الرئيسية"
+
+#: plugin.php:593
+msgid "How many widgets would you like?"
+msgstr "كم عدد المربعات الجانبية تريد ؟"
+
+#: view/admin/import.php:2
+#: view/admin/import.php:12
+#: view/admin/submenu.php:5
+msgid "Import"
+msgstr "إستيراد"
+
+#: view/admin/import.php:13
+msgid "Import and remove original data"
+msgstr "إستيراد و حذف المعلومات الاصلية"
+
+#: view/admin/options.php:9
+msgid "Inherit from global settings"
+msgstr "وراثة من الاعدادات العامة"
+
+#: view/admin/options.php:8
+msgid "Inherit settings"
+msgstr "ورث الإعدادات  "
+
+#: ajax.php:141
+#: ajax.php:152
+#: ajax.php:163
+#: ajax.php:174
+#: ajax.php:188
+msgid "Invalid module"
+msgstr "وحدة خاطئة"
+
+#: modules/page/javascript.php:50
+#: modules/page/javascript.php:66
+msgid "JavaScript"
+msgstr "جافا سكريبت"
+
+#: modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "كلمات جيروم"
+
+#: modules/page/page_title.php:101
+msgid "Leave blank to use theme default"
+msgstr "اتركه فارغ لإستعمال القالب الافتراضي"
+
+#: modules/site/wp_formatting.php:107
+msgid "Makes links clickable in comments"
+msgstr "اجعل الراوبط قابلة لنقر في التعليقات"
+
+#: view/admin/mass_edit.php:2
+msgid "Mass Edit Meta-data"
+msgstr "تعديل مجموعة من الميتا في وقت واحد"
+
+#: modules/page/description.php:70
+msgid "Max length"
+msgstr "اقصى طول"
+
+#: headspace.php:134
+msgid "Meta-data"
+msgstr "Meta-data"
+
+#: modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: modules/site/mint.php:121
+msgid "Mint path"
+msgstr "مسار Mint"
+
+#: view/admin/submenu.php:3
+msgid "Modules"
+msgstr "وحدات"
+
+#: view/admin/modules.php:20
+msgid "Modules are disabled and do not appear"
+msgstr "الوحدات معطلة ولن يتم ظهورها"
+
+#: view/admin/modules.php:8
+msgid "Modules will always appear on edit screens"
+msgstr "الوحدات سوف تظهر دائما في شاشة التعديل"
+
+#: view/admin/modules.php:14
+msgid "Modules will be hidden behind a link"
+msgstr "الوحدات سوف تختفي تحت الروابط"
+
+#: modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "فريد اكتر"
+
+#: modules/mass/more_text.php:28
+#: modules/mass/more_text.php:50
+#: modules/page/more_text.php:51
+#: modules/page/more_text.php:70
+msgid "More text"
+msgstr "المزيد من النص"
+
+#: modules/page/tags.php:200
+#: modules/page/tags.php:209
+msgid "Never"
+msgstr "ابدا"
+
+#: models/pager.php:387
+msgid "Next"
+msgstr "التالي"
+
+#: modules/page/noindex.php:70
+msgid "No Index"
+msgstr "بدون رئيسية"
+
+#: modules/page/noindex.php:51
+msgid "No Index/No Follow"
+msgstr "No Index/No Follow"
+
+#: view/admin/submenu.php:4
+msgid "Options"
+msgstr "خيارات"
+
+#: modules/page/tags.php:183
+msgid "Order tags"
+msgstr "اوسمة اخرى"
+
+#: modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "رقم الصفحة"
+
+#: view/admin/modules.php:2
+msgid "Page Modules"
+msgstr "وحدة الصفحة"
+
+#: view/admin/submenu.php:2
+msgid "Page Settings"
+msgstr "خيارات الصفحة"
+
+#: modules/page/page_title.php:125
+msgid "Page Title"
+msgstr "عنوان الصفحة"
+
+#: modules/mass/description.php:28
+#: modules/mass/description.php:50
+#: modules/page/description.php:56
+msgid "Page description"
+msgstr "وصف الصفحة"
+
+#: view/admin/modules.php:3
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "Модулі сторінки застосовуються до окремих сторінок. Перетягніть не відпускаючи модулі на відповідну область. Порядок модулів може мінятися, що відобразиться у вікні редагування."
+
+#: modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "الاسم الطيف لصفحة"
+
+#: modules/mass/page_title.php:28
+#: modules/mass/page_title.php:50
+#: modules/page/page_title.php:84
+msgid "Page title"
+msgstr "عنوان الصفحة"
+
+#: modules/page/plugin.php:82
+msgid "Page-specific Plugins"
+msgstr "صفحة معينة للإضافات"
+
+#: modules/page/theme.php:57
+msgid "Page-specific Themes"
+msgstr "صفحة معينة للقوالب"
+
+#: modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "ID قسم"
+
+#: view/admin/pager.php:14
+msgid "Per page"
+msgstr "لكل صفحة"
+
+#: modules/page/plugin.php:132
+msgid "Plugins"
+msgstr "الإضافات"
+
+#: modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "الاسم اللطيف لتدوينة"
+
+#: modules/mass/description.php:49
+#: modules/mass/more_text.php:49
+#: modules/mass/page_slug.php:49
+#: modules/mass/page_title.php:49
+#: modules/mass/site_description.php:49
+#: modules/mass/site_name.php:49
+#: modules/mass/tags.php:49
+msgid "Post title"
+msgstr "عنوان التدوينة"
+
+#: headspace.php:102
+msgid "Posts &amp; Pages"
+msgstr "الصفحات &amp; التدوينات "
+
+#: headspace.php:297
+msgid "Posts successfully updated"
+msgstr "تم تحديث التدوينة بنجاح"
+
+#: models/pager.php:386
+msgid "Previous"
+msgstr "السابق"
+
+#: modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "id المشروع"
+
+#: modules/site/rpc.php:32
+msgid "RPC support for Ecto"
+msgstr "RPC support for Ecto"
+
+#: modules/page/rss_tagline.php:57
+#: modules/page/rss_tagline.php:76
+msgid "RSS Description"
+msgstr "وصف الخلاصات"
+
+#: modules/page/rss_name.php:57
+#: modules/page/rss_name.php:76
+msgid "RSS Name"
+msgstr "اسم الخلاصات"
+
+#: modules/page/raw.php:43
+#: modules/page/raw.php:55
+msgid "Raw data"
+msgstr "Raw data"
+
+#: view/admin/options.php:32
+msgid "Remove HeadSpace"
+msgstr "احذف HeadSpace"
+
+#: view/admin/help.php:9
+msgid "Replaced with the category description"
+msgstr "بدله بوصف التصنيف"
+
+#: view/admin/help.php:16
+msgid "Replaced with the current date"
+msgstr "بدله بالتاريخ الحالي"
+
+#: view/admin/help.php:17
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr "بدله برقم الصفحة الحالية"
+
+#: view/admin/help.php:14
+msgid "Replaced with the current search phrase"
+msgstr "بدله بجملة البحث الحالية"
+
+#: view/admin/help.php:15
+msgid "Replaced with the current time"
+msgstr "بدله بالوقت الحالي"
+
+#: view/admin/help.php:5
+msgid "Replaced with the date of the post/page"
+msgstr "بدله بتاريخ التدوينة او الصفحة"
+
+#: view/admin/help.php:8
+msgid "Replaced with the post categories (comma seperated)"
+msgstr "بدله بتدوينة التصنيفات (ضع فواصل)"
+
+#: view/admin/help.php:11
+msgid "Replaced with the post/page ID"
+msgstr "بدله برقم التعريف لتدوينة او الصفحة"
+
+#: view/admin/help.php:12
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "بدله بكاتب التدوينة او الصفحة 'اسم لطيف'"
+
+#: view/admin/help.php:13
+msgid "Replaced with the post/page author's userid"
+msgstr "بدله بكاتب التدوينة او الصفحة 'رقم العضوية'"
+
+#: view/admin/help.php:7
+msgid "Replaced with the post/page excerpt"
+msgstr "بدله بمقتطف التدوينة او الصفحة"
+
+#: view/admin/help.php:10
+msgid "Replaced with the post/page modified time"
+msgstr "بدله بوقت تعديل التدوية او الصفحة"
+
+#: view/admin/help.php:6
+msgid "Replaced with the title of the post/page"
+msgstr "بدله بعنوان التدوينة او الصفحة"
+
+#: modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "SEO عنوان الاوسمة"
+
+#: plugin.php:600
+#: view/admin/edit_ajax.php:4
+#: view/admin/module_edit.php:7
+#: view/admin/site_module_edit.php:15
+msgid "Save"
+msgstr "حفظ"
+
+#: view/admin/mass_edit.php:37
+msgid "Save all data"
+msgstr "حفظ كافة البيانات"
+
+#: view/admin/modules.php:37
+msgid "Save module order"
+msgstr "حفظ ترتيب الوحدات"
+
+#: view/admin/pager.php:11
+msgid "Search"
+msgstr "البحث"
+
+#: headspace.php:104
+msgid "Search Pages"
+msgstr "صفحة البحث"
+
+#: modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "إبحث"
+
+#: modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "الحماية ID"
+
+#: modules/page/page_title.php:105
+msgid "Separator position"
+msgstr "وضع الفواصل"
+
+#: view/admin/settings.php:15
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "الاعدادت يمكن تطبيقها على تدوينات او صفحات معينة من <strong>صحة تعديل التدوينة</strong>, وعلى تصنيفات معينة من <strong>تعديل التصنيفات</strong> صفحة."
+
+#: modules/page/plugin.php:103
+msgid "Show in admin"
+msgstr "تظهر في ال admin"
+
+#: modules/page/tags.php:206
+msgid "Show tags in pages"
+msgstr "اظهر الاوسمة في الصفحات"
+
+#: modules/page/tags.php:197
+msgid "Show tags in posts"
+msgstr "اظهر الاوسمة في التدوينات"
+
+#: modules/page/plugin.php:106
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "اظهر صحة إضافة معينة في قائمة الإدارة العامة"
+
+#: view/admin/modules.php:7
+msgid "Simple"
+msgstr "عادي"
+
+#: modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "توصيف بسيط"
+
+#: modules/import/simple-tags.php:28
+msgid "Simple Tags"
+msgstr "وسم عادي"
+
+#: view/admin/modules.php:42
+msgid "Site Modules"
+msgstr "وحدات الموقع"
+
+#: modules/mass/site_description.php:28
+#: modules/mass/site_description.php:50
+#: modules/page/site_tagline.php:56
+#: modules/page/site_tagline.php:75
+msgid "Site description"
+msgstr "وصف الموقع"
+
+#: view/admin/modules.php:43
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "Модулі сайту застосовуються до всього сайту загалом. Працюватимуть лише помічені модулі (відповідно сконфігуровані)."
+
+#: modules/mass/site_name.php:28
+#: modules/mass/site_name.php:50
+#: modules/page/site_name.php:56
+#: modules/page/site_name.php:75
+msgid "Site name"
+msgstr "اسم الموقع"
+
+#: view/admin/help.php:2
+msgid "Special Tags"
+msgstr "اوسمة مميزة"
+
+#: modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: modules/page/stylesheet.php:50
+#: modules/page/stylesheet.php:66
+msgid "Stylesheets"
+msgstr "ملف الاستايل"
+
+#: modules/page/tags.php:342
+msgid "Suggest tags based on content"
+msgstr "اقتراح اوسمة على اساس المحتوى"
+
+#: modules/page/tags.php:316
+msgid "Suggested tags"
+msgstr "اقترح اوسمة"
+
+#: modules/site/rpc.php:74
+msgid "Tag separator"
+msgstr "فواصل الاوسمة"
+
+#: modules/page/tags.php:157
+msgid "Tags (keywords)"
+msgstr "اوسمة وكلمات"
+
+#: modules/mass/tags.php:28
+#: modules/mass/tags.php:50
+#: modules/page/tags.php:272
+msgid "Tags/keywords"
+msgstr "اوسمة وكلمات"
+
+#: modules/page/theme.php:77
+msgid "Theme"
+msgstr "قالب"
+
+#: modules/site/rpc.php:77
+msgid "This must match the separator defined in Ecto 'Templates', 'Tags', 'Tag separator'"
+msgstr "Он должен соответствовать разделителю, определенному в Ecto 'Шаблоны', 'Метки', 'Разделитель меток'Він повинен відповідати роділювачу, визначеному в Ecto 'Шаблони', 'Теґи', 'Розділювач теґів'"
+
+#: view/admin/options.php:34
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data."
+msgstr "هذا الاختيار سيقوم بحذف HeadSpace وجميع الاعدادات المتعلق به"
+
+#: view/admin/import.php:3
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "هذه الصفحة تسمح لك باستيراد الميتا من أضافة وردبريس اخرى. الغضافة الخرى ليس بالضرورة ان تكون مفعلة"
+
+#: modules/page/page_title.php:98
+msgid "Title separator"
+msgstr "فاصل العناوين"
+
+#: modules/site/analytics.php:181
+msgid "Track outbound links"
+msgstr "روابط المسار الصادرة"
+
+#: modules/site/analytics.php:160
+msgid "Tracking code"
+msgstr "كود التعقب"
+
+#: modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "محارب الاوسمة النهائي"
+
+#: view/admin/options.php:26
+msgid "Update Options &raquo;"
+msgstr "تحديث الخيارات &raquo;"
+
+#: modules/site/wp_formatting.php:93
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr "استعمل <code>wpautop</code> لتنسيق الفقرات"
+
+#: modules/site/wp_formatting.php:100
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "استعمل <code>wptexturize</code> لتحويل الاقتباس الى اقتباس جميل"
+
+#: modules/site/analytics.php:177
+#: modules/site/crazyegg.php:139
+#: modules/site/mint.php:138
+#: modules/site/statcounter.php:165
+msgid "Users of the specified role or less will be tracked"
+msgstr "الاعضاء اصحاب دور او اقل يتم تعقبهم"
+
+#: modules/site/analytics.php:167
+#: modules/site/crazyegg.php:129
+#: modules/site/mint.php:128
+#: modules/site/statcounter.php:155
+msgid "Who to track"
+msgstr "الذي تتعقب"
+
+#: modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "تنسيق محتوى الووردبريس"
+
+#: modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "جمع كل محتوى التدوينة والصفحة داخل القسم المستهدف في جوجل "
+
+#: modules/page/tags.php:321
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: modules/page/tags.php:215
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo منطقة الاوسمة"
+
+#: headspace.php:362
+msgid "Your module positions have been saved"
+msgstr "تم حفظ وحدة المواقف"
+
+#: headspace.php:335
+msgid "Your options have been updated"
+msgstr "تم تحديث خياراتك"
+
+#: modules/page/javascript.php:72
+#: modules/page/stylesheet.php:72
+msgid "add"
+msgstr "أضف"
+
+#: modules/page/tags.php:318
+msgid "add all"
+msgstr "أضف الى الكل"
+
+#: view/admin/edit.php:17
+msgid "advanced"
+msgstr "متقدمة"
+
+#: headspace.php:103
+msgid "applied to author pages"
+msgstr "تطبيق على كاتب الصفحات"
+
+#: headspace.php:101
+msgid "applied to category pages without specific settings"
+msgstr "تطبيق على تصنيفات الصفحات دون إعدادات معينة"
+
+#: headspace.php:98
+msgid "applied to everything unless otherwise specified"
+msgstr "تطبق على الكل بإستثناء المعينة"
+
+#: headspace.php:102
+msgid "applied to posts &amp; pages without specific settings"
+msgstr "تطبيق على تدوينات وصفحات دون إعدادات معينة"
+
+#: headspace.php:99
+msgid "applied to the home page"
+msgstr "تطبق عند الصفحة الرئيسية"
+
+#: headspace.php:105
+msgid "applied when viewing a 404 error"
+msgstr "تطبق عند عرض صفحة الخطاء 404"
+
+#: headspace.php:104
+msgid "applied when viewing search results"
+msgstr "تطبق عند عرض نتائج البحث"
+
+#: headspace.php:100
+msgid "applied when viewing the archives"
+msgstr "تطبق عند عرض الارشيف"
+
+#: modules/site/page_counts.php:119
+#: modules/site/page_counts.php:131
+msgid "content"
+msgstr "المحتوى"
+
+#: modules/site/page_counts.php:118
+#: modules/site/page_counts.php:130
+msgid "default"
+msgstr "الافتراضي"
+
+#: modules/site/page_counts.php:120
+#: modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "مقتطف"
+
+#: view/admin/pager.php:21
+msgid "go"
+msgstr "إذهب"
+
+#: modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: modules/page/noindex.php:73
+msgid "no-follow"
+msgstr "no-follow"
+
+#: modules/site/page_counts.php:116
+#: modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "تدوينات, أظهر ال"
+
+#: modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "ضع عدد التدوينات 0 في القالب الإفتراضي"
+
+#: modules/page/tags.php:319
+msgid "suggest"
+msgstr "اقتراح"
+

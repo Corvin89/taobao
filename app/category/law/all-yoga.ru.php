@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.all-yoga.ru">Йога - способ жизни</a>'; include '../view.php';

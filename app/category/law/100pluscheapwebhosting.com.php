@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.100pluscheapwebhosting.com">Cheap Web Hosting</a> - Affordable and reliable low cost high quality cheap web hosting directory. Searchable database of cheap web hosting plans.'; include '../view.php';

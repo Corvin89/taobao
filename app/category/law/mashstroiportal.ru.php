@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mashstroiportal.ru" rel="follow" title="Теплоемкость и теплопроводность">Теплоемкость и теплопроводность</a>'; include '../view.php';

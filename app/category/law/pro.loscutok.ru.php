@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://loscutok.ru" title="постельное белье">постельное белье</a>'; include '../view.php';

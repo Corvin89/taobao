@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.begom.ru">установка кондиционера. кондиционеры</a>'; include '../view.php';

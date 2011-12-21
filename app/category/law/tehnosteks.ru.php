@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://tehnosteks.ru">изготовление наружной рекламы и интерьеров</a> - <a href='http://byevek.ru'>стеклянные ограждения</a>'; include '../view.php';

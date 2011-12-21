@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://lineage2info.ru">Lineage2 - База знаний</a>'; include '../view.php';

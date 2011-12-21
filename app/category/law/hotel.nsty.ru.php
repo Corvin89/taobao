@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Гостиницы, <a href="http://www.hotel.nsty.ru">отели</a> турции, египта, отзывы отели'; include '../view.php';

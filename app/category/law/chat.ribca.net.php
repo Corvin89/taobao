@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://chat.ribca.net title='Уютный и Дружелюбный Чат, Знакомства, Общение.'>Уютный и Дружелюбный Чат, Знакомства, Общение.</a>'; include '../view.php';

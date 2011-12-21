@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://clanbaza.ru/top100" target="_blank"><img src="http://bestclan.ru/images/88x31.gif" alt="Топ игровых кланов и сайтов" width=88 height=31></a>'; include '../view.php';

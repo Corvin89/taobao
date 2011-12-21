@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.alfamebel.info/">ALFAmebel.info - каталог мебельных сайтов</a>'; include '../view.php';

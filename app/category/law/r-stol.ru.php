@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://r-stol.ru">Скачать обои для стола</a>'; include '../view.php';

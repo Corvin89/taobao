@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dating--uk.com/"><b>Dating UK</b></a><br>Dating for singles in the UK. Our professional matchmaking will help you find love.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gaydatinguk.org/"><b>Gay Dating UK</b></a><br>Gay Dating UK, the UK gay dating site for the gay UK community. Features include gay chat UK and gay webcams UK, gay personals UK and gay dating UK.'; include '../view.php';

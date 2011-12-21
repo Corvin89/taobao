@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Advance your career with an<a href="http://www.mba-academy.org"> accredited online MBA degree</a>. Browse to find the most popular online colleges and universities offering mba degrees in any fields including Psychology, Education, Design, Management, Business, Marketing and more.'; include '../view.php';

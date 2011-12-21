@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://colore.ru>Гидрогель - Экопочва</a>. <a href=http://colore.ru/gel.html>Почва для цветов</a>. <a href=http://colore.ru/glass.html>Декоративное стекло</a>.'; include '../view.php';

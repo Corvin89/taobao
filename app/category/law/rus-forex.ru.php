@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.rus-forex.ru>Доска объявлений</a>'; include '../view.php';

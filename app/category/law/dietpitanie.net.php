@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A href="http://www.dietpitanie.net/">—балансированное питание, диета при гипертонии</A>'; include '../view.php';

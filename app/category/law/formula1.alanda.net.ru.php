@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://formula1.alanda.net.ru/'>Каталог сайтов - Формула 1 formula1.alanda.net.ru</a>'; include '../view.php';

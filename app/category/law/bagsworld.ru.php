@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.bagsworld.ru/" target="_blank">Интернет-магазин - Bagsworld.ru - сумки, чемоданы, портпледы, портфели, кейсы.</a><br>
+Сумки, чемоданы, портфели, портпледы, сумки-тележки, дорожные сумки, папки, планшеты, барсетки, саквояжи, чехлы, сумки и кейсы для ноутбука, кошельки и т.д.<br><a href="http://www.bagsworld.ru/" target="_blank" style="font-size:smaller;color:gray;text-decoration:none;">http://www.bagsworld.ru/</a>'; include '../view.php';

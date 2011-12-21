@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.gasoline-generators.ru">Стабилизаторы напряжения и бензогенераторы</a>'; include '../view.php';

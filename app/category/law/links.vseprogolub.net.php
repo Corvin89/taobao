@@ -1,0 +1,1 @@
+<?php $catalogLink = '√олубеводу - <a href="http://vseprogolub.net">голуби</a>, <a href="http://vseprogolub.net">все о голуб€х</a> портал'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="blank" href="http://www.links.toytiger.ru">Сайт о кошках - породы <b>Тойгер</b></a>'; include '../view.php';

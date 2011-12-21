@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kotlovany.ru/index.php?option=com_content&task=view&id=13&Itemid=31">разработка котлованов</a> -  <a href="http://www.sud-pristav.ru/pomosch-v-prodvizhenii-ispolnitelnogo-lista.html">ѕомощь в продвижении исполнительного листа</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://partner.polsovet.com"> Лучшие в Рунете обучающие курсы по заработку в Интернете!</a>'; include '../view.php';

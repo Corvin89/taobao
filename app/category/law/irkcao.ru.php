@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Среднеазиатская овчарка - информационный сайт о породе. <a title="Среднеазиатская овчарка" href="http://www.irkcao.ru/book.html" target=blank>Статьи, книги</a>, журналы,  анонсы выставок.'; include '../view.php';

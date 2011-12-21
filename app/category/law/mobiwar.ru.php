@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mobiwar.ru">Скачать Java Игру Pro Evolution Soccer 2009 бесплатно и без регистрации</a> на mobiwar.ru'; include '../view.php';

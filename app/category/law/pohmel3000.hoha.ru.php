@@ -1,0 +1,1 @@
+<?php $catalogLink = '<b><a href=http://pohmel3000.hoha.ru/>Каталог обмена ссылками, раскрутка сайта,  ресурсы интернета, Похмел 3000. Обмен ссылками</a><b> <i><a href=http://stavka.best-host.ru>Разработка сайта Stavka</a>poh-mel</i>'; include '../view.php';

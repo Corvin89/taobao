@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://tuniz.ru/">туры тунис</a>'; include '../view.php';

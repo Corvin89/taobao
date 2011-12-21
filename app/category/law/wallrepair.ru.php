@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://wallrepair.ru/">Wallrepair.ru - сайт про ремонт штукатурки, обойные работы, облицовку стен деревом, выбор и подготовку красок</a>'; include '../view.php';

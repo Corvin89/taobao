@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://diplom-online.info" target=_blank><img src="http://diplom-online.info/pics/ban88.jpg" alt="Дипломы - ONLINE" width=88 height=31 border=0></a>'; include '../view.php';

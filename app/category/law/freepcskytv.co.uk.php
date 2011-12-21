@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.freepcskytv.co.uk"><b>Sky TV Online</b></a><br>Watch Sky TV for free on your PC legally, including all the Latest Football Premiership Games Live and other top satellite channels'; include '../view.php';

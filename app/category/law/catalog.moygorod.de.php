@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.moygorod.de" title="Русские города  Германии">Русские города  Германии</a>'; include '../view.php';

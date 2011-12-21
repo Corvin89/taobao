@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.muxe.net/"><img src="http://www.muxe.net/rubutton.gif" width=88 height=31 border=0 alt="Размещено в каталоге Muxe.NET."></a>'; include '../view.php';

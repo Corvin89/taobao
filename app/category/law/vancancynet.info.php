@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vancancynet.info" id="RCDF258">Van Web Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://erynok.ru/">Купить, продать, обменять. Объявления</a>'; include '../view.php';

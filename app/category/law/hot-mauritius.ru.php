@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--www.hot-mauritius.ru-opisanie--> Незабываемый отдых на Маврикии:  <a href="http://www.hot-mauritius.ru/" title="отдых на маврикии, отдых Маврикий - форум карта маврикия">отдых на маврикии, отдых Маврикий - форум карта маврикия</a> Самые низкие цены на туры!  <!--www.hot-mauritius.ru-opisanie-->'; include '../view.php';

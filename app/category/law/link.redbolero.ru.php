@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a title="Интернет-магазин Redolero" href="http://www.redbolero.ru">Интернет-магазин Redolero</a>
+<a title="Полезное вебмастеру Каталог сайтов и ресурсов интернет" href="http://www.link.redbolero.ru">Полезное вебмастеру Каталог сайтов и ресурсов интернет</a>'; include '../view.php';

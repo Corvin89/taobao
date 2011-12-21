@@ -1,0 +1,1 @@
+<?php $catalogLink = 'alfagold.net.ru - <a href="http://alfagold.net.ru">Сочные сайты</a>'; include '../view.php';

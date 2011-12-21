@@ -1,0 +1,1 @@
+<?php $catalogLink = 'blockwords.ru <a href="http://www.blockwords.ru">профессиональный портал для политинформаторов</a>'; include '../view.php';

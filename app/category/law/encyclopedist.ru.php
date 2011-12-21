@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.encyclopedist.ru">Модерируемый каталог сайтов ЭНЦИКЛОПЕДИСТ</a>'; include '../view.php';

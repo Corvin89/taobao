@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://proektanti.ru/">Удаленная работа - архитектура</a>'; include '../view.php';

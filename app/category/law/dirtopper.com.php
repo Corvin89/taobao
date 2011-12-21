@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dirtopper.com">Directory Topper</a>'; include '../view.php';

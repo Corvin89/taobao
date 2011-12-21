@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.modapalto.ru" target="_blank">Магазин женской одежды:пальто,куртки,плащи</a>'; include '../view.php';

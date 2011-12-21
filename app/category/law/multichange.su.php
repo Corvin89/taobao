@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.multichange.su">MultiChange.Su - Система интернет-переводов-Автоматический обменный пункт</a>'; include '../view.php';

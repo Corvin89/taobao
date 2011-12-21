@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://img.mastertem.ru"><img src="http://img.mastertem.ru/banner.gif"></a>'; include '../view.php';

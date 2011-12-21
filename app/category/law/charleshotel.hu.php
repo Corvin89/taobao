@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.charleshotel.hu" target="_blank">Charles Apartment Hotel Budapest</a> <br>
+Are you looking for hotels in Budapest? Hotel Charles is a great 3 star Hotel in the center of Budapest. We offer fully equipped studios, apartments, rich buffet breakfast & cheap prices.'; include '../view.php';

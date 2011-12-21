@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cableboard.ru/">Покупка провода. Продажа провода.</a>'; include '../view.php';

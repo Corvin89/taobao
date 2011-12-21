@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="" target="_self"><strong>Клуб "Парни Говорят..."</strong> - чисто мужское общение!</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.link-soft.ru/" target="_blank">‘ирма "Ћинк—офт", простые программы дл€ бизнеса</a>'; include '../view.php';

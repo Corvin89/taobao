@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vpologenii.com" target="_blank"><img src="http://vpologenii.com/images/vpologenii.gif" border="0" alt="В интересном положении"></a>'; include '../view.php';

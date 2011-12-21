@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://allnokia.ru">Все для Nokia</a> - <a href="http://allnokia.ru/symbsoft/">программы для смартфонов</a>, <a href="http://allnokia.ru/themes/">темы для nokia</a>, <a href="http://allnokia.ru/manuals/">инструкции для nokia</a>'; include '../view.php';

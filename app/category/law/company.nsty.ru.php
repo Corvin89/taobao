@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Деятельность предприятия, <a href="http://www.company.nsty.ru">корпорация</a>, оао компания'; include '../view.php';

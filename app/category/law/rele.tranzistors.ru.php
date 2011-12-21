@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Технический сайт <a href="http://www.tranzistors.ru/">http://www.tranzistors.ru/</a><br />Классификация и типы <a href="http://usilitels.ru/">усилителей</a><br /><a href="http://www.abitgamer.com">Игровые обзоры</a> на сайте ABITGAMER.<br /><a href="http://1000car.ru/">Авто новости</a> Новосибирска<br />'; include '../view.php';

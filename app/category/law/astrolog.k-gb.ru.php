@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://astrolog.k-gb.ru/"><img src="http://astrolog.k-gb.ru/img/ban.gif" alt="Астрологические консультации"></a>
+<a href="http://astrolog.k-gb.ru/"><b>Астрологические консультации Маргарита Сергеева<b></a>'; include '../view.php';

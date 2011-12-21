@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://insurance.dang.net.ru/'>Каталог сайтов о страховании insurance.dang.net.ru</a>'; include '../view.php';

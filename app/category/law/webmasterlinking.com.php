@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.www.webmasterlinking.com">Submit Links Directory Web Post Online Directory</a>'; include '../view.php';

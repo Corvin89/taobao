@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://catalog.club.co.ua"><img src="http://catalog.club.co.ua/images/banner/wcccu.gif" alt="Безкоштовний каталог сайтів" border="0"/></a>'; include '../view.php';

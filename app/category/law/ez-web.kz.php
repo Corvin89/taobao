@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--EZ-Web Start Code--><a href=http://www.ez-web.kz/ target=_blank>Разработка сайтов: дизайн, программирование, обновления, поддержка, поисковая оптимизация, продвижение (раскрутка) в поисковиках, контекстная реклама - Студия EZ-Web.kz</a><!--EZ-Web End Code-->'; include '../view.php';

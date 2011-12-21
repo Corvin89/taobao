@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.differencebetweenand.com" id="R416C1A">the difference of </a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.marina-psychology.ru">Психолог, психотерапевт Марина Лавренко. Консультация психолога, психологическое консультирование.</a>'; include '../view.php';

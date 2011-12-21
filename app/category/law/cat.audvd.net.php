@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://audvd.net/">Интернет магазин CD и DVD дисков</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://polymerics.ru/">Polymerics.ru - справочник про использование листового винипласта и армированных пленок</a>'; include '../view.php';

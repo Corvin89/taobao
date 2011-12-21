@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.educacenter.ru" title="диплом на заказ, курсовая на заказ, реферат на заказ">EducaCenter.ru - диплом на заказ, курсовая на заказ, реферат на заказ в Санкт-Петербурге и Москве</a>'; include '../view.php';

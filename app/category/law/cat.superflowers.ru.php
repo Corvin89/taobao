@@ -1,0 +1,1 @@
+<?php $catalogLink = 'SuperFlowers.Ru: <a href="http://www.superflowers.ru/">заказ цветов, купить растения</a>'; include '../view.php';

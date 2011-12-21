@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://germanybroker.com">Европейский цемент</a>, <a href="http://germanybroker.com">импорт древесины</a>, <a href="http://germanybroker.com">строительная техника</a>'; include '../view.php';

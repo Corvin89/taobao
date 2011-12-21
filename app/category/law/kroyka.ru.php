@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kroyka.ru" target="_black">Уроки кройки и шитья</a> для вас. Выкройки, примеры и форум.'; include '../view.php';

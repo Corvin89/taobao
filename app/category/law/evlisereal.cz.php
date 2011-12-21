@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Хотите жить в Европе? Купите собственный <a href="http://www.evlisereal.cz/projects.html" target="_blank">дом в Чехии</a> по ценам застройщика.'; include '../view.php';

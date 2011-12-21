@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://fortrosemarkiechurchofscotland.org/">Article Directory</a>'; include '../view.php';

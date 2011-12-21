@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.krasdok.ru"><img width="88" height="31" border="0" src="http://www.krasdok.ru/12345.gif" alt="Продажа мебели, ДСП, пиломатериалов. Низкие цены. Основные направления: Производство ДСП, изготовление корпусной мебели, пиломатериалов, деревообработка. ".></a>'; include '../view.php';

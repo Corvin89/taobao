@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A title="Продажа медицинского оборудования Росбиомедика" href="http://www.rosbiomedica.ru/" target=_blank><img width="88" height="31" border="0" alt="" src="http://www.rosbiomedica.ru/ban88-31.gif" /></a>'; include '../view.php';

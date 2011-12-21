@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Вентиляция, <a href="http://svkplus.ru/">отопление,</a> электрика'; include '../view.php';

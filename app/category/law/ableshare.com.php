@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ableshare.com/">AbleShare Web Directory</a>'; include '../view.php';

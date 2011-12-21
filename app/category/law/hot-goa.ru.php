@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--www.hot-goa.ru-opisanie--> Незабываемый отдых в Гоа:  <a href="http://www.hot-goa.ru/" title="отдых гоа Индия - гоа индия, гоа туроператор, аэропорт">отдых гоа Индия - гоа индия, гоа туроператор, аэропорт</a> Самые низкие цены на туры!  <!--www.hot-goa.ru-opisanie-->'; include '../view.php';

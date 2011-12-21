@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Ѕыстра€ <a href="http://eko.myweb24.ru/" target="_blank">раскрутка сайтов</a> в поисковых системах.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://watch-s.ru/>Rolex по цене мобильного телефона</a>'; include '../view.php';

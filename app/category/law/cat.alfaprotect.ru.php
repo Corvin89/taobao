@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cat.alfaprotect.ru/">Наши партнёры</a><a href="http://alfaprotect.ru/">Средства индивидуальной защиты, Бронежилеты, Шлемы, Огнетушители, Противогазы и респираторы</a>'; include '../view.php';

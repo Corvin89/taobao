@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ya-daru.ru/">"Ya-daru" : подарок мужу, подарить девушке, подарок другу</a>, <a href="http://www.ya-daru.ru/science/">Научное подарковедение</a>'; include '../view.php';

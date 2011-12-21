@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.luckysearch.ru">Удачный поиск - каталог сайтов <img src="http://luckysearch.ru/images/admin/poweredby.jpg" alt="Удачный поиск ">'; include '../view.php';

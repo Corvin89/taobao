@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://zarx.info/>Портал вакансий работы ZarX</a>'; include '../view.php';

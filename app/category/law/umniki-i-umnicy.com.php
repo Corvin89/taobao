@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://umniki-i-umnicy.com' target='_blank'><b>Маленькие умники и умницы</b></a><br />Маленькие умники и умницы. Сайт о раннем развитии детей'; include '../view.php';

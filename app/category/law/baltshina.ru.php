@@ -1,0 +1,1 @@
+<?php $catalogLink = 'вседорожные <a href="http://www.baltshina.ru">шины Петербург</a> у нас'; include '../view.php';

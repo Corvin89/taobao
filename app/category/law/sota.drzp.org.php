@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sota.drzp.org">Мобильная техника</a> на sota.drzp.org'; include '../view.php';

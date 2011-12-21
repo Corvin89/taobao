@@ -1,0 +1,1 @@
+<?php $catalogLink = '<strong><a href="http://youclips.ru">Музыка, клипы</a></strong>'; include '../view.php';

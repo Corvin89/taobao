@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://pool.qoopex.com/' target='_blank'><img src='http://pool.qoopex.com/images/button_88x31.gif' border=0 title='Объединение сайтов' alt='Объединение сайтов'></a>'; include '../view.php';

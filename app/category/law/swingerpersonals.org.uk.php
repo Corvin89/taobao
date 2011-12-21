@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.swingerpersonals.org.uk/"><b>Swinger Personals</b></a><br>Swinger Personals contains thousands of swinger personal ads from swingers. Thousands of men and women online seeking SEX!'; include '../view.php';

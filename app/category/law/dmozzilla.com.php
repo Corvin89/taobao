@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dmozzilla.com">DMOZ Zilla Directory</a>'; include '../view.php';

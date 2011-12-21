@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.poznayka.ru/" target="_blank"> –азвитие ребенка - раскраски, поделки, детские стихи, развивающие игры</a>, статьи и многое другое'; include '../view.php';

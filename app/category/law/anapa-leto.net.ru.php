@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://anapa-leto.net.ru">Отдых в Анапе, гостиница «Анапа - Лето», карта Анапы.</a>'; include '../view.php';

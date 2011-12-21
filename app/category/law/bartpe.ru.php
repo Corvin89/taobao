@@ -1,0 +1,1 @@
+<?php $catalogLink = '<div><a href="http://www.bartpe.ru/bootcd/bootcd12.php">Первая загрузка Windows PE</a> на основе windows с помощью <a href="http://www.bartpe.ru/">www.bartpe.ru</a></div>'; include '../view.php';

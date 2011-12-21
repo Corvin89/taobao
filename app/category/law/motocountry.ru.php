@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.motocountry.ru/">Мотозапчасти</a>, <a href="http://www.motocountry.ru/">мотоэкипировка</a>, <a href="http://www.motocountry.ru/">мотоаксессуары</a>, инструменты, химия и многое другое с доствкой по всему миру.'; include '../view.php';

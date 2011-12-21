@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.darkcrew.ru/" target="_blank"><img src="http://www.darkcrew.ru/modules/baner.gif" alt="Dark Crew - Ночные гонки!" border="0"></a>'; include '../view.php';

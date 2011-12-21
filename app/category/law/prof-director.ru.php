@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://prof-director.ru/' target='_blank'>ПЕРВЫЙ ЖУРНАЛ ДЛЯ ПЕРВЫХ ЛИЦ «ПРОФЕССИЯ – ДИРЕКТОР» – образовательно-аналитический журнал для директоров и владельцев бизнеса.</a><a href='http://prof-director.ru/journal_archive'>Архив журналов</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://finland-rest.com.ua/ru/tour/">Туры в Финляндию</a> -  Все об отдыхе в Финляндии, отели, отзывы, погода, достопримечательности, фотографии. <a href="http://finland-rest.com.ua/ru/tour/">Новогодняя Финляндия</a>.'; include '../view.php';

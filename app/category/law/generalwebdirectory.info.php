@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.carpaltunnelsyndromesymptomstreatment.com/category/carpal-tunnel-syndrome-symptoms" id="R158872">Carpal Tunnel Syndrome Symptoms</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='project15k.org'>Movie showtimes</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target=_blank href=http://websar.ru/>Создание красивых сайтов недорого</a>'; include '../view.php';

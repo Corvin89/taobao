@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://vdreve.ru target=_blank>Я в древе Челябинской области</a>'; include '../view.php';

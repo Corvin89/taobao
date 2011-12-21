@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dreamsubmitting.info/">Dreamsubmitting Web Directory</a>'; include '../view.php';

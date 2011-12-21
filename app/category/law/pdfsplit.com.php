@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.pdfsplit.com/">PdfSplit - Human Edited Free Web Directory</a>'; include '../view.php';

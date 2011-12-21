@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tradezone.ru">Интернет-магазин электроники: двд-плееры, lcd мониторы, домашние кинотеатры</a>'; include '../view.php';

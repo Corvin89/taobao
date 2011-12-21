@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cat.zalpstroy.ru/">Наши партнёры</a><a href="http://zalpstroy.ru/">Строительство загородных домов и коттеджей</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.n4a.ru/"><img src="http://www.n4a.ru/graf/ban88x31.gif" width="88" height="31" alt="Каталог-Доска объявлений-Знакомства-Фотоприколы-Форум" border="0"></a>'; include '../view.php';

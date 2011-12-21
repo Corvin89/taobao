@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.truba.hou.ru"><strong>Трубы | Полипропиленовые трубы | Ekoplastik </strong></a>- Современные <b>трубы</b> и системы. <b>Полипропиленовые трубы </b>системы <b>Ekoplastik</b>. Продажа, оптовая продажа, доставка, установка, консультации.'; include '../view.php';

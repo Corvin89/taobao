@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://na-yxo.ru">Bluetooth гарнитура  (блютуз), дата кабель, card reader (кард ридер), Hands free, Card Reader - интернет магазин</a>'; include '../view.php';

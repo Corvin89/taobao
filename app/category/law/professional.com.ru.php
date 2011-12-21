@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://www.professional.com.ru/">Рекламное агентство Профессионал</a></p>'; include '../view.php';

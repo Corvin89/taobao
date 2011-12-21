@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.homeopatia.ru/articles/115/">здоровье и вода</a>, <a href="http://www.homeopatia.ru/">Гомеопатия, Что такое гомеопатия</a>'; include '../view.php';

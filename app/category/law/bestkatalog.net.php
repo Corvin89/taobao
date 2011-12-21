@@ -1,0 +1,1 @@
+<?php $catalogLink = '::Ќовый каталог сайтов::<li><a href="http://bestkatalog.net">каталог сайтов рунета.</a></li>'; include '../view.php';

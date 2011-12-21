@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://postcard.bull-doc.ru"><img src="http://postcard.bull-doc.ru/images/knopka.gif" border=0 alt="Открытки на флеш"></a>'; include '../view.php';

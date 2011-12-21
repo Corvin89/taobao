@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cgcom.ru/">Компании ConsultGroup -  оказывает юридические услуги по регистрации некоммерческих организаций</a></b></i>'; include '../view.php';

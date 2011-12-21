@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.magic4love.ru/le2/index.php" title="Каталог эзотерических сайтов "><img src="http://www.magic4love.ru/Image/bankat.gif" width="88" height="31" border="0"></a>'; include '../view.php';

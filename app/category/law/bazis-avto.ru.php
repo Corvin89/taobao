@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.bazis-avto.ru/">Автоломбард Тюмени</a> — продажа авто по низким ценам'; include '../view.php';

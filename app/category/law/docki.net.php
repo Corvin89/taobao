@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://docki.net/">Доска объявлений о покупке-продаже товаров и услуг</a>'; include '../view.php';

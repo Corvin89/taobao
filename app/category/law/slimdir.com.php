@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.slimdir.com/" id="R0">SLiM Directory Search</a>'; include '../view.php';

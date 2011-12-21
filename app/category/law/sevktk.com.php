@@ -1,0 +1,1 @@
+<?php $catalogLink = 'советуем <a href="http://www.sevktk.com/kms_catalog+stat+cat_id-5+page-1+nums-11.html">описание Гелио Системы</a> расположенной в Ялте'; include '../view.php';

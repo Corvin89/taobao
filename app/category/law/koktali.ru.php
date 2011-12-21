@@ -1,0 +1,1 @@
+<?php $catalogLink = 'На сайте koktali.ru представлены <a href=http://www.koktali.ru>рецепты коктейлей из абсента, вермута, грог</a>.'; include '../view.php';

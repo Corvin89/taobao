@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://popcat.ru/" title="Добавь свой сайт в каталог POPcat.ru" target="_blank"><img src="http://popcat.ru/img/sitelogo.gif" height="31" width="88" border="0" alt="POPcat.ru" title="POPcat.ru"></a>'; include '../view.php';

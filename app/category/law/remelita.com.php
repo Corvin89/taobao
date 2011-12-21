@@ -1,0 +1,1 @@
+<?php $catalogLink = 'В нашем магазине всегда достойный выбор чемпионских <a href=http://www.ifyouski.ru/cats.php?cid=17&bfilter=15 title=горные лыжи ATOMIC>горных лыж ATOMIC</a>'; include '../view.php';

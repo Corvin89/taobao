@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://hamburgsv.net/">Футбольный клуб Гамбург</a>'; include '../view.php';

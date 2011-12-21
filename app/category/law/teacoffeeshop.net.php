@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.teacoffeeshop.net" id="R3EA026">Category online locator lists ads for cafes, retail stores and more</a>- Coffee brewers, kona, baristas, roast, leaf, ground bean, cup of Joe'; include '../view.php';

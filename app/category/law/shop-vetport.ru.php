@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://shop-vetport.ru/ >Интернет-зоомагазин. Зоотовары c доставкой по Новосибирску.</a>'; include '../view.php';

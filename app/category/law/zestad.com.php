@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cubancrafters.com/index.php">Cigars | Humidors | Cigar Gifts</a>'; include '../view.php';

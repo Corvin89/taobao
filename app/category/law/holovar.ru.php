@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://holovar.ru/20661668-kakoj-kinogeroj-vash-kumir-ili-yendi-dyufrejn.html">Какой киногерой - ваш кумир или Энди Дюфрейн - самый светлый образ в мировом кинематографе...</a>'; include '../view.php';

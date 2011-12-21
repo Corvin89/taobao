@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a HREF="http://www.accademiashoes.com/" TITLE="http://www.italianshoes.in.ua/" TARGET="_blank" ><img src="http://www.accademiashoes.com/images/accademia_88x31.JPG"><br>Accademia</a>'; include '../view.php';

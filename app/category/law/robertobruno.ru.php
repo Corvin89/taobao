@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Компания Roberto Bruno - <a href="http://www.robertobruno.ru">рубашки</a> поло.'; include '../view.php';

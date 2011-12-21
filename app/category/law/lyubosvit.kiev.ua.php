@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://lyubosvit.kiev.ua/newyear">Новогодние туры</a>'; include '../view.php';

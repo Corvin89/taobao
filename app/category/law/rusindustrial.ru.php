@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://rusindustrial.ru">Подъемное оборудование</a> на промышленном портале России'; include '../view.php';

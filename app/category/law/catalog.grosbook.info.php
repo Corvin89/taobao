@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://catalog.grosbook.info">Grosser Ц растущий каталог сайтов!</a>'; include '../view.php';

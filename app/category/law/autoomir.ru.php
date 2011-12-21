@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href ="http://autoomir.ru">Автоновости</a> Автомобильный портал'; include '../view.php';

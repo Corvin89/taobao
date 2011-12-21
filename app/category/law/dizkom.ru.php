@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dizkom.ru">  Двигатели ямз запчасти ямз</a>'; include '../view.php';

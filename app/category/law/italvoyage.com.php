@@ -1,0 +1,1 @@
+<?php $catalogLink = '—писок "<a href="http://www.italvoyage.com/ital_touroperator.php">“уроператоры по »талии</a>" предоставл€ют информацию об оформлении визы и турстических маршрутах в стране.'; include '../view.php';

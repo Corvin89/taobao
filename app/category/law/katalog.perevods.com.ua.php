@@ -1,0 +1,1 @@
+<?php $catalogLink = '<table width="100%"><tr><td><div align="center"><a href="http://katalog.perevods.com.ua/">—айты ”краины</a></div></td></tr></table>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.moneyguard.org>Поступки сильнее слов. Защити себя сам! Мы Вам поможем.</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.pan-at.com/" target="_blank">Панические расстройства</a>'; include '../view.php';

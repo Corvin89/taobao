@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://gotovim-cami.ru">Вкусные рецепты</a>. <a href="http://gotovim-cami.ru">Русская кухня</a>. <a href="http://gotovim-cami.ru">Рецепты первых блюд</a>.'; include '../view.php';

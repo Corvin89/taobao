@@ -1,0 +1,19 @@
+<?php $catalogLink = '<a href="http://catalog9.worldofkindness.info">Каталог сайтов</a><a href="http://catalog6.worldofkindness.info/">Белый каталог сайтов world</a>
+<a href="http://catalog7.worldofkindness.info/">Белый каталог сайтов world</a>
+<a href="http://catalog8.worldofkindness.info/">Белый каталог сайтов world</a>
+<a href="http://catalog9.worldofkindness.info/">Белый каталог сайтов world</a>
+<a href="http://catalog10.worldofkindness.info/">Белый каталог сайтов world</a>
+<a href="http://www.worldofkindness.info/">ВСе о мире</a>
+<a href="http://d.worldofkindness.info/">Доска сайтов объявлений world</a>
+<a href="http://d1.worldofkindness.info/">Доска сайтов объявлений world</a>
+<a href="http://d2.worldofkindness.info/">Доска сайтов объявлений world</a>
+<a href="http://d3.worldofkindness.info/">Доска сайтов объявлений world</a>
+<a href="http://d4.worldofkindness.info/">Доска сайтов объявлений world</a>
+<a href="http://d5.worldofkindness.info/">Доска сайтов объявлений world</a>
+<a href="http://d6.worldofkindness.info/">Доска сайтов объявлений world</a>
+<a href="http://d7.worldofkindness.info/">Доска сайтов объявлений world</a>
+<a href="http://d8.worldofkindness.info/">Доска сайтов объявлений world</a>
+<a href="http://d9.worldofkindness.info/">Доска сайтов объявлений world</a>
+<a href="http://d10.worldofkindness.info/">Доска сайтов объявлений world</a>
+<a href="http://www.nifak.ru/">Инетернет фестиваль кино</a>
+<a href="http://mywritings.ru/">Записки - цитатник рунета. новый</a>'; include '../view.php';

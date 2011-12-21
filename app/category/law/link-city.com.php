@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.link-city.com/">ALink - Reciprocal Link Directory.</A><br>'; include '../view.php';

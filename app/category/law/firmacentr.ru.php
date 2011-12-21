@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.firmacentr.ru/" target="_blank"><img src="http://www.firmacentr.ru/centrknop.gif" width=88 height=31 border=0 alt="Полиэтиленовые трубы и фитинги производства ОАО Казаньоргсинтез"/></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.thecommercialdirectory.com">One Way Links - Link Exchange</a>'; include '../view.php';

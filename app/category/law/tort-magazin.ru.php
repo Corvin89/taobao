@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tort-magazin.ru"><b>Специализированный интернет-магазин ТОРТЫ на заказ</b></a>'; include '../view.php';

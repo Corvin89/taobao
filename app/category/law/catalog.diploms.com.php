@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.diploms.com" target=_blank>Дипломы, курсовые, рефераты на заказ по всей России и зарубежом</a>'; include '../view.php';

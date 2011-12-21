@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.desgouttes.net/annuartweb" target="_blank"><img src="http://perso.wanadoo.fr/christophe.desgouttes/logo/annuartbanniere.gif" width="468" height="60" border="0" alt="annuart-web=directory art"></a>'; include '../view.php';

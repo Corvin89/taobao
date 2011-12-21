@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://muzles.ru/">гитара</a> в музыке'; include '../view.php';

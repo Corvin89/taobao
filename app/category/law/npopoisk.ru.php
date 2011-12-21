@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.npopoisk.ru">NPO Poisk Scaner-2000</a>'; include '../view.php';

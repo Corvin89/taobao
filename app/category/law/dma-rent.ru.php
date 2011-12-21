@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://dma-rent.ru">Дать объявление по коммерческой недвижимости</a>'; include '../view.php';

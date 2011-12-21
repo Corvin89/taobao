@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://in.uazona.biz">Русские сайты на UA зоне</a>'; include '../view.php';

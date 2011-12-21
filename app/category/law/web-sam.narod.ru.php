@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title=”ÂåáÑàì - âñ¸ äëÿ âåáìàñòåðà è SEO” href=”http://web-sam.narod.ru/”><img src=”http://web-sam.narod.ru/websam_site_88?31.gif” alt=”ÂåáÑàì - âñ¸ äëÿ âåáìàñòåðà è SEO”></a>.'; include '../view.php';

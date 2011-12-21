@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.galleryimage.com.au"><b>GI Business Data Solutions - Access Database Developer</b></a> - Professional Access database developers since 1996. Need a reliable, affordable Data Management System tailored to your specific business needs. Free quotes - Free business database downloads.'; include '../view.php';

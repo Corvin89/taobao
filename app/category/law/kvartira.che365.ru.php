@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kvartira.che365.ru/">Каталог сайтов Челябинской области по тематике проживания</a> и <a href="http://www.che365.ru/">Проживание в Челябинской области</a>'; include '../view.php';

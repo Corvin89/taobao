@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.bikepass.co.uk">Motorcycle Training Directory</a>'; include '../view.php';

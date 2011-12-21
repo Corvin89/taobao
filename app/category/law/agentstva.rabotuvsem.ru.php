@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://agentstva.rabotuvsem.ru/">Каталог Кадровых Агентств по городам России и СНГ</a>'; include '../view.php';

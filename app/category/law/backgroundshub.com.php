@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.backgroundshub.com target="_blank"">Myspace 2.0 Layouts</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dobermann.ru" target="_blank"><img src="http://www.dobermann.ru/img/dober88-31.gif" width=88 height=31 alt="Dobermann.ru - сайт питомника доберманов 'Иринланд'" border=0></img></a>'; include '../view.php';

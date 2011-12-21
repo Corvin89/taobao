@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://comy.ru" title="сотовые телефоны" target=_blank>мобильные телефоны</a>'; include '../view.php';

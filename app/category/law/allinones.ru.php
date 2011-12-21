@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.allinones.ru">Все в одном месте - каталог статей, справочник сайтов <img src="http://allinones.ru/images/admin/poweredby.jpg" alt="Все в одном месте">'; include '../view.php';

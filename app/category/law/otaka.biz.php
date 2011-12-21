@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Клуб владельцев автомобиля Geely Otaka <a href="http://www.otaka.biz">китайских автомобилей</a>'; include '../view.php';

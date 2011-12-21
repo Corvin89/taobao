@@ -1,0 +1,1 @@
+<?php $catalogLink = 'строительные леса рамные, <a href="http://skladvysotka.ru" target="_blank" title="строительные леса">строительные леса</a> штырьевые, огромный прайс лист на строительные леса'; include '../view.php';

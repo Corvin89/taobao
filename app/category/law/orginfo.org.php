@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Справочник <a href="http://orginfo.org">OrgInfo-Org</a>'; include '../view.php';

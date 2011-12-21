@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://plastmassa.net/" target="_blank">Пластмасса (Полимеры)</a>'; include '../view.php';

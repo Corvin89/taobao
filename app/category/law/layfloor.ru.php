@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://layfloor.ru/">Layfloor.ru - информационный сайт про ремонт полов из полимерных материалов</a>'; include '../view.php';

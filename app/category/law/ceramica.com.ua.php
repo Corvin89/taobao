@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ceramica.com.ua/" target="_blank">BEST-Line Керамика и сантехника. </a><a href="http://ceramica.com.ua/cat1.php" target="_blank">Каталог товаров</a>, <a href="http://ceramica.com.ua/news.php" target="_blank">новости</a>, <a href="http://ceramica.com.ua/link/" target="_blank">ссылки</a>.'; include '../view.php';

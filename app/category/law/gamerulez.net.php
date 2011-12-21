@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gamerulez.net/" target="_blank" title='"GameRulez.net" - о компьютерных играх'><img src="http://www.gamerulez.net/88x31.gif" width="88" height="31" border="0" alt="Новости игрового мира. Статьи, обзоры, интервью, прохождения и полезные советы. Патчи, утилиты, моды и другие файлы для скачивания. Форум."></a>'; include '../view.php';

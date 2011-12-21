@@ -1,0 +1,1 @@
+<?php $catalogLink = '<strong>astra-info.ru</strong> - все о городе <a href="http://astra-info.ru">Астрахань</a>'; include '../view.php';

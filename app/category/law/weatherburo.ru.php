@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://weatherburo.ru/country-tr/>Прогноз погоды Турция на сентябрь</a>'; include '../view.php';

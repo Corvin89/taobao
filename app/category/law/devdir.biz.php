@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://devdir.biz/" id="R0">Free one way backlink - free seo friendly directory</a>'; include '../view.php';

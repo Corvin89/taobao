@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://ooo-tayana.ru">Мебель - школьная, ученическая. ООО "Таяна", г. Чебоксары, Чувашская республика.</a></p>'; include '../view.php';

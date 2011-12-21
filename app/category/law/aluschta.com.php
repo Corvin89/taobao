@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://aluschta.com/" title="Алушта, Крым, море"><img src="http://aluschta.com/images/a.gif" width=88 height=31 border=0 alt="Алушта, Крым, море"></a>'; include '../view.php';

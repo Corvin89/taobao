@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Город Лхаса столица Тибета" href="http://www.lhasa.ru/"><img src="http://www.lhasa.ru/images/a.gif" width=88 height=31 border=0 alt="Тибет Tibet"></a>'; include '../view.php';

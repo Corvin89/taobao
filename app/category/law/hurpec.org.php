@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.hurpec.org">HURPEC Directory</a>'; include '../view.php';

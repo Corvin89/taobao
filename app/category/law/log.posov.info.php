@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://log.posov.info"> Полезные советы по домоводству </a>'; include '../view.php';

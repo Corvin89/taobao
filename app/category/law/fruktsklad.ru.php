@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://fruktsklad.ru">Технологии хранения фруктов и овощей</a>'; include '../view.php';

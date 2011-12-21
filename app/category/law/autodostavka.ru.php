@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Autodostavka.ru представляет -<a href="http://www.autodostavka.ru" title="шины диски" target="_blank">шины диски</a> для всех марок автомобилей'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://uyutnedvizimost.com' target='_blank'><b>uyutnedvizimost.com</b></a><br />Размещайте Ваши объявления о продаже недвижимости на нашем сайте - это бесплатно и эффективно! А также здесь Вы сможете найти себе любую квартиру или дом по душе и по средствам.'; include '../view.php';

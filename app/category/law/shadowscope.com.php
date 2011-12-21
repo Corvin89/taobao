@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.shadowscope.com/">Shadowscope</a>'; include '../view.php';

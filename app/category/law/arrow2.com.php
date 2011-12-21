@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.printmicro.com">Ink Toner Cartridge & Inkjet Printer</a>'; include '../view.php';

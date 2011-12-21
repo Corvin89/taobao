@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fitness-aerobic-pilates.de">Fitness-Aerobic-Pilates.de</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://recording-studio.ru"><img src="http://recording-studio.ru/banner.gif" border="0" alt="Статьи о профессиональной записи и сведении музыкальных инструментов в домашней студии." title="Всё о Звукозаписи и Сведении музыки" width="88" height="31"></a>'; include '../view.php';

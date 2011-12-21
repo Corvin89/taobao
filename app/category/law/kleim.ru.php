@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Предлагаем Вам <a href="http://www.kleim.ru">плиточный клей, клей для камня, шпатлевку: Ceresit, Knauf, Litokol</a> рекомендуемых марок.'; include '../view.php';

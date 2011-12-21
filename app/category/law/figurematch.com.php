@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.figurematch.com">Dating Directory</a>'; include '../view.php';

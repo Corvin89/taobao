@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.seniororalcare.com">Senior Dental Problems</a>'; include '../view.php';

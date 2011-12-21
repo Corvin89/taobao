@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.statesohio.com">Ohio Business Directory</a>'; include '../view.php';

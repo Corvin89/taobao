@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://anaparealty.com">Анапа недвижимость</a>. Статьи, документы, цитаты из нормативных актов. <a href="http://anaparealty.com/obj/category/anapa/kvartiry-v-anape">Квартиры в Анапе</a>.'; include '../view.php';

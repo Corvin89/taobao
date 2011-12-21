@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.plazmark.ru">Продажа плазменный панелей JVC, LG, Samsung</a>'; include '../view.php';

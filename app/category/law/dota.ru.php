@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://dota.ru" target="_blank">Dota.ru - лучшие обои для рабочего стола</a>'; include '../view.php';

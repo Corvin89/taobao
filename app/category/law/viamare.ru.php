@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://viamare.ru/">туры в италию</a>'; include '../view.php';

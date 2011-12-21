@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sanatoriikedr.ru/">Санаторий Иркутской области</a>'; include '../view.php';

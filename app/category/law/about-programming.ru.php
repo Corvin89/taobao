@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://about-programming.ru/" title="Все о программировании - интересная и полезная информация о средах программирования Basic, C/C++/C#, Delphi/Pascal, Java, PHP">Все о программировании - интересная и полезная информация о средах программирования Basic, C/C++/C#, Delphi/Pascal, Java, PHP</a>'; include '../view.php';

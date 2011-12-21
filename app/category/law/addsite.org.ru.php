@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://addsite.org.ru"><IMG SRC="http://addsite.org.ru/88x31.gif" width="88" height="31" ALT="Каталог сайтов, категории сайтов, интернет рублики" BORDER=0></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.allowed.ru">Allowed.RU - Каталог сайтов <img src="http://allowed.ru/images/admin/poweredby.jpg" alt="Allowed.RU - Каталог сайтов ">'; include '../view.php';

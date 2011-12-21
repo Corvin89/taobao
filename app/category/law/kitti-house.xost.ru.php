@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://kitti-house.xost.ru/ target=_blank><font size=5 face=Times New Roman, Times, serif><em>KItti-House</em></font></a> Этот сайт посвящен кошкам. На нем вы найдете описание различных пород кошек, симптомы и лечение различных болезней, рекомендации по уходу и содержанию вашей кошки, обои на кошачью тему.'; include '../view.php';

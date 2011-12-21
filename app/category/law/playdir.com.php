@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.playdir.com/">PlayDir - the no1 source to your games</a>'; include '../view.php';

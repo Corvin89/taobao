@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Флеш игры бесплатно <a href="http://www.moregames.ru/">игры sims бесплатно</a>'; include '../view.php';

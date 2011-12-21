@@ -1,0 +1,1 @@
+<?php $catalogLink = 'ProBesedku.RU - <a href="http://www.probesedku.ru/">Строим беседку своими руками</a>. Полезные сведения.'; include '../view.php';

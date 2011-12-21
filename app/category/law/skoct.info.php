@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://skoct.info/catalog/">Автомобиль Шкода Октавия</a>'; include '../view.php';

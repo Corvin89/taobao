@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.epilepsysymptoms.info">epilepsy symptoms</a>'; include '../view.php';

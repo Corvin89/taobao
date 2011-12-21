@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ogranka.ru/">топаз, оберег</a>, <a href="http://www.ogranka.ru/">сапфир драгоценный камень, гороскоп камней</a>'; include '../view.php';

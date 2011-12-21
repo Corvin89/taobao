@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.factory-dunay.ru">ѕредлагаетс€ промышленна€ недвижимость: стро€щийс€ консервный завод в городе  или€.</a>'; include '../view.php';

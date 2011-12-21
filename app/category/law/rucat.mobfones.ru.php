@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://rucat.mobfones.ru">Общетематический каталог сайтов Рунета</a>'; include '../view.php';

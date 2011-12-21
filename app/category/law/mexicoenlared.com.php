@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mexicoenlared.com" id="R7B8583">Mexico en la Red</a>'; include '../view.php';

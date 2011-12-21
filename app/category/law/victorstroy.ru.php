@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://victorstroy.ru/uslugi/">Ремонт офиса под ключ</a> доверьте проффесионалам строительной компании ООО Виктор-Строй.'; include '../view.php';

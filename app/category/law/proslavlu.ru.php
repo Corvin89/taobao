@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="proslavlu.ru">Раскрутка веб сайта. (Занимаемся ли мы ей?)</a>'; include '../view.php';

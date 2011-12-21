@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Лучшие стоматологи Москвы. <a href="http://stomlog.ru/publik/konsultacija_stomatologa.html">Консультация стоматолога онлайн</a> для жителей Москвы. «Ваш Доктор» - стоматологическая клиника.'; include '../view.php';

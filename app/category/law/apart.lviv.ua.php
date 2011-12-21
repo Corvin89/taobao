@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.apart.lviv.ua/" title="квартиры посуточно во львове ">квартиры посуточно во львове</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.blackjackguide.net/">Online Blackjack Guide and Gambling Directory</a>'; include '../view.php';

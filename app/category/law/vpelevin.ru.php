@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vpelevin.ru">Творчество Виктора Пелевина - сборник рассказов и повестей</a>'; include '../view.php';

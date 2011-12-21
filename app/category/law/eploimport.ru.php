@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://restoran-avgustin.ru/">Ресторан "Августин"</a>. 
+<a href="http://tourism-entertainment.ru/">Туризм</a>. <a href="http://grandballero.ru/">Ballero</a>. <a href="http://repairbuildings.ru">Строительство зданий</a>.'; include '../view.php';

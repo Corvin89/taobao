@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ipoprog.ru">»потечные программы банков, пон€тие ипотеки</a>'; include '../view.php';

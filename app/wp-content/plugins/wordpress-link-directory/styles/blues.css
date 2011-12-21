@@ -1,0 +1,37 @@
+<STYLE type="text/css">
+	div.wpld_pr {
+		font-size: 6pt;
+		color: #000000;
+		float: left;
+		height: 30px;
+		margin-right: 5px;
+	}
+	div.wpld_prg {
+		width: 40px;
+		border: 1px solid #999999;
+		height: 3px;
+		font-size: 1px;
+	}
+	div.wpld_prb {
+		background: #3399FF;
+		height: 3px;
+		font-size: 1px;
+	}
+	.wpld_panel {
+		border: 1px solid #999999;
+		padding: 5px;
+	}
+	/* All pages are, or will become, encloded in <span>s of this class */
+	.wpld_page{
+		background: #E3E4FA;
+		font: 12px arial;
+		color:  #461B7E;
+	}
+	/* The links including link title, description and pagerank icon */
+	.wpld_links; {
+	}
+	/* The navbar which shows these links: Home | Add URL | Link To Us | Search */
+	.wpld_navbar {
+		font-weight: bold;
+	}
+</STYLE>

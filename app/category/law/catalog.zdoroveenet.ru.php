@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://catalog.zdoroveenet.ru/" target="_blank">
+<img src="http://zdoroveenet.ru/images/banner.jpg" border="1"width="88" height="31" alt="Похудеть за месяц!"></a>'; include '../view.php';

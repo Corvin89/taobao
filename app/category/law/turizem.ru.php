@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.Turizem.ru/" title="Туризм, отдых, лечение, курорты, отели, туры">Turizem.ru - Словения. Туризм, отдых, лечение</a>'; include '../view.php';

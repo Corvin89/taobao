@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mmapr.com/">mmaPR.com - MMA News & Press Releases</a>'; include '../view.php';

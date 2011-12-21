@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://suprunix.ru">строительные и отделочные материалы</a>'; include '../view.php';

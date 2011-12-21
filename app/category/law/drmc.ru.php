@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.drmc.ru" title="восстановление данных, восстановление RAID, восстановление информации"><img src="http://www.drmc.ru/banner/drmc1.gif" width="88" height="31" border="0" alt="восстановление данных, восстановление RAID, восстановление информации"></a>'; include '../view.php';

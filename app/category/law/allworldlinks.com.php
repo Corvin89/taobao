@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!-- ALLWORLDLINKS CODE - START --><a href="http://www.allworldlinks.com/" target="_blank" title="AllWorldLinks.com - Web Directory"><img src="http://www.allworldlinks.com/images/all-world-links.gif" alt="AllWorldLinks.com - Web Directory" border="0"></a><!-- ALLWORLDLINKS CODE - END -->'; include '../view.php';

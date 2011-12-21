@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ibis21.info">Согласование перепланировки помещений г. Москва</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cognacguide.ru/top/"><img src="http://cognacguide.ru/top/count.php?avtomexanik.ru" height="31" width="88"  border="0"  alt="Рейтинг сайтов алкогольной тематики"/></a>'; include '../view.php';

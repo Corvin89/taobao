@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://f1fa-pes.ru">Скачать бесплатно патчи, утилиты, демо, формы, лица и многое другое для FIFA и PES</a>'; include '../view.php';

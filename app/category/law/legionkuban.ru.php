@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://legionkuban.ru/">Бани, сауны, бассейны, беседки. Строительство под ключ.</a> <a href="http://legionkuban.ru/vagonka.html">Вагонка, липа, сосна оптом.</a> <a href="http://legionkuban.ru/nerzhaveyka.html">Изделия из нержавеющей стали.</a> Группа компаний Легион.'; include '../view.php';

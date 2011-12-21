@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.realtychoice.ru">Покупка - продажа недвижимости на RealtyChoice.ru</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.farlin.ru/kat1_6_2.shtml">заклепки вытяжные</a>, они же тяговые, для надежного крепления деталей при строительстве'; include '../view.php';

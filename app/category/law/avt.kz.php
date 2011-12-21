@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.avt.kz/" target="_blank"><img height=31 width=88 src="http://www.avt.kz/ban_min.gif" alt="AVT.kz - Вендинг Каталог" border="0"></a>'; include '../view.php';

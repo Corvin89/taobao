@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.maketchik.info">Изготовление трафаретов из пвх</a> - <a href="http://copyprint.org/chertezi">широкоформатное сканирование чертежей</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://kinotub.ru/" target="_blank">свежие релизы кино 2011, смотреть кино онлайн</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.austintexastattoo.com/">Austin Texas Tattoo</a>'; include '../view.php';

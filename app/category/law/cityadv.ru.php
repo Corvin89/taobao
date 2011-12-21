@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cityadv.ru" target="_blank">Рекламное агентство City Advertising - Реклама на видео экранах в Москве</a>'; include '../view.php';

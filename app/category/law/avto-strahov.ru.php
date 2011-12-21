@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://avto-strahov.ru/>Страхование автомобилей </a>'; include '../view.php';

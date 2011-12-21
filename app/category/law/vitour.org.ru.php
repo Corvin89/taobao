@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vityazevo.cn">Витязево гостевой дом</a> "Ергос". Описание, фотографии, цены, форма заказа. <a href="http://www.vityazevo.cn/statergos9.html">Анапа отель "Дуэт"</a>.'; include '../view.php';

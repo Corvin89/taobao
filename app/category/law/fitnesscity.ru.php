@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://fitnesscity.ru"><img src="http://www.fitnesscity.ru/templates/fitnesscity/sov.gif" alt="диеты для быстрого похудения, вкусные кулинарные рецепты, восточные танцы, природная косметика" width="88" height="31" border="0"></a>'; include '../view.php';

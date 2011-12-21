@@ -1,0 +1,1 @@
+<?php $catalogLink = '<BR><a href="http://evpatoria-kurort.com.ua/" target="blank"><B>Отдых и лечение в Крыму. Аренда жилья, домов, квартир, пансионатов, для отдыха и лечения у моря в Евпатории. Цены на аренду жилья.</B></a>'; include '../view.php';

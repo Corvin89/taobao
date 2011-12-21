@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.monetki.su' target='_blank'><b>Клуб нумизматов Монетки.su</b></a><br />Сайт о нумизматике для Нумизматов'; include '../view.php';

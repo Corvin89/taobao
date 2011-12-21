@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.airesapartments.com.ar/">Buenos Aires Apartments</a>'; include '../view.php';

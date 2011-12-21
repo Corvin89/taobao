@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.orehoreh.ru'>Сухофрукты</a> из солнечной Ферганской долины'; include '../view.php';

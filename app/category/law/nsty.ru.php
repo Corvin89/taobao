@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Строительство, <a href="http://www.nsty.ru">недвижимость</a>, туризм, работа, услуги'; include '../view.php';

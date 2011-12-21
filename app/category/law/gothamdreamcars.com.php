@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gothamdreamcars.com/">Exotic Car Rentals</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'ПКК "Механик" <a href="http://karcher.410303.ru/" target=_blank>Моечное и уборочное оборудование Karcher (Керхер)</a> - поставщик номер один'; include '../view.php';

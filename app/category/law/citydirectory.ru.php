@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://citydirectory.ru">Справочник городов<img'; include '../view.php';

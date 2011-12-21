@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.micrometr.micron-tools.ru">микрометры цифровые</a> -  профессиональное <a href='http://www.atlanticco.ru/index.php?option=com_content&view=article&id=23&Itemid=103'>оборудование для школ</a>'; include '../view.php';

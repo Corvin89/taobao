@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://blog.instantapprovelinks.com/">Instant Blog Directory</a>'; include '../view.php';

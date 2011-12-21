@@ -1,0 +1,2 @@
+<?php $catalogLink = 'Национальные рецепты <a href=http://www.nenadivane.ru/recept><strong>Печеная говядина с корочкой из хрена  
+Английская кухня</strong></a> , <a href=http://www.nenadivane.ru/poputchik>поиск попутчиков</a>, отдых в египте'; include '../view.php';

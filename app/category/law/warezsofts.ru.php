@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://warezsofts.ru/" target="_blank">ֻףקרטי סמפע מע Abusova</a>'; include '../view.php';

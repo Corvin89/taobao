@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.1stmoscow.com">Отдых в Подмосковье в пансионате</a> Сосновый бор. Описание, цены, фотографии, форма заказа. <a href="http://www.1stmoscow.com/index.php?name=News&op=cat&catid=1">Пансионаты Подмосковья</a>.'; include '../view.php';

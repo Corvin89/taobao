@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://solpol.net/"><img src="http://solpol.net/banner.jpg"  border="0"></a> <a href="http://solpol.net/">Оружие второй мировой войны</a>'; include '../view.php';

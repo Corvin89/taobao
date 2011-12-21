@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.realty-web.ru/">Основным направлением является коммерческая недвижимость и достоверная информация про рынок недвижимости</a>, <a href="http://www.realty-web.ru/info/act/">Мероприятия</a>'; include '../view.php';

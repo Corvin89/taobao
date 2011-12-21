@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.aeonity.com" id="R510D28">Free Blog Hosting</a>'; include '../view.php';

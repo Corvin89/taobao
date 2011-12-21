@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.chatdating.org.uk/"><b>Chat Dating</b></a><br>Find a date at Chat Dating in our live chat room or browse our sexy personals and post a message to one of our sexy singles looking for hot fun today at Chat Dating UK.'; include '../view.php';

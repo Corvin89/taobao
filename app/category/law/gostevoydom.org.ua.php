@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gostevoydom.org.ua/">Отдых в Бердянске</a>'; include '../view.php';

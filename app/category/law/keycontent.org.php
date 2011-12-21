@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://keycontent.org">keycontent.org</a>'; include '../view.php';

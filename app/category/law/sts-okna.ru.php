@@ -1,0 +1,1 @@
+<?php $catalogLink = '—овременные технологии строительства. ќкна. <a href="http://sts-okna.ru/sovety-pokupateljam/sovet-pokupateljam/article/ukhod-za-aljuminievymi-oknami/" title="”ход за алюминиевыми окнами">”ход за алюминиевыми окнами</a>'; include '../view.php';

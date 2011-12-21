@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.badenfotos.com" id="RC278FA">Baden bei Wien Fotos einer Stadt - BadenFotos</a>'; include '../view.php';

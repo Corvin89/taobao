@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.cycleholidays.co.uk" target="_top"><img src="http://www.cycleholidays.co.uk/ratedbutton.gif"; height="32" width="88" alt="Rated by The Cycle Holidays Directory
+"></a>'; include '../view.php';

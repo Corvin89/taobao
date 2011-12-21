@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.garderobemaster.ru >шкафы купе, гардеробные комнаты сложные модерн быстро. Интернет магазин мебель. Изготовим проекты</a>'; include '../view.php';

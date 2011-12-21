@@ -1,0 +1,1 @@
+<?php $catalogLink = 'затирочная машина для пола, прайс лист на <a href="http://stroy-pol.ru" target="_blank" title="затирочная машина">затирочная машина</a>, огромный выбор затирочных машин'; include '../view.php';

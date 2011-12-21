@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.edgemodem.ru">Портал по GSM модемам. GSM/GPRS/EDGE модемы - описание, характеристики, драйвера</a>
+<a href="http://www.edgemodem.ru/linker.php">Обмен ссылками</a>'; include '../view.php';

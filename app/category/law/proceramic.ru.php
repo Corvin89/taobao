@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://proceramic.ru/">Proceramic.ru - информационный ресурс про керамические издели€ и материалы дл€ стен, кафель печной и прочие</a>'; include '../view.php';

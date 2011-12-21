@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.aserfi.com">www.aSerfi.com</a> - Бесплатная доска объявлений для русско-язычного зарубежья, без регистрации!'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.powerplaydj.com/directory/">Powerplay DJ's Wedding & Event Services Directory - Fargo, ND and Surrounding Communities</a>'; include '../view.php';

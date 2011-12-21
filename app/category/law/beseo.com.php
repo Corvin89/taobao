@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.beseo.com">BeSEO Directory</a>'; include '../view.php';

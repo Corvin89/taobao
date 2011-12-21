@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=www.prtner.info>mrkhit - вебмастеру </a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.hit1.ru">Увеличь количество посетителей с нашего каталога</a>'; include '../view.php';

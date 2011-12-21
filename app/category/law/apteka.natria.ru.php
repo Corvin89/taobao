@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.apteka.natria.ru/><img src=http://www.apteka.natria.ru/apteka88_31.gif title='NSP. Доступные цены. Бесплатная доставка.' width=88 height=31 border=0></a>'; include '../view.php';

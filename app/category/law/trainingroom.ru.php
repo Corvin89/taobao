@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://trainingroom.ru">Тренажерный зал</a>'; include '../view.php';

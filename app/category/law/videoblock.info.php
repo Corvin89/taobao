@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://videoblock.info">Советские мультфильмы</a>. Видеоблок. Сайт о советской мультипликации.'; include '../view.php';

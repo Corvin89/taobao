@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vip-ovcharka.ru/">Щенки немецкой овчарки</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://top.fotonets.ru/>Найдем все!</a>'; include '../view.php';

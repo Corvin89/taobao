@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.inkspotmedia.ca/information-demo' target='_blank'><b>Inkspot Media Information Web Site Demo</b></a><br />Demo site for the Inkspot Media Information website, a powerful CMS based website package'; include '../view.php';

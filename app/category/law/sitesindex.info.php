@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sitesindex.info/">Sites Index</a>'; include '../view.php';

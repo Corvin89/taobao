@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.komisite.ru"><img src="http://www.komisite.ru/images/ban3.gif" alt="Обмен прямыми ссылками" width="88" height="31"></a>'; include '../view.php';

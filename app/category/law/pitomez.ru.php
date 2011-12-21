@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://pitomez.ru"><img src="http://pitomez.ru/images/88x31.gif" alt="Питомец.ru - Домашние животные онлайн, объявления продажа щенков и котят, животные в картинках. Полная информация о наших питомцах" border=0></a>'; include '../view.php';

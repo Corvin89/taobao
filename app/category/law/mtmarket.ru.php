@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mtmarket.ru/"><img src="http://www.mtmarket.ru/templates/mtmarket/knopa.jpg" width="88" height="31" border="0" alt="медтехника и расходные материалы" title="медицинская техника и мебель"></a>'; include '../view.php';

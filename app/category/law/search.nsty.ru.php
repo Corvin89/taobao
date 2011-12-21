@@ -1,0 +1,1 @@
+<?php $catalogLink = 'поиск сайтов, <a href="http://www.search.nsty.ru">тематический поиск</a>, поиск туров, найти человека'; include '../view.php';

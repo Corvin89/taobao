@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.braziltravel.com">Brazil Tours</a>'; include '../view.php';

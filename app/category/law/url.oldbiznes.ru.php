@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Все статьи о том <a href="http://banknotu.ru">как начать свой бизнес</a>'; include '../view.php';

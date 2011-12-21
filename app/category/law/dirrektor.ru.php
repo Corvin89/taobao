@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://dirrektor.ru">DirРектор.ru - Бесплатный Каталог Сайтов с прямыми ссылками</a>'; include '../view.php';

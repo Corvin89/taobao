@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://englishbulldog.ru/" title="английский бульдог"><img src=http://englishbulldog.ru/images/a.gif width=88  height=31 border=0 alt="английский бульдог"></a>'; include '../view.php';

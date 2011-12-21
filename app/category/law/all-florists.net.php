@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.all-florists.net">Online Florists Directory</a>'; include '../view.php';

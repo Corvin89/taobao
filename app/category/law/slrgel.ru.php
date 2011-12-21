@@ -1,0 +1,1 @@
+<?php $catalogLink = '&lt;a href=http://chelport.ru target=_blank&gt;Челябинск, Магнитогорск, Миасс, Чат, Форум, Работа, Знакомства&lt;/a&gt;'; include '../view.php';

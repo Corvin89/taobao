@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.softest.info/">Softest Link Directory</a>'; include '../view.php';

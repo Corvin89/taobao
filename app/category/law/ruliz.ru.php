@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ruliz.ru/">Новый портал развлечений, убойные фотожабы и Фотоприколы. RULIZ.ru, заходи, отдохни!</a>'; include '../view.php';

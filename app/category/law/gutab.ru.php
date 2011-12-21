@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://gutab.ru/index.php">Гитарные программы</a>'; include '../view.php';

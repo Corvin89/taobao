@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://megadosochka.net.ru/"> ƒобро пожаловать на Ёстонскую доску объ€влений и Ёстонский каталог ресурсов</a>'; include '../view.php';

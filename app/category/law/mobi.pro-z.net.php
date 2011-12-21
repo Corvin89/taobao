@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mobi.pro-z.net/">Игры для экрана 128х128, Nokia Converter. Скачать бесплатно midi для Nokia, фотографии Nokia. Как перепрошить Nokia - Nokia series 40 software.</a>'; include '../view.php';

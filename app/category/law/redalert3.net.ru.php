@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://redalert3.net.ru">Сайт по игре Red Alert 3 - карты, прохождения, музыка</a>'; include '../view.php';

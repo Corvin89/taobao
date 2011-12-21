@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.clothesworld.ru/">стиль одежды, где одежда</a>,<a href="http://www.clothesworld.ru/choice/child/136/">детское белье</a>'; include '../view.php';

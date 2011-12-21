@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mircar.ru/foto-galereja.html"> фото мотоциклов</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ahugelist.com/">A Huge List - Quality Website Directory - Submit your URL</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'shadowdance.ru <a href="http://www.shadowdance.ru">профессиональный архив информации для мастеров танца</a>'; include '../view.php';

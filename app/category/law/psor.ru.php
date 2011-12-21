@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.derma.ru' target=_blank><img src='http://www.derma.ru/main/links/banner_88_31.gif' width=88 height=31 border=0 alt='Лечение заболеваний псориаз и атопический дерматит'></a>'; include '../view.php';

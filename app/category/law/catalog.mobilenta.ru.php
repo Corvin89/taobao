@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mobilenta.ru/">МобиЛента.RU - портал мобильных развлечений.</a>'; include '../view.php';

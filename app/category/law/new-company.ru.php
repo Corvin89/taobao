@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://new-company.ru">продажа готовых фирм</a>'; include '../view.php';

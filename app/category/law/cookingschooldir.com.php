@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cookingschooldir.com/" id="R0">Cooking Schools Directory</a>'; include '../view.php';

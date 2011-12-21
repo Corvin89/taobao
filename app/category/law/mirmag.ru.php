@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.mirmag.ru>Интернет-магазины: мониторы</a>'; include '../view.php';

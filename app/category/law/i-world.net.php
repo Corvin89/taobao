@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.i-world.net/oma/">Oregon Mountaineering Association</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A HREF="http://webcat.stwol.ru">Каталог Интернет-сайтов</A>'; include '../view.php';

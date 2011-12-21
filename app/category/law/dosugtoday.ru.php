@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Каталог сайтов DOSUGTODAY.RU - <a target=blank_ href=http://www.dosugtoday.ru/>добавить сайт</a>'; include '../view.php';

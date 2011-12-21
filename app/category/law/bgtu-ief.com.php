@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.bgtu-ief.com' target='_blank'><b>БГТУ-ИЭФ</b></a><br />Сайт в помощь студентам ИЭФа'; include '../view.php';

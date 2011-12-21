@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.minifrosten.ru/">щенки чихуахуа  и той терьер http://www.minifrosten.ru/</a>'; include '../view.php';

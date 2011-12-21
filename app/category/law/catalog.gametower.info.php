@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://сatalog.gametower.info/">Каталог Сайтов</a>'; include '../view.php';

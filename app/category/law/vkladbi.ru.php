@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Как правильно сделать <a href="http://vkladbi.ru">вклады</a>'; include '../view.php';

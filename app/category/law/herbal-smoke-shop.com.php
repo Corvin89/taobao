@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.herbal-smoke-shop.com" target="_blank"><img src="http://www.herbalsmokeshops.com/images/06banners/468x60-seriousbuds1.gif" alt="legal bud" width="468" height="60" border="0" /></a><br /><br /><a href="http://www.herbal-smoke-shop.com" target="_blank">LEGAL BUD</a>'; include '../view.php';

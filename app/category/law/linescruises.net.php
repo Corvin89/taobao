@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.linescruises.net" id="R15DF5E">Direct information search site to Cruise and airline service links</a>- Cruise Line Agency travel guide vacation directory'; include '../view.php';

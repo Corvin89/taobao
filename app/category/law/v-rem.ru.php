@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://v-rem.ru/>Комплексный ремонт квартир в Москве</a>'; include '../view.php';

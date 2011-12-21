@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="../default.htm" title="Прочитать бесплатно книги">Бесплатная электронная библиотека RusLib.org</a> - cкачать книги бесплатно.'; include '../view.php';

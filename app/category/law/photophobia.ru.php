@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.photophobia.ru"><img src="http://www.photophobia.ru/cgistd/valua.gif" width="88" height="31" alt="Фотограф  Виталий Валуа. 
+Услуги фотографа: профессиональная фотосъемка рекламы , фотосъемка портфолио,  фотосъемка портрета.  Секреты работы слиста-визажиста и фотографа. Фотофорум по фотосъемке и фототехнике.." border="0"></a>'; include '../view.php';

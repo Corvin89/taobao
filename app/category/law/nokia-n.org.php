@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.nokia-n.org">Мобильные телефоны Nokia</a> Nseries'; include '../view.php';

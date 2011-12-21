@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Кодексы, <a title="articles.NSTY:: публикации, статьи" href="http://www.articles.nsty.ru">статьи</a> добавить статью, научная статья, статьи трудового кодекса'; include '../view.php';

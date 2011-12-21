@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.skoolmanager.com/">School Administration Software</a>'; include '../view.php';

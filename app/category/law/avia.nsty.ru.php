@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Билеты на самолет, <a title="avia.NSTY:: авиабилеты" href="http://www.avia.nsty.ru">авиа билеты</a> авиакомпании, аэрофлот, авиаперелеты, заказ авиабилетов'; include '../view.php';

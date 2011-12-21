@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.muromremont.ru">Все о ремонте квартир и материале в городе Муроме</a>'; include '../view.php';

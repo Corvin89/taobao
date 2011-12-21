@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dayhotels.ru">Квартиры на сутки в Москве и области</a>'; include '../view.php';

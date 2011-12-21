@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.neodown.net/">Web Directory,  Top Sites - NeoDown.net</a>'; include '../view.php';

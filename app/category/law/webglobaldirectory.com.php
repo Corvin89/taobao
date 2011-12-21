@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.webglobaldirectory.com/">WebGlobalDirectory</a>'; include '../view.php';

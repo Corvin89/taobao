@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.casabuild.com/>Строим Дом: Все, что вы хотели знать о вашем новом доме</a>'; include '../view.php';

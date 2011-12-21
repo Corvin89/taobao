@@ -1,0 +1,1 @@
+<?php $catalogLink = 'На нашем сайте вы можете найти: <a href="http://www.etoast.ru/profy/uchit.html">поздравления с днем учителя</a>, <a href="http://www.ny.etoast.ru">поздравления с новым годом для детей</a>, интересные конкурсы для праздника.'; include '../view.php';

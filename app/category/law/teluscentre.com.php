@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.teluscentre.com">TelusCentre Directory</a>'; include '../view.php';

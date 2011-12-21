@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wikipediasearch.info">WikipediaSearch.info</a>'; include '../view.php';

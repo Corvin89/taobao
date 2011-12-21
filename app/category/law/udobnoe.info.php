@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.udobnoe.info">БЕЛЫЙ каталог полезных сайтов - Удобное ИНФО</a>'; include '../view.php';

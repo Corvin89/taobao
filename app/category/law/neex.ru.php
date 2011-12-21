@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.creasoft.ru/" target="_blank"><img src="http://creasoft.ru/jedi/logo.jpg" alt="создание сайтов, разработка программного обеспечения, раскрутка сайта, продвижение сайта, интернет маркетинг" width="88" height="31" border="0" align="left"></a>'; include '../view.php';

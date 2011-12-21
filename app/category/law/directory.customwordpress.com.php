@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://directory.customwordpress.com">FabDirectory</a>'; include '../view.php';

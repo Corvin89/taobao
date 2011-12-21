@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.1pr.ru" target="_blank" title="ѕервый принцип - развитие качественного бизнеса">ѕервый принцип - развитие качественного бизнеса</a>'; include '../view.php';

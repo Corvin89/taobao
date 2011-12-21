@@ -1,0 +1,1 @@
+<?php $catalogLink = '—троительные работы, врем€ работы, <a href="http://www.work.nsty.ru">найти работу</a>, график работы, организаци€ работы'; include '../view.php';

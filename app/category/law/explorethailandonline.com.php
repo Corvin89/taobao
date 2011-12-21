@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.explorethailandonline.com/">Free Web Directory - Submit your website for free to the Explore Thailand Web Directory!</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.advocentr.ru>ёридические услуги - юридические консультации, регистраци€ фирм</a>'; include '../view.php';

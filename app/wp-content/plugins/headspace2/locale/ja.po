@@ -1,0 +1,1181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HeadSpace2 3.3.27\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-01 12:14+0900\n"
+"PO-Revision-Date: 2008-02-01 12:20+0900\n"
+"Last-Translator: Yoichi Kinoshita\n"
+"Language-Team: http://www.ad-minister.net/ <http://www.ad-minister.net/mail/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/locale\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2\n"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:60
+msgid "<p style=\"color: red\">That function is not defined</p>"
+msgstr "<p style=\"color: red\">その機能は定義されていません。</p>"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:63
+msgid "<p style=\"color: red\">You are not allowed access to this resource</p>"
+msgstr "<p style=\"color: red\">このリソースへのアクセスは許可されていません。</p>"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:139
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:150
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:161
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:172
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/ajax.php:186
+msgid "Invalid module"
+msgstr "不正なモジュール"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:113
+msgid "Global Settings"
+msgstr "全共通のセッティング"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:113
+msgid "applied to everything unless otherwise specified"
+msgstr "他で設定がない限り、すべてに適用"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:114
+msgid "Home Page"
+msgstr "ホームページ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:114
+msgid "applied to the home page"
+msgstr "ホームページに適用されます"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:115
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:114
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:73
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:74
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:115
+msgid "applied when viewing the archives"
+msgstr "アーカイブに適用されます"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:116
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:116
+msgid "applied to category pages without specific settings"
+msgstr "特定の設定のないカテゴリーページに適用されます"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:117
+msgid "Posts &amp; Pages"
+msgstr "記事 &amp; ページ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:117
+msgid "applied to posts &amp; pages without specific settings"
+msgstr "特定の設定がなされていない記事/ページに適用されます"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:118
+msgid "Author Pages"
+msgstr "著者のページ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:118
+msgid "applied to author pages"
+msgstr "著者ページに適用されます"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:119
+msgid "Search Pages"
+msgstr "検索ページ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:119
+msgid "applied when viewing search results"
+msgstr "検索結果に適用されます"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:120
+msgid "404 Page"
+msgstr "404ページ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:120
+msgid "applied when viewing a 404 error"
+msgstr "404エラーに適用されます"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:121
+msgid "Tag Pages"
+msgstr "タグページ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:121
+msgid "applied when viewing tag pages"
+msgstr "タグページを見るときに適用されます"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:149
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:150
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/pager.php:6
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu_meta.php:2
+msgid "Meta-data"
+msgstr "メタデータ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:321
+msgid "Posts successfully updated"
+msgstr "記事のアップデートに成功"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:360
+msgid "Your options have been updated"
+msgstr "オプションが更新されました。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:367
+msgid "HeadSpace has been removed"
+msgstr "HeadSpace は除去されました"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:419
+msgid "Your module positions have been saved"
+msgstr "新しいモジュール位置を保存しました。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/headspace.php:442
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "%sから%dがインポートされました。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/plugin.php:612
+msgid "How many widgets would you like?"
+msgstr "ウィジェットはいくつ必要ですか？"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/plugin.php:619
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit_ajax.php:4
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/module_edit.php:7
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/site_module_edit.php:15
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags_edit.php:15
+msgid "Save"
+msgstr "保存"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/models/inline_tags.php:227
+#, php-format
+msgid "(page %d of %d)"
+msgstr "(ページ %d の %d)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/models/pager.php:386
+msgid "Previous"
+msgstr "前"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/models/pager.php:387
+msgid "Next"
+msgstr "次"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/headspace_tags.php:31
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "HeadSpace タグ（WordPress 2.3タグに変換）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "Head META Description"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "Jerome's Keywords"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "More Unique"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "SEO Title Tags"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "Simple Tagging"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/simple-tags.php:28
+msgid "Simple Tags"
+msgstr "Simple Tagging"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "Ultimate Tag Warrior"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/description.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/description.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/description.php:56
+msgid "Page description"
+msgstr "ページ description（説明文）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/description.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/more_text.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_slug.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_title.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_description.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_name.php:49
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/tags.php:49
+msgid "Post title"
+msgstr "記事のタイトル"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/more_text.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/more_text.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/more_text.php:51
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/more_text.php:70
+msgid "More text"
+msgstr "'more'（続きを読む）のテキスト"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "ページスラッグ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "ページスラッグ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_title.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/page_title.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:88
+msgid "Page title"
+msgstr "ページのタイトル"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_description.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_description.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_tagline.php:56
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_tagline.php:75
+msgid "Site description"
+msgstr "サイト description（説明文）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_name.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/site_name.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_name.php:56
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_name.php:75
+msgid "Site name"
+msgstr "サイト名"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/tags.php:28
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/mass/tags.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:264
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:281
+msgid "Tags/keywords"
+msgstr "タグ/キーワード"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/description.php:61
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "検索エンジンによって使われる特定のページのdescription（説明文）を挿入できる"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/description.php:70
+msgid "Max length"
+msgstr "最大の長さ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/description.php:73
+msgid "All descriptions will be trimmed to this length"
+msgstr "すべての description（説明文）はこの長さに調整されます。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/description.php:88
+msgid "Description"
+msgstr "Description（説明文）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/javascript.php:50
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/javascript.php:66
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/javascript.php:55
+msgid "Allow external JavaScript files to be referenced"
+msgstr "特定のページで外部JavaScriptファイルの参照を可能にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/javascript.php:72
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/stylesheet.php:83
+msgid "add"
+msgstr "追加"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/more_text.php:56
+msgid "Allows the 'more' text to be changed"
+msgstr "'more'（続きを読む）のテキスト変更を可能にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/noindex.php:51
+msgid "No Index/No Follow"
+msgstr "No Index/No Follow"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/noindex.php:56
+msgid "Allows a no-index/no-follow option to be set to prevent search engines and robots from indexing or following pages"
+msgstr "特定のページで検索エンジンやロボットの no-index/no-follow の指定を可能にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/noindex.php:70
+msgid "No Index"
+msgstr "No Index"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/noindex.php:73
+msgid "no-follow"
+msgstr "no-follow"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:93
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "ページのタイトルの変更を可能にする（この場合のタイトルとはブラウザのタイトルバーに表示されるもの）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:102
+msgid "Title separator"
+msgstr "タイトルの区切り記号"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:105
+msgid "Leave blank to use theme default"
+msgstr "デフォルトのテーマを使用するには空白"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:109
+msgid "Separator position"
+msgstr "区切りの位置"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:112
+msgid "Before"
+msgstr "前に"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:113
+msgid "After"
+msgstr "後に"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/page_title.php:129
+msgid "Page Title"
+msgstr "ページタイトル"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:88
+msgid "Page-specific Plugins"
+msgstr "ページ特定のプラグイン"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:93
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "無効化しているプラグインを特定のページでのみ有効化することを可能にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:109
+msgid "Show in admin"
+msgstr "管理画面で見せる"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:112
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "記事投稿画面に「ページ特定のプラグイン」を見せる"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:138
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/plugin.php:145
+msgid "Add Plugin"
+msgstr "プラグインの追加"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/raw.php:43
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/raw.php:55
+msgid "Raw data"
+msgstr "生データ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/raw.php:48
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr "特定のページのメタ部分への生データの挿入を可能にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_name.php:57
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_name.php:76
+msgid "RSS Name"
+msgstr "RSS名"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_name.php:62
+msgid "Allows site RSS name to be changed"
+msgstr "サイトのRSS名称の変更を可能にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_tagline.php:57
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_tagline.php:76
+msgid "RSS Description"
+msgstr "RSS Description（説明文）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/rss_tagline.php:62
+msgid "Allows site RSS description to be changed"
+msgstr "サイトのRSS description（説明文）の変更を可能にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_name.php:61
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "サイト名の変更を可能にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/site_tagline.php:61
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "サイトの description（説明文）の変更を可能にする（この場合の説明文とはタグライン、つまりデフォルトのテーマであればサイト名の下に表記されるもの）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/stylesheet.php:61
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/stylesheet.php:77
+msgid "Stylesheets"
+msgstr "スタイルシート"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/stylesheet.php:66
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "特定のページにCSSの追加を可能にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/stylesheet.php:108
+msgid "Do not output CSS"
+msgstr "CSSをアウトプットしない"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:131
+msgid "<p>Tags: "
+msgstr "<p>タグ: "
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:163
+msgid "Tags (keywords)"
+msgstr "タグ（キーワード）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:168
+msgid "Allows tags/keywords to be added to pages"
+msgstr "ページにタグ/キーワードの追加を可能にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:182
+msgid "Add tags to dictionary"
+msgstr "ディレクトリーにタグを追加"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:185
+msgid "Automatically add new tags to dictionary"
+msgstr "自動的に新しいタグをディレクトリーに追加する"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:190
+msgid "Order tags"
+msgstr "タグの順番"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:193
+msgid "Alphabetically order tags"
+msgstr "タグをアルファベット順に並べる"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:198
+msgid "Show tags in posts"
+msgstr "タグを記事で見せる"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:201
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:210
+msgid "Never"
+msgstr "見せない"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:202
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:211
+msgid "Always"
+msgstr "見せる"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:207
+msgid "Show tags in pages"
+msgstr "タグをページで見せる"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:216
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo ZoneTag"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:219
+msgid "enable"
+msgstr "有効化"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:224
+msgid "Dictionary"
+msgstr "辞書"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:338
+msgid "Suggested tags"
+msgstr "推薦タグ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:340
+msgid "add all"
+msgstr "すべてを追加"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:341
+msgid "suggest"
+msgstr "推薦"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:343
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:367
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/tags.php:365
+msgid "Suggest tags based on content"
+msgstr "コンテンツに基づいた推薦タグ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/theme.php:61
+msgid "Page-specific Themes"
+msgstr "ページ特定のtheme（テーマ）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/theme.php:73
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "特定のページで特定のtheme（テーマ）への変更を可能にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/theme.php:81
+msgid "Theme"
+msgstr "theme（テーマ）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/page/theme.php:84
+msgid "Current theme"
+msgstr "現在のtheme（テーマ）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:31
+msgid "103bees"
+msgstr "103bees"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:36
+msgid "Adds 103bees tracking code to all pages"
+msgstr "すべてのページに「103bees」のトラッキングコードを追加"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:111
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:111
+msgid "Tracking code"
+msgstr "トラッキングコード"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:114
+msgid "Enter the full JavaScript tracking code as shown on your 103bees account page."
+msgstr "103bees のアカウントページに記されている JavaScript のトラッキングコードを入力する"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:118
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:247
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:129
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:118
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:128
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:155
+msgid "Who to track"
+msgstr "トラックするユーザー"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:121
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:250
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:132
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:121
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:131
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:158
+msgid "Everyone"
+msgstr "全員"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/103bees.php:128
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:257
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:139
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:128
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:138
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:165
+msgid "Users of the specified role or less will be tracked"
+msgstr "特定の権限のユーザー、あるいはそれ以下のユーザーはトラックされます"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:38
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:43
+msgid "Adds Google Analytic tracking code to all pages"
+msgstr "すべてのページに「Google Analytics」のトラッキングコードを追加"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:231
+msgid "Account ID"
+msgstr "アカウントID"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:234
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "Google JavaScript のトラッキングコードを入力するか、<code>_uacct</code>の数字のみを入力"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:238
+msgid "Version"
+msgstr "バージョン"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:241
+msgid "Urchin (urchin.js)"
+msgstr "Urchin (urchin.js)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:242
+msgid "New Google Analytics (ga.js)"
+msgstr "新しい Google Analytics (ga.js)"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:261
+msgid "Track outbound links"
+msgstr "外部へのリンクをトラックする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:264
+msgid "Enter the URL you want outbound links tracked to"
+msgstr "外部へのリンクを追跡したいURLを入力"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:268
+msgid "Virtual Pages"
+msgstr "バーチャルページ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:271
+msgid "Change what appears in reports"
+msgstr "レポート表示を変更する"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:275
+msgid "Domain Name"
+msgstr "ドメインネーム"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:278
+msgid "Set to a root domain when tracking across sub-domains"
+msgstr "サブドメインをトラッキングする場合はルートドメインにセットしてください。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:283
+msgid "Raw Code"
+msgstr "生コード"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/analytics.php:286
+msgid "Enter any additional Google Analytics code"
+msgstr "追加のGoogle Analytics コードを入力"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr "すべてのページに「CrazyEgg」のトラッキングコードを追加"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:122
+msgid "CrazyEgg ID"
+msgstr "CrazyEgg ID"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/crazyegg.php:125
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a>"
+msgstr "<a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a> を入力"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:34
+msgid "First Time Visitor"
+msgstr "初めての訪問者"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:39
+msgid "Display a message for first time visitors (based upon idea from Seth Godin)"
+msgstr "初めての訪問者にメッセージを表示する（Seth Godin（セス・ゴーディン）のアイデアに基づく）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:93
+#, php-format
+msgid "<p>As a new visitor you may want to subscribe to my <a href=\"%s/feed/\">RSS</a> feed.</p>"
+msgstr "<p>初めてのご訪問にあたり、<a href=\"%s/feed/\">RSS</a>フィードでの購読登録はいかがでしょうか。</p>"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:119
+msgid "Message to display"
+msgstr "表示するメッセージ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:125
+msgid "Repeat"
+msgstr "何回目まで表示するか"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:126
+msgid "Enter 0 for always"
+msgstr "常に表示させるには0を入力"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:129
+msgid "Display position"
+msgstr "表示の位置"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:132
+msgid "Before content"
+msgstr "コンテンツの前"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:133
+msgid "After content"
+msgstr "コンテンツのあと"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/first-time-visitor.php:138
+msgid "Ignore Bots"
+msgstr "ボットを無視する"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/frame-breaker.php:32
+msgid "Frame Breaker"
+msgstr "Frame Breaker"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/frame-breaker.php:37
+msgid "Stops your site being loaded in a frame"
+msgstr "サイトのフレームへのロードを止める"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Google セクションのターゲティング"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "すべての記事とページをGoogle のターゲットセクション（アドセンス）で囲む"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:31
+msgid "HitTail"
+msgstr "HitTail"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:36
+msgid "Adds HitTail tracking code to all pages"
+msgstr "すべてのページに「HitTail」のトラッキングコードを追加"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/hittail.php:114
+msgid "Enter the full JavaScript tracking code as provided by HitTail."
+msgstr "HitTail によって提供されている JavaScript のトラッキングコードを入力する"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr "すべてのページに「Mint」のトラッキングコードを追加"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:121
+msgid "Mint path"
+msgstr "Mint のパス"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/mint.php:124
+msgid "Enter the relative URL to your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "「Mint」の関連URLを入力（例えば、<code>/mint/</code>）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "ページ数"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "アーカイブと検索結果ページにおける一覧の記事数の指定、および全文表示か抜粋表示かの選択"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:116
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "記事数 見せ方は"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:118
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:130
+msgid "default"
+msgstr "デフォルト"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:119
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:131
+msgid "content"
+msgstr "コンテンツ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:120
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "抜粋"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:122
+#, fuzzy
+msgid "(set number of posts to 0 for theme default)"
+msgstr "テーマのデフォルトには記事の数を０で設定"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "検索結果"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "テーマのデフォルトには記事の数を０で設定"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/rpc.php:35
+msgid "RPC support for Ecto"
+msgstr "「Ecto」のRPCサポート"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/rpc.php:40
+msgid "Adds additional functions to allow blogging tools such as Ecto to use tagging"
+msgstr "「ecto」のようなブログ投稿支援ツールにタギングの機能を追加する"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/rpc.php:77
+msgid "Tag separator"
+msgstr "タグの区切り記号"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/rpc.php:80
+msgid "This must match the separator defined in Ecto 'Templates', 'Tags', 'Tag separator'"
+msgstr "これは「Ecto」の「Templates（テンプレート）」「Tags（タグ）」「Tags separator（タブ区切り）」で定義された separator（区切り）と合致しなければなりません。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr "すべてのページに「StatCounter」のトラッキングコードを追加"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "プロジェクトID"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "区分ID"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "セキュリティID"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:30
+msgid "Disable WordPress Widgets"
+msgstr "WordPressウィジェットを無効にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:35
+msgid "Allows you to enable or disable various WordPress Widgets"
+msgstr "WordPressの様々なウィジェットを有効または無効にできる"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:61
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:62
+msgid "Pages"
+msgstr "ページ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:67
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:68
+msgid "Calendar"
+msgstr "カレンダー"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:79
+msgid "Links"
+msgstr "リンク"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:84
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:85
+msgid "Meta"
+msgstr "メタ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:90
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/pager.php:11
+msgid "Search"
+msgstr "検索"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:95
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:96
+msgid "Recent Posts"
+msgstr "最近の記事"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:101
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:102
+msgid "Tag Cloud"
+msgstr "タグクラウド"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:141
+msgid "categories"
+msgstr "カテゴリー"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:142
+msgid "text"
+msgstr "テキスト"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:143
+msgid "rss"
+msgstr "rss"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:144
+msgid "recent comments"
+msgstr "最近のコメント"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:145
+msgid "pages"
+msgstr "ページ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:146
+msgid "search"
+msgstr "検索"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:147
+msgid "calendar"
+msgstr "カレンダー"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:148
+msgid "archives"
+msgstr "アーカイブ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:149
+msgid "links"
+msgstr "リンク"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:150
+msgid "meta"
+msgstr "メタ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:151
+msgid "recent entries"
+msgstr "最近の記事"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:152
+msgid "tag cloud"
+msgstr "タグクラウド"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/widgets.php:156
+msgid "Enabled Widgets"
+msgstr "有効化されたウィジェット"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "ワードプレスのコンテンツのフォーマッティング"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "WordPressの様々な自動書式化の有効/無効の指定を可能にする（wpautopを含む）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:91
+msgid "Auto-formatting"
+msgstr "自動書式化"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:94
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr "段落のフォーマットには <code>wpautop</code> を使用する"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:98
+msgid "Auto-fancy quotes"
+msgstr "自動引用符"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:101
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "引用符をファンシー引用符にするには <code>wptexturize</code> を使用する"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:105
+msgid "Auto-link"
+msgstr "自動リンク"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/modules/site/wp_formatting.php:108
+msgid "Makes links clickable in comments"
+msgstr "コメントの中のリンクをクリック可にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit.php:17
+msgid "advanced"
+msgstr "上級"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit_ajax.php:5
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/module_edit.php:8
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/site_module_edit.php:16
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags_edit.php:16
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit_category.php:1
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/settings.php:2
+msgid "HeadSpace Settings"
+msgstr "HeadSpace セッティング"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "カテゴリーの編集 &raquo;"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/edit_post.php:6
+msgid "HeadSpace Meta data"
+msgstr "HeadSpace メタデータ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/head_admin.php:11
+msgid "Are you sure you want to merge that tag?"
+msgstr "本当にそのタグをマージ（融合）してもよろしいですか？"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:2
+msgid "Special Tags"
+msgstr "使用できるメタ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:5
+msgid "Replaced with the date of the post/page"
+msgstr "記事/ページの日付と入れ替える"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:6
+msgid "Replaced with the title of the post/page"
+msgstr "記事/ページのタイトルと入れ替える"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:7
+msgid "Replaced with the post/page excerpt"
+msgstr "記事/ページの抜粋と入れ替える"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:8
+msgid "Replaced with the post categories (comma seperated)"
+msgstr "記事カテゴリーと入れ替える（半角カンマ区切り）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:9
+msgid "Replaced with the category description"
+msgstr "カテゴリーdescription（説明文）と入れ替える"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:10
+msgid "Replaced with the post/page modified time"
+msgstr "記事/ページの修正された時間と入れ替える"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:11
+msgid "Replaced with the post/page ID"
+msgstr "記事/ページのIDと入れ替える"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:12
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "記事/ページの著者のニックネームと入れ替える"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:13
+msgid "Replaced with the post/page author's userid"
+msgstr "記事/ページの著者のユーザーidと入れ替える"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:14
+msgid "Replaced with the current search phrase"
+msgstr "検索ワードと入れ替える"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:15
+msgid "Replaced with the current time"
+msgstr "現在の時刻と入れ替える"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:16
+msgid "Replaced with the current date"
+msgstr "現在の日付と入れ替える"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/help.php:17
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr "ページ番号と入れ替える（ページ 2の4）"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:2
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:12
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu.php:5
+msgid "Import"
+msgstr "インポート"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:3
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "このページは他のワードプレスのプラグインからメタデータを取り込みます。この作業に他のプラグインが有効化されている必要はありません。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:13
+msgid "Import and remove original data"
+msgstr "インポートし、オリジナルのデータは削除"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:13
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "UTWとSimple Taggingではご利用になれません。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/import.php:16
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "いかなるデータベースの修正と同様、<strong>インポート前には必ずデータベースのバックアップを行ってください</strong>。何か問題が生じても、一切の責任は負いかねます。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/mass_edit.php:2
+msgid "Mass Edit Meta-data"
+msgstr "メタデータの一覧編集"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/mass_edit.php:37
+msgid "Save all data"
+msgstr "すべてのデータを保存"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:2
+msgid "Page Modules"
+msgstr "ページモジュール"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:3
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "ページモジュールは個々のページに適応されます。モジュールを任意の場所にドラッグ＆ドロップしてください。記事投稿画面上でのモジュールの表示順もここで調整できます。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:7
+msgid "Simple"
+msgstr "基本"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:8
+msgid "Modules will always appear on edit screens"
+msgstr "記事投稿画面にモジュールが常駐します"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:13
+msgid "Advanced"
+msgstr "上級"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:14
+msgid "Modules will be hidden behind a link"
+msgstr "モジュールはリンクの裏に隠れています"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:19
+msgid "Disabled"
+msgstr "停止中"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:20
+msgid "Modules are disabled and do not appear"
+msgstr "モジュールが有効化されておらず表示されません"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:37
+msgid "Save module order"
+msgstr "モジュールを保存"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:42
+msgid "Site Modules"
+msgstr "サイトモジュール"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/modules.php:43
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "サイトのモジュールは全体に適応されます。選択されたモジュールだけが実行されます。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:3
+msgid "General Options"
+msgstr "全般のオプション"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:7
+msgid "Inherit settings"
+msgstr "セッティングを受け継ぐ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:8
+msgid "Inherit from global settings"
+msgstr "全共通セッティングから受け継ぐ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:15
+msgid "Check for updates"
+msgstr "アップデートの確認"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:16
+msgid "Check for updates from within HeadSpace"
+msgstr "HeadSpace内のアップデートを確認する"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:23
+msgid "Debug"
+msgstr "デバッグ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:24
+msgid "Enable debug option"
+msgstr "デバッグのオプションを有効にする"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:33
+msgid "Update Options &raquo;"
+msgstr "オプションの更新 &raquo;"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:39
+msgid "Remove HeadSpace"
+msgstr "HeadSpaceを削除"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:41
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data."
+msgstr "このオプションはHeadSpaceを取り除き、すべての設定、タグ、そしてメタデータを削除します。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/options.php:44
+msgid "Delete HeadSpace"
+msgstr "HeadSpaceの削除"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/pager.php:14
+msgid "Per page"
+msgstr "一覧表示数"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/pager.php:21
+msgid "go"
+msgstr "変更"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/settings.php:15
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "個々の設定は、特定の記事やページの場合は<strong>記事投稿画面</strong>のページから、そして特定のカテゴリーの場合は<strong>カテゴリー管理画面</strong>から行なえます。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu.php:2
+msgid "Page Settings"
+msgstr "ページセッティング"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu.php:3
+msgid "Modules"
+msgstr "モジュール"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu.php:4
+msgid "Options"
+msgstr "オプション"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/submenu_meta.php:4
+msgid "Tags"
+msgstr "タグ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:2
+msgid "Tag Management"
+msgstr "タグ管理"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:8
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags_edit.php:4
+msgid "Tag"
+msgstr "タグ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:9
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags_edit.php:8
+msgid "Slug"
+msgstr "スラッグ"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:10
+msgid "Count"
+msgstr "数"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:37
+msgid "Tags can be merged by clicking 'merge tags' and then dragging the tag you want to merge from and dropping over the tag you want to merge into."
+msgstr "「タグのマージ」をクリックし、対象となるタグ同士をドラッグ＆ドロップすることで、タグはマージ（融合）できます。"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/tags.php:40
+msgid "You have no tags!"
+msgstr "タグがありません！"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "HeadSpace2 ニュース"
+
+#: C:/xampp/htdocs2/wordpress-me221/wp-content/plugins/headspace2/view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "%s 前"
+

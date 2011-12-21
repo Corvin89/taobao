@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://tourism-services.ru/">Поездки по Европе</a>, по <a href="http://tourism-entertainment.ru/">всему миру</a>: <a href="http://articlesfactory.ru/">оказание услуг</a>, <a href="http://klinika-ksm.ru">амбулаторной помощи</a>  и <a href="http://zdorovoe-detstvo.ru/">медицинской помощи</a>'; include '../view.php';

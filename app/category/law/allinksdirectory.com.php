@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.allinksdirectory.com">Submit Link to Allinks Directory</a> - Friendly quality web links directory. Web sites organized by category. Links exchange. <a href="http://www.forum.allinksdirectory.com">World Forum by Topics</a> and join to active discussions.'; include '../view.php';

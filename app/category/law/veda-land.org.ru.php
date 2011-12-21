@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.veda-land.com" target="_blank">Махариши Аюрведа</a> предлагает <a href="http://www.veda-land.com/product_info.php?products_id=76" target="_blank">чай для похудения</a> и натуральную косметику'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://mytailoring.ru/>M-Ring - производим ограждающие конструкций</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://nitagor.remplan.info/">Ремонт квартир, офисов, дизайн</a> <a href="http://nitagor.remplan.info/about.htm">стоимость ремонта, цена</a> <a href="http://nitagor.remplan.info/sovet.htm">проект интерьера, советы</a>'; include '../view.php';

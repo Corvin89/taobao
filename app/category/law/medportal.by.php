@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.medportal.by">ћедицинский портал - медицина, лечение, болезни</a>'; include '../view.php';

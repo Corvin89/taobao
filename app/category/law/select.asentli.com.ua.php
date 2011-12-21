@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a target="_blank"  href="http://select.asentli.com.ua"><img border="0" src="http://select.asentli.com.ua/88x31.gif" alt="Цифрова графіка в деталях
+" width="88" height="31"></a>'; include '../view.php';

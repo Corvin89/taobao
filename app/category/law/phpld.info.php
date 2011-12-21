@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.phpld.info/">phpLD Resource - phpLD Directory List and Templates</a>'; include '../view.php';

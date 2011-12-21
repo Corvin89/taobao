@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://djemete.info/" title="Отдых на Черном море">Отдых в Анапе: Джемете, пансионат "Рябинушка". Отдых в Джемете.</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.onlinegamecommands.com/">Online Game Commands</a>'; include '../view.php';

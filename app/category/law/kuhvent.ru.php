@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kuhvent.ru">Кухонные вытяжки, воздухоочистители - доставка, монтаж</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = ':: Предлагаем -  <a href="http://xata.od.ua/flat-xa0238-18.htm" title="аренда квартиры в одессе">аренда квартиры в одессе</a> с огромным балконом! ::'; include '../view.php';

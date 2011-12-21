@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://runet.4next.ru">Все ресурсы Рунета</a>'; include '../view.php';

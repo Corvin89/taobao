@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.replicahot.com">replica wallets</a>'; include '../view.php';

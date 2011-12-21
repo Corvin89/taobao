@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Купить авто в германии <a href=http://www.autoby.su/>Из рук в руки газ волга</a> Хонда срв <a href=http://honda.autoby.su/>хонда одиссей</a> игры для детей бесплатно <a href="http://www.moregames.ru/">игры онлайн бесплатно поиграть</a>'; include '../view.php';

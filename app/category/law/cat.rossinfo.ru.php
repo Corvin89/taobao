@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cat.rossinfo.ru/">Каталог сайтов</a> и <a href="http://www.rossinfo.ru/">Новости</a>'; include '../view.php';

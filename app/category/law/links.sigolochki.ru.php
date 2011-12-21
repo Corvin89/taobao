@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sigolochki.ru/" target="_blank"><img src="http://www.sigolochki.ru/img/knopka.gif" border="0" alt="Каталог одежды, обуви и аксессуаров" width="88" height="31"></a>'; include '../view.php';

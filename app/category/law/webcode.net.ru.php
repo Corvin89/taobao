@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.webcode.net.ru" title="Webcode.net.ru"><img src="http://www.webcode.net.ru/logo.gif" alt="Webcode.net.ru  - портал для веб программистов, здесь можно приятно провести время, поделиться опытом с другими создателями сайтов, найти необходимую информацию, обсудить различные проблемы на форуме." border="0"></a>'; include '../view.php';

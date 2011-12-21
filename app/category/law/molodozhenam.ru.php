@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.molodozhenam.ru/maikop/organizaciya-fotograf.htm">Майкоп: <b>Свадебный фотограф</b></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://bonus-link.pp.ua/catalog" target="_blank">Бесплатный сборник интернет сайтов Bonus-Link</a>'; include '../view.php';

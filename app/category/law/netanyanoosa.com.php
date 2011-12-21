@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.netanyanoosa.com/">Noosa Holidays & Accommodation  – Netanya Noosa</a> - Noosa resort hotel accommodation in a spectacular beachfront location on Hastings Street.'; include '../view.php';

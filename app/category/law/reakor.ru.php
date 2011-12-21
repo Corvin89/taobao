@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.reakor.ru/ target="_blank"><b>ООО "Реакор" - Органическая химия, химические реактивы, активированный уголь</b></a>'; include '../view.php';

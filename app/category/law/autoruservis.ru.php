@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.autoruservis.ru/" target="_blank"><img src="http://www.autoruservis.ru//images/banner.gif" width="88" height="31" alt="Ремонт, обслуживание, эксплуатация автомобилей - Обучающие Видеокурсы, Программы и Книги." border=0></a>'; include '../view.php';

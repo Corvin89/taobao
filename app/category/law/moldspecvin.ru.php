@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://moldspecvin.ru">Размещение, концентрация и специализация виноградарства Молдовы</a>'; include '../view.php';

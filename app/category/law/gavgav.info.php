@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gavgav.info/catalog/" target="_gavgav" title="Каталог ссылок ГавГав.Инфо :: Каталог сайтов о собаках">Каталог ссылок ГавГав.Инфо :: Каталог сайтов о собаках</a>'; include '../view.php';

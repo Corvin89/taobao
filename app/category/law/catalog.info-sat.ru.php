@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://info-sat.ru" target="_blank"><img src="http://info-sat.ru/images/stories/infosat_www.gif" alt="Спутниковый интернет и телевидение " border="0"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.warcollection.com/">Военный антиквариат</a>'; include '../view.php';

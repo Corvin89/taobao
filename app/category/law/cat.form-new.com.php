@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://cat.form-new.com>Арт каталог. Art Directory.</a>'; include '../view.php';

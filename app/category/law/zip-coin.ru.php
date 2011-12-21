@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.zip-coin.ru">Заработок в интернете на файлах</a> | <a href="http://www.zip-coin.ru/pr/">Каталог качественных сайтов</a> | <a href="http://www.zip-coin.ru/stats/">Каталог статей</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Farkopov.net - <a href="http://www.farkopov.net/">т€гово сцепные устройство “—”</a> дл€ буксировки прицепов'; include '../view.php';

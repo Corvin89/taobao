@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://love.lia.org.ru/'>Каталог сайтов знакомств love.lia.org.ru</a>'; include '../view.php';

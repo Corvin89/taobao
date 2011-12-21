@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href=http://tara-l.ru>Glass Jar - glass wine bottles</a> -
+<p><img src="http://tara-l.ru/glass.jpg" width="88" height="31" border="0" alt=" Glass Jar - glass wine bottles"></p>'; include '../view.php';

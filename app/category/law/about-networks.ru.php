@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://about-networks.ru/">Сетевые технологии</a>'; include '../view.php';

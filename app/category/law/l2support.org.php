@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://l2support.org/" target="_blank">Мир Lineage2</a>'; include '../view.php';

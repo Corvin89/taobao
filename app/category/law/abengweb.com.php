@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a(.*)href="http://(.*)AbengWEB.com(.*)>(.*)</a>'; include '../view.php';

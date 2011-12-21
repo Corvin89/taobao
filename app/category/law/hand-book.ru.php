@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.hand-book.ru/">www.hand-book.ru</a>, <a href="http://www.hand-book.ru/hand/21498.html">Delta bank - первый ипотечный банк</a>'; include '../view.php';

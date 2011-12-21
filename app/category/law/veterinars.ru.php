@@ -1,0 +1,3 @@
+<?php $catalogLink = '<br><li><a target=_blank title="Ветеринар Москва" href=http://www.veterinars.ru>Портал Ветеринары.ру</a></li><br>
+<br><li><a target=_blank title="Ветеринарные консультации" href=http://forum.veterinars.ru>Форум Ветеринаров</a></li><br>
+<br><li><a target=_blank title="Бесплатная Фотогаллерея" href=http://forum.veterinars.ru>Фотогалерея ЗооПлёнка</a></li><br>'; include '../view.php';

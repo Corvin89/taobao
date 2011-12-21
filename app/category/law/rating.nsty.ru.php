@@ -1,0 +1,1 @@
+<?php $catalogLink = '—четчик посетителей, <a href="http://www.rating.nsty.ru">рейтинг сайтов</a>, счетчик, каталог сайтов, раскрутка сайта'; include '../view.php';

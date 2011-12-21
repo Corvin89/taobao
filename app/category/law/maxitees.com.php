@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.maxitees.com/">MaxiTees T-shirt Link Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mestanet.ru/groups/assasinyi.html">Ассасины</a> - древний орден наемных убийц<br /><a href="http://livenk.ru">Живой Новокузнецк</a> первая социальная сеть Новокузнецка.<br /><a href="http://sportorient.ru" rel="follow" title="ориентирование">Спортивное ориентирование</a> на нашем портале.<br /><br />'; include '../view.php';

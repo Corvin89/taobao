@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.saitama-kenpaku.com/">??	??</a>'; include '../view.php';

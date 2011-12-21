@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cellmad.com/directory/">iPhone Directory</a>'; include '../view.php';

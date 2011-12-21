@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.locatorantique.com" id="R454250">Antique Dealer Directory For Antique Classic Shops Auctions Collectors</a> - Antique Dealer Directory For Antique Classic Shops Auctions Collectors'; include '../view.php';

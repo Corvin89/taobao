@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.urlguidenet.com">Web Site Search Directory -URL Guide Net Web Directory</a>'; include '../view.php';

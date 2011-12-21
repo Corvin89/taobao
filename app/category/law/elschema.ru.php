@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.elschema.ru/'><img src='http://www.elschema.ru/images/ban1.gif' width="88" height="31" border="0" alt='Ёлектросхема' title='Ёлектросхема. ¬се дл€ радиолюбител€.'></a>'; include '../view.php';

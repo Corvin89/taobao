@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dragon-golf.com/golf-algarve/"><b>Golf  Holiday Algarve  Portugal</b></a><br>Offering Golf Holiday Packages since 1979 for Malaga Marbella Fuengirola Mijas Spain Cadiz Algarve Portugal. Includes tee times green fees, car hire and golf hotels.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://indicator.micron-tools.ru/">Индикатор рычажно-зубчатый боковой</a> - <a href="http://www.copyprint.org/2010-12-15-01-26-20">сканирование книг</a>'; include '../view.php';

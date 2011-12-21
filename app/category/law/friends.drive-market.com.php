@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://drive-market.com" title="automobiles">automobiles for sale</a>'; include '../view.php';

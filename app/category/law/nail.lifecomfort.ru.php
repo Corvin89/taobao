@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://nail.lifecomfort.ru/">Дизайн ногтей</a>'; include '../view.php';

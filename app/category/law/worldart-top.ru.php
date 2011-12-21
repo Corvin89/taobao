@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://worldart-top.ru/"><img src="http://worldart-top.ru/button.php?u=genriv1" alt="Мировое искусство: Фотография" border="0" /></a>'; include '../view.php';

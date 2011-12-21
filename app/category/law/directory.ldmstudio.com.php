@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.directory.ldmstudio.com" title="web directory" target="_blank">Ldmstudio Directory</a>'; include '../view.php';

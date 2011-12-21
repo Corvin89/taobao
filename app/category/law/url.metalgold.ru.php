@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://metalgold.ru/">Ювелирные изделия</a> и украшений отечественного производства'; include '../view.php';

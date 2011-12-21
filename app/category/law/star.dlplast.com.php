@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://star.dlplast.com/>”никальный гороскоп на каждый день от Dr.O</a>'; include '../view.php';

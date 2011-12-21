@@ -1,0 +1,1727 @@
+# Meta-data manager on steroids, allowing complete control over all SEO needs such as keywords/tags, titles, description, stylesheets, and many many other goodies.
+# Copyright (C) 2010 John Godley
+# This file is distributed under the same license as the HeadSpace2 package.
+# John Godley, http://urbangiraffe.com/, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HeadSpace2 3.6.33 FARSI\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-23 19:34+0000\n"
+"PO-Revision-Date: 2011-01-08 12:56+0330\n"
+"Last-Translator: amir heydari <sonami777@yahoo.com>\n"
+"Language-Team: 3EO.ir <sonami777@yahoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: headspace.php:474
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "%s موارد از اینجا وارد شده است %d"
+
+#: models/pager.php:434
+#, php-format
+msgid "%d per-page"
+msgstr "در هر صفحه %d"
+
+#: view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "قبل %s"
+
+#: view/admin/options.php:7
+#, php-format
+msgid "%s | General Options"
+msgstr "%s | تنظیمات عمومی"
+
+#: view/admin/import.php:6
+#, php-format
+msgid "%s | Import"
+msgstr "%s | وارد کردن "
+
+#: view/admin/page-modules.php:7
+#, php-format
+msgid "%s | Page Modules"
+msgstr "%s | ماژول های صفحه"
+
+#: view/admin/page-settings.php:7
+#, php-format
+msgid "%s | Page Settings"
+msgstr "%s | تنظیمات صفحه "
+
+#: view/admin/site-modules.php:6
+#, php-format
+msgid "%s | Site Modules"
+msgstr "%s | ماژول های سایت"
+
+#: view/admin/import.php:22
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "(not available in UTW and Simple Tagging)"
+
+#: modules/site/page_counts.php:122
+msgid "(set number of posts to 0 for theme default)"
+msgstr "مقدار پست ها را برای پوسته پیش فرض،صفر بدهید"
+
+#: modules/site/system-settings.php:88
+msgid "1 hour"
+msgstr "1 ساعت"
+
+#: modules/site/system-settings.php:87
+msgid "10 minutes"
+msgstr "10 دقیقه"
+
+#: modules/site/103bees.php:31
+msgid "103bees"
+msgstr "103bees.com"
+
+#: modules/site/system-settings.php:85
+msgid "30 seconds"
+msgstr "30 ثانیه"
+
+#: models/headspace.php:119
+msgid "404 Page"
+msgstr "صفحه 404 (صفحه مورد نظر یافت نشد!)"
+
+#: modules/site/system-settings.php:86
+msgid "60 seconds"
+msgstr "60 ثانیه"
+
+#: headspace.php:303
+msgid "<code>wp_footer</code> was not found in <code>footer.php</code> (<a href=\"http://codex.wordpress.org/Theme_Development\">documentation</a>)"
+msgstr "<code>wp_footer</code> was not found in <code>footer.php</code> (<a href=\"http://codex.wordpress.org/Theme_Development\">documentation</a>)"
+
+#: headspace.php:296
+msgid "<code>wp_head</code> was not found in <code>header.php</code> (<a href=\"http://codex.wordpress.org/Hook_Reference/wp_head\">documentation</a>)"
+msgstr "<code>wp_head</code> was not found in <code>header.php</code> (<a href=\"http://codex.wordpress.org/Hook_Reference/wp_head\">documentation</a>)"
+
+#: modules/site/first-time-visitor.php:93
+#, php-format
+msgid "<p>As a new visitor you may want to subscribe to my <a href=\"%s/feed/\">RSS</a> feed.</p>"
+msgstr "<p><a href=\"%s/feed/\">RSS</a> شاید بعنوان یک کاربر جدید بخواهید که عضو خوراک خوان ما شوید </p>"
+
+#: modules/page/tags.php:123
+msgid "<p>Tags: "
+msgstr "<p> تگها :"
+
+#: modules/site/piwik.php:211
+msgid "A pause (milliseconds) added when a file is downloaded.  Small values may not be tracked"
+msgstr "یک مکث کوتاه در هنگام دانلود اضافه خواهد شد.مقادیر کوچک قابل ردیابی نیستند"
+
+#: view/admin/head_admin.php:6
+msgid "A problem occured retrieving data from the server. If this persists please check that you have installed the plugin correctly."
+msgstr "مشکلی هنگام دریافت اطلاعات از سرور رخ داده است.اگر این مشکل تکراریست،لطفا چک کنید که افزونه را بصورت صحیح نصب کرده باشید"
+
+#: modules/site/awstats.php:31
+msgid "AWStats JavaScript Tracking"
+msgstr "AWStats JavaScript Tracking"
+
+#: modules/site/analytics.php:237
+#: modules/site/feedburner-stats.php:67
+msgid "Account ID"
+msgstr "شناسه کاربری"
+
+#: modules/site/apture.php:36
+msgid "Add Apture to all pages"
+msgstr "اضافه کردن کد Apture به تمام صفحات"
+
+#: modules/site/103bees.php:36
+msgid "Adds 103bees tracking code to all pages"
+msgstr " اضافه کردن کد ردیابی beesبه تمام صفحات 103 "
+
+#: modules/site/awstats.php:36
+msgid "Adds AWStats JavaScript tracking to all pages (through <code>wp_footer</code>)"
+msgstr " اضافه کردن AWStats JavaScript Tracking به تمام صفحات"
+
+#: modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr " اضافه کردن کد ردیابی CrazyEgg به تمام صفحات "
+
+#: modules/site/analytics.php:44
+msgid "Adds Google Analytic tracking code to all pages (through <code>wp_footer</code>)"
+msgstr " اضافه کردن کد ردیابی گوگل آنالیتیک به تمام صفحات از طریق <code>wp_footer</code>"
+
+#: modules/site/google_webmaster.php:35
+msgid "Adds Google Webmaster tracking code to your home page"
+msgstr " اضافه کردن کد ردیابی Google Webmaster به صفحه اصلی"
+
+#: modules/site/hittail.php:36
+msgid "Adds HitTail tracking code to all pages"
+msgstr "اضافه کردن کد ردیابی HitTail به تمام صفحات"
+
+#: modules/site/microsoft-live.php:35
+msgid "Adds Microsoft Live verification / Bing Webmaster code to your home page"
+msgstr " اضافه کردن کد Microsoft Live verification / Bing Webmaster به صفحه اصلی"
+
+#: modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr " اضافه کردن کد ردیابی Mint به تمام صفحات"
+
+#: modules/site/piwik.php:42
+msgid "Adds Piwik tracking code to all pages"
+msgstr " اضافه کردن کد ردیابی Piwik به تمام صفحات"
+
+#: modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr " اضافه کردن کد ردیابی StatCounter به تمام صفحات"
+
+#: modules/site/yahoo-site-explorer.php:35
+msgid "Adds Yahoo! Site Explorer tracking code to your home page"
+msgstr " اضافه کردن کد ردیابی Yahoo! Site Explorer به صفحه اصلی"
+
+#: modules/site/feedburner-stats.php:35
+msgid "Adds appropriate code to your posts to enable FeedBurner Stats Pro"
+msgstr " برای فعال کردن FeedBurner Stats Pro کد مناسب را به پست ها اضافه نمایید"
+
+#: view/admin/page-modules.php:21
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: modules/page/more_text.php:127
+msgid "Advanced - the regular expression pattern to select the more link from your posts"
+msgstr "تنظیمات پیشرفته -- الگوی مبین عبارت منظم برای انتخاب بیشتر لینک از پست های شما"
+
+#: modules/page/more_text.php:133
+msgid "Advanced - the regular expression replacement text"
+msgstr "تنظیمات پیشرفته -- متن جایگزینی مبین"
+
+#: modules/page/page_title.php:134
+msgid "After"
+msgstr "پس از"
+
+#: modules/page/page-links.php:218
+msgid "After HTML"
+msgstr "پس از HTML"
+
+#: modules/site/first-time-visitor.php:138
+msgid "After content"
+msgstr "پس از محتوا"
+
+#: modules/page/description.php:70
+msgid "All descriptions will be trimmed to this length"
+msgstr "تمام شرح ها به این طول ویرایش می شوند"
+
+#: modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: modules/page/javascript.php:49
+msgid "Allow external JavaScript files to be referenced"
+msgstr "اجازه دادن برای ارجاع فایلهای جاوا اسکریپت خارجی"
+
+#: modules/page/page_title.php:115
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "اجازه دادن برای تغییر عنوان صفحه - بعنوان مثال،عنوان در پنجره مرورگر"
+
+#: modules/page/stylesheet.php:58
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "CSS stylesheets مجوز اضافه شدن به صفحه را خواهد گرفت"
+
+#: modules/page/theme.php:74
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "اجازه میدهد تا صفحه سفارشی-پوسته خاص،پوسته کنونی را لغو کند"
+
+#: modules/page/description.php:59
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "یک توضیح کوتاه در مورد صفحه که توسط موتورهای جستجو استفاده میشود را می پذیرد"
+
+#: modules/page/custom.php:48
+msgid "Allows custom data to be inserted anywhere in your theme using MetaData::custom ()"
+msgstr "MetaData::custom () اجازه می دهد تا داده های سفارشی را در هر جای قالب خود قرار دهید"
+
+#: modules/page/plugin.php:93
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "اجازه میدهد تا افزونه های های غیر فعال در صفحات خاص فعال شوند"
+
+#: modules/page/follow-links.php:113
+msgid "Allows follow/no-follow to be set for various links"
+msgstr "follow/no-follow برای لینک های مختلف فعال می شود"
+
+#: modules/page/keywords.php:66
+msgid "Allows meta keywords to be defined, seperate from tags (if necessary, disable keyword display in the Tags module)"
+msgstr "اجازه می دهد که کلمات کلیدی متا،جدای از برچسب ها تعریف شوند.در صورت لزوم، نمایش کلمات کلیدی در ماژول برچسب ها را غیر فعال کنید"
+
+#: modules/page/relative-links.php:100
+msgid "Allows options to be set for relative meta links (WP 2.8+)"
+msgstr "در وردپرس 2.8 به بالا،اجازه می دهد گزینه ها برای meta links تنظیم شود"
+
+#: modules/page/page-links.php:150
+msgid "Allows options to be set for wp_list_pages links"
+msgstr " اجازه میدهد گزینه ها برای لینکهای wp_list_pages تنظیم شود"
+
+#: modules/page/raw-footer.php:48
+msgid "Allows raw data to be inserted into the page footer"
+msgstr " Raw data به پاورقی اضافه خواهد شد"
+
+#: modules/page/raw.php:44
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr " Raw data اجازه می یابد به بخش متا صفحه اضافه شود"
+
+#: modules/page/rss_tagline.php:57
+msgid "Allows site RSS description to be changed"
+msgstr "اجازه می دهد که توصیحات RSS سایت تغییر یابد"
+
+#: modules/page/rss_name.php:57
+msgid "Allows site RSS name to be changed"
+msgstr " اجازه می دهد که نام RSS سایت تغییر یابد"
+
+#: modules/page/site_tagline.php:56
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "اجازه می دهد که توضیحات سایت تغییر یابد"
+
+#: modules/page/site_name.php:58
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "اجازه می دهد که نام سایت تغییر یابد"
+
+#: modules/page/tags.php:153
+msgid "Allows tags to be added to pages"
+msgstr "اجازه می دهد که برچسب ها به صفحات افزوده شوند"
+
+#: modules/page/more_text.php:85
+msgid "Allows the 'more' text to be changed"
+msgstr "امکان تغییر ادامه متن"
+
+#: modules/page/noindex.php:87
+msgid "Allows various meta-robot options to be set to prevent search engines and robots from indexing or following pages"
+msgstr "اجازه می دهد که گزینه های متا روبوت قبلی برای جلوگیری از ایندکس شدن صفحات توسط روبوتها و موتورهای جستجوگر تنظیم شود"
+
+#: modules/site/widgets.php:35
+msgid "Allows you to enable or disable various WordPress Widgets"
+msgstr "امکان فعال یا غیر فعال کردن ابزارک های مختلف وردپرس را می دهد "
+
+#: modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "wpautop به شما اجازه می دهد که فرم دهی خودکار وردپرس را فعال یا غیر فعال کنید-شامل"
+
+#: view/admin/support.php:28
+msgid "Alternatively, if you are multi-lingual, do consider translating this into another language.  All the necessary localisation files are included and I've written a <a href=\"http://urbangiraffe.com/articles/translating-wordpress-themes-and-plugins/\">full guide to the translation process</a>."
+msgstr "نوشته شده است <a href=\"http://urbangiraffe.com/articles/translating-wordpress-themes-and-plugins/\">راهنمای کامل برای ترجمه</a> اگر از زبان دیگری استفاده می کنید،می توانید این افزونه را به زبان مورد نظرتان ترجمه کنید.فایل های لازم در بسته افزونه موجود می باشد و آموزش آن نیز در قسمت"
+
+#: modules/site/apture.php:31
+msgid "Apture"
+msgstr "Apture"
+
+#: modules/page/follow-links.php:32
+msgid "Archive Links"
+msgstr "لینک های بایگانی"
+
+#: models/headspace.php:113
+#: modules/site/page_counts.php:114
+#: modules/site/widgets.php:73
+#: modules/site/widgets.php:74
+msgid "Archives"
+msgstr "بایگانی"
+
+#: view/admin/head_admin.php:5
+msgid "Are you sure you want to merge that tag?"
+msgstr "آیا از ادغام این تگ مطمئن هستید؟"
+
+#: view/admin/import.php:25
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "در صورت عدم پشتیبانگیری و بروز مشکلات احتمالی هیچ گونه مسئولیتی بر عهده ما نیست.بعلت تغییر در دیتابیس،شما باید قبل از وارد کردن،از اطلاعات خودتان نسخه پشتیبان تهیه کنید  "
+
+#: models/headspace.php:121
+msgid "Attachment Pages"
+msgstr "صفحات فایل پیوست"
+
+#: view/admin/help.php:33
+msgid "Attachment caption"
+msgstr "عنوان فایل پیوست"
+
+#: models/headspace.php:117
+msgid "Author Pages"
+msgstr "صفحات نویسنده"
+
+#: modules/site/wp_formatting.php:98
+msgid "Auto-fancy quotes"
+msgstr "Auto-fancy quotes"
+
+#: modules/site/wp_formatting.php:91
+msgid "Auto-formatting"
+msgstr "قالب بنده خودکار"
+
+#: modules/site/wp_formatting.php:105
+msgid "Auto-link"
+msgstr "لینک خودکار"
+
+#: modules/page/page_title.php:133
+msgid "Before"
+msgstr "قبل"
+
+#: modules/page/page-links.php:211
+msgid "Before HTML"
+msgstr " قبل از HTML"
+
+#: modules/site/first-time-visitor.php:137
+msgid "Before content"
+msgstr "قبل از محتوا"
+
+#: modules/site/widgets.php:67
+#: modules/site/widgets.php:68
+msgid "Calendar"
+msgstr "تقویم"
+
+#: view/admin/page-module-edit.php:12
+#: view/admin/page-settings-edit-ajax.php:6
+#: view/admin/site-module-edit.php:18
+msgid "Cancel"
+msgstr "انصراف"
+
+#: models/headspace.php:114
+msgid "Categories"
+msgstr "دسته ها"
+
+#: modules/page/follow-links.php:33
+msgid "Category Links"
+msgstr "لینک های دسته ها"
+
+#: modules/site/analytics.php:277
+msgid "Change what appears in reports"
+msgstr "تغییر در نمایش گزارشات"
+
+#: modules/page/keywords.php:77
+msgid "Checking this will mean that your tags are also used as keywords and you will not be able to modify keywords independently"
+msgstr "انتخاب این گزینه بدان معناست که برچسب های شما بعنوان کلمات کلیدی هم به کار برده شوند و شما بصورت مستقل قادر به تنظیم کلمات کلیدی نخواهید بود"
+
+#: modules/site/piwik.php:204
+msgid "Clear to disable download tracking"
+msgstr "حذف کردن برای متوقف کردن ردیابی دانلود"
+
+#: view/admin/page-settings.php:11
+msgid "Click the page type to change settings.  You can enable additional modules to provide more choices."
+msgstr "نوع صفحه را برای تغییر تنظیمات مشخص کنید.شما میتوانید ماژول های اضافه را برای ارائه انتخاب های بیشتر فعال کنید"
+
+#: modules/page/follow-links.php:36
+msgid "Comm. Author Links"
+msgstr "Comm. Author Links"
+
+#: modules/page/follow-links.php:37
+msgid "Comm. Text Links"
+msgstr "Comm. Text Links"
+
+#: modules/site/system-settings.php:37
+msgid "Configure PHP memory limits, time-outs, and error reporting"
+msgstr "وقفه ها و گزارشات خطا ,پیکربندی محدودیت های حافظه پی اچ پی"
+
+#: modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: modules/site/crazyegg.php:117
+msgid "CrazyEgg ID"
+msgstr "شناسه CrazyEgg"
+
+#: modules/page/theme.php:84
+msgid "Current theme"
+msgstr "پوسته کنونی"
+
+#: modules/page/custom.php:44
+msgid "Custom data"
+msgstr "اطلاعات سفارشی"
+
+#: modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "سفارشی کردن تعداد پست هایی که در صفحات بایگانی و جستجو نمایش داده میشود و تصمیم برای اینکه محتوا بصورت کامل نمایش داده شود یا چکیده ای از محتوا"
+
+#: view/admin/options.php:39
+msgid "Debug"
+msgstr "اشکال زدایی"
+
+#: modules/page/follow-links.php:123
+msgid "Default"
+msgstr "پیش فرض"
+
+#: view/admin/options.php:64
+msgid "Delete HeadSpace"
+msgstr "پاک کردن افزونه HeadSpace "
+
+#: modules/page/description.php:88
+msgid "Description"
+msgstr "شرح"
+
+#: modules/page/tags.php:188
+msgid "Disable Suggestions"
+msgstr "غیر فعال کردن پیشنهادات"
+
+#: modules/site/disable_visual_editing.php:28
+msgid "Disable Visual Editing"
+msgstr "غیر فعال کردن ویرایش تصویری"
+
+#: modules/site/widgets.php:30
+msgid "Disable WordPress Widgets"
+msgstr "غیر فعال کردن ابزارک های وردپرس"
+
+#: modules/site/disable_visual_editing.php:33
+msgid "Disable visual editing"
+msgstr "غیر فعال کردن ویرایش تصویری"
+
+#: view/admin/page-modules.php:32
+msgid "Disabled"
+msgstr "غیر فعال"
+
+#: modules/page/page-links.php:204
+msgid "Display"
+msgstr "نمایش"
+
+#: modules/site/first-time-visitor.php:39
+msgid "Display a message for first time visitors (based upon idea from Seth Godin)"
+msgstr "نمایش پیغام به بازدیدکنندگان تازه وارد - بر اساس ایده Seth Godin"
+
+#: modules/site/first-time-visitor.php:134
+msgid "Display position"
+msgstr "نمایش وضعیت"
+
+#: models/pager.php:442
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "%s از %s&#8211;%s نمایش"
+
+#: modules/page/stylesheet.php:101
+msgid "Do not output CSS"
+msgstr "CSS خارج نشود"
+
+#: modules/site/analytics.php:281
+msgid "Domain Name"
+msgstr "نام دامنه"
+
+#: view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "&raquo; ویرایش دسته"
+
+#: view/admin/options.php:43
+msgid "Enable debug option"
+msgstr "فعال کردن گزینه اشکال زدایی"
+
+#: modules/page/more_text.php:118
+msgid "Enable on excerpts"
+msgstr "فعال بودن برگزیدن"
+
+#: modules/site/widgets.php:156
+msgid "Enabled Widgets"
+msgstr "فعال کردن ابزارک ها"
+
+#: modules/page/relative-links.php:124
+msgid "End"
+msgstr "پایان"
+
+#: modules/site/first-time-visitor.php:131
+msgid "Enter 0 for always"
+msgstr "برای همیشه،عدد صفر را وارد کنید"
+
+#: modules/site/google_webmaster.php:70
+msgid "Enter Google Webmaster tracking code."
+msgstr "کد Google Webmaster tracking را وارد کنید "
+
+#: modules/site/microsoft-live.php:70
+msgid "Enter Microsoft Live verification code."
+msgstr "کد Microsoft Live verification را وارد کنید"
+
+#: modules/site/yahoo-site-explorer.php:70
+msgid "Enter Yahoo! Site Explorer tracking code."
+msgstr "کد Yahoo! Site Explorer tracking را وارد کنید"
+
+#: modules/site/analytics.php:291
+msgid "Enter any additional Google Analytics code"
+msgstr "هرگونه کد اضافه Google Analytics را وارد کنید"
+
+#: modules/site/piwik.php:218
+msgid "Enter each host on a separate line"
+msgstr "هر میزبان را در یک خط جداگانه وارد کنید"
+
+#: modules/site/mint.php:124
+msgid "Enter the URL of your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "آدرس نصب مینت را بصورت <code>/mint/</code> وارد نمایید"
+
+#: modules/site/analytics.php:270
+msgid "Enter the URL you want outbound links tracked to"
+msgstr "آدرسی را که میخواهید لینک های خروجی ردیابی کنند،وارد نمایید"
+
+#: modules/site/analytics.php:240
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "کد ردیابی جاوا اسکریپت گوگل را بصورت کامل و یا بصورت <code>_uacct</code> وارد نمایید"
+
+#: modules/site/hittail.php:114
+msgid "Enter the full JavaScript tracking code as provided by HitTail."
+msgstr "کد ردیابی جاوا اسکریپت ارائه شده توسط HitTail رابصورت کامل وارد کنید"
+
+#: modules/site/103bees.php:114
+msgid "Enter the full JavaScript tracking code as shown on your 103bees account page."
+msgstr "کد ردیابی موجود در صفحه been را بصورت کامل وارد کنید"
+
+#: modules/site/crazyegg.php:120
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg code</a>"
+msgstr "کد <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg</a> خود را بصورت کامل وارد کنید"
+
+#: modules/site/apture.php:114
+msgid "Enter your site token."
+msgstr "رمز سایت خود را وارد کنید"
+
+#: modules/site/103bees.php:121
+#: modules/site/analytics.php:256
+#: modules/site/apture.php:121
+#: modules/site/awstats.php:124
+#: modules/site/crazyegg.php:127
+#: modules/site/hittail.php:121
+#: modules/site/mint.php:131
+#: modules/site/piwik.php:225
+#: modules/site/statcounter.php:158
+msgid "Everyone"
+msgstr "هر کس"
+
+#: modules/page/page-links.php:171
+msgid "Exclude from list"
+msgstr "محروم کردن از ایست"
+
+#: modules/site/feedburner-stats.php:30
+msgid "Feedburner Stats Pro"
+msgstr "Feedburner Stats Pro"
+
+#: modules/page/custom.php:85
+msgid "Fields"
+msgstr "زمینه ها"
+
+#: view/admin/mass_edit.php:29
+msgid "Filter"
+msgstr "صافی"
+
+#: modules/site/first-time-visitor.php:34
+msgid "First Time Visitor"
+msgstr "بازدید کنندگان بار اول"
+
+#: modules/page/follow-links.php:121
+msgid "Follow"
+msgstr "پیگیری"
+
+#: modules/page/follow-links.php:109
+msgid "Follow Links"
+msgstr "لینک های پیگیری"
+
+#: modules/page/tags.php:171
+msgid "Force tags in pages"
+msgstr "برچسب های اجباری در صفحات"
+
+#: modules/page/tags.php:161
+msgid "Force tags in posts"
+msgstr "برچسب های اجباری در پست ها"
+
+#: modules/page/page_title.php:139
+msgid "Force title rewrite"
+msgstr "بازنویسی اجباری عنوان"
+
+#: modules/site/frame-breaker.php:32
+msgid "Frame Breaker"
+msgstr "جلوگیری از باز شدن سایت در فریم"
+
+#: models/headspace.php:96
+msgid "Front Page"
+msgstr "صفحه اول"
+
+#: models/headspace.php:94
+msgid "Global Settings"
+msgstr "تنظیمات کلی"
+
+#: modules/site/analytics.php:39
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Google Section Targeting"
+
+#: modules/site/google_webmaster.php:30
+msgid "Google Webmaster"
+msgstr "Google Webmaster"
+
+#: modules/page/page-links.php:221
+msgid "HTML added to end of list"
+msgstr "کد HTML به انتهای لیست اضافه شد "
+
+#: modules/page/page-links.php:214
+msgid "HTML added to start of list"
+msgstr "کد HTML به ابتدای لیست اضافه شد"
+
+#: modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "Head META Description"
+
+#: headspace.php:99
+#: headspace.php:151
+#: headspace.php:483
+#: headspace.php:484
+#: view/admin/edit_quick.php:1
+#: view/admin/edit_quick.php:2
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: headspace.php:574
+msgid "HeadSpace Bug Tracker"
+msgstr "پیگیری اشکالات HeadSpace "
+
+#: headspace.php:572
+msgid "HeadSpace Documentation"
+msgstr "مستندات HeadSpace "
+
+#: headspace.php:575
+msgid "HeadSpace FAQ"
+msgstr "پرسش و پاسخ درباره HeadSpace"
+
+#: headspace.php:571
+msgid "HeadSpace Help"
+msgstr "راهنمای HeadSpace"
+
+#: view/admin/edit_post.php:7
+msgid "HeadSpace Meta data"
+msgstr "HeadSpace Meta data"
+
+#: view/admin/edit_category.php:1
+msgid "HeadSpace Settings"
+msgstr "تنظیمات HeadSpace"
+
+#: headspace.php:573
+msgid "HeadSpace Support Forum"
+msgstr "انجمن های پشتیبانی HeadSpace"
+
+#: headspace.php:440
+msgid "HeadSpace has been removed"
+msgstr "HeadSpace حذف شد"
+
+#: view/admin/support.php:7
+msgid "HeadSpace has required a great deal of time and effort to develop.  If it's been useful to you then you can support this development by <strong>making a small donation of $12</strong>.  This will act as an incentive for me to carry on developing it, providing countless hours of support, and including any enhancements that are suggested."
+msgstr "این افزونه برای توسعه به زمان و تلاش زیادی نیاز دارد.اگر این افزونه برای شما مفید است،میتوانید با پرداخت کمک 12 دلاری از آن حمایت کنید.این بعنوان یک تشویق برای من است که بتوانم این افزونه را با پیشنهادات شما گسترش دهم و آن را پشتیبانی کنم"
+
+#: modules/import/headspace_tags.php:28
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "برچسب های HeadSpace"
+
+#: view/admin/support.php:5
+msgid "HeadSpace | Support"
+msgstr " پشتیبانی | HeadSpace"
+
+#: view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "اخبار HeadSpace2"
+
+#: modules/site/hittail.php:31
+msgid "HitTail"
+msgstr "HitTail.com"
+
+#: models/headspace.php:95
+msgid "Home Page"
+msgstr "صفحه اصلی"
+
+#: modules/site/piwik.php:215
+msgid "Host aliases"
+msgstr "Host aliases"
+
+#: modules/page/page-links.php:207
+msgid "How a link is displayed. Use %link% for the link itself"
+msgstr "چگونه لینک به نمایش در می آید.از کد %link% برای خود لینک استفاده کنید"
+
+#: view/admin/options.php:35
+msgid "I'm a nice person and I have helped support the author of this plugin"
+msgstr "من دوست دارم از صاحب این افزونه حمایت کنم"
+
+#: modules/site/piwik.php:183
+msgid "If you are monitoring multiple sites this allows you to identify each"
+msgstr "اگر شما چند سایت را بررسی می کنید،این گزینه به شما اجازه می دهد تا هر یک را مشخص کنید"
+
+#: modules/site/first-time-visitor.php:143
+msgid "Ignore Bots"
+msgstr "تحریم روبوتهای جستجوگر"
+
+#: view/admin/import.php:21
+#: view/admin/submenu.php:7
+msgid "Import"
+msgstr "وارد کردن"
+
+#: view/admin/import.php:22
+msgid "Import and remove original data"
+msgstr "وارد کردن و حذف داده های اصلی"
+
+#: modules/page/tags.php:191
+msgid "In case of low memory issues"
+msgstr "در مورد مسائل کمی حافظه"
+
+#: modules/site/analytics.php:298
+msgid "Include Google Analytics on the WordPress login page"
+msgstr "شامل Google Analytics در صفحه ورودی وردپرس"
+
+#: modules/site/analytics.php:295
+msgid "Include on login page"
+msgstr "شامل صفحه ورود به سایت"
+
+#: view/admin/options.php:20
+msgid "Inherit from global settings"
+msgstr "پیروی از تنظیمات کلی"
+
+#: view/admin/options.php:16
+msgid "Inherit settings"
+msgstr "تنظیمات ارثی"
+
+#: modules/page/javascript.php:45
+#: modules/page/javascript.php:60
+msgid "JavaScript"
+msgstr "جاوا اسکریپت"
+
+#: modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "کلمات کلیدی Jerome's"
+
+#: modules/page/keywords.php:62
+#: modules/page/keywords.php:107
+msgid "Keywords"
+msgstr "کلمات کلیدی"
+
+#: modules/page/keywords.php:84
+msgid "Keywords will be trimmed to this length"
+msgstr "کلمات کلیدی به این طول ویرایش میشوند"
+
+#: modules/page/page_title.php:126
+msgid "Leave blank to use theme default"
+msgstr "برای استفاده از پوسته کنونی،خالی بگذارید"
+
+#: modules/site/widgets.php:79
+msgid "Links"
+msgstr "لینک ها"
+
+#: models/headspace.php:122
+msgid "Login Pages"
+msgstr "صفحات ورودی"
+
+#: modules/site/wp_formatting.php:108
+msgid "Makes links clickable in comments"
+msgstr "لینک های موجود در نظرات را قابل کلیک کردن می کند"
+
+#: modules/page/description.php:67
+#: modules/page/keywords.php:81
+#: modules/page/page_title.php:151
+msgid "Max length"
+msgstr "حداکثر طول"
+
+#: modules/site/system-settings.php:106
+msgid "Memory Limit"
+msgstr "محدودیت حافظه"
+
+#: modules/site/first-time-visitor.php:124
+msgid "Message to display"
+msgstr "پیام برای نمایش"
+
+#: modules/site/widgets.php:84
+#: modules/site/widgets.php:85
+msgid "Meta"
+msgstr "Meta"
+
+#: modules/page/noindex.php:83
+#: modules/page/noindex.php:99
+msgid "Meta-Robots"
+msgstr "Meta-Robots"
+
+#: headspace.php:152
+#: view/admin/mass_edit.php:21
+msgid "Meta-data"
+msgstr "Meta-data"
+
+#: modules/site/microsoft-live.php:30
+msgid "Microsoft Live Verification / Bing Webmaster"
+msgstr "Microsoft Live Verification / Bing Webmaster"
+
+#: modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: modules/site/mint.php:121
+msgid "Mint path"
+msgstr "Mint path"
+
+#: view/admin/page-modules.php:33
+msgid "Modules are disabled and do not appear"
+msgstr "ماژول های غیر فعال هستند و نمایش داده نمی شوند"
+
+#: view/admin/page-modules.php:16
+msgid "Modules will always appear on edit screens"
+msgstr "ماژول ها همیشه در صفحات ویرایش ظاهر می شوند"
+
+#: view/admin/page-modules.php:22
+msgid "Modules will be hidden behind a link"
+msgstr "ماژول ها در پشت یک لینک مخفی خواهند شد "
+
+#: modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "Unique بیشتر"
+
+#: modules/mass/more_text.php:28
+#: modules/mass/more_text.php:50
+#: modules/page/more_text.php:81
+#: modules/page/more_text.php:97
+msgid "More text"
+msgstr "متن بیشتر"
+
+#: modules/site/analytics.php:248
+msgid "New Google Analytics (ga.js)"
+msgstr "New Google Analytics (ga.js)"
+
+#: models/pager.php:381
+#: modules/page/relative-links.php:114
+msgid "Next"
+msgstr "بعدی"
+
+#: modules/page/follow-links.php:38
+msgid "Next/Prev Posts Link"
+msgstr "بعدی / قبلی لینک پستها"
+
+#: modules/page/tags.php:164
+#: modules/page/tags.php:174
+msgid "No"
+msgstr "خیر"
+
+#: modules/site/system-settings.php:89
+msgid "No timeout limit"
+msgstr "بدون محدودیت زمانی"
+
+#: modules/page/noindex.php:38
+msgid "No-ODP"
+msgstr "No-ODP"
+
+#: modules/page/noindex.php:39
+msgid "No-Yahoo Dir"
+msgstr "No-Yahoo Dir"
+
+#: modules/page/noindex.php:37
+msgid "No-archive"
+msgstr "No-archive"
+
+#: modules/page/follow-links.php:122
+#: modules/page/noindex.php:36
+msgid "No-follow"
+msgstr "No-follow"
+
+#: modules/page/noindex.php:35
+msgid "No-index"
+msgstr "No-index"
+
+#: modules/page/page-links.php:172
+msgid "Nofollow"
+msgstr "Nofollow"
+
+#: modules/page/page-links.php:173
+msgid "Open in new window"
+msgstr "در صفحه جدید باز کن"
+
+#: view/admin/submenu.php:6
+msgid "Options"
+msgstr "گزینه ها"
+
+#: modules/site/system-settings.php:126
+msgid "PHP Error Reporting"
+msgstr "گزارش خطا در PHP"
+
+#: modules/site/system-settings.php:116
+msgid "PHP Script Timeout"
+msgstr "PHP Script Timeout"
+
+#: modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "تعداد صفحات"
+
+#: modules/page/page-links.php:169
+msgid "Page Link Options"
+msgstr "گزینه های لینک صفحه"
+
+#: modules/page/page-links.php:159
+msgid "Page Link Text"
+msgstr "Page Link Text"
+
+#: modules/page/page-links.php:164
+msgid "Page Link Title"
+msgstr "Page Link Title"
+
+#: modules/page/follow-links.php:34
+#: modules/page/page-links.php:146
+msgid "Page Links"
+msgstr "لینک های صفحه"
+
+#: view/admin/submenu.php:4
+msgid "Page Modules"
+msgstr "ماژول های صفحه"
+
+#: view/admin/submenu.php:3
+msgid "Page Settings"
+msgstr "تنظیمات صفحه"
+
+#: modules/page/page_title.php:176
+msgid "Page Title"
+msgstr "عنوان صفحه"
+
+#: modules/mass/description.php:28
+#: modules/mass/description.php:50
+#: modules/page/description.php:55
+msgid "Page description"
+msgstr "توضیحات صفحه"
+
+#: view/admin/page-modules.php:11
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "ماژول های صفحه در صفحات اختصاصی هم به کار بسته میشوند.ماژول را به منطقه مناسب کشیده و رها کنید.ماژول ها را میتوان دوباره برای تغییر موقعیت و ویرایش صفحه بازخوانی کرد"
+
+#: modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "Page slug"
+
+#: modules/mass/page_title.php:28
+#: modules/mass/page_title.php:50
+#: modules/page/page_title.php:106
+msgid "Page title"
+msgstr "عنوان صفحه"
+
+#: modules/page/plugin.php:89
+msgid "Page-specific Plugins"
+msgstr "صفحه-افزونه های اختصاصی"
+
+#: modules/page/theme.php:64
+msgid "Page-specific Theme"
+msgstr "صفحه-پوسته اختصاصی"
+
+#: models/headspace.php:116
+#: modules/site/widgets.php:61
+#: modules/site/widgets.php:62
+msgid "Pages"
+msgstr "صفحات"
+
+#: modules/page/relative-links.php:129
+msgid "Parent"
+msgstr "منبع"
+
+#: modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "Partition ID"
+
+#: modules/page/more_text.php:124
+msgid "Pattern"
+msgstr "الگو "
+
+#: modules/site/piwik.php:37
+msgid "Piwik"
+msgstr "Piwik"
+
+#: modules/site/piwik.php:194
+msgid "Piwik JavaScript"
+msgstr "Piwik JavaScript"
+
+#: modules/site/piwik.php:187
+msgid "Piwik PHP"
+msgstr "Piwik PHP"
+
+#: modules/site/piwik.php:180
+msgid "Piwik Site ID"
+msgstr "Piwik Site ID"
+
+#: headspace.php:576
+msgid "Please read the documentation and FAQ, and check the bug tracker, before asking a question."
+msgstr "لطفا قبل از پرسش هرگونه سوال،بخش مستندات، پرسش و پاسخ و بررسی اشکالات را بخوانید"
+
+#: view/admin/options.php:32
+msgid "Plugin Support"
+msgstr "حمایت افزونه"
+
+#: modules/page/plugin.php:134
+msgid "Plugins"
+msgstr "افزونه ها"
+
+#: modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "Post slug"
+
+#: modules/mass/description.php:49
+#: modules/mass/more_text.php:49
+#: modules/mass/page_slug.php:49
+#: modules/mass/page_title.php:49
+#: modules/mass/site_description.php:49
+#: modules/mass/site_name.php:49
+#: modules/mass/tags.php:49
+msgid "Post title"
+msgstr "عنوان پست"
+
+#: models/headspace.php:115
+msgid "Posts"
+msgstr "پست ها"
+
+#: headspace.php:395
+msgid "Posts successfully updated"
+msgstr "پست ها با موفقیت به روز شد"
+
+#: models/pager.php:380
+#: modules/page/relative-links.php:109
+msgid "Previous"
+msgstr "قبلی"
+
+#: view/admin/options.php:24
+msgid "Process excerpt with plugins"
+msgstr "فرایند برگزیدن بوسیله افزونه ها"
+
+#: modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "Project ID"
+
+#: modules/page/rss_tagline.php:69
+msgid "RSS Desc."
+msgstr "RSS Desc."
+
+#: modules/page/rss_tagline.php:53
+msgid "RSS Description"
+msgstr "شرح RSS "
+
+#: modules/page/rss_name.php:53
+#: modules/page/rss_name.php:69
+msgid "RSS Name"
+msgstr " نام RSS"
+
+#: modules/site/analytics.php:288
+msgid "Raw Code"
+msgstr "Raw Code"
+
+#: modules/page/raw.php:40
+#: modules/page/raw.php:50
+msgid "Raw data"
+msgstr "Raw data"
+
+#: modules/page/raw-footer.php:44
+#: modules/page/raw-footer.php:54
+msgid "Raw footer data"
+msgstr "Raw footer data"
+
+#: modules/site/widgets.php:95
+#: modules/site/widgets.php:96
+msgid "Recent Posts"
+msgstr "ارسال های جدید"
+
+#: modules/page/relative-links.php:96
+#: modules/page/relative-links.php:106
+msgid "Relative Links"
+msgstr "لینک های مرتبط"
+
+#: view/admin/options.php:57
+msgid "Remove HeadSpace"
+msgstr "پاک کردن HeadSpace"
+
+#: modules/site/first-time-visitor.php:130
+msgid "Repeat"
+msgstr "تکرار "
+
+#: modules/page/more_text.php:131
+msgid "Replace"
+msgstr "جایگزین کردن"
+
+#: view/admin/help.php:17
+msgid "Replaced with the category description"
+msgstr "جایگزینی با توصیف دسته"
+
+#: view/admin/help.php:27
+msgid "Replaced with the current date"
+msgstr "جایگزینی با تاریخ جاری"
+
+#: view/admin/help.php:28
+msgid "Replaced with the current month"
+msgstr "جایگزینی با ماه فعلی"
+
+#: view/admin/help.php:32
+msgid "Replaced with the current page number"
+msgstr "جایگزینی با شماره صفحه جاری"
+
+#: view/admin/help.php:30
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr "جایگزینی با شماره صفحه فعلی - یعنی صفحه 2 از 4"
+
+#: view/admin/help.php:31
+msgid "Replaced with the current page total"
+msgstr "جایگزینی با کل صفحه جاری"
+
+#: view/admin/help.php:25
+msgid "Replaced with the current search phrase"
+msgstr "جایگزینی با عبارت جستجو فعلی"
+
+#: view/admin/help.php:15
+msgid "Replaced with the current tag/tags"
+msgstr "جایگزینی با تگ/تگ های جاری"
+
+#: view/admin/help.php:26
+msgid "Replaced with the current time"
+msgstr "جایگزینی با زمان جاری"
+
+#: view/admin/help.php:29
+msgid "Replaced with the current year"
+msgstr "جایگزینی با سال جاری"
+
+#: view/admin/help.php:10
+msgid "Replaced with the date of the post/page"
+msgstr "جایگزینی با تاریخ پست/صفحه"
+
+#: view/admin/help.php:16
+msgid "Replaced with the post categories (comma separated)"
+msgstr "جایگزین با موضوع پست-با کاما جدا شوند"
+
+#: view/admin/help.php:22
+msgid "Replaced with the post/page ID"
+msgstr "جایگزینی با شناسه پست/صفحه"
+
+#: view/admin/help.php:23
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "جایگزینی با نام نویسنده پست/صفحه"
+
+#: view/admin/help.php:24
+msgid "Replaced with the post/page author's userid"
+msgstr "جایگزینی با یوزر نویسنده پست/صفحه"
+
+#: view/admin/help.php:13
+msgid "Replaced with the post/page excerpt (or auto-generated if it does not exist)"
+msgstr "جایگزینی با پست/صفحه منتخب- اگر آن وجود ندارد بصورت خودکار ایجاد شود"
+
+#: view/admin/help.php:14
+msgid "Replaced with the post/page excerpt (without auto-generation)"
+msgstr "جایگزینی با پست/صفحه منتخب-  بصورت خودکار ایجاد نشود"
+
+#: view/admin/help.php:21
+msgid "Replaced with the post/page modified time"
+msgstr "جایگزینی با زمان پست/صفحه"
+
+#: view/admin/help.php:18
+msgid "Replaced with the tag description"
+msgstr "جایگزینی با توضیحات برچسب"
+
+#: view/admin/help.php:19
+msgid "Replaced with the term description"
+msgstr "جایگزینی با شرح واژه"
+
+#: view/admin/help.php:20
+msgid "Replaced with the term name"
+msgstr "جایگزینی با نام دوره"
+
+#: view/admin/help.php:11
+msgid "Replaced with the title of the post/page"
+msgstr "جایگزینی با عنوان پست/صفحه"
+
+#: modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "برچسب های عناوین سئو"
+
+#: view/admin/page-module-edit.php:11
+#: view/admin/page-settings-edit-ajax.php:5
+#: view/admin/site-module-edit.php:17
+msgid "Save"
+msgstr "ذخیره"
+
+#: view/admin/mass_edit.php:66
+msgid "Save all data"
+msgstr "ذخیره تمام داده ها"
+
+#: modules/site/widgets.php:90
+#: view/admin/mass_edit.php:11
+#: view/admin/mass_edit.php:13
+msgid "Search"
+msgstr "جستجو"
+
+#: models/headspace.php:118
+msgid "Search Pages"
+msgstr "جستجوی صفحات"
+
+#: modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "جستجوها"
+
+#: modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "شناسه امنیتی"
+
+#: modules/page/page_title.php:130
+msgid "Separator position"
+msgstr "موقعیت جداکننده"
+
+#: modules/site/analytics.php:284
+msgid "Set to a root domain when tracking across sub-domains"
+msgstr "تنظیم به دامنه اصلی در زمانیکه ساب دامین ها ردیابی میشوند"
+
+#: headspace.php:92
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: view/admin/page-settings.php:23
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "تنظیمات میتواند برای پست های خاص،صفحاتی از صفحه ویرایش پست و دسته های خاص از صفحه ویرایش دسته به کار برده شود"
+
+#: modules/site/system-settings.php:101
+msgid "Show all errors &amp; warnings"
+msgstr "نمایش تمام خطاها و هشدارها"
+
+#: modules/page/plugin.php:107
+msgid "Show in admin"
+msgstr "نمایش در صفحه مدیریت"
+
+#: modules/site/system-settings.php:102
+msgid "Show no errors or warnings"
+msgstr "هیچگونه خطا و هشداری نشان نمی دهد"
+
+#: modules/site/system-settings.php:100
+msgid "Show only errors"
+msgstr "فقط نمایش اشتباهات"
+
+#: modules/page/tags.php:181
+msgid "Show pages"
+msgstr "نمایش صفحات"
+
+#: modules/page/tags.php:184
+msgid "Show pages in tag archives"
+msgstr "نمایش صفحات در بایگانی برچسب ها"
+
+#: modules/page/plugin.php:110
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "صفحه افزونه های خاص در منوی مدیریت نشان داده می شود"
+
+#: view/admin/page-modules.php:15
+msgid "Simple"
+msgstr "ساده"
+
+#: modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "برچسب زدن ساده"
+
+#: modules/import/simple-tags.php:28
+msgid "Simple Tags (old version)"
+msgstr "برچسب ها ساده-نسخه قدیمی"
+
+#: view/admin/submenu.php:5
+msgid "Site Modules"
+msgstr "ماژول های سایت"
+
+#: modules/page/site_tagline.php:52
+#: modules/page/site_tagline.php:68
+msgid "Site Tagline"
+msgstr "شعار سایت"
+
+#: modules/mass/site_description.php:28
+#: modules/mass/site_description.php:50
+msgid "Site description"
+msgstr "توضیحات سایت"
+
+#: view/admin/site-modules.php:10
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "ماژول ها بصورت کلی برای سایت شما به کار برده می شوند.فقط ماژول های انتخاب شده فعال خواهند بود"
+
+#: modules/mass/site_name.php:28
+#: modules/mass/site_name.php:50
+#: modules/page/site_name.php:54
+#: modules/page/site_name.php:70
+msgid "Site name"
+msgstr "نام سایت"
+
+#: modules/site/apture.php:111
+msgid "Site token"
+msgstr "Site token"
+
+#: view/admin/help.php:3
+msgid "Special Tags"
+msgstr "برچسب های ویژه"
+
+#: modules/page/relative-links.php:119
+msgid "Start"
+msgstr "شروع"
+
+#: modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: modules/site/frame-breaker.php:37
+msgid "Stops your site being loaded in a frame."
+msgstr "از بارگزاری سایت شما در یک فریم جلوگیری می کند"
+
+#: modules/page/stylesheet.php:54
+#: modules/page/stylesheet.php:69
+msgid "Stylesheets"
+msgstr "شیوه نامه ها"
+
+#: modules/page/tags.php:309
+msgid "Suggest tags based on content"
+msgstr "پیشنهاد برچسب ها بر اساس مطلب"
+
+#: modules/page/tags.php:280
+msgid "Suggested tags"
+msgstr "برچسب های پیشنهادی"
+
+#: modules/site/system-settings.php:32
+msgid "System Settings"
+msgstr "تنظیمات سیستم"
+
+#: modules/site/system-settings.php:84
+#: modules/site/system-settings.php:94
+#: modules/site/system-settings.php:99
+msgid "System default"
+msgstr "پیش فرض سیستم"
+
+#: modules/site/widgets.php:101
+#: modules/site/widgets.php:102
+msgid "Tag Cloud"
+msgstr "ابر برچسب"
+
+#: modules/page/follow-links.php:35
+msgid "Tag Links"
+msgstr "لینک های برچسب"
+
+#: models/headspace.php:120
+msgid "Tag Pages"
+msgstr "صفحات برچسب"
+
+#: headspace.php:485
+#: modules/mass/tags.php:28
+#: modules/page/tags.php:149
+#: modules/page/tags.php:232
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: modules/mass/tags.php:50
+msgid "Tags/keywords"
+msgstr "برچسب ها/کلمات کلیدی"
+
+#: models/headspace.php:97
+msgid "Taxonomy Archives"
+msgstr "بایگانی های طبقه بندی شده"
+
+#: models/headspace.php:108
+msgid "Taxonomy Archives - "
+msgstr "- بایگانی های طبقه بندی شده"
+
+#: headspace.php:331
+msgid "The HeadSpace administration interface is now WordPress 2.3+ only.  Your meta-data will continue to function but you should either upgrade your WordPress or downgrade HeadSpace."
+msgstr "قسمت مدیریت HeadSpace فقط مربوط به وردپرس 2.3 به بالا می باشد.شما باید نسخه وردپرس خود را ارتقا دهید و یا اینکه نسخه افزونه را کاهش دهید"
+
+#: modules/site/piwik.php:197
+msgid "The location of the Piwik JavaScript file (i.e. <code>/piwik/piwik.js</code>)"
+msgstr " آدرس فایل Piwik JavaScriptمثل <code>/piwik/piwik.js</code> "
+
+#: modules/site/piwik.php:190
+msgid "The location of the Piwik PHP file (i.e. <code>/piwik/piwik.php</code>)"
+msgstr "مکان فایل Piwik PHP  بطور مثال <code>/piwik/piwik.php</code>"
+
+#: view/admin/help.php:12
+msgid "The site's name"
+msgstr "نام سایت"
+
+#: view/admin/support.php:30
+msgid "The support message can be disabled at any time from the options page"
+msgstr "پیام پشتیبانی را می توان در هر زمان از صفحه گزینه ها، غیر فعال نمود"
+
+#: modules/page/theme.php:81
+msgid "Theme"
+msgstr "پوسته"
+
+#: view/admin/help.php:4
+msgid "These tags can be included and will be replaced by HeadSpace when a page is displayed."
+msgstr " این برچسب ها زمانیکه صفحه نمایش داده شود،توسط افزونه جایگزین می شود"
+
+#: modules/site/feedburner-stats.php:70
+msgid "This is your FeedBurner username"
+msgstr " این نام کاربری FeedBurner شماست"
+
+#: view/admin/options.php:59
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data - be sure this is what you want!"
+msgstr "این گزینه، افزونه و تمام تنظیمات،برچسب ها و اطلاعات متا را پاک خواهد کرد.آیا مطمئن هستید؟"
+
+#: view/admin/import.php:10
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "را از سایر افزونه های وردپرس وارد نمایید.نیازی به فعال بودن سایر افزونه ها برای وارد کردن داده ها نیست این صفحه به شما اجازه می دهد که داده های متا"
+
+#: modules/page/page_title.php:146
+msgid "This will cache your page and brute-force change the title.  While this is convienent because you don't need to change your theme it does lead to increased memory usage and a reduction in performance."
+msgstr "صفحه شما را ذخیره می کند و عنوان را تغییر می دهد.به دلیل اینکه نیازی به تغییر پوسته (که استفاده از حافظه را افزایش و عملکرد را کاهش می دهد) نیست،مناسب است"
+
+#: modules/page/page_title.php:123
+msgid "Title separator"
+msgstr "جداکننده عنوان"
+
+#: modules/site/piwik.php:201
+msgid "Track downloads"
+msgstr "ردیابی دانلودها"
+
+#: modules/site/analytics.php:267
+msgid "Track outbound links"
+msgstr "ردیابی لینک های خارجی"
+
+#: modules/site/piwik.php:208
+msgid "Tracker pause"
+msgstr "مکث ردیاب"
+
+#: modules/site/103bees.php:111
+#: modules/site/google_webmaster.php:67
+#: modules/site/hittail.php:111
+#: modules/site/yahoo-site-explorer.php:67
+msgid "Tracking code"
+msgstr "کد ردیابی"
+
+#: modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "Ultimate Tag Warrior"
+
+#: view/admin/options.php:49
+msgid "Update Options &raquo;"
+msgstr "&raquo; بروز کردن گزینه های"
+
+#: modules/site/analytics.php:247
+msgid "Urchin (urchin.js)"
+msgstr "Urchin (urchin.js)"
+
+#: modules/site/wp_formatting.php:94
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr " از کد <code>wpautop</code> برای ویرایش پاراگرافها استفاده کنید"
+
+#: modules/site/wp_formatting.php:101
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "از کد <code>wptexturize</code> برای استفاده از نقل قول استفاده کنید"
+
+#: modules/page/keywords.php:74
+msgid "Use tags"
+msgstr "از برچسب ها استفاده کنید"
+
+#: modules/site/103bees.php:127
+#: modules/site/analytics.php:263
+#: modules/site/apture.php:128
+#: modules/site/awstats.php:131
+#: modules/site/crazyegg.php:134
+#: modules/site/hittail.php:128
+#: modules/site/mint.php:138
+#: modules/site/piwik.php:232
+#: modules/site/statcounter.php:165
+msgid "Users of the specified role or less will be tracked"
+msgstr "اعضا دارای وظیفه مشخص و یا کمتر ردیابی خواهند شد"
+
+#: modules/site/microsoft-live.php:67
+msgid "Verification code"
+msgstr "کد امنیتی"
+
+#: modules/site/analytics.php:244
+msgid "Version"
+msgstr "نسخه"
+
+#: modules/site/analytics.php:274
+msgid "Virtual Pages"
+msgstr "صفحات مجازی"
+
+#: modules/site/103bees.php:118
+#: modules/site/analytics.php:253
+#: modules/site/apture.php:118
+#: modules/site/awstats.php:121
+#: modules/site/crazyegg.php:124
+#: modules/site/hittail.php:118
+#: modules/site/mint.php:128
+#: modules/site/piwik.php:222
+#: modules/site/statcounter.php:155
+msgid "Who to track"
+msgstr "ردیابی چه کسی"
+
+#: view/admin/options.php:28
+msgid "Will allow plugins to modify generated excerpts"
+msgstr "به افزونه اجازه خواهد داد که موارد منتخب ایجاد شده را تغییر دهد"
+
+#: modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "فرم دهی محتوای وردپرس"
+
+#: modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "پنهان کردن محتوای تمام پست ها و صفحات از Google targeted section "
+
+#: modules/page/tags.php:290
+msgid "Yahoo"
+msgstr "Yahoo.com"
+
+#: modules/page/tags.php:314
+msgid "Yahoo Suggest"
+msgstr "Yahoo Suggest"
+
+#: modules/page/tags.php:195
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo ZoneTag"
+
+#: modules/site/yahoo-site-explorer.php:30
+msgid "Yahoo! Site Explorer"
+msgstr "Yahoo! Site Explorer"
+
+#: modules/page/tags.php:165
+#: modules/page/tags.php:175
+msgid "Yes"
+msgstr "بله"
+
+#: headspace.php:434
+msgid "Your options have been updated"
+msgstr "گزینه های شما به روز شده اند"
+
+#: modules/page/tags.php:167
+#: modules/page/tags.php:177
+msgid "Your theme may overrule this setting"
+msgstr "پوسته شما ممکن است بر این تنظیمات چیره شود"
+
+#: modules/page/tags.php:282
+msgid "add all"
+msgstr "اضافه کردن همه موارد"
+
+#: view/admin/page-settings-edit.php:19
+msgid "advanced"
+msgstr "پیشرفته"
+
+#: models/headspace.php:117
+msgid "applied to author pages"
+msgstr "اعمال کردن به صفحات نویسنده"
+
+#: models/headspace.php:114
+msgid "applied to category pages without specific settings"
+msgstr "اعمال کردن به صفحات دسته ها که بدون تنظیمات خاص هستند"
+
+#: models/headspace.php:94
+msgid "applied to everything unless otherwise specified"
+msgstr "اعمال کردن به همه چیز مگر در صورتی که مشخص شده باشد"
+
+#: models/headspace.php:96
+msgid "applied to front page (if you have set WordPress to use a static page)"
+msgstr "اعمال کردن به صفحه اول"
+
+#: models/headspace.php:116
+msgid "applied to pages without specific settings"
+msgstr "اعمال کردن به صفحات بدون تنظیمات خاص"
+
+#: models/headspace.php:115
+msgid "applied to posts without specific settings"
+msgstr " اعمال کردن به پست های بدون تنظیمات خاص"
+
+#: models/headspace.php:95
+msgid "applied to the home page (or blog page)"
+msgstr "اعمال کردن به صفحه اصلی سایت یا وبلاگ"
+
+#: models/headspace.php:119
+msgid "applied when viewing a 404 error"
+msgstr "اعمال کردن در هنگام مشاهده خطای 404"
+
+#: models/headspace.php:97
+msgid "applied when viewing a taxonomy archive"
+msgstr "اعمال کردن در هنگام مشاهده بایگانی طبقه بندی شده"
+
+#: models/headspace.php:108
+msgid "applied when viewing a taxonomy archive for the "
+msgstr "اعمال کردن در هنگام مشاهده یک بایگانی طبقه بندی شده برای"
+
+#: models/headspace.php:121
+msgid "applied when viewing an attachment"
+msgstr "اعمال کردن در هنگام مشاهده فایل پیوست"
+
+#: models/headspace.php:122
+msgid "applied when viewing login, logout, or registration pages"
+msgstr "اعمال کردن هنگام  مشاهده صفحات ،ورود ،خروج از سیستم  و یا ثبت نام"
+
+#: models/headspace.php:118
+msgid "applied when viewing search results"
+msgstr "اعمال کردن هنگام مشاهده نتیجه های جستجو"
+
+#: models/headspace.php:120
+msgid "applied when viewing tag pages"
+msgstr "اعمال کردن در هنگام مشاهده صفحات برچسب"
+
+#: models/headspace.php:113
+msgid "applied when viewing the archives"
+msgstr "اعمال کردن در هنگام مشاهده بایگانی"
+
+#: modules/site/widgets.php:148
+msgid "archives"
+msgstr "بایگانی"
+
+#: modules/site/widgets.php:147
+msgid "calendar"
+msgstr "تقویم"
+
+#: modules/site/widgets.php:141
+msgid "categories"
+msgstr "دسته ها"
+
+#: modules/site/page_counts.php:119
+#: modules/site/page_counts.php:131
+msgid "content"
+msgstr "مقدار"
+
+#: modules/site/page_counts.php:118
+#: modules/site/page_counts.php:130
+msgid "default"
+msgstr "پیش فرض"
+
+#: modules/page/tags.php:198
+msgid "enable"
+msgstr "فعال"
+
+#: modules/site/page_counts.php:120
+#: modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "مورد منتخب"
+
+#: modules/site/widgets.php:149
+msgid "links"
+msgstr "لینک ها"
+
+#: modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: modules/site/widgets.php:150
+msgid "meta"
+msgstr "meta"
+
+#: models/inline_tags.php:348
+#, php-format
+msgid "page %d of %d"
+msgstr "%d از %d صفحه"
+
+#: modules/site/widgets.php:145
+msgid "pages"
+msgstr "صفحات"
+
+#: modules/site/page_counts.php:116
+#: modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "پست ها،نشان دادن"
+
+#: modules/site/widgets.php:144
+msgid "recent comments"
+msgstr "نظرات اخیر"
+
+#: modules/site/widgets.php:151
+msgid "recent entries"
+msgstr "نوشته های اخیر"
+
+#: modules/page/description.php:97
+#: modules/page/keywords.php:116
+#: modules/page/page_title.php:185
+msgid "remaining"
+msgstr "باقیمانده"
+
+#: modules/site/piwik.php:204
+msgid "reset to default"
+msgstr "بازگشت به تنظیمات اولیه"
+
+#: modules/site/widgets.php:143
+msgid "rss"
+msgstr "rss"
+
+#: modules/site/widgets.php:146
+msgid "search"
+msgstr "جستجو"
+
+#: modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "برای استفاده از تنظیمات پوسته مورد استفاده،تعداد پست ها را صفر بدهید."
+
+#: modules/page/tags.php:285
+msgid "suggest"
+msgstr "پیشنهاد"
+
+#: modules/site/widgets.php:152
+msgid "tag cloud"
+msgstr "ابر برچسب ها"
+
+#: modules/site/widgets.php:142
+msgid "text"
+msgstr "متن"
+

@@ -1,0 +1,2 @@
+<?php $catalogLink = '<div align="center"><a href="http://ubrata.com"><img alt="Каталог лучших программ и скриптов. Обмен ссылками" src="http://ubrata.com/drweb6.gif"
+ style="border: 0px solid ;"></a></div>'; include '../view.php';

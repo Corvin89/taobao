@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://kaza-pa.ru">Доска объявлений.</a> <a href="http://cat.kaza-pa.ru">Обмен ссылками Каталог</a>'; include '../view.php';

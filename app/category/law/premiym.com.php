@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.premiym.com/" target="_blank"><img src="http://www.premiym.com/images/powered/knopkinasaite/premium88X31.png" width="88" border="0" height="31"></a>'; include '../view.php';

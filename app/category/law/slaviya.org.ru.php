@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://slaviya.org.ru/">Анапа гостиница</a> "Славия". Описание, фотографии, форма заказа, <a href="http://slaviya.org.ru/cgi-bin/yabb2/YaBB.pl">форум об отдыхе в Анапе</a>, online заказ.'; include '../view.php';

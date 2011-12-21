@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dogclub.biz" title="бельгийский гриффон, брюссельский гриффон, пти брабансон"><img src=http://www.dogclub.biz/images/a.gif width=88  height=31 border=0 alt="собаки породы гриффон"></a>'; include '../view.php';

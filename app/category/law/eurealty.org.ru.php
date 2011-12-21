@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.eurealty.info" target="_blank">Недвижимость в Европе</a>: аренда <a href="http://www.eurealty.info/index.php?action=search_step_2&pclass[]=5" target="_blank">коммерческой недвижимости</a>'; include '../view.php';

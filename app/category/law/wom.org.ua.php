@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://wom.org.ua" target="_blank">Это сайт для женщин… матерей, жен, дочек.</a>'; include '../view.php';

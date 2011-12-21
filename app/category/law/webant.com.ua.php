@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://webant.com.ua">Студия web дизайна, разработка сайтов, разработка порталов, создание баннеров и сайтов flash</a>'; include '../view.php';

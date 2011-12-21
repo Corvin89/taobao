@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sobaka.mobi/" title="мобильная собака"><img src="http://sobaka.mobi/images/a.gif" width=88 height=31 border=0 alt="продажа щенков, продаются собаки"></a>'; include '../view.php';

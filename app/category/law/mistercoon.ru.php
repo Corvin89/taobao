@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://mistercoon.ru' target='_blank'><b>Mister Coon*Ru</b></a><br />Питомник мейн кунов Mister Coon,кошек великанов'; include '../view.php';

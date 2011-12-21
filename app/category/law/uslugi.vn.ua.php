@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.uslugi.vn.ua/links">Каталог Винницких сайтов</a>'; include '../view.php';

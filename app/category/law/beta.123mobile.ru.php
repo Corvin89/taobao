@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href=http://www.123mobile.ru/video3gp.php>3GP Видео для мобильных телефонов</a>
+<a title=Каталог сайтов Beta href=http://www.beta.123mobile.ru>Обмен ссылками</a>'; include '../view.php';

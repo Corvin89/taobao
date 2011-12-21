@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.chetvod.ru/" target="_blank" title="Установка счетчиков воды ( расходомеров , водосчетчиков )"><i><b>Установка счетчиков воды ( расходомеров , водосчетчиков )</b></i></a>'; include '../view.php';

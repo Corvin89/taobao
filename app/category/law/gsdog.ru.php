@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gsdog.ru" target="_blank">О породе немецкая овчарка.</a> Результаты выставок с фотографиями, форум, база данных.'; include '../view.php';

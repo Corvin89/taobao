@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sovetsk39.ru"><img src="http://sovetsk39.ru/images/button1_sovetsk39.gif" border="0" title="Тильзит сайт города Советска"></a>'; include '../view.php';

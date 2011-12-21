@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mielewash.ru">Техника Miele - посудомоечные машины, дозирующие устройства, сменные панели для посудомоечных машин</a>'; include '../view.php';

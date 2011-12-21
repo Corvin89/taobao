@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Огромная коллекция аватаров. <a href="http://www.1001avatar.ru">Аватары для ICQ и аватары для QIP</a>. Скачать аватары бесплатно.'; include '../view.php';

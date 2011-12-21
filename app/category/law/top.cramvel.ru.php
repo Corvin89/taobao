@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://top.cramvel.ru" target=_blank><b>Каталог ссылок</b></a>'; include '../view.php';

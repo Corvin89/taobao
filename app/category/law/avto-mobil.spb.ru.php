@@ -1,0 +1,1 @@
+<?php $catalogLink = 'заказать <a href=http://avto-mobil.spb.ru> эвакуатор спб,   камаз</a> круглосуточная работа <a href="http://avto-mobil.spb.ru/diz.htm">каталог</a>'; include '../view.php';

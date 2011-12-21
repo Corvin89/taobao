@@ -1,0 +1,1 @@
+<?php $catalogLink = 'У нас высшего качества <a href="http://www.krovtorg.ru">Кровельные материалы, мягкая кровля, металлочерепица: Icopal, Ruflex, Tegola</a>.'; include '../view.php';

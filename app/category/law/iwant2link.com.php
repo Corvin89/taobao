@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.iwant2link.com">IWant2Link.com | Free Website Submission Link Directory | Search Engine Submit | Web List</a>'; include '../view.php';

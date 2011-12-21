@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ruhost.org">PHP MySQL платный хостинг</a>'; include '../view.php';

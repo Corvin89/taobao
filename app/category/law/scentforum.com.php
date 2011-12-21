@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.scentforum.com/resource-directory/">Scent Forum Resource Directory</a>'; include '../view.php';

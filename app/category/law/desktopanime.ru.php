@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://desktopanime.ru/'>Лучшие аниме обои на рабочий стол!</a>'; include '../view.php';

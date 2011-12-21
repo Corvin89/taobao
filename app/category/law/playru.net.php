@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.playru.net">Новости киберспорта, статьи, обзоры, интервью с геймерами</a>'; include '../view.php';

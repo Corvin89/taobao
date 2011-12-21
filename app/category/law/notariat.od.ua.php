@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.notariat.od.ua/notarius.html">Нотариусы Одессы и области.</a>'; include '../view.php';

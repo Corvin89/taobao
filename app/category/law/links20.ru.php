@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.links20.ru/" title="Links 2.0" target="_blank"><img src="http://www.links20.ru/stat/?url=boardseo.ru" border="0" /></a>'; include '../view.php';

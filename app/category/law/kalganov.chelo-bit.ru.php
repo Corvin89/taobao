@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://chelo-bit.ru/>доступное деревянное загородное жилье</a>'; include '../view.php';

@@ -1,0 +1,2 @@
+<?php $catalogLink = 'Большой варез портал (warez) <a href="http://pq17.net/index.php">pq17.net</a> можно бесплатно скачать любой софт, игру, видео или музыку.<br>
+<a href="http://10z.biz/">Каталог ссылок</a>'; include '../view.php';

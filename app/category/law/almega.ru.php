@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://almega.ru><strong>Крафт-Автомир :</strong></a> <a href=http://almega.ru>автозапчасти, автокосметика, автоаксессуары, автоинструмент, освежители воздуха</a>'; include '../view.php';

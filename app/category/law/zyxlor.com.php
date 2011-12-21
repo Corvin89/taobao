@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.zyxlor.com/">Zyxlor Premium Directory</a>'; include '../view.php';

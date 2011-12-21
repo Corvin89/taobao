@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.rightlink.ru">Каталог правильных ссылок</a>'; include '../view.php';

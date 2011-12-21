@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.shopklass.net>Справочник Интернет-Магазинов</a>'; include '../view.php';

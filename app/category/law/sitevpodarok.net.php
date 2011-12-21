@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a title="Как создать свой сайт бесплатно за 5 минут.Сайт в подарок."
+ href="http://sitevpodarok.net" target="_blank">Как создать свой сайт бесплатно за 5 минут.Сайт в подарок.</a>'; include '../view.php';

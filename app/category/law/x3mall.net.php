@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.x3mall.net">flesh games</a>'; include '../view.php';

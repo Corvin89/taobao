@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.autoprajs.ru/">коврики автомобильные</a> AutoPrajs.ru | <a href="http://www.remontgitar.ru/">ремонт гитар и </a>электро гитар'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.corelinks.info/">Core Links</a>'; include '../view.php';

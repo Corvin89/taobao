@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.techart-tuning.ru/" target=_blank><img src="http://www.techart-tuning.ru/images/b/b_techart.gif" border=0 width=88 height=31 alt="Тюнинг Techart для Порше Кайен Porsche Cayenne. Диски."></a>'; include '../view.php';

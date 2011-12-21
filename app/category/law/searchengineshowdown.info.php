@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.searchengineshowdown.info">SearchEngineShowDown.info</a>'; include '../view.php';

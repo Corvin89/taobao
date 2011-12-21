@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--begin of PetalLifes.urmis.ru code--><a href="http://petallifes.urmis.ru" target="_blank"><img border="0" src="http://petallifes.urmis.ru/images/banner88x31_3.gif" width="88" height="31" alt="Ìåäèöèíñêàÿ äîñêà îáúÿâëåíèé ËÅÏÅÑÒÎÊ ÆÈÇÍÈ"></a><!--end of PetalLifes.urmis.ru code-->'; include '../view.php';

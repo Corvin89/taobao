@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href= http://www.mihaylovskaya.com.ru/> Тренинги, консультации, по методике А.Свияша, коучинг</a>'; include '../view.php';

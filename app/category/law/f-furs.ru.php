@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.f-furs.ru"><img src="http://www.f-furs.ru/top/logotop.gif" alt="меховые фабрики, шубы." border="0"></a><br>
+Шубы из <a href="http://www.f-furs.ru">голубой норки и соболя</a> от производителей'; include '../view.php';

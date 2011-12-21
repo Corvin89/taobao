@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.wavesurf.ru/?ref=1><img src=http://www.wavesurf.ru/banners/ban3.gif border=0 width="88" height="31"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lxl.com.ua">Эликсель электро фурнитура</a> - Все для освещения у Вас в доме.'; include '../view.php';

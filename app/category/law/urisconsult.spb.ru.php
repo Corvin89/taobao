@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Юридическая компания "Юрисконсульт"" href="http://www.urisconsult.spb.ru/">Юридические услуги и консультации в Петербурге</a>'; include '../view.php';

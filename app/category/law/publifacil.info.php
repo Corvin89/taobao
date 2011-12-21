@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.publifacil.info">Publifacil Web Directory :: SEO Friendly Directory</a>'; include '../view.php';

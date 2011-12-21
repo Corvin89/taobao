@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.spectehnik.com">Продажа китайской спецтехники КНР</a>'; include '../view.php';

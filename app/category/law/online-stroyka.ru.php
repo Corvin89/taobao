@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.online-stroyka.ru>Строительный каталог самых интересных статей и полезных ссылок.</a>'; include '../view.php';

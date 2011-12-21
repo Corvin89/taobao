@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.scean.ru>Средство для лечения дерматита, экземы, псориаза</a>.'; include '../view.php';

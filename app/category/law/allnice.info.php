@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://spb.allnice.info" target="_blank"><strong>Салоны красоты Петербурга</strong></a> - модные тенденции, мастер классы'; include '../view.php';

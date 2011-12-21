@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.volta.net/">Yellow Pages</a>'; include '../view.php';

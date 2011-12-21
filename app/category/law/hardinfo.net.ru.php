@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://hardinfo.net.ru/drivers/index.shtml"><b>Скачать драйвера</b></a> для Вашего компьютерного оборудования'; include '../view.php';

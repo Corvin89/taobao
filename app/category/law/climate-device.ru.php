@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.climate-device.ru">фреон, тепловой насос</a>, <a href="http://www.climate-device.ru/unit/warm/">инфракрасный газовый обогреватель</a>'; include '../view.php';

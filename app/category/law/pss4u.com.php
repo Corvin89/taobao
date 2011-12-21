@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.pss4u.com">Private Detective Agency Ukraine "Personal Security Solutions" PSS. Private Detective agency "Personal Security Solutions" (PSS) offers a comprehensive range of investigative services in all cities of Ukraine. </a>'; include '../view.php';

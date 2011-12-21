@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.rightnowloads.com"><b>24/7 Toll Free Dispatch Service. Find Truck Loads</b></a><br>Find Truck Loads and Tuck Drivers to move avaiable truck loads.'; include '../view.php';

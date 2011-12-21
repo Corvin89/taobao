@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://industry.naletu.su"> аталог сайтов промышленной тематики</a>'; include '../view.php';

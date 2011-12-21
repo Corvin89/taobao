@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sales-promotion.su">sales-promotion.su - промо акции, проведение промо акции в Москве</a> промо акции, проведение промо акции в Москве'; include '../view.php';

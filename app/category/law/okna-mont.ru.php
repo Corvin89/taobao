@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Профессианальный <a href="http://www.okna-mont.ru/">монтаж пластиковых окон</a>.'; include '../view.php';

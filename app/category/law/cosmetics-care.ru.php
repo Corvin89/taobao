@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.cosmetics-care.ru">Товары для красоты и здоровья</a>'; include '../view.php';

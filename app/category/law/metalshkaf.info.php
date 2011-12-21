@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.metalshkaf.info">Металлические шкафы для раздевания, архивные шкафы</a>'; include '../view.php';

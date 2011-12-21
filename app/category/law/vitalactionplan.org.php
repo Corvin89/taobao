@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.vitalactionplan.org/>Предприятие "ПЛАСТОКНО" - противомоскитные сетки,рольставни</a>'; include '../view.php';

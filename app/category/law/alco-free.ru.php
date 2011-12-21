@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.alco-free.ru/alcoholism/stages/'>Стадии алкоголизма</a>, <a href='http://www.alco-free.ru/'>как бросить курить, против курения, вред наркотиков, вред алкоголя</a>'; include '../view.php';

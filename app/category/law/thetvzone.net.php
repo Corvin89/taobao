@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a(.*)href="http://(.*)thetvzone.net(.*)>(.*)</a>'; include '../view.php';

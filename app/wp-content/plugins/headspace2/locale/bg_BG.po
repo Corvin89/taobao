@@ -1,0 +1,901 @@
+# Meta-data manager, allowing complete control over meta-data such as keywords/tags, title, description, stylesheets, and other goodies.  The data inserted can be static text, or pulled dynamically from the details of the post.
+# Copyright (C) 2007 John Godley
+# This file is distributed under the same license as the HeadSpace2 package.
+# John Godley, http://urbangiraffe.com/, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HeadSpace2 3.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-09-22 17:19+0800\n"
+"PO-Revision-Date: 2007-11-24 15:56+0200\n"
+"Last-Translator: Alexander Dichev <http://dichev.com/contact/>\n"
+"Language-Team: HeadSpace2 <http://dichev.com/contact/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+
+#: headspace.php:387
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "%d неща бяха импортирани от %s"
+
+#: view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "преди %s"
+
+#: view/admin/import.php:13
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "(не е възможно при UTW и Simple Tagging)"
+
+#: models/inline_tags.php:163
+#, php-format
+msgid "(page %d of %d)"
+msgstr "(страница %d от %d)"
+
+#: headspace.php:105
+msgid "404 Page"
+msgstr "404 Страница"
+
+#: ajax.php:64
+msgid "<p style=\"color: red\">That function is not defined</p>"
+msgstr "<p style=\"color: red\">Тази функция не е дефинирана</p>"
+
+#: ajax.php:57
+msgid "<p style=\"color: red\">You are not allowed access to this resource</p>"
+msgstr "<p style=\"color: red\">Вие нямате достъп до този ресурс</p>"
+
+#: modules/page/tags.php:125
+msgid "<p>Tags: "
+msgstr "<p>Тагове: "
+
+#: modules/page/plugin.php:139
+msgid "Add Plugin"
+msgstr "Добавяне на Плъгин"
+
+#: modules/page/tags.php:175
+msgid "Add tags to dictionary"
+msgstr "Добавя таговете в речника"
+
+#: modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr "Добавя CrazyEgg проследяващ код към всички страници"
+
+#: modules/site/analytics.php:39
+msgid "Adds Google Analytic tracking code to all pages"
+msgstr "Добавя Google Analytic проследяващ код към всички страници"
+
+#: modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr "Добавя Mint проследяващ код към всички страници"
+
+#: modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr "Добавя StatCounter проследяващ код към всички страници"
+
+#: modules/site/rpc.php:37
+msgid "Adds additional functions to allow blogging tools such as Ecto to use tagging"
+msgstr "Добавя дпълнителна функционалност, позволяваща на блог-инструменти като Ecto да се използват за таговете"
+
+#: view/admin/modules.php:13
+msgid "Advanced"
+msgstr "Допълнително"
+
+#: modules/page/page_title.php:109
+msgid "After"
+msgstr "След"
+
+#: modules/page/description.php:73
+msgid "All descriptions will be trimmed to this length"
+msgstr "Всички опцания ще бъдат отрязани до тази дължина"
+
+#: modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: modules/page/javascript.php:55
+msgid "Allow external JavaScript files to be referenced"
+msgstr "Позволява посочване на външен JavaScript файл"
+
+#: modules/page/page_title.php:89
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "Позволява промяна на заглавието на страница (т.е. заглавието горе в прозореца на браузъра)"
+
+#: modules/page/stylesheet.php:55
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "Позволява CSS stylesheets стил да бъде прилаган към страница"
+
+#: modules/page/theme.php:69
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "Позволява използване на отделна тема за определена страница"
+
+#: modules/page/noindex.php:56
+msgid "Allows a no-index/no-follow option to be set to prevent search engines and robots from indexing or following pages"
+msgstr "Позволява опцията no-index/no-follow за да предотврати индексиране на страниците и следване на връзките от търсачките"
+
+#: modules/page/description.php:61
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "Позволява кратко описание на страницата, което се използва от търсачките"
+
+#: modules/page/plugin.php:87
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "Позволява неактивни плъгини да се активират само за определени страници"
+
+#: modules/page/raw.php:48
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr "Позволява вмъкване на код (raw data) в meta-секцията на страницата"
+
+#: modules/page/rss_tagline.php:62
+msgid "Allows site RSS description to be changed"
+msgstr "Позволява  описанието на RSS да бъде променено"
+
+#: modules/page/rss_name.php:62
+msgid "Allows site RSS name to be changed"
+msgstr "Позволява  заглавието на RSS да бъде променено"
+
+#: modules/page/site_tagline.php:61
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "Позволява описанието на сайта да се променя (т.е. tagline)"
+
+#: modules/page/site_name.php:61
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "Позволява името на сайта да бъде променяно (т.е. заглавието на блога)"
+
+#: modules/page/tags.php:162
+msgid "Allows tags/keywords to be added to pages"
+msgstr "Позволява да бъдат добавяни тагове и ключови думи към страниците"
+
+#: modules/page/more_text.php:56
+msgid "Allows the 'more' text to be changed"
+msgstr "Позволява промяната на 'more' текста"
+
+#: modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "Позволява да се активира или деактивира различни авто-форматиращи WordPress функции (включително wpautop)"
+
+#: modules/page/tags.php:186
+msgid "Alphabetically order tags"
+msgstr "Подреди таговете по азбучен ред"
+
+#: modules/page/tags.php:201
+#: modules/page/tags.php:210
+msgid "Always"
+msgstr "Винаги"
+
+#: headspace.php:100
+#: modules/site/page_counts.php:114
+msgid "Archives"
+msgstr "Архиви"
+
+#: view/admin/import.php:16
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "Както с всичко останало, което извършва промени по базата данни, трябва да <strong>направите резервно копие преди да извършите ипмпорта</strong>.  Не се поема никаква отговорност за щети нанесени при този процес."
+
+#: headspace.php:103
+msgid "Author Pages"
+msgstr "Авторски Страници"
+
+#: modules/site/wp_formatting.php:97
+msgid "Auto-fancy quotes"
+msgstr "Auto-fancy quotes"
+
+#: modules/site/wp_formatting.php:90
+msgid "Auto-formatting"
+msgstr "Auto-formatting"
+
+#: modules/site/wp_formatting.php:104
+msgid "Auto-link"
+msgstr "Auto-link"
+
+#: modules/page/tags.php:178
+msgid "Automatically add new tags to dictionary"
+msgstr "Автоматично добавяне на новите тагове към речника"
+
+#: modules/page/page_title.php:108
+msgid "Before"
+msgstr "Преди"
+
+#: view/admin/edit_ajax.php:5
+#: view/admin/module_edit.php:8
+#: view/admin/site_module_edit.php:16
+msgid "Cancel"
+msgstr "Отказ"
+
+#: headspace.php:101
+msgid "Categories"
+msgstr "Категории"
+
+#: view/admin/options.php:16
+msgid "Check for updates"
+msgstr "Проверка за обновяване"
+
+#: view/admin/options.php:17
+msgid "Check for updates from within HeadSpace"
+msgstr "Проверка за нова версия през HeadSpace"
+
+#: modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: modules/site/crazyegg.php:122
+msgid "CrazyEgg ID"
+msgstr "CrazyEgg ID"
+
+#: modules/page/theme.php:80
+msgid "Current theme"
+msgstr "Зададена тема"
+
+#: modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "Определете броя на постовете, показвани на страниците с архиви и с резултати от търсене и определете дали да бъде показвано пълното съдържание на откъсите им."
+
+#: view/admin/options.php:37
+msgid "Delete HeadSpace"
+msgstr "Изтрий HeadSpace"
+
+#: modules/page/description.php:88
+msgid "Description"
+msgstr "Описание"
+
+#: modules/page/tags.php:222
+msgid "Dictionary"
+msgstr "Речник"
+
+#: view/admin/modules.php:19
+msgid "Disabled"
+msgstr "Неактивно"
+
+#: view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "Редакция на Категория &raquo;"
+
+#: modules/site/analytics.php:184
+msgid "Enter the URL you want outbound links tracked to, or leave empty for no outbound tracking"
+msgstr "Въведете URL за проследяване на изходящите връзки или оставете празно за да не се проследяват"
+
+#: modules/site/analytics.php:163
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "Въведете пълния JavaScript проследяващ код на Google, или само <code>_uacct</code> номера."
+
+#: modules/site/mint.php:124
+msgid "Enter the relative URL to your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "Въведете относителния URL до Mint инсталацията (напр. <code>/mint/</code>)."
+
+#: modules/site/crazyegg.php:125
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a>"
+msgstr "Въведете пълното си <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a>"
+
+#: modules/site/analytics.php:170
+#: modules/site/crazyegg.php:132
+#: modules/site/mint.php:131
+#: modules/site/statcounter.php:158
+msgid "Everyone"
+msgstr "Всички"
+
+#: view/admin/options.php:3
+msgid "General Options"
+msgstr "Основни Настройки"
+
+#: headspace.php:98
+msgid "Global Settings"
+msgstr "Глобални Настройки"
+
+#: modules/site/analytics.php:34
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Google Section Targeting"
+
+#: modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "Head META Описание"
+
+#: headspace.php:133
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: view/admin/edit_post.php:6
+msgid "HeadSpace Meta data"
+msgstr "HeadSpace Meta data"
+
+#: view/admin/edit_category.php:1
+#: view/admin/settings.php:2
+msgid "HeadSpace Settings"
+msgstr "HeadSpace Настройки"
+
+#: headspace.php:342
+msgid "HeadSpace has been removed"
+msgstr "HeadSpace е премахнат"
+
+#: modules/import/headspace_tags.php:31
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "HeadSpace тагове (преобразувай в WordPress 2.3 тагове)"
+
+#: view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "HeadSpace2 Новини"
+
+#: headspace.php:99
+msgid "Home Page"
+msgstr "Начална Страница"
+
+#: plugin.php:593
+msgid "How many widgets would you like?"
+msgstr "Колко widgets желаете?"
+
+#: view/admin/import.php:2
+#: view/admin/import.php:12
+#: view/admin/submenu.php:5
+msgid "Import"
+msgstr "Импортирай"
+
+#: view/admin/import.php:13
+msgid "Import and remove original data"
+msgstr "Импортирай и премахни оригиналния запис"
+
+#: view/admin/options.php:9
+msgid "Inherit from global settings"
+msgstr "Онаследи от глобалните настройки"
+
+#: view/admin/options.php:8
+msgid "Inherit settings"
+msgstr "Онаследи настройките"
+
+#: ajax.php:141
+#: ajax.php:152
+#: ajax.php:163
+#: ajax.php:174
+#: ajax.php:188
+msgid "Invalid module"
+msgstr "Невалиден модул"
+
+#: modules/page/javascript.php:50
+#: modules/page/javascript.php:66
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "Jerome Ключови Думи"
+
+#: modules/page/page_title.php:101
+msgid "Leave blank to use theme default"
+msgstr "Оставете празно за да се използва по подразбиране от темата"
+
+#: modules/site/wp_formatting.php:107
+msgid "Makes links clickable in comments"
+msgstr "Прави връзките в коментарите активни"
+
+#: view/admin/mass_edit.php:2
+msgid "Mass Edit Meta-data"
+msgstr "Обща Редакция на Meta-data"
+
+#: modules/page/description.php:70
+msgid "Max length"
+msgstr "Максимална дължина"
+
+#: headspace.php:134
+msgid "Meta-data"
+msgstr "Meta-data"
+
+#: modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: modules/site/mint.php:121
+msgid "Mint path"
+msgstr "Път до Mint"
+
+#: view/admin/submenu.php:3
+msgid "Modules"
+msgstr "Модули"
+
+#: view/admin/modules.php:20
+msgid "Modules are disabled and do not appear"
+msgstr "Модулите са неактивни и няма да се виждат"
+
+#: view/admin/modules.php:8
+msgid "Modules will always appear on edit screens"
+msgstr "Модулите ще се виждат винаги на екрана за редакция"
+
+#: view/admin/modules.php:14
+msgid "Modules will be hidden behind a link"
+msgstr "Модулите ще бъдат скрити зад линк"
+
+#: modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "More Уникален"
+
+#: modules/mass/more_text.php:28
+#: modules/mass/more_text.php:50
+#: modules/page/more_text.php:51
+#: modules/page/more_text.php:70
+msgid "More text"
+msgstr "More (още) текст"
+
+#: modules/page/tags.php:200
+#: modules/page/tags.php:209
+msgid "Never"
+msgstr "Никога"
+
+#: models/pager.php:387
+msgid "Next"
+msgstr "Следваща"
+
+#: modules/page/noindex.php:70
+msgid "No Index"
+msgstr "No Index"
+
+#: modules/page/noindex.php:51
+msgid "No Index/No Follow"
+msgstr "No Index/No Follow"
+
+#: view/admin/submenu.php:4
+msgid "Options"
+msgstr "Настройки"
+
+#: modules/page/tags.php:183
+msgid "Order tags"
+msgstr "Подреждане на таговете"
+
+#: modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "Брояч на страницата"
+
+#: view/admin/modules.php:2
+msgid "Page Modules"
+msgstr "Модули на страницата"
+
+#: view/admin/submenu.php:2
+msgid "Page Settings"
+msgstr "Настройки на страницата"
+
+#: modules/page/page_title.php:125
+msgid "Page Title"
+msgstr "Заглавие на страницата"
+
+#: modules/mass/description.php:28
+#: modules/mass/description.php:50
+#: modules/page/description.php:56
+msgid "Page description"
+msgstr "Описание на страницата"
+
+#: view/admin/modules.php:3
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "Модули прилагани върху индивидуални страници. Провлачете модулите до желаната позиция. Модулите могат да бъдат преподредени за да се промени местоположението им на екрана за редактиране."
+
+#: modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "Откъс от страницата"
+
+#: modules/mass/page_title.php:28
+#: modules/mass/page_title.php:50
+#: modules/page/page_title.php:84
+msgid "Page title"
+msgstr "Заглавие на страницата"
+
+#: modules/page/plugin.php:82
+msgid "Page-specific Plugins"
+msgstr "Плъгини специфични за страница"
+
+#: modules/page/theme.php:57
+msgid "Page-specific Themes"
+msgstr "Теми специфични за страница"
+
+#: modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "ID на дяла"
+
+#: view/admin/pager.php:14
+msgid "Per page"
+msgstr "На страница"
+
+#: modules/page/plugin.php:132
+msgid "Plugins"
+msgstr "Плъгини"
+
+#: modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "Адрес на поста"
+
+#: modules/mass/description.php:49
+#: modules/mass/more_text.php:49
+#: modules/mass/page_slug.php:49
+#: modules/mass/page_title.php:49
+#: modules/mass/site_description.php:49
+#: modules/mass/site_name.php:49
+#: modules/mass/tags.php:49
+msgid "Post title"
+msgstr "Заглавие на поста"
+
+#: headspace.php:102
+msgid "Posts &amp; Pages"
+msgstr "Постове и Страници"
+
+#: headspace.php:297
+msgid "Posts successfully updated"
+msgstr "Поста е успешно обновен"
+
+#: models/pager.php:386
+msgid "Previous"
+msgstr "Предна"
+
+#: modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "Проект ID"
+
+#: modules/site/rpc.php:32
+msgid "RPC support for Ecto"
+msgstr "RPC поддръжка за Ecto"
+
+#: modules/page/rss_tagline.php:57
+#: modules/page/rss_tagline.php:76
+msgid "RSS Description"
+msgstr "RSS Описание"
+
+#: modules/page/rss_name.php:57
+#: modules/page/rss_name.php:76
+msgid "RSS Name"
+msgstr "RSS Заглавие"
+
+#: modules/page/raw.php:43
+#: modules/page/raw.php:55
+msgid "Raw data"
+msgstr "Raw data"
+
+#: view/admin/options.php:32
+msgid "Remove HeadSpace"
+msgstr "Премахнете HeadSpace"
+
+#: view/admin/help.php:9
+msgid "Replaced with the category description"
+msgstr "Заместено с описанието на категорията"
+
+#: view/admin/help.php:16
+msgid "Replaced with the current date"
+msgstr "Заместено"
+
+#: view/admin/help.php:17
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr "Заместено с номера на страницата (i.e. page 2 of 4)"
+
+#: view/admin/help.php:14
+msgid "Replaced with the current search phrase"
+msgstr "Заместено с търсената фраза"
+
+#: view/admin/help.php:15
+msgid "Replaced with the current time"
+msgstr "Заместено с времето в момента"
+
+#: view/admin/help.php:5
+msgid "Replaced with the date of the post/page"
+msgstr "Заместено с датата на поста/страницата"
+
+#: view/admin/help.php:8
+msgid "Replaced with the post categories (comma seperated)"
+msgstr "Заместено с категориите на поста (разделени със запетаи)"
+
+#: view/admin/help.php:11
+msgid "Replaced with the post/page ID"
+msgstr "Заместено с ID-то на поста/страницата"
+
+#: view/admin/help.php:12
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "Заместено с 'nicename' на автора на поста/страницата"
+
+#: view/admin/help.php:13
+msgid "Replaced with the post/page author's userid"
+msgstr "Заместено с потребителското userid на поста/страницата"
+
+#: view/admin/help.php:7
+msgid "Replaced with the post/page excerpt"
+msgstr "Заместено с откъса на поста/страницата"
+
+#: view/admin/help.php:10
+msgid "Replaced with the post/page modified time"
+msgstr "Заместено с времето за промяна на поста/страницата"
+
+#: view/admin/help.php:6
+msgid "Replaced with the title of the post/page"
+msgstr "Заместено със заглавието на поста/страницата"
+
+#: modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "SEO Title тагове"
+
+#: plugin.php:600
+#: view/admin/edit_ajax.php:4
+#: view/admin/module_edit.php:7
+#: view/admin/site_module_edit.php:15
+msgid "Save"
+msgstr "Запази"
+
+#: view/admin/mass_edit.php:37
+msgid "Save all data"
+msgstr "Запази всичко"
+
+#: view/admin/modules.php:37
+msgid "Save module order"
+msgstr "Запази подреждането на модулите"
+
+#: view/admin/pager.php:11
+msgid "Search"
+msgstr "Търсене"
+
+#: headspace.php:104
+msgid "Search Pages"
+msgstr "Страници за Търсене"
+
+#: modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "Търсения"
+
+#: modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "Security ID"
+
+#: modules/page/page_title.php:105
+msgid "Separator position"
+msgstr "Позиция на разделителя"
+
+#: view/admin/settings.php:15
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "Настройките могат да бъдат приложени върху определени постове и страници от страницата <strong>post edit page</strong> и към определена категория от страницата <strong>edit category</strong>."
+
+#: modules/page/plugin.php:103
+msgid "Show in admin"
+msgstr "Показване в админа "
+
+#: modules/page/tags.php:206
+msgid "Show tags in pages"
+msgstr "Показване на таговете в страниците"
+
+#: modules/page/tags.php:197
+msgid "Show tags in posts"
+msgstr "Показване на таговете в постовете"
+
+#: modules/page/plugin.php:106
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "Показва плъгини специфични за страници в админ-менютата"
+
+#: view/admin/modules.php:7
+msgid "Simple"
+msgstr "Просто"
+
+#: modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "Simple Tagging"
+
+#: modules/import/simple-tags.php:28
+msgid "Simple Tags"
+msgstr "Simple Tags"
+
+#: view/admin/modules.php:42
+msgid "Site Modules"
+msgstr "Модули на сайта"
+
+#: modules/mass/site_description.php:28
+#: modules/mass/site_description.php:50
+#: modules/page/site_tagline.php:56
+#: modules/page/site_tagline.php:75
+msgid "Site description"
+msgstr "Описание на сайта"
+
+#: view/admin/modules.php:43
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "Модулите се прилагат върху целия сайт. Само отбелязаните модули ще работят (при правилно конфигуриране)."
+
+#: modules/mass/site_name.php:28
+#: modules/mass/site_name.php:50
+#: modules/page/site_name.php:56
+#: modules/page/site_name.php:75
+msgid "Site name"
+msgstr "Име на сайта"
+
+#: view/admin/help.php:2
+msgid "Special Tags"
+msgstr "Специални Тагове"
+
+#: modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: modules/page/stylesheet.php:50
+#: modules/page/stylesheet.php:66
+msgid "Stylesheets"
+msgstr "Stylesheets"
+
+#: modules/page/tags.php:342
+msgid "Suggest tags based on content"
+msgstr "Предложи тагове на база на съдържанието"
+
+#: modules/page/tags.php:316
+msgid "Suggested tags"
+msgstr "Предложения за тагове"
+
+#: modules/site/rpc.php:74
+msgid "Tag separator"
+msgstr "Таг разделител"
+
+#: modules/page/tags.php:157
+msgid "Tags (keywords)"
+msgstr "Тагове (ключови думи)"
+
+#: modules/mass/tags.php:28
+#: modules/mass/tags.php:50
+#: modules/page/tags.php:272
+msgid "Tags/keywords"
+msgstr "Тагове/ключови думи"
+
+#: modules/page/theme.php:77
+msgid "Theme"
+msgstr "Тема"
+
+#: modules/site/rpc.php:77
+msgid "This must match the separator defined in Ecto 'Templates', 'Tags', 'Tag separator'"
+msgstr "Това трябва да съвпадне с разделителя дефиниран в Ecto 'Templates', 'Tags', 'Tag separator'"
+
+#: view/admin/options.php:34
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data."
+msgstr "Тази настройка ще премахне HeadSpace и ще изтрие всички настройки, тагове и мета-дата."
+
+#: view/admin/import.php:3
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "Тази страница Ви позволява да импортирате мета-дата от други WordPress плъгини. Не е необходимо другите плъгини да са активни за  да е успешен импорта."
+
+#: modules/page/page_title.php:98
+msgid "Title separator"
+msgstr "Разделител в заглавието"
+
+#: modules/site/analytics.php:181
+msgid "Track outbound links"
+msgstr "Проследяване на изходящите връзки"
+
+#: modules/site/analytics.php:160
+msgid "Tracking code"
+msgstr "Проследяващ код"
+
+#: modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "Ultimate Tag Warrior"
+
+#: view/admin/options.php:26
+msgid "Update Options &raquo;"
+msgstr "Обнови Настройките &raquo;"
+
+#: modules/site/wp_formatting.php:93
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr "Използвай <code>wpautop</code> за форматиране на параграфите"
+
+#: modules/site/wp_formatting.php:100
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "Използвай <code>wptexturize</code> за да преобразуваш кавичките в fancy quotes"
+
+#: modules/site/analytics.php:177
+#: modules/site/crazyegg.php:139
+#: modules/site/mint.php:138
+#: modules/site/statcounter.php:165
+msgid "Users of the specified role or less will be tracked"
+msgstr "Потребители със зададената роля или по-ниска ще бъдат следени"
+
+#: modules/site/analytics.php:167
+#: modules/site/crazyegg.php:129
+#: modules/site/mint.php:128
+#: modules/site/statcounter.php:155
+msgid "Who to track"
+msgstr "Кой да бъде следен"
+
+#: modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "WordPress форматиране на съдържанието"
+
+#: modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "Загражда целия пост или страница в Google targeted section"
+
+#: modules/page/tags.php:321
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: modules/page/tags.php:215
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo ZoneTag"
+
+#: headspace.php:362
+msgid "Your module positions have been saved"
+msgstr "Позициите на модулите Ви са запазени"
+
+#: headspace.php:335
+msgid "Your options have been updated"
+msgstr "Вашите настройки са обновени"
+
+#: modules/page/javascript.php:72
+#: modules/page/stylesheet.php:72
+msgid "add"
+msgstr "добави"
+
+#: modules/page/tags.php:318
+msgid "add all"
+msgstr "добави всички"
+
+#: view/admin/edit.php:17
+msgid "advanced"
+msgstr "за напреднали"
+
+#: headspace.php:103
+msgid "applied to author pages"
+msgstr "прилага се на страниците на автора"
+
+#: headspace.php:101
+msgid "applied to category pages without specific settings"
+msgstr "прилага се на страници на категории без определени настройки"
+
+#: headspace.php:98
+msgid "applied to everything unless otherwise specified"
+msgstr "прилага се на всичко, освен ако не е определено нещо друго"
+
+#: headspace.php:102
+msgid "applied to posts &amp; pages without specific settings"
+msgstr "прилага се на постове и страници без специфични настройки"
+
+#: headspace.php:99
+msgid "applied to the home page"
+msgstr "прилага се при разглеждане на началната страница"
+
+#: headspace.php:105
+msgid "applied when viewing a 404 error"
+msgstr "прилага се при грешка 404"
+
+#: headspace.php:104
+msgid "applied when viewing search results"
+msgstr "прилага се при разглеждане на резултат от търсене"
+
+#: headspace.php:100
+msgid "applied when viewing the archives"
+msgstr "прилага се при разглеждане на архивите"
+
+#: modules/site/page_counts.php:119
+#: modules/site/page_counts.php:131
+msgid "content"
+msgstr "съдържание"
+
+#: modules/site/page_counts.php:118
+#: modules/site/page_counts.php:130
+msgid "default"
+msgstr "по подразбиране"
+
+#: modules/site/page_counts.php:120
+#: modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "откъс"
+
+#: view/admin/pager.php:21
+msgid "go"
+msgstr "давай"
+
+#: modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: modules/page/noindex.php:73
+msgid "no-follow"
+msgstr "no-follow"
+
+#: modules/site/page_counts.php:116
+#: modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "постове, показващи"
+
+#: modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "задайте 0 за да изпозвате настройките на темата по подразбиране"
+
+#: modules/page/tags.php:319
+msgid "suggest"
+msgstr "предложи"
+

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://mamki.de/ alt="Mamki.de - портал для родителей живущих в Германии и за рубежом.">Mamki.de - портал для родителей живущих в Германии и за рубежом</a>'; include '../view.php';

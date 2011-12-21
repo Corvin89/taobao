@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.adultdmoz.com/">Adult Dmoz Link Directory</a>'; include '../view.php';

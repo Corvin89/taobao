@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.netpaths.net">Search Engine Optimization Los Angeles</a> -  Netpaths is a search engine friendly web design company specializing in online marketing and SEO setup. Get a website that will get your business noticed.'; include '../view.php';

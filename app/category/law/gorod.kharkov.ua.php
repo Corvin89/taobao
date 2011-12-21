@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://gorod.kharkov.ua"><b><font color=#FF9900>Г</font>оро<font color=blue>Д</font> Харьков</b> - Кинотеатры :: Клубы :: Кафе,Бары :: Гостиницы :: Бани, сауны :: Туризм :: Интим</b></a>'; include '../view.php';

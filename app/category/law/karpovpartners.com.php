@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://karpovpartners.com/" target="_blank"> <img src="http://karpovpartners.com/banners/logo88x31.gif" border="0" alt="адвокат, юрист, помошь  дтп, лишение, возврат прав" width="88" height="31"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.dkarlov.net" target="_blank"><img src="http://www.dkarlov.net/images/knopka.gif" alt="Продвижение сайта. Раскрутка сайта. Услуги интернет маркетинга. SEO." width="88" height="31" border="0"></a>'; include '../view.php';

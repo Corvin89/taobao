@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.maharishi.org.ua" target="_blank"><em>Стхапатъя Веда Махариши</em></a>: строительство в согласии с законами природы.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://vartgallery.ru/" target="_blank">Фото города Нижневартовска</a>'; include '../view.php';

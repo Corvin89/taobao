@@ -1,0 +1,1 @@
+<?php $catalogLink = 'ООО Техпрогресс осуществляет поставку, монтаж и сервис <a href="http://www.techprogress.ru/prom.html">въездных ворот</a> и <a href="http://www.techprogress.ru/">роллет</a>, а также <a href="http://www.techprogress.ru/">продажу дверей</a> различного назначения Hormann.'; include '../view.php';

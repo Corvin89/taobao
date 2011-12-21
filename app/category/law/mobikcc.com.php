@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://mobikcc.com/index.php?option=com_content&view=category&layout=blog&id=110&Itemid=135">јнимированые обои - «имн€€ сказка. —качать на телефон.</a></p>'; include '../view.php';

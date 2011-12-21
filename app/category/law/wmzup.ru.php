@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wmzup.ru/">WMZup.ru - продвижение и раскрутка сайтов, Реклама и заработок в интернете, низкие цены на рекламу- каталог сайтов.</a> <a href="http://wmzup.ru/">wmzup.ru</a>'; include '../view.php';

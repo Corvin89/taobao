@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Информация об <a href=http://www.kitaytur.ru>отдыхе в Китае на kitaytur.ru</a> - курорты, отели, география.'; include '../view.php';

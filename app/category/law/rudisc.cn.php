@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.rudisc.cn/">RuDisc - диско-каталог</a>, <a href="http://www.ruplayer.net">игры и музыка</a>, утилиты для <a href="http://www.gamesoftw.ru">игр</a>'; include '../view.php';

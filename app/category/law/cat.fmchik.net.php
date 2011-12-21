@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://fmchik.net">Сайт онлайн радио. На сайте ты можешь послушать соти радиостанций онлайн. </a>'; include '../view.php';

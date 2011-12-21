@@ -1,0 +1,901 @@
+# Meta-data manager, allowing complete control over meta-data such as keywords/tags, title, description, stylesheets, and other goodies.  The data inserted can be static text, or pulled dynamically from the details of the post.
+# Copyright (C) 2007 John Godley
+# This file is distributed under the same license as the HeadSpace2 package.
+# John Godley, http://urbangiraffe.com/, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HeadSpace2 3.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-09-22 17:19+0800\n"
+"PO-Revision-Date: 2009-01-09 19:52+0200\n"
+"Last-Translator: Omer Faruk - wordpress.info.tr <admin@wordpress.info.tr>\n"
+"Language-Team: HeadSpace2 <http://dichev.com/contact/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+
+#: headspace.php:387
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "%d parçalar şuradan aktarıldı: %s"
+
+#: view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "%s önce"
+
+#: view/admin/import.php:13
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "(UTW ve Simple Tagging de mevcut değil)"
+
+#: models/inline_tags.php:163
+#, php-format
+msgid "(page %d of %d)"
+msgstr "(Sayfa: %d Toplam Sayfa: %d)"
+
+#: headspace.php:105
+msgid "404 Page"
+msgstr "404 Sayfası"
+
+#: ajax.php:64
+msgid "<p style=\"color: red\">That function is not defined</p>"
+msgstr "<p style=\"color: red\">Bu fonksiyon tanımlanmadı.</p>"
+
+#: ajax.php:57
+msgid "<p style=\"color: red\">You are not allowed access to this resource</p>"
+msgstr "<p style=\"color: red\">Bu araştırma için izin vermediniz.</p>"
+
+#: modules/page/tags.php:125
+msgid "<p>Tags: "
+msgstr "<p>Etiketler: "
+
+#: modules/page/plugin.php:139
+msgid "Add Plugin"
+msgstr "Eklenti Ekle"
+
+#: modules/page/tags.php:175
+msgid "Add tags to dictionary"
+msgstr "Etiketleri sözlüğe ekle"
+
+#: modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr "Tüm sayfalara CrazyEgg izleme kodunu ekle"
+
+#: modules/site/analytics.php:39
+msgid "Adds Google Analytic tracking code to all pages"
+msgstr "Tüm sayfalara Google Analiz izleme kodunu ekle"
+
+#: modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr "Tüm sayfalara Mint izleme kodunu ekle"
+
+#: modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr "Tüm sayfalara StatCounter izleme kodunu ekle"
+
+#: modules/site/rpc.php:37
+msgid "Adds additional functions to allow blogging tools such as Ecto to use tagging"
+msgstr "Etiketleme kullanmak için Ecto gibi blog araçlarına izin vermek için, eklenebilir fonksiyonlar ekle"
+
+#: view/admin/modules.php:13
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: modules/page/page_title.php:109
+msgid "After"
+msgstr "Sonra"
+
+#: modules/page/description.php:73
+msgid "All descriptions will be trimmed to this length"
+msgstr "Tüm açıklamalar bu uzunluğa göre düzenle"
+
+#: modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: modules/page/javascript.php:55
+msgid "Allow external JavaScript files to be referenced"
+msgstr "Dışarıdan gelen JavaScript dosyalarına olan başvurulara izin ver"
+
+#: modules/page/page_title.php:89
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "Sayfa başlıklarının değiştirilmesine izin ver (i.e tarayıcı pencere başlığında ki başlık"
+
+#: modules/page/stylesheet.php:55
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "Bir sayfaya CSS stylesheetlerinin eklenmesine izin ver"
+
+#: modules/page/theme.php:69
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "Seçilen özel sayfa temasının, mevcut temayı baskılamasına izin ver"
+
+#: modules/page/noindex.php:56
+msgid "Allows a no-index/no-follow option to be set to prevent search engines and robots from indexing or following pages"
+msgstr "Sayfa indexleme veya takip etme robotlarını ve arama motorlarını engellemek için no-index/no-follow seçeneğine izin ver."
+
+#: modules/page/description.php:61
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "Arama motorları tarafından kullanılan sayfanın hakkında kısa bir tanımlamaya izin ver"
+
+#: modules/page/plugin.php:87
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "Özel sayfalarda sağlanması için iptal edilen eklentilere izin ver"
+
+#: modules/page/raw.php:48
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr "Sayfa meta kısmına sokulması için çiğ veriye izin ver"
+
+#: modules/page/rss_tagline.php:62
+msgid "Allows site RSS description to be changed"
+msgstr "Sayfa meta kısmına sokulması için çiğ veriye izin ver"
+
+#: modules/page/rss_name.php:62
+msgid "Allows site RSS name to be changed"
+msgstr "Site RSS isminin değiştirilmesine izin ver"
+
+#: modules/page/site_tagline.php:61
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "Site açıklamalarının değiştirilmelerine izin ver"
+
+#: modules/page/site_name.php:61
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "Site isminin değiştirilmesine izin ver (Örnek: blog isminiz"
+
+#: modules/page/tags.php:162
+msgid "Allows tags/keywords to be added to pages"
+msgstr "Sayfalara eklenmesi için etiket anahtar sözcüklerine izin ver"
+
+#: modules/page/more_text.php:56
+msgid "Allows the 'more' text to be changed"
+msgstr "Değiştirilmesi için 'daha çok' metine izin ver"
+
+#: modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "Çeşitli WordPress araba-biçimlemesini sağlamak veya iptal etmen için sana izin ver (Wpautobu kapsamak)"
+
+#: modules/page/tags.php:186
+msgid "Alphabetically order tags"
+msgstr "Alfabetik dizin etiketleri"
+
+#: modules/page/tags.php:201
+#: modules/page/tags.php:210
+msgid "Always"
+msgstr "Her Zaman"
+
+#: headspace.php:100
+#: modules/site/page_counts.php:114
+msgid "Archives"
+msgstr "Arşivler"
+
+#: view/admin/import.php:16
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "<strong>Bir içeri aktarma yapmadan önce DB yedeği almalısınız.</strong> Bu işlem DB üzerinde modifiye yapacaktır.  Herhangi bir durumda sorumluluk almıyoruz."
+
+#: headspace.php:103
+msgid "Author Pages"
+msgstr "Yazar Sayfaları"
+
+#: modules/site/wp_formatting.php:97
+msgid "Auto-fancy quotes"
+msgstr "Auto-fancy quotes"
+
+#: modules/site/wp_formatting.php:90
+msgid "Auto-formatting"
+msgstr "Auto-formatting"
+
+#: modules/site/wp_formatting.php:104
+msgid "Auto-link"
+msgstr "Auto-link"
+
+#: modules/page/tags.php:178
+msgid "Automatically add new tags to dictionary"
+msgstr "Yeni etiketleri otomatik olarak sözlüğe ekle"
+
+#: modules/page/page_title.php:108
+msgid "Before"
+msgstr "Önce"
+
+#: view/admin/edit_ajax.php:5
+#: view/admin/module_edit.php:8
+#: view/admin/site_module_edit.php:16
+msgid "Cancel"
+msgstr "İptal"
+
+#: headspace.php:101
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: view/admin/options.php:16
+msgid "Check for updates"
+msgstr "Güncellemeler için kontrol et"
+
+#: view/admin/options.php:17
+msgid "Check for updates from within HeadSpace"
+msgstr "HeadSpace içerisindeki güncellemeleri kontrol et"
+
+#: modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: modules/site/crazyegg.php:122
+msgid "CrazyEgg ID"
+msgstr "CrazyEgg ID"
+
+#: modules/page/theme.php:80
+msgid "Current theme"
+msgstr "Kullanımdaki tema"
+
+#: modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "Arşivde ve arama sayfasında gösteriler yazıların sayılarına, tüm içerik ve alıntılara göre karar ver."
+
+#: view/admin/options.php:37
+msgid "Delete HeadSpace"
+msgstr "HeadSpace'yi Sil"
+
+#: modules/page/description.php:88
+msgid "Description"
+msgstr "Açıklama"
+
+#: modules/page/tags.php:222
+msgid "Dictionary"
+msgstr "Sözlük"
+
+#: view/admin/modules.php:19
+msgid "Disabled"
+msgstr "Hizmet Dışı"
+
+#: view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "Kategoriyi Düzenle &raquo;"
+
+#: modules/site/analytics.php:184
+msgid "Enter the URL you want outbound links tracked to, or leave empty for no outbound tracking"
+msgstr "Dış bağlantı yolu vermek istediğin URL gir veya dış bağlantı istemiyorsan bu alanı boş bırak"
+
+#: modules/site/analytics.php:163
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "Tüm Google JavaScript izleme kodlarını gir veya sadece <code>_uacct</code> numarası."
+
+#: modules/site/mint.php:124
+msgid "Enter the relative URL to your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "Mint kurulumunuz için ilgili URL giriniz (напр. <code>/mint/</code>)."
+
+#: modules/site/crazyegg.php:125
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a>"
+msgstr "Full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID'nizi girin</a>"
+
+#: modules/site/analytics.php:170
+#: modules/site/crazyegg.php:132
+#: modules/site/mint.php:131
+#: modules/site/statcounter.php:158
+msgid "Everyone"
+msgstr "Her Biri"
+
+#: view/admin/options.php:3
+msgid "General Options"
+msgstr "Genel Ayarlar"
+
+#: headspace.php:98
+msgid "Global Settings"
+msgstr "Ulusal Ayarlar"
+
+#: modules/site/analytics.php:34
+msgid "Google Analytics"
+msgstr "Google Analizleri"
+
+#: modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Google Seçimi Hedefleme"
+
+#: modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "Head META Описание"
+
+#: headspace.php:133
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: view/admin/edit_post.php:6
+msgid "HeadSpace Meta data"
+msgstr "HeadSpace Meta data"
+
+#: view/admin/edit_category.php:1
+#: view/admin/settings.php:2
+msgid "HeadSpace Settings"
+msgstr "HeadSpace Ayarları"
+
+#: headspace.php:342
+msgid "HeadSpace has been removed"
+msgstr "HeadSpace silindi"
+
+#: modules/import/headspace_tags.php:31
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "HeadSpace etiketler (WordPress 2.3 etiketlerine çevir)"
+
+#: view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "HeadSpace2 Haberleri"
+
+#: headspace.php:99
+msgid "Home Page"
+msgstr "Ana Sayfa"
+
+#: plugin.php:593
+msgid "How many widgets would you like?"
+msgstr "Ne kadar sayıda bileşen istiyorsunuz?"
+
+#: view/admin/import.php:2
+#: view/admin/import.php:12
+#: view/admin/submenu.php:5
+msgid "Import"
+msgstr "İçeriye Aktar"
+
+#: view/admin/import.php:13
+msgid "Import and remove original data"
+msgstr "İçeriye aktar ve orjinal verileri sil"
+
+#: view/admin/options.php:9
+msgid "Inherit from global settings"
+msgstr "Ulusal ayarlardan miras almak"
+
+#: view/admin/options.php:8
+msgid "Inherit settings"
+msgstr "Miras ayarları"
+
+#: ajax.php:141
+#: ajax.php:152
+#: ajax.php:163
+#: ajax.php:174
+#: ajax.php:188
+msgid "Invalid module"
+msgstr "Geçersiz eklenti"
+
+#: modules/page/javascript.php:50
+#: modules/page/javascript.php:66
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "Jerome Anahtar Kelimeleri"
+
+#: modules/page/page_title.php:101
+msgid "Leave blank to use theme default"
+msgstr "Mevcut temayı kullanmak için boş bırak"
+
+#: modules/site/wp_formatting.php:107
+msgid "Makes links clickable in comments"
+msgstr "Yorumlardaki linkleri tıklanabilir yap"
+
+#: view/admin/mass_edit.php:2
+msgid "Mass Edit Meta-data"
+msgstr "Meta-data'yı parçalı düzenle"
+
+#: modules/page/description.php:70
+msgid "Max length"
+msgstr "Maksimum Uzunluk"
+
+#: headspace.php:134
+msgid "Meta-data"
+msgstr "Meta-data"
+
+#: modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: modules/site/mint.php:121
+msgid "Mint path"
+msgstr "Mint yolu"
+
+#: view/admin/submenu.php:3
+msgid "Modules"
+msgstr "Eklentiler"
+
+#: view/admin/modules.php:20
+msgid "Modules are disabled and do not appear"
+msgstr "Eklentiler hizmet dışıdır ve görüntülenmemektedir"
+
+#: view/admin/modules.php:8
+msgid "Modules will always appear on edit screens"
+msgstr "Düzenleme ekranlarında eklentiler her zaman görünecek"
+
+#: view/admin/modules.php:14
+msgid "Modules will be hidden behind a link"
+msgstr "Eklentiler bir link ardına gizlenecek"
+
+#: modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "More Tekil"
+
+#: modules/mass/more_text.php:28
+#: modules/mass/more_text.php:50
+#: modules/page/more_text.php:51
+#: modules/page/more_text.php:70
+msgid "More text"
+msgstr "Daha fazla text"
+
+#: modules/page/tags.php:200
+#: modules/page/tags.php:209
+msgid "Never"
+msgstr "Hiç bir zaman"
+
+#: models/pager.php:387
+msgid "Next"
+msgstr "İleri"
+
+#: modules/page/noindex.php:70
+msgid "No Index"
+msgstr "No Index"
+
+#: modules/page/noindex.php:51
+msgid "No Index/No Follow"
+msgstr "No Index/No Follow"
+
+#: view/admin/submenu.php:4
+msgid "Options"
+msgstr "Ayarlar"
+
+#: modules/page/tags.php:183
+msgid "Order tags"
+msgstr "Sıra etiketleri"
+
+#: modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "Sayfa Sayımları"
+
+#: view/admin/modules.php:2
+msgid "Page Modules"
+msgstr "Sayfa Eklentileri"
+
+#: view/admin/submenu.php:2
+msgid "Page Settings"
+msgstr "Sayfa Ayarları"
+
+#: modules/page/page_title.php:125
+msgid "Page Title"
+msgstr "Sayfa Başlığı"
+
+#: modules/mass/description.php:28
+#: modules/mass/description.php:50
+#: modules/page/description.php:56
+msgid "Page description"
+msgstr "Sayfa Açıklaması"
+
+#: view/admin/modules.php:3
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "Sayfa eklentileri özgün sayfalara uygulanabilir. Uygun alana sürükle ve bırak. Eklentiler, düzenleme ekranında yerlerini değiştirmek için tekrar düzenlenebilir."
+
+#: modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "Sayfa fişi"
+
+#: modules/mass/page_title.php:28
+#: modules/mass/page_title.php:50
+#: modules/page/page_title.php:84
+msgid "Page title"
+msgstr "Sayfa başlığı"
+
+#: modules/page/plugin.php:82
+msgid "Page-specific Plugins"
+msgstr "Sayfa-özelleştirilmiş Eklentileri"
+
+#: modules/page/theme.php:57
+msgid "Page-specific Themes"
+msgstr "Sayfa-özelleştirilmiş Temalar"
+
+#: modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "Parça ID"
+
+#: view/admin/pager.php:14
+msgid "Per page"
+msgstr "Her sayfa"
+
+#: modules/page/plugin.php:132
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "Yazı fişi"
+
+#: modules/mass/description.php:49
+#: modules/mass/more_text.php:49
+#: modules/mass/page_slug.php:49
+#: modules/mass/page_title.php:49
+#: modules/mass/site_description.php:49
+#: modules/mass/site_name.php:49
+#: modules/mass/tags.php:49
+msgid "Post title"
+msgstr "Yazı başlığı"
+
+#: headspace.php:102
+msgid "Posts &amp; Pages"
+msgstr "Yazılar &amp; Sayfalar"
+
+#: headspace.php:297
+msgid "Posts successfully updated"
+msgstr "Yazılar başarılı bir şekilde güncellendi"
+
+#: models/pager.php:386
+msgid "Previous"
+msgstr "Geri"
+
+#: modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "Proje ID"
+
+#: modules/site/rpc.php:32
+msgid "RPC support for Ecto"
+msgstr "Ecto desteği için RPC"
+
+#: modules/page/rss_tagline.php:57
+#: modules/page/rss_tagline.php:76
+msgid "RSS Description"
+msgstr "RSS Açıklaması"
+
+#: modules/page/rss_name.php:57
+#: modules/page/rss_name.php:76
+msgid "RSS Name"
+msgstr "RSS İsmi"
+
+#: modules/page/raw.php:43
+#: modules/page/raw.php:55
+msgid "Raw data"
+msgstr "Raw data"
+
+#: view/admin/options.php:32
+msgid "Remove HeadSpace"
+msgstr "HeadSpace eklentisini sil"
+
+#: view/admin/help.php:9
+msgid "Replaced with the category description"
+msgstr "Kategori açıklamasıyla değiştirildi\" "
+
+#: view/admin/help.php:16
+msgid "Replaced with the current date"
+msgstr "Bugün ki tarihle değiştirildi"
+
+#: view/admin/help.php:17
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr "Mevcut sayfa numarası ile değiştirilen (Örnek. 4 sayfanın 2 si)"
+
+#: view/admin/help.php:14
+msgid "Replaced with the current search phrase"
+msgstr "Mevcut arama ifadesi ile değiştirilen"
+
+#: view/admin/help.php:15
+msgid "Replaced with the current time"
+msgstr "Güncel zamanla değiştirilen"
+
+#: view/admin/help.php:5
+msgid "Replaced with the date of the post/page"
+msgstr "Yazıların/Sayfaların tarihi ile değiştirilen"
+
+#: view/admin/help.php:8
+msgid "Replaced with the post categories (comma seperated)"
+msgstr "Yazı kategorileri ile diğiştirilen (virgülle ayrılmış)"
+
+#: view/admin/help.php:11
+msgid "Replaced with the post/page ID"
+msgstr "Yazı/Sayfa ID ile değiştirilen"
+
+#: view/admin/help.php:12
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "Yazı/Sayfa yazarları 'nicename'i ile değiştirilen"
+
+#: view/admin/help.php:13
+msgid "Replaced with the post/page author's userid"
+msgstr "Yazı/Sayfa yazarı userid ile değiştirilen"
+
+#: view/admin/help.php:7
+msgid "Replaced with the post/page excerpt"
+msgstr "Yazı/Sayfa alıntısı ile değiştirilen"
+
+#: view/admin/help.php:10
+msgid "Replaced with the post/page modified time"
+msgstr "Yazı/Sayfa modife edilmiş zamanı ile değiştirilen"
+
+#: view/admin/help.php:6
+msgid "Replaced with the title of the post/page"
+msgstr "Yazı/Sayfa başlığı ile değiştirilen"
+
+#: modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "SEO Title тагове"
+
+#: plugin.php:600
+#: view/admin/edit_ajax.php:4
+#: view/admin/module_edit.php:7
+#: view/admin/site_module_edit.php:15
+msgid "Save"
+msgstr "Kaydet"
+
+#: view/admin/mass_edit.php:37
+msgid "Save all data"
+msgstr "Tüm verileri kaydet"
+
+#: view/admin/modules.php:37
+msgid "Save module order"
+msgstr "Eklenti dizisini kaydet"
+
+#: view/admin/pager.php:11
+msgid "Search"
+msgstr "Arama"
+
+#: headspace.php:104
+msgid "Search Pages"
+msgstr "Arama Sayfaları"
+
+#: modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "Aramalar"
+
+#: modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "Güvenlik ID"
+
+#: modules/page/page_title.php:105
+msgid "Separator position"
+msgstr "Ayırıcı pozisyonu"
+
+#: view/admin/settings.php:15
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "'<strong>Yazıyı düzenle</strong> sayfasından özel sayfalara ve yazılara ayarlar uygulanabilir, ve <strong>kategori düzenle</strong> sayfasından özel kategorilere ayarlar uygulanabilir."
+
+#: modules/page/plugin.php:103
+msgid "Show in admin"
+msgstr "Adminde göster"
+
+#: modules/page/tags.php:206
+msgid "Show tags in pages"
+msgstr "Etiketleri sayfalarda göster"
+
+#: modules/page/tags.php:197
+msgid "Show tags in posts"
+msgstr "Etiketleri yazılarda göster"
+
+#: modules/page/plugin.php:106
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "Admin menüsündeki sayfa-özelleştirilmiş eklentileri göster"
+
+#: view/admin/modules.php:7
+msgid "Simple"
+msgstr "Örnek"
+
+#: modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "Örnek Etiketleme"
+
+#: modules/import/simple-tags.php:28
+msgid "Simple Tags"
+msgstr "Örnek Etiketler"
+
+#: view/admin/modules.php:42
+msgid "Site Modules"
+msgstr "Site Eklentileri"
+
+#: modules/mass/site_description.php:28
+#: modules/mass/site_description.php:50
+#: modules/page/site_tagline.php:56
+#: modules/page/site_tagline.php:75
+msgid "Site description"
+msgstr "Site açıklaması"
+
+#: view/admin/modules.php:43
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "Site eklentileri toplu olarak siteye uygulanacak. Sadece seçilmiş eklentiler çalışacak. (uygunca ayarlandığı zaman)"
+
+#: modules/mass/site_name.php:28
+#: modules/mass/site_name.php:50
+#: modules/page/site_name.php:56
+#: modules/page/site_name.php:75
+msgid "Site name"
+msgstr "Site ismi"
+
+#: view/admin/help.php:2
+msgid "Special Tags"
+msgstr "Özel Etiketler"
+
+#: modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: modules/page/stylesheet.php:50
+#: modules/page/stylesheet.php:66
+msgid "Stylesheets"
+msgstr "Stylesheets"
+
+#: modules/page/tags.php:342
+msgid "Suggest tags based on content"
+msgstr "İçerik üzerindeki tavsiye edilmiş etiketler"
+
+#: modules/page/tags.php:316
+msgid "Suggested tags"
+msgstr "Önerilmiş etiketler"
+
+#: modules/site/rpc.php:74
+msgid "Tag separator"
+msgstr "Etiket ayırıcı"
+
+#: modules/page/tags.php:157
+msgid "Tags (keywords)"
+msgstr "Etiketler (Anahtar Kelimeler)"
+
+#: modules/mass/tags.php:28
+#: modules/mass/tags.php:50
+#: modules/page/tags.php:272
+msgid "Tags/keywords"
+msgstr "Etiketler/Anahtar Kelimeler"
+
+#: modules/page/theme.php:77
+msgid "Theme"
+msgstr "Tema"
+
+#: modules/site/rpc.php:77
+msgid "This must match the separator defined in Ecto 'Templates', 'Tags', 'Tag separator'"
+msgstr "Bu, Ecto 'Temalar' 'Etiketler' 'Etiket ayırıcı' içerisindeki ayırıcı tanımlaması ile eşleşmek zorunda."
+
+#: view/admin/options.php:34
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data."
+msgstr "Bu seçenek HeadSpace'i, tüm ayarları, etiketleri ve meta-dataları silecektir."
+
+#: view/admin/import.php:3
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "Bu sayfa diğer WordPress eklentilerinden içeriye meta-data aktarmak için size izin verecek. Diğer eklentilerin içeriye aktarımı için çalışması gerekmemektedir. "
+
+#: modules/page/page_title.php:98
+msgid "Title separator"
+msgstr "Başlık ayırıcı"
+
+#: modules/site/analytics.php:181
+msgid "Track outbound links"
+msgstr "Dış bağlantı linklerini izle"
+
+#: modules/site/analytics.php:160
+msgid "Tracking code"
+msgstr "İzleme kodu"
+
+#: modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "Ultimate Tag Warrior"
+
+#: view/admin/options.php:26
+msgid "Update Options &raquo;"
+msgstr "Ayarları Güncelle &raquo;"
+
+#: modules/site/wp_formatting.php:93
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr "Paragrafları formatlamak için <code>wpautop</code> kullan."
+
+#: modules/site/wp_formatting.php:100
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "Alıntıları hayali alıntılara çevirmek için <code>wptexturize</code> kullan"
+
+#: modules/site/analytics.php:177
+#: modules/site/crazyegg.php:139
+#: modules/site/mint.php:138
+#: modules/site/statcounter.php:165
+msgid "Users of the specified role or less will be tracked"
+msgstr "Özel konumda veya altında olan kullanıcılar izlenmiş olacak"
+
+#: modules/site/analytics.php:167
+#: modules/site/crazyegg.php:129
+#: modules/site/mint.php:128
+#: modules/site/statcounter.php:155
+msgid "Who to track"
+msgstr "Kimin izlenecek olduğu"
+
+#: modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "WordPress içerik formatlama"
+
+#: modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "Sarılmış tüm yazılar ve sayfalar bir Google hedef bölümü içeriyor"
+
+#: modules/page/tags.php:321
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: modules/page/tags.php:215
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo ZoneTag"
+
+#: headspace.php:362
+msgid "Your module positions have been saved"
+msgstr "Eklenti pozisyonlarınız kaydedilmiş"
+
+#: headspace.php:335
+msgid "Your options have been updated"
+msgstr "Ayarlarınız güncellenmiş"
+
+#: modules/page/javascript.php:72
+#: modules/page/stylesheet.php:72
+msgid "add"
+msgstr "ekle"
+
+#: modules/page/tags.php:318
+msgid "add all"
+msgstr "hepsini ekle"
+
+#: view/admin/edit.php:17
+msgid "advanced"
+msgstr "gelişmiş"
+
+#: headspace.php:103
+msgid "applied to author pages"
+msgstr "yazar sayfaları gösterildiği zaman geçerli olacak\""
+
+#: headspace.php:101
+msgid "applied to category pages without specific settings"
+msgstr "özel ayarlar dışındaki "
+
+#: headspace.php:98
+msgid "applied to everything unless otherwise specified"
+msgstr "eğer özel olarak belirtilmediyse herşeye uygulanmış"
+
+#: headspace.php:102
+msgid "applied to posts &amp; pages without specific settings"
+msgstr "özel ayarlar dışıdaki yazılara sayfalara uygulanmıştır"
+
+#: headspace.php:99
+msgid "applied to the home page"
+msgstr "ana sayfa gösterildiği zaman geçerli olacak"
+
+#: headspace.php:105
+msgid "applied when viewing a 404 error"
+msgstr "404 hatası gösterildiği zaman geçerli olacak"
+
+#: headspace.php:104
+msgid "applied when viewing search results"
+msgstr "arama sonuçları gösterildiği zaman geçerli olacak"
+
+#: headspace.php:100
+msgid "applied when viewing the archives"
+msgstr "arşivler gösterildiği zaman geçerli olacak"
+
+#: modules/site/page_counts.php:119
+#: modules/site/page_counts.php:131
+msgid "content"
+msgstr "içerik"
+
+#: modules/site/page_counts.php:118
+#: modules/site/page_counts.php:130
+msgid "default"
+msgstr "varsayılan"
+
+#: modules/site/page_counts.php:120
+#: modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "alıntı"
+
+#: view/admin/pager.php:21
+msgid "go"
+msgstr "git"
+
+#: modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: modules/page/noindex.php:73
+msgid "no-follow"
+msgstr "no-follow"
+
+#: modules/site/page_counts.php:116
+#: modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "yazılar, gösteriliyor"
+
+#: modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "varsayılan tema için yazıların numaralarını 0 yap"
+
+#: modules/page/tags.php:319
+msgid "suggest"
+msgstr "tavsiye et"
+

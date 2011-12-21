@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://catalog.vitaltattoo.ru/">Систематизированный каталог сайтов</a>'; include '../view.php';

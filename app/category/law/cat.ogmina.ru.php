@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a title="Ogmina - это лучший интернет магазин." href="http://www.ogmina.ru">Ogmina - это лучший интернет магазин.</a>
+<a title="—сылки на полезные бизнес ресурсы" href="http://www.cat.ogmina.ru">—сылки на полезные бизнес ресурсы</a>'; include '../view.php';

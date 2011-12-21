@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Фотогалерея недвижимости, <a title="gallery.NSTY:: фото галереи" href="http://www.gallery.nsty.ru">фотогалерея</a> фотогалерея клуб, бесплатные фотогалереи'; include '../view.php';

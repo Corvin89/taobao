@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://continent.dp.ua' target='_blank'><b>АН Континент - Недвижимость в Днепропетровске</b></a><br />Эксклюзивная недвижимость в Днепропетровске'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.adressdoma.ru/" target="_blank">Адресные таблички, домовые знаки, таблички на дом с номером и адресом - заказ, изготовление</a>'; include '../view.php';

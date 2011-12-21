@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Развлекательно-оздоровительный комплекс "Кольская 12": <strong><a href="http://kolskaya.ru/">Ресторан</a>, <a href="http://kolskaya.ru/">Сауна VIP</a>, <a href="http://kolskaya.ru/">Ресторан</a>, <a href="http://kolskaya.ru/">Фитнес-клуб, Салон красоты, СПА зона</a></strong>.'; include '../view.php';

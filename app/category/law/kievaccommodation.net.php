@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kievaccommodation.net">Kiev Accommodation Net - Accommodation in Kiev, Ukraine </a> - Luxury, deluxe and budget Kiev accommodations and lodging in Kiev, Ukraine. 100s of excellent accommodations in Kiev apartments to choose from.'; include '../view.php';

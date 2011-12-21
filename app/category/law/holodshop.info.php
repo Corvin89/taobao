@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.holodshop.info">Продажа холодильников Electrolux, двухкамерные холодильники, мини холодильники</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.mykamaz.info>каталог сайтов всех авто-сайтов о КАМАЗ, МАЗ</a>'; include '../view.php';

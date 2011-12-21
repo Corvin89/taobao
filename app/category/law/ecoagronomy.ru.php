@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ecoagronomy.ru">Ёкологи€ и агрономи€</a>'; include '../view.php';

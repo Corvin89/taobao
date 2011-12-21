@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fxinvesta.com">Daily Forex Trading News and Articles</a> - Daily Forex Trading News and Articles - Fundamental Technical Analysis Forex Trading'; include '../view.php';

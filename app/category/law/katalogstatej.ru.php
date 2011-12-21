@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Профессиональный <a href="http://www.katalogstatej.ru"> Белый каталог статей</a>'; include '../view.php';

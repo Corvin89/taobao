@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://dsyn.ru/">Онлайн каталожек</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vastu.com.ua" target="_blank">Ведическая архитектура</a>: принципы строительства для улучшения всех сфер жизни человека.'; include '../view.php';

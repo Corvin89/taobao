@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.indigo.ua/curtains.htm" title="רעמנû">רעמנû</a>'; include '../view.php';

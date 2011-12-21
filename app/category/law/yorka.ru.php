@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.yorka.ru/" target="_blank"><img src="http://www.yorka.ru/banner/88_01.gif" width="88" height="31" border="0" alt="покупка йорков, продажа йорков"></a>'; include '../view.php';

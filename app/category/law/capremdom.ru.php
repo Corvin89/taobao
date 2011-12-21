@@ -1,0 +1,1 @@
+<?php $catalogLink = '<strong><a href="http://capremdom.ru/">Строительная доска объявлений. Бесплатная доска объявлений</a></strong>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.WorldWineGuideOnline.com/">World Wine Guide Online</a>'; include '../view.php';

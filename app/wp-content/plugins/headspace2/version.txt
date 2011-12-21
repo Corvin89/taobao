@@ -1,0 +1,17 @@
+3.6
+<p>Update for WordPress 2.7.  This includes a lot of bulk/quick edit features, but not quite yet feature complete.  Bug fix in Piwik module.  Fix auto description returning one character in a sentence with no periods.</p>
+====
+3.5.20
+<p>Prevent WP-Ecommerce plugin interfering with HeadSpace JavaScript</p>
+====
+3.5.19
+<p>Remove warning message for older WP installs</p>
+====
+3.5.18
+<p>Have modules auto-save their order rather than rely on user to hit 'save modules' (fixing bug #302).  Fix a spelling mistake.  Add missing text into localisation.</p>
+====
+3.5.17
+<p>Add version release information to the plugin management page</p>
+====
+3.5.16
+<p>Tighten up inheritance</p>

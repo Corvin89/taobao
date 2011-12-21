@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://guitarism.ru/guitar-brands/dean" target="_blank" title=" "> ,  dean </a>   .RU'; include '../view.php';

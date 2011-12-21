@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://tambovnews.ru">tambovnews.ru - Информационный портал Тамбова. Новости, статьи, каталог сайтов.</a>'; include '../view.php';

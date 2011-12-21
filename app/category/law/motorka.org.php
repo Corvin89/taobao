@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://motorka.org/test/>Экзаменационные билеты ГИМС</a> - Online тестирование для подготовки к экзамену в ГИМС.'; include '../view.php';

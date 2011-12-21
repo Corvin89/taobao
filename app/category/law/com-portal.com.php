@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://com-portal.com/" target="_blank">Портал электронной коммерции</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.delta-ic.net/studyrussian"><b>Russian language</b></a><br>Delta Intercontact gives an excellent opportunity to study Russian in the heart of European Russia.'; include '../view.php';

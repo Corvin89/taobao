@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://md-portal.ru"><img src="http://md-portal.ru/images/counter.gif" width=88 height=31 border=0
+alt="Медицинский портал, Энциклопедия заболеваний, Медицинские компании, Лекарственные средства"></a>'; include '../view.php';

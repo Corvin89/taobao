@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tylertexaschurches.org/">Tyler Texas Churches | Add your site now!</a>'; include '../view.php';

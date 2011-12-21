@@ -1,0 +1,1 @@
+<?php $catalogLink = 'На ресурсе,<a href=http://www.banki1.ru/avangardbank.html>banki1.ru адреса:Банка Зенит</a>, а также полезная информация'; include '../view.php';

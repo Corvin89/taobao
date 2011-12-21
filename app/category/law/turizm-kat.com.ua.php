@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.turizm-kat.com.ua">Туризм Путешествия  Отдых</a>'; include '../view.php';

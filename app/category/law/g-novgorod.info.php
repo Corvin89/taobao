@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Скачать игру sims <a href=http://www.moregames.ru/>бесплатно скачать игру симс</a>. <br />Газета из рук в руки москва <a href="http://www.g-novgorod.info/">Великий Новгород газета из рук в руки самара</a>.'; include '../view.php';

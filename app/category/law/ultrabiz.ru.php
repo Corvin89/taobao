@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ultrabiz.ru" target="_blank"><img src="http://www.ultrabiz.ru/images/ultrabiz.gif" alt="Каталог сайтов UltraBiz.RU" border="0" width="88" height="31"></a>'; include '../view.php';

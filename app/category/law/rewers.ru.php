@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.rewers.ru/" target="_blank"><img src="http://www.rewers.ru/img/rewers.gif" alt="Современные строительные технологии" height=31 width=88 border=0></a>'; include '../view.php';

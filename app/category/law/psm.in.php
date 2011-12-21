@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.psm.in/">PSM.in : Directory of Websites</a>'; include '../view.php';

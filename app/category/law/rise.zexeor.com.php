@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://rise.zexeor.com/' target='_blank'><img src='http://rise.zexeor.com/images/button_88x31.gif' border=0 title='Данные о сайтах Интернета' alt='Данные о сайтах Интернета'></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<strong>«јќ "ј–ћ—ѕ≈÷ЁЌ≈–√ќ"</strong> - <a href="http://www.ase-valve.ru/u21001.htm" title="клапан регулирующий">клапан регулирующий</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.xgrey.mog-pod.net/" target="_blank"><img src="http://www.xgrey.factory/images/banners/mogpod_xgrey.gif" width=88 height=31 alt="xGrey" border=0></a>'; include '../view.php';

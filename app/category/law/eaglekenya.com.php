@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="eaglekenya.com">”летный каталог - строительство, услуги</a> - все есть!'; include '../view.php';

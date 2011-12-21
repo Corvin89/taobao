@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://blog.newhouseanapa.com">Недвижимость на Черном море </a>в Анапе. Статьи, нормативные документы. Коммерческая <a href="http://blog.newhouseanapa.com/category/kommercheskaya-nedvizhimost">недвижимость в Анапе</a>.'; include '../view.php';

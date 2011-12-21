@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="Виртуальные знакомства" target="_new" href="http://love.bull-doc.ru"><img src="http://love.bull-doc.ru/images/knopka_love.gif" border="0" alt="Дама с Собачкой"></a>'; include '../view.php';

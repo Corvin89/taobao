@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fodi.ru">Свадебный фотограф на свадьбу, свадебные альбомы</a>'; include '../view.php';

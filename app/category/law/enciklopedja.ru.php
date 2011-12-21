@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Большая военная <a href="http://enciklopedja.ru/"><img src="http://enciklopedja.ru/banner.gif"  border="0"></a> <a href="http://enciklopedja.ru/">энциклопедия</a>'; include '../view.php';

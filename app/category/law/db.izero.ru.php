@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.izero.ru" title="Решение проблем появившихся при разрабоке сайтов">Блог Веб-разрвботчика iZerO.Ru</a>'; include '../view.php';

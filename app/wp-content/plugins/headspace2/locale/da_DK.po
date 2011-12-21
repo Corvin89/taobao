@@ -1,0 +1,1593 @@
+# Meta-data manager, allowing complete control over meta-data such as keywords/tags, title, description, stylesheets, and other goodies.  The data inserted can be static text, or pulled dynamically from the details of the post.
+# Copyright (C) 2007 John Godley
+# This file is distributed under the same license as the HeadSpace2 package.
+# John Godley, http://urbangiraffe.com/, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HeadSpace2 3.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-13 22:32+0100\n"
+"PO-Revision-Date: 2009-02-14 11:24+0100\n"
+"Last-Translator: Georg S. Adamsen <g.s.adamsen@gmail.com>\n"
+"Language-Team: Earlier version by Vox Media Group mail@voxmediagroup.net <g.s.adamsen@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: d:\\wordpress\\plugins\\headspace2\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: d:\\wordpress\\plugins\\headspace2\n"
+
+#: d:\wordpress\plugins\headspace2/ajax.php:66
+msgid "<p style=\"color: red\">That function is not defined</p>"
+msgstr "<p style=\"color: red\">Den funktion er ikke defineret</p>"
+
+#: d:\wordpress\plugins\headspace2/ajax.php:69
+msgid "<p style=\"color: red\">You are not allowed access to this resource</p>"
+msgstr "<p style=\"color: red\">Du har ikke adgang til denne ressource</p>"
+
+#: d:\wordpress\plugins\headspace2/ajax.php:190
+#: d:\wordpress\plugins\headspace2/ajax.php:206
+#: d:\wordpress\plugins\headspace2/ajax.php:218
+#: d:\wordpress\plugins\headspace2/ajax.php:229
+#: d:\wordpress\plugins\headspace2/ajax.php:240
+#: d:\wordpress\plugins\headspace2/ajax.php:256
+msgid "Invalid module"
+msgstr "Ugyldigt modul"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:125
+#: d:\wordpress\plugins\headspace2/headspace.php:200
+#: d:\wordpress\plugins\headspace2/headspace.php:587
+#: d:\wordpress\plugins\headspace2/headspace.php:588
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:183
+msgid "Global Settings"
+msgstr "Globale indstillinger"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:183
+msgid "applied to everything unless otherwise specified"
+msgstr "anvendes overalt, medmindre andet anføres"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:184
+msgid "Home Page"
+msgstr "Hjemmeside"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:184
+msgid "applied to the home page"
+msgstr "anvendes på forsiden"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:185
+msgid "Archives"
+msgstr "Arkiv"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:185
+msgid "applied when viewing the archives"
+msgstr "anvendes, når arkivsider vises"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:186
+msgid "Categories"
+msgstr "Kategorier"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:186
+msgid "applied to category pages without specific settings"
+msgstr "anvendes på kategorisider uden specifikke indstillinger"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:187
+msgid "Posts &amp; Pages"
+msgstr "Indlæg &amp; Sider"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:187
+msgid "applied to posts &amp; pages without specific settings"
+msgstr "anvendes på indlæg &amp; sider uden specifikke indstillinger"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:188
+msgid "Author Pages"
+msgstr "Forfatter-sider"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:188
+msgid "applied to author pages"
+msgstr "anvendes på forfatter-sider"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:189
+msgid "Search Pages"
+msgstr "Søgesider"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:189
+msgid "applied when viewing search results"
+msgstr "anvendes, når søgeresultater vises"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:190
+msgid "404 Page"
+msgstr "Fejl 404-side"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:190
+msgid "applied when viewing a 404 error"
+msgstr "anvendes, når fejl 404 vises"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:191
+msgid "Tag Pages"
+msgstr "Tags-sider"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:191
+msgid "applied when viewing tag pages"
+msgstr "anvendes, når arkivsider vises"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:192
+msgid "Login Pages"
+msgstr "Login-sider"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:192
+msgid "applied when viewing login, logout, or registration pages"
+msgstr "anvendes, når der vises login-, logout- eller nybruger-sider"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:201
+msgid "Meta-data"
+msgstr "Meta data"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:386
+msgid "<code>wp_head</code> was not found in <code>header.php</code> (<a href=\"http://codex.wordpress.org/Hook_Reference/wp_head\">documentation</a>)"
+msgstr "<code>wp_head</code> findes ikke i <code>header.php</code> (<a href=\"http://codex.wordpress.org/Hook_Reference/wp_head\">dokumentation</a>)"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:394
+msgid "<code>wp_footer</code> was not found in <code>footer.php</code> (<a href=\"http://codex.wordpress.org/Theme_Development\">documentation</a>)"
+msgstr "<code>wp_footer</code> findes ikke i <code>footer.php</code> (<a href=\"http://codex.wordpress.org/Theme_Development\">dokumentation</a>)"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:425
+msgid "The HeadSpace administration interface is now WordPress 2.5+ only.  Your meta-data will continue to function but you should either upgrade your WordPress or downgrade HeadSpace."
+msgstr "Administrationsbrugerfladen til HeadSpace kører kun på WordPress 2.5 og nyere. Dine meta-data vil fortsat virke, men du bør enten opgradere din WordPress eller gå tilbage til tidligere version af HeadSpace."
+
+#: d:\wordpress\plugins\headspace2/headspace.php:492
+msgid "Posts successfully updated"
+msgstr "Indlæg blev opdateret"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:532
+msgid "Your options have been updated"
+msgstr "Dine indstillinger er blevet gemt"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:539
+msgid "HeadSpace has been removed"
+msgstr "HeadSpace er blevet fjernet"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:577
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "%d elementer blev importeret fra %s"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:589
+msgid "Tags"
+msgstr "Tags"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:661
+msgid "HeadSpace Help"
+msgstr "HeadSpace Hjælp"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:662
+msgid "HeadSpace Documentation"
+msgstr "HeadSpace dokumentation"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:663
+msgid "HeadSpace Support Forum"
+msgstr "HeadSpace Supportforum"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:664
+msgid "HeadSpace Bug Tracker"
+msgstr "HeadSpace2 Bugdatabase"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:665
+msgid "HeadSpace FAQ"
+msgstr "HeadSpace OSS"
+
+#: d:\wordpress\plugins\headspace2/headspace.php:666
+msgid "Please read the documentation and FAQ, and check the bug tracker, before asking a question."
+msgstr "Læs venligst dokumentationen og Ofte Stillede Spørgsmål, og tjek bugdatabasen, inden du stiller et spørgsmål."
+
+#: d:\wordpress\plugins\headspace2/plugin.php:733
+msgid "How many widgets would you like?"
+msgstr "Hvor mange widgets ønsker du?"
+
+#: d:\wordpress\plugins\headspace2/plugin.php:740
+msgid "Save"
+msgstr "Gem"
+
+#: d:\wordpress\plugins\headspace2/models/inline_tags.php:262
+#, php-format
+msgid "(page %d of %d)"
+msgstr "(side %d af %d)"
+
+#: d:\wordpress\plugins\headspace2/models/pager.php:402
+msgid "Previous"
+msgstr "Forrige"
+
+#: d:\wordpress\plugins\headspace2/models/pager.php:403
+msgid "Next"
+msgstr "Næste"
+
+#: d:\wordpress\plugins\headspace2/models/pager.php:461
+#, php-format
+msgid "%d per-page"
+msgstr "%d per side"
+
+#: d:\wordpress\plugins\headspace2/models/pager.php:470
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Viser %s&#8211;%s af %s"
+
+#: d:\wordpress\plugins\headspace2/modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: d:\wordpress\plugins\headspace2/modules/import/headspace_tags.php:28
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "HeadSpace tags (konvertér til WordPress 2.3 tags)"
+
+#: d:\wordpress\plugins\headspace2/modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "Head META Beskrivelse"
+
+#: d:\wordpress\plugins\headspace2/modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "Jerome's Keywords"
+
+#: d:\wordpress\plugins\headspace2/modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: d:\wordpress\plugins\headspace2/modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "More Unique"
+
+#: d:\wordpress\plugins\headspace2/modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "SEO titel-tags"
+
+#: d:\wordpress\plugins\headspace2/modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "Simpel tagging"
+
+#: d:\wordpress\plugins\headspace2/modules/import/simple-tags.php:28
+msgid "Simple Tags (old version)"
+msgstr "Simple tags (gammel version)"
+
+#: d:\wordpress\plugins\headspace2/modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "Ultimate Tag Warrior"
+
+#: d:\wordpress\plugins\headspace2/modules/mass/description.php:28
+#: d:\wordpress\plugins\headspace2/modules/mass/description.php:50
+msgid "Page description"
+msgstr "Sidebeskrivelse"
+
+#: d:\wordpress\plugins\headspace2/modules/mass/description.php:49
+#: d:\wordpress\plugins\headspace2/modules/mass/more_text.php:49
+#: d:\wordpress\plugins\headspace2/modules/mass/page_slug.php:49
+#: d:\wordpress\plugins\headspace2/modules/mass/page_title.php:49
+#: d:\wordpress\plugins\headspace2/modules/mass/site_description.php:49
+#: d:\wordpress\plugins\headspace2/modules/mass/site_name.php:49
+#: d:\wordpress\plugins\headspace2/modules/mass/tags.php:49
+msgid "Post title"
+msgstr "Indlægstitel"
+
+#: d:\wordpress\plugins\headspace2/modules/mass/more_text.php:28
+#: d:\wordpress\plugins\headspace2/modules/mass/more_text.php:50
+msgid "More text"
+msgstr "\"Mere tekst\""
+
+#: d:\wordpress\plugins\headspace2/modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "Korttitel (slug) på side"
+
+#: d:\wordpress\plugins\headspace2/modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "Korttitel (slug) på indlæg"
+
+#: d:\wordpress\plugins\headspace2/modules/mass/page_title.php:28
+#: d:\wordpress\plugins\headspace2/modules/mass/page_title.php:50
+msgid "Page title"
+msgstr "Sidetitel"
+
+#: d:\wordpress\plugins\headspace2/modules/mass/site_description.php:28
+#: d:\wordpress\plugins\headspace2/modules/mass/site_description.php:50
+msgid "Site description"
+msgstr "Beskrivelse af websted"
+
+#: d:\wordpress\plugins\headspace2/modules/mass/site_name.php:28
+#: d:\wordpress\plugins\headspace2/modules/mass/site_name.php:50
+msgid "Site name"
+msgstr "Webstedets navn"
+
+#: d:\wordpress\plugins\headspace2/modules/mass/tags.php:50
+msgid "Tags/keywords"
+msgstr "Tags/Nøgleord"
+
+#: d:\wordpress\plugins\headspace2/modules/page/custom.php:48
+msgid "Custom data"
+msgstr "Brugerdata"
+
+#: d:\wordpress\plugins\headspace2/modules/page/custom.php:53
+msgid "Allows custom data to be inserted anywhere in your theme using MetaData::custom ()"
+msgstr "Tilader brugerdata at blive indsat overalt i dit tema med MetaData::custom ()"
+
+#: d:\wordpress\plugins\headspace2/modules/page/custom.php:90
+msgid "Fields"
+msgstr "Felter"
+
+#: d:\wordpress\plugins\headspace2/modules/page/description.php:65
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "Tillader en kort beskrivelse af siden til brug for søgemaskiner"
+
+#: d:\wordpress\plugins\headspace2/modules/page/description.php:74
+msgid "Max length"
+msgstr "Max. længde"
+
+#: d:\wordpress\plugins\headspace2/modules/page/description.php:77
+msgid "All descriptions will be trimmed to this length"
+msgstr "Alle beskrivelser vil blive trimmet til denne længde"
+
+#: d:\wordpress\plugins\headspace2/modules/page/description.php:96
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: d:\wordpress\plugins\headspace2/modules/page/follow-links.php:32
+msgid "Archive Links"
+msgstr "Arkiv-links"
+
+#: d:\wordpress\plugins\headspace2/modules/page/follow-links.php:33
+msgid "Category Links"
+msgstr "Kategori-links"
+
+#: d:\wordpress\plugins\headspace2/modules/page/follow-links.php:34
+msgid "Page Links"
+msgstr "Side-links"
+
+#: d:\wordpress\plugins\headspace2/modules/page/follow-links.php:35
+msgid "Tag Links"
+msgstr "Tag-links"
+
+#: d:\wordpress\plugins\headspace2/modules/page/follow-links.php:36
+msgid "Comm. Author Links"
+msgstr "Kommentarforfatter-links"
+
+#: d:\wordpress\plugins\headspace2/modules/page/follow-links.php:37
+msgid "Comm. Text Links"
+msgstr "Kommentartekst-links"
+
+#: d:\wordpress\plugins\headspace2/modules/page/follow-links.php:103
+msgid "Follow Links"
+msgstr "Follow-links"
+
+#: d:\wordpress\plugins\headspace2/modules/page/follow-links.php:108
+msgid "Allows follow/no-follow to be set for various links"
+msgstr "Follow/no-follow kan sættes for forskellige links"
+
+#: d:\wordpress\plugins\headspace2/modules/page/follow-links.php:117
+msgid "Follow"
+msgstr "Follow"
+
+#: d:\wordpress\plugins\headspace2/modules/page/follow-links.php:118
+#: d:\wordpress\plugins\headspace2/modules/page/noindex.php:37
+msgid "No-follow"
+msgstr "No-follow"
+
+#: d:\wordpress\plugins\headspace2/modules/page/follow-links.php:119
+msgid "Default"
+msgstr "Standard"
+
+#: d:\wordpress\plugins\headspace2/modules/page/javascript.php:50
+#: d:\wordpress\plugins\headspace2/modules/page/javascript.php:67
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: d:\wordpress\plugins\headspace2/modules/page/javascript.php:55
+msgid "Allow external JavaScript files to be referenced"
+msgstr "Tillad reference til eksterne JavaScript filer"
+
+#: d:\wordpress\plugins\headspace2/modules/page/keywords.php:64
+#: d:\wordpress\plugins\headspace2/modules/page/keywords.php:105
+msgid "Keywords"
+msgstr "Nøgleord"
+
+#: d:\wordpress\plugins\headspace2/modules/page/keywords.php:69
+msgid "Allows meta keywords to be defined, seperate from tags (if necessary, disable keyword display in the Tags module)"
+msgstr "Lader dig definere meta-nøgleord, uafhængigt af tags (deaktivér om nødvendigt visning af nøgleord i Tags-modulet)"
+
+#: d:\wordpress\plugins\headspace2/modules/page/keywords.php:78
+msgid "Use tags"
+msgstr "Brug tags"
+
+#: d:\wordpress\plugins\headspace2/modules/page/keywords.php:81
+msgid "Checking this will mean that your tags are also used as keywords and you will not be able to modify keywords independently"
+msgstr "Afkrydser du her, bruges dine tags også som nøgleord, og du kan ikke redigere nøgleord uafhængigt"
+
+#: d:\wordpress\plugins\headspace2/modules/page/more_text.php:92
+msgid "Allows the 'more' text to be changed"
+msgstr "Tillader ændring af 'mere'-teksten"
+
+#: d:\wordpress\plugins\headspace2/modules/page/more_text.php:130
+msgid "Enable on excerpts"
+msgstr "Aktivér på uddrag"
+
+#: d:\wordpress\plugins\headspace2/modules/page/more_text.php:136
+msgid "Pattern"
+msgstr "Mønster"
+
+#: d:\wordpress\plugins\headspace2/modules/page/more_text.php:139
+msgid "Advanced - the regular expression pattern to select the more link from your posts"
+msgstr "Avanceret - mønsteret, som ved hjælp af udvidede udtryk (regular expressions) vælger Mere-linket i dine indlæg"
+
+#: d:\wordpress\plugins\headspace2/modules/page/more_text.php:143
+msgid "Replace"
+msgstr "Erstat"
+
+#: d:\wordpress\plugins\headspace2/modules/page/more_text.php:145
+msgid "Advanced - the regular expression replacement text"
+msgstr "Avanceret - teksten, som der erstattes med ved hjælp af søg og erstat med udvidede udtryk"
+
+#: d:\wordpress\plugins\headspace2/modules/page/noindex.php:36
+msgid "No-index"
+msgstr "No-Index"
+
+#: d:\wordpress\plugins\headspace2/modules/page/noindex.php:38
+msgid "No-archive"
+msgstr "No-archive"
+
+#: d:\wordpress\plugins\headspace2/modules/page/noindex.php:39
+msgid "No-ODP"
+msgstr "Ingen ODP"
+
+#: d:\wordpress\plugins\headspace2/modules/page/noindex.php:40
+msgid "No-Yahoo Dir"
+msgstr "Ingen Yahoo-katalogisering"
+
+#: d:\wordpress\plugins\headspace2/modules/page/noindex.php:92
+#: d:\wordpress\plugins\headspace2/modules/page/noindex.php:111
+msgid "Meta-Robots"
+msgstr "Meta-søgerobotter"
+
+#: d:\wordpress\plugins\headspace2/modules/page/noindex.php:97
+msgid "Allows various meta-robot options to be set to prevent search engines and robots from indexing or following pages"
+msgstr "Disse forskellige indstillinger for meta-robotter instruerer søgemaskiner og søgerobotter i ikke at indeksere eller \"følge\" sider (det sidste bruges i webrangliste-beregninger)"
+
+#: d:\wordpress\plugins\headspace2/modules/page/page_title.php:121
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "Tillad ændring af sidetitlen (f.eks. titlen i browservinduet)"
+
+#: d:\wordpress\plugins\headspace2/modules/page/page_title.php:130
+msgid "Title separator"
+msgstr "Titel separator"
+
+#: d:\wordpress\plugins\headspace2/modules/page/page_title.php:133
+msgid "Leave blank to use theme default"
+msgstr "Står feltet tomt, bruges standard-tema"
+
+#: d:\wordpress\plugins\headspace2/modules/page/page_title.php:137
+msgid "Separator position"
+msgstr "Position for separator"
+
+#: d:\wordpress\plugins\headspace2/modules/page/page_title.php:140
+msgid "Before"
+msgstr "Før"
+
+#: d:\wordpress\plugins\headspace2/modules/page/page_title.php:141
+msgid "After"
+msgstr "Efter"
+
+#: d:\wordpress\plugins\headspace2/modules/page/page_title.php:146
+msgid "Force title rewrite"
+msgstr "Gennemtving genskrivning af titel"
+
+#: d:\wordpress\plugins\headspace2/modules/page/page_title.php:153
+msgid "This will cache your page and brute-force change the title.  While this is convienent because you don't need to change your theme it does lead to increased memory usage and a reduction in performance."
+msgstr "Dette vil cache din side og gennemtvinge ændring af titlen. Det er praktisk, fordi du ikke behøver at ændre dit tema, men det medfører også større CPU-brug og en nedsættelse af hastigheden."
+
+#: d:\wordpress\plugins\headspace2/modules/page/page_title.php:173
+msgid "Page Title"
+msgstr "Sidetitel"
+
+#: d:\wordpress\plugins\headspace2/modules/page/plugin.php:102
+msgid "Page-specific Plugins"
+msgstr "Sidespecifikke plugins"
+
+#: d:\wordpress\plugins\headspace2/modules/page/plugin.php:107
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "Tillader aktivering af deaktiverede plugins på specifikke sider"
+
+#: d:\wordpress\plugins\headspace2/modules/page/plugin.php:123
+msgid "Show in admin"
+msgstr "Vis i admin"
+
+#: d:\wordpress\plugins\headspace2/modules/page/plugin.php:126
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "Vis side-specifikke plugins i administrationsmenuerne"
+
+#: d:\wordpress\plugins\headspace2/modules/page/plugin.php:153
+msgid "Plugins"
+msgstr "Plugins"
+
+#: d:\wordpress\plugins\headspace2/modules/page/raw.php:43
+#: d:\wordpress\plugins\headspace2/modules/page/raw.php:55
+msgid "Raw data"
+msgstr "Rå data"
+
+#: d:\wordpress\plugins\headspace2/modules/page/raw.php:48
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr "Tillader indsættelse af rå data i sidens meta-afsnit"
+
+#: d:\wordpress\plugins\headspace2/modules/page/rss_name.php:57
+#: d:\wordpress\plugins\headspace2/modules/page/rss_name.php:76
+msgid "RSS Name"
+msgstr "RSS-navn"
+
+#: d:\wordpress\plugins\headspace2/modules/page/rss_name.php:62
+msgid "Allows site RSS name to be changed"
+msgstr "Tillader ændring af sidens RSS-navn"
+
+#: d:\wordpress\plugins\headspace2/modules/page/rss_tagline.php:57
+msgid "RSS Description"
+msgstr "RSS-beskrivelse"
+
+#: d:\wordpress\plugins\headspace2/modules/page/rss_tagline.php:62
+msgid "Allows site RSS description to be changed"
+msgstr "Tillader ændring af sidens RSS-beskrivelse"
+
+#: d:\wordpress\plugins\headspace2/modules/page/rss_tagline.php:76
+msgid "RSS Desc."
+msgstr "RSS-beskrivelse"
+
+#: d:\wordpress\plugins\headspace2/modules/page/site_name.php:63
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "Tillader ændring af sidens navn (dvs. blog navn)"
+
+#: d:\wordpress\plugins\headspace2/modules/page/site_tagline.php:56
+#: d:\wordpress\plugins\headspace2/modules/page/site_tagline.php:75
+msgid "Site Tagline"
+msgstr "Webstedets slogan"
+
+#: d:\wordpress\plugins\headspace2/modules/page/site_tagline.php:61
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "Tillader ændring af websteds-beskrivelsen (dvs. tagline)"
+
+#: d:\wordpress\plugins\headspace2/modules/page/stylesheet.php:61
+#: d:\wordpress\plugins\headspace2/modules/page/stylesheet.php:78
+msgid "Stylesheets"
+msgstr "StyleSheets (typografiark)"
+
+#: d:\wordpress\plugins\headspace2/modules/page/stylesheet.php:66
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "Tillader tilføjelse af CSS-stylesheets (typografiark) til sider"
+
+#: d:\wordpress\plugins\headspace2/modules/page/stylesheet.php:113
+msgid "Do not output CSS"
+msgstr "Anvend ikke CSS-formattering"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:128
+msgid "<p>Tags: "
+msgstr "<p>Tags:"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:163
+msgid "Allows tags to be added to pages"
+msgstr "Tillader tilføjelse af tags til sider"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:172
+msgid "Force tags in posts"
+msgstr "Gennemtving visning af tags i indlæg"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:175
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:185
+msgid "No"
+msgstr "Nej"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:176
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:186
+msgid "Yes"
+msgstr "Ja"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:178
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:188
+msgid "Your theme may overrule this setting"
+msgstr "Dit tema tilsidesætter måske denne indstilling"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:182
+msgid "Force tags in pages"
+msgstr "Gennemtving visning af tags på sider"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:192
+msgid "Show pages"
+msgstr "Vis sider"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:195
+msgid "Show pages in tag archives"
+msgstr "Vis sider i tag-arkiver"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:199
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo ZoneTag"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:202
+msgid "enable"
+msgstr "aktivér"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:297
+msgid "Suggested tags"
+msgstr "Foreslåede tags"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:299
+msgid "add all"
+msgstr "tilføj alle"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:300
+msgid "suggest"
+msgstr "foreslå"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:302
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:330
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: d:\wordpress\plugins\headspace2/modules/page/tags.php:328
+msgid "Suggest tags based on content"
+msgstr "Foreslå tags baseret på indhold"
+
+#: d:\wordpress\plugins\headspace2/modules/page/theme.php:69
+msgid "Page-specific Theme"
+msgstr "Sidespecifikke temaer"
+
+#: d:\wordpress\plugins\headspace2/modules/page/theme.php:81
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "Tillader et tilpasset side-specifikt tema at tilsidesætte standardtemaet"
+
+#: d:\wordpress\plugins\headspace2/modules/page/theme.php:89
+msgid "Theme"
+msgstr "Tema"
+
+#: d:\wordpress\plugins\headspace2/modules/page/theme.php:92
+msgid "Current theme"
+msgstr "Aktuelle tema"
+
+#: d:\wordpress\plugins\headspace2/modules/site/103bees.php:31
+msgid "103bees"
+msgstr "103bees"
+
+#: d:\wordpress\plugins\headspace2/modules/site/103bees.php:36
+msgid "Adds 103bees tracking code to all pages"
+msgstr "Tilføjer 103bees' sporingskode til alle sider"
+
+#: d:\wordpress\plugins\headspace2/modules/site/103bees.php:111
+#: d:\wordpress\plugins\headspace2/modules/site/google_webmaster.php:67
+#: d:\wordpress\plugins\headspace2/modules/site/hittail.php:111
+msgid "Tracking code"
+msgstr "Sporingskode"
+
+#: d:\wordpress\plugins\headspace2/modules/site/103bees.php:114
+msgid "Enter the full JavaScript tracking code as shown on your 103bees account page."
+msgstr "Gem den fulde JavaScript sporingskode sådan som den vises på din brugerkonto-side i 103bees"
+
+#: d:\wordpress\plugins\headspace2/modules/site/103bees.php:118
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:254
+#: d:\wordpress\plugins\headspace2/modules/site/apture.php:118
+#: d:\wordpress\plugins\headspace2/modules/site/awstats.php:121
+#: d:\wordpress\plugins\headspace2/modules/site/crazyegg.php:124
+#: d:\wordpress\plugins\headspace2/modules/site/hittail.php:118
+msgid "Who to track"
+msgstr "Hvem skal spores?"
+
+#: d:\wordpress\plugins\headspace2/modules/site/103bees.php:121
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:257
+#: d:\wordpress\plugins\headspace2/modules/site/apture.php:121
+#: d:\wordpress\plugins\headspace2/modules/site/awstats.php:124
+#: d:\wordpress\plugins\headspace2/modules/site/crazyegg.php:127
+#: d:\wordpress\plugins\headspace2/modules/site/hittail.php:121
+msgid "Everyone"
+msgstr "Alle"
+
+#: d:\wordpress\plugins\headspace2/modules/site/103bees.php:127
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:264
+#: d:\wordpress\plugins\headspace2/modules/site/apture.php:128
+#: d:\wordpress\plugins\headspace2/modules/site/awstats.php:131
+#: d:\wordpress\plugins\headspace2/modules/site/crazyegg.php:134
+#: d:\wordpress\plugins\headspace2/modules/site/hittail.php:128
+msgid "Users of the specified role or less will be tracked"
+msgstr "Brugere af den specificerede rolle eller lavere vil blive sporet"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:39
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:44
+msgid "Adds Google Analytic tracking code to all pages (through <code>wp_footer</code>)"
+msgstr "Tilføjer Google Analytics sporingskode til alle sider  (i <code>wp_footer</code>)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:238
+#: d:\wordpress\plugins\headspace2/modules/site/feedburner-stats.php:67
+msgid "Account ID"
+msgstr "Konto-ID"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:241
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "Gem den fulde Google JavaScript sporingskode, eller bare <code>_uacct</code> nummeret."
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:245
+msgid "Version"
+msgstr "Version"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:248
+msgid "Urchin (urchin.js)"
+msgstr "Urchin (urchin.js)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:249
+msgid "New Google Analytics (ga.js)"
+msgstr "Ny Google Analytics (ga.js)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:268
+msgid "Track outbound links"
+msgstr "Sporing af udgående links"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:271
+msgid "Enter the URL you want outbound links tracked to"
+msgstr "Indtast URL'en du vil bruge til at spore udgående links"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:275
+msgid "Virtual Pages"
+msgstr "Virtuelle sider"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:278
+msgid "Change what appears in reports"
+msgstr "Ændre hvad der vises i rapporter"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:282
+msgid "Domain Name"
+msgstr "Domænenavn"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:285
+msgid "Set to a root domain when tracking across sub-domains"
+msgstr "Angiv hoveddomæne, hvis du udfører sporing på tværs af underdomæner"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:289
+msgid "Raw Code"
+msgstr "Rå kode"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:292
+msgid "Enter any additional Google Analytics code"
+msgstr "Indtast evt. yderligere Google Analytics-kode"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:296
+msgid "Include on login page"
+msgstr "Medtag på login-side"
+
+#: d:\wordpress\plugins\headspace2/modules/site/analytics.php:299
+msgid "Include Google Analytics on the WordPress login page"
+msgstr "Medtag Google Analytics sporingskode på WordPress' login-side"
+
+#: d:\wordpress\plugins\headspace2/modules/site/apture.php:31
+msgid "Apture"
+msgstr "Apture"
+
+#: d:\wordpress\plugins\headspace2/modules/site/apture.php:36
+msgid "Add Apture to all pages"
+msgstr "Tilføjer Apture sporingskode til alle sider"
+
+#: d:\wordpress\plugins\headspace2/modules/site/apture.php:111
+msgid "Site token"
+msgstr "Kendemærke for webstedet"
+
+#: d:\wordpress\plugins\headspace2/modules/site/apture.php:114
+msgid "Enter your site token."
+msgstr "Indtast din site-kendemærke (token)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/awstats.php:31
+msgid "AWStats JavaScript Tracking"
+msgstr "AWStats JavaScript Tracking"
+
+#: d:\wordpress\plugins\headspace2/modules/site/awstats.php:36
+msgid "Adds AWStats JavaScript tracking to all pages (through <code>wp_footer</code>)"
+msgstr "Tilføjer AWStats' JavaScript-sporing til alle sider (via <code>wp_footer</code>)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: d:\wordpress\plugins\headspace2/modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr "Tilføjer CrazyEgg-sporingskode til alle sider"
+
+#: d:\wordpress\plugins\headspace2/modules/site/crazyegg.php:117
+msgid "CrazyEgg ID"
+msgstr "CrazyEgg ID"
+
+#: d:\wordpress\plugins\headspace2/modules/site/crazyegg.php:120
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg code</a>"
+msgstr "Indtast din fulde <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg kode</a>"
+
+#: d:\wordpress\plugins\headspace2/modules/site/disable_visual_editing.php:28
+msgid "Disable Visual Editing"
+msgstr "Deaktivér den visuelle editor"
+
+#: d:\wordpress\plugins\headspace2/modules/site/disable_visual_editing.php:33
+msgid "Disable visual editing"
+msgstr "Deaktivér den visuelle editor"
+
+#: d:\wordpress\plugins\headspace2/modules/site/feedburner-stats.php:30
+msgid "Feedburner Stats Pro"
+msgstr "Feedburner Stats Pro"
+
+#: d:\wordpress\plugins\headspace2/modules/site/feedburner-stats.php:35
+msgid "Adds appropriate code to your posts to enable FeedBurner Stats Pro"
+msgstr "Tilføjer den nødvendige kode, som aktiverer Feedburner Stats Pro, til dine indlæg"
+
+#: d:\wordpress\plugins\headspace2/modules/site/feedburner-stats.php:70
+msgid "This is your FeedBurner username"
+msgstr "Dette er din Feedburner-brugernavn"
+
+#: d:\wordpress\plugins\headspace2/modules/site/first-time-visitor.php:34
+msgid "First Time Visitor"
+msgstr "Førstegangsbesøgende"
+
+#: d:\wordpress\plugins\headspace2/modules/site/first-time-visitor.php:39
+msgid "Display a message for first time visitors (based upon idea from Seth Godin)"
+msgstr "Vis en besked til førstegangsbesøgende (efter idé fra Seth Godin)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/first-time-visitor.php:93
+#, php-format
+msgid "<p>As a new visitor you may want to subscribe to my <a href=\"%s/feed/\">RSS</a> feed.</p>"
+msgstr "<p>Da du er ny besøgende, vil jeg gøre opmærksom på, at du kan abonnere på mit <a href=\"%s/feed/\">RSS</a> feed.</p>"
+
+#: d:\wordpress\plugins\headspace2/modules/site/first-time-visitor.php:119
+msgid "Message to display"
+msgstr "Besked, der skal vises"
+
+#: d:\wordpress\plugins\headspace2/modules/site/first-time-visitor.php:125
+msgid "Repeat"
+msgstr "Gentag"
+
+#: d:\wordpress\plugins\headspace2/modules/site/first-time-visitor.php:126
+msgid "Enter 0 for always"
+msgstr "Angiv 0 for altid"
+
+#: d:\wordpress\plugins\headspace2/modules/site/first-time-visitor.php:129
+msgid "Display position"
+msgstr "Vis-position"
+
+#: d:\wordpress\plugins\headspace2/modules/site/first-time-visitor.php:132
+msgid "Before content"
+msgstr "Før indhold"
+
+#: d:\wordpress\plugins\headspace2/modules/site/first-time-visitor.php:133
+msgid "After content"
+msgstr "Efter indhold"
+
+#: d:\wordpress\plugins\headspace2/modules/site/first-time-visitor.php:138
+msgid "Ignore Bots"
+msgstr "Ignorér søgemaskiner"
+
+#: d:\wordpress\plugins\headspace2/modules/site/frame-breaker.php:32
+msgid "Frame Breaker"
+msgstr "Frame Breaker"
+
+#: d:\wordpress\plugins\headspace2/modules/site/frame-breaker.php:37
+msgid "Stops your site being loaded in a frame."
+msgstr "Forhindrer, at dit site bliver indlæst i en frame"
+
+#: d:\wordpress\plugins\headspace2/modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Google Section Targeting"
+
+#: d:\wordpress\plugins\headspace2/modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "Ombryd alt indlæg- og sideindhold inde i en Google-targeted section"
+
+#: d:\wordpress\plugins\headspace2/modules/site/google_webmaster.php:30
+msgid "Google Webmaster"
+msgstr "Google Webmaster"
+
+#: d:\wordpress\plugins\headspace2/modules/site/google_webmaster.php:35
+msgid "Adds Google Webmaster tracking code to your home page"
+msgstr "Tilføjer Google Webmaster-sporingskode til din hjemmeside"
+
+#: d:\wordpress\plugins\headspace2/modules/site/google_webmaster.php:70
+msgid "Enter Google Webmaster tracking code."
+msgstr "Indtast Google Webmaster's sporingskode"
+
+#: d:\wordpress\plugins\headspace2/modules/site/hittail.php:31
+msgid "HitTail"
+msgstr "HitTail"
+
+#: d:\wordpress\plugins\headspace2/modules/site/hittail.php:36
+msgid "Adds HitTail tracking code to all pages"
+msgstr "Tilføjer HitTrails-sporingskode til alle sider"
+
+#: d:\wordpress\plugins\headspace2/modules/site/hittail.php:114
+msgid "Enter the full JavaScript tracking code as provided by HitTail."
+msgstr "Indfør den fulde JavaScript-sporingskode, som HitTail stiller til rådighed."
+
+#: d:\wordpress\plugins\headspace2/modules/site/microsoft-live.php:30
+msgid "Microsoft Live Verification"
+msgstr "Microsoft Live Verification"
+
+#: d:\wordpress\plugins\headspace2/modules/site/microsoft-live.php:35
+msgid "Adds Microsoft Live verification code to your home page"
+msgstr "Tilføjer Microsoft Live-verifikationskode til din hjemmeside"
+
+#: d:\wordpress\plugins\headspace2/modules/site/microsoft-live.php:67
+msgid "Verification code"
+msgstr "Verifikationskode"
+
+#: d:\wordpress\plugins\headspace2/modules/site/microsoft-live.php:70
+msgid "Enter Microsoft Live verification code."
+msgstr "Indtast Microsoft Live's verifikationskode"
+
+#: d:\wordpress\plugins\headspace2/modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: d:\wordpress\plugins\headspace2/modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr "Tilføjer Mint-sporingskode til alle sider"
+
+#: d:\wordpress\plugins\headspace2/modules/site/mint.php:121
+msgid "Mint path"
+msgstr "Mint-sti"
+
+#: d:\wordpress\plugins\headspace2/modules/site/mint.php:124
+msgid "Enter the relative URL to your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "Indtast den relative URL til din Mint-installation  (f.eks. <code>/mint/</code>)."
+
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "Sidetælling"
+
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "Tilpas antallet af indlæg vist på arkiv og sider med søgeresultater, og beslut, om hele indholdet eller uddragget skal vises"
+
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:116
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "indlæg; brug følgende visning:"
+
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:118
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:130
+msgid "default"
+msgstr "standard"
+
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:119
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:131
+msgid "content"
+msgstr "indhold"
+
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:120
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "uddrag"
+
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:122
+msgid "(set number of posts to 0 for theme default)"
+msgstr "(Sæt antal indlæg til 0 for at bruge temaets standard)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "Søgninger"
+
+#: d:\wordpress\plugins\headspace2/modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "Sæt antal indlæg til 0 for tema-standard"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:37
+msgid "Piwik"
+msgstr "Piwik"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:42
+msgid "Adds Piwik tracking code to all pages"
+msgstr "Tilføjer Piwik-sporingskode til alle sider"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:180
+msgid "Piwik Site ID"
+msgstr "Piwiks Site-ID"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:183
+msgid "If you are monitoring multiple sites this allows you to identify each"
+msgstr "Har du overvågning på flere hjemmesider, kan du identificere hvert enkelt her"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:187
+msgid "Piwik PHP"
+msgstr "Piwik-PHP"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:190
+msgid "The location of the Piwik PHP file (i.e. <code>/piwik/piwik.php</code>)"
+msgstr "Placering af Piwik-PHP-filen (dvs. <code>/piwik/piwik.php</code>)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:194
+msgid "Piwik JavaScript"
+msgstr "Piwik-JavaScript"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:197
+msgid "The location of the Piwik JavaScript file (i.e. <code>/piwik/piwik.js</code>)"
+msgstr "Placeringen af Piwik-JavaScript-filen (dvs. <code>/piwik/piwik.js</code>)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:201
+msgid "Track downloads"
+msgstr "Spor downloads"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:204
+msgid "Clear to disable download tracking"
+msgstr "Fjern, hvis du vil deaktivere sporing af downloads"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:204
+msgid "reset to default"
+msgstr "nulstil til standard"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:208
+msgid "Tracker pause"
+msgstr "Sporingspause"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:211
+msgid "A pause (milliseconds) added when a file is downloaded.  Small values may not be tracked"
+msgstr "En pause (i millisekunder), der tilføjes, når en fil downloades. Lave værdier spores måske ikke"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:215
+msgid "Host aliases"
+msgstr "Værts-aliasser (hosts)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/piwik.php:218
+msgid "Enter each host on a separate line"
+msgstr "Angiv hver vært på en separat linje"
+
+#: d:\wordpress\plugins\headspace2/modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: d:\wordpress\plugins\headspace2/modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr "Tilføjer StatCounter-sporingskode til alle sider"
+
+#: d:\wordpress\plugins\headspace2/modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "Project-ID"
+
+#: d:\wordpress\plugins\headspace2/modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "Partition-ID"
+
+#: d:\wordpress\plugins\headspace2/modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "Sikkerheds-id"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:32
+msgid "System Settings"
+msgstr "Systemindstillinger"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:37
+msgid "Configure PHP memory limits, time-outs, and error reporting"
+msgstr "Konfigurér hukommelsesbegrænsning, time-outs og fejlrapportering i PHP"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:84
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:94
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:99
+msgid "System default"
+msgstr "Systemstandard"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:85
+msgid "30 seconds"
+msgstr "30 sekunder"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:86
+msgid "60 seconds"
+msgstr "60 sekunder"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:87
+msgid "10 minutes"
+msgstr "10 minutter"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:88
+msgid "1 hour"
+msgstr "1 time"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:89
+msgid "No timeout limit"
+msgstr "Ingen timeout"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:100
+msgid "Show only errors"
+msgstr "Vis kun fejl"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:101
+msgid "Show all errors &amp; warnings"
+msgstr "Vis alle fejl &amp; advarsler"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:102
+msgid "Show no errors or warnings"
+msgstr "Vis ingen fejl eller advarsler"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:106
+msgid "Memory Limit"
+msgstr "Hukommelsesbegrænsning"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:116
+msgid "PHP Script Timeout"
+msgstr "Timeout for PHP-script"
+
+#: d:\wordpress\plugins\headspace2/modules/site/system-settings.php:126
+msgid "PHP Error Reporting"
+msgstr "Fejlrapportering i PHP"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:30
+msgid "Disable WordPress Widgets"
+msgstr "Deaktivér WordPress-widgets"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:35
+msgid "Allows you to enable or disable various WordPress Widgets"
+msgstr "Lader dig aktivere eller deaktivere forskellige WordPress-widgets"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:61
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:62
+msgid "Pages"
+msgstr "Sider"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:67
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:68
+msgid "Calendar"
+msgstr "Kalender"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:79
+msgid "Links"
+msgstr "Links"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:84
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:85
+msgid "Meta"
+msgstr "Meta"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:90
+msgid "Search"
+msgstr "Søg"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:95
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:96
+msgid "Recent Posts"
+msgstr "Seneste indlæg"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:101
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:102
+msgid "Tag Cloud"
+msgstr "Tags i sky-format (Tag Cloud)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:141
+msgid "categories"
+msgstr "kategorier"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:142
+msgid "text"
+msgstr "tekst"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:143
+msgid "rss"
+msgstr "RSS"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:144
+msgid "recent comments"
+msgstr "seneste kommentarer"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:145
+msgid "pages"
+msgstr "sider"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:146
+msgid "search"
+msgstr "søg"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:147
+msgid "calendar"
+msgstr "kalender"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:148
+msgid "archives"
+msgstr "arkiver"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:149
+msgid "links"
+msgstr "links"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:150
+msgid "meta"
+msgstr "meta"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:151
+msgid "recent entries"
+msgstr "seneste optegnelser"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:152
+msgid "tag cloud"
+msgstr "Tags i sky-format"
+
+#: d:\wordpress\plugins\headspace2/modules/site/widgets.php:156
+msgid "Enabled Widgets"
+msgstr "Aktiverede widgets"
+
+#: d:\wordpress\plugins\headspace2/modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "WordPress-indholdsformatering"
+
+#: d:\wordpress\plugins\headspace2/modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "Tillader dig at aktivere eller deaktivere forskellige WordPress-auto-formateringer (inkl. wpautop)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/wp_formatting.php:91
+msgid "Auto-formatting"
+msgstr "Auto-formatering"
+
+#: d:\wordpress\plugins\headspace2/modules/site/wp_formatting.php:94
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr "Brug <code>wpautop</code> til at formatere afsnit"
+
+#: d:\wordpress\plugins\headspace2/modules/site/wp_formatting.php:98
+msgid "Auto-fancy quotes"
+msgstr "Auto-smarte citater"
+
+#: d:\wordpress\plugins\headspace2/modules/site/wp_formatting.php:101
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "Brug <code>wptexturize</code> til at lave citater om til smarte citater (fancy quotes)"
+
+#: d:\wordpress\plugins\headspace2/modules/site/wp_formatting.php:105
+msgid "Auto-link"
+msgstr "Auto-link"
+
+#: d:\wordpress\plugins\headspace2/modules/site/wp_formatting.php:108
+msgid "Makes links clickable in comments"
+msgstr "Gør kommentar-links klikbare"
+
+#: d:\wordpress\plugins\headspace2/modules/site/yahoo-site-explorer.php:30
+msgid "Yahoo! Site Explorer"
+msgstr "Yahoo! Site Explorer"
+
+#: d:\wordpress\plugins\headspace2/modules/site/yahoo-site-explorer.php:35
+msgid "Adds Yahoo! Site Explorer tracking code to your home page"
+msgstr "Tilføjer Yahoo! Site Explorer-sporingskode til din hjemmeside"
+
+#: d:\wordpress\plugins\headspace2/modules/site/yahoo-site-explorer.php:70
+msgid "Enter Yahoo! Site Explorer tracking code."
+msgstr "Indtast Yahoo! Site Explorer-sporingskode"
+
+#: d:\wordpress\plugins\headspace2/view/admin/edit.php:19
+msgid "advanced"
+msgstr "udvidet"
+
+#: d:\wordpress\plugins\headspace2/view/admin/edit_ajax.php:6
+msgid "Cancel"
+msgstr "Annullér"
+
+#: d:\wordpress\plugins\headspace2/view/admin/edit_category.php:1
+msgid "HeadSpace Settings"
+msgstr "HeadSpace-indstillinger"
+
+#: d:\wordpress\plugins\headspace2/view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "Redigér kategori &raquo;"
+
+#: d:\wordpress\plugins\headspace2/view/admin/edit_post.php:7
+msgid "HeadSpace Meta data"
+msgstr "HeadSpace-meta-data"
+
+#: d:\wordpress\plugins\headspace2/view/admin/head_admin.php:5
+msgid "Are you sure you want to merge that tag?"
+msgstr "Er du sikker på, du vil flette dette tag?"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:3
+msgid "Special Tags"
+msgstr "Specielle tags"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:4
+msgid "These tags can be included and will be replaced by HeadSpace when a page is displayed."
+msgstr "Disse tags kan medtages og vil blive erstattet af HeadSpace, når en side vises."
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:10
+msgid "Replaced with the date of the post/page"
+msgstr "Erstattes med indlæggets/sidens dato"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:11
+msgid "Replaced with the title of the post/page"
+msgstr "Erstattes med indlægs-/sidetitlen"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:12
+msgid "The site's name"
+msgstr "Erstattes med webstedets navn"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:13
+msgid "Replaced with the post/page excerpt (or auto-generated if it does not exist)"
+msgstr "Erstattes med indlæggets/sidens uddrag (eller auto-genereres, hvis det ikke eksisterer)"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:14
+msgid "Replaced with the post/page excerpt (without auto-generation)"
+msgstr "Erstattes med indlæggets/sidens uddrag (uden autogenerering)"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:15
+msgid "Replaced with the current tag/tags"
+msgstr "Erstattes med de aktuelle tag(s)"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:16
+msgid "Replaced with the post categories (comma separated)"
+msgstr "Erstattes med indlæggets kategorier (komma-separeret)"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:17
+msgid "Replaced with the category description"
+msgstr "Erstattes med beskrivelsen af kategorien"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:18
+msgid "Replaced with the post/page modified time"
+msgstr "Erstattes med indlæggets/sidens tidspunkt for seneste ændring"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:19
+msgid "Replaced with the post/page ID"
+msgstr "Erstattes med indlæggets/sidens ID"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:20
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "Erstattes med indlægsforfatterens/sideforfatterens kælenavn ('nicename' )"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:21
+msgid "Replaced with the post/page author's userid"
+msgstr "Erstattes med indlægsforfatterens/sideforfatterens bruger-id"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:22
+msgid "Replaced with the current search phrase"
+msgstr "Erstattes med den aktuelle søgefrase"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:23
+msgid "Replaced with the current time"
+msgstr "Erstattes med det aktuelle tidspunkt"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:24
+msgid "Replaced with the current date"
+msgstr "Erstattes med den aktuelle dato"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:25
+msgid "Replaced with the current month"
+msgstr "Erstattes med den aktuelle måned"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:26
+msgid "Replaced with the current year"
+msgstr "Erstattes med det aktuelle år"
+
+#: d:\wordpress\plugins\headspace2/view/admin/help.php:27
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr "Erstattes med det aktuelle sidenummer (f.eks. side 2 af 4)"
+
+#: d:\wordpress\plugins\headspace2/view/admin/import.php:3
+#, php-format
+msgid "%s | Import"
+msgstr "%s | Import"
+
+#: d:\wordpress\plugins\headspace2/view/admin/import.php:7
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "Denne side tillader dig at importere meta-data fra andre WordPress-plugins. De andre plugins behøver ikke være aktiverede for at importen virker."
+
+#: d:\wordpress\plugins\headspace2/view/admin/import.php:18
+#: d:\wordpress\plugins\headspace2/view/admin/submenu.php:7
+msgid "Import"
+msgstr "Importér"
+
+#: d:\wordpress\plugins\headspace2/view/admin/import.php:19
+msgid "Import and remove original data"
+msgstr "Importér og fjern original data"
+
+#: d:\wordpress\plugins\headspace2/view/admin/import.php:19
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "(ikke tilgængelig i UTW og Simple Tagging)"
+
+#: d:\wordpress\plugins\headspace2/view/admin/import.php:22
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "Som med alt andet, som ændrer din database, anbefales det at <strong>sikkerhedskopiere dine data før import</strong>. Vi påtager os intet ansvar for killinger, som må blive myrdet i processen."
+
+#: d:\wordpress\plugins\headspace2/view/admin/mass_edit.php:25
+msgid "Filter"
+msgstr "Filtrér"
+
+#: d:\wordpress\plugins\headspace2/view/admin/mass_edit.php:62
+msgid "Save all data"
+msgstr "Gem alle data"
+
+#: d:\wordpress\plugins\headspace2/view/admin/modules.php:4
+#, php-format
+msgid "%s | Page Modules"
+msgstr "%s | Sidemoduler"
+
+#: d:\wordpress\plugins\headspace2/view/admin/modules.php:8
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "Sidemoduler gælder for enkelte sider. Træk-og-slip moduler ind i det ønskede område. Rækkefølgen på modulerne kan ændres, så de får ny position på redigeringsskærmen."
+
+#: d:\wordpress\plugins\headspace2/view/admin/modules.php:12
+msgid "Simple"
+msgstr "Simpel"
+
+#: d:\wordpress\plugins\headspace2/view/admin/modules.php:13
+msgid "Modules will always appear on edit screens"
+msgstr "Disse moduler vises altid i redigeringsområderne"
+
+#: d:\wordpress\plugins\headspace2/view/admin/modules.php:18
+msgid "Advanced"
+msgstr "Udvidet"
+
+#: d:\wordpress\plugins\headspace2/view/admin/modules.php:19
+msgid "Modules will be hidden behind a link"
+msgstr "Disse moduler skjules bag et link"
+
+#: d:\wordpress\plugins\headspace2/view/admin/modules.php:29
+msgid "Disabled"
+msgstr "Deaktiveret"
+
+#: d:\wordpress\plugins\headspace2/view/admin/modules.php:30
+msgid "Modules are disabled and do not appear"
+msgstr "Disse moduler er deaktiverede og vises ikke"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:4
+#, php-format
+msgid "%s | General Options"
+msgstr "%s | Generelle indstillinger"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:13
+msgid "Inherit settings"
+msgstr "Nedarv indstillinger"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:17
+msgid "Inherit from global settings"
+msgstr "Globale indstillinger \"arves\", dvs. de anvendes på moduler med snævrere anvendelse (scope)"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:21
+msgid "Process excerpt with plugins"
+msgstr "Giv plugins adgang til uddrag"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:25
+msgid "Will allow plugins to modify generated excerpts"
+msgstr "Tillader plugins at ændre genererede uddrag"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:29
+msgid "Plugin Support"
+msgstr "Pluginsupport"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:32
+msgid "I'm a nice person and I have helped support the author of this plugin"
+msgstr "Jeg er et flinkt menneske og har bidraget med støtte til forfatteren af dette plugin"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:36
+msgid "Debug"
+msgstr "Debug"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:40
+msgid "Enable debug option"
+msgstr "Aktiverer debug-funktionen"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:46
+msgid "Update Options &raquo;"
+msgstr "Opdatér indstillinger"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:54
+msgid "Remove HeadSpace"
+msgstr "Fjern HeadSpace"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:56
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data - be sure this is what you want!"
+msgstr "Dette valg vil fjerne HeadSpace og slette alle indstillinger, tags og meta-data - gør det kun, hvis du er sikker på, at det er det, du ønsker!"
+
+#: d:\wordpress\plugins\headspace2/view/admin/options.php:61
+msgid "Delete HeadSpace"
+msgstr "Slet HeadSpace"
+
+#: d:\wordpress\plugins\headspace2/view/admin/settings.php:4
+#, php-format
+msgid "%s | Page Settings"
+msgstr "%s | Sideindstillinger"
+
+#: d:\wordpress\plugins\headspace2/view/admin/settings.php:8
+msgid "Click the page type to change settings.  You can enable additional modules to provide more choices."
+msgstr "Klik på sidetypen for at ændre indstillinger. Du kan aktivere yderligere moduler og få flere valg."
+
+#: d:\wordpress\plugins\headspace2/view/admin/settings.php:20
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "Indstillinger kan gøre gældende for specifikke indlæg &amp; sider fra <strong>Redigér indlæg</strong>-siden, og til specifikke kategorier fra <strong>Redigér kategori</strong>-siden."
+
+#: d:\wordpress\plugins\headspace2/view/admin/site_modules.php:2
+#, php-format
+msgid "%s | Site Modules"
+msgstr "%s | Webstedsmoduler"
+
+#: d:\wordpress\plugins\headspace2/view/admin/site_modules.php:6
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "Webstedsmoduler gælder for dit websted som helhed. Kun valgte moduler vil blive anvendt (når disse er korrekt konfigurerede)."
+
+#: d:\wordpress\plugins\headspace2/view/admin/submenu.php:3
+msgid "Page Settings"
+msgstr "Sideindstillinger"
+
+#: d:\wordpress\plugins\headspace2/view/admin/submenu.php:4
+msgid "Page Modules"
+msgstr "Sidemoduler"
+
+#: d:\wordpress\plugins\headspace2/view/admin/submenu.php:5
+msgid "Site Modules"
+msgstr "Webstedsmoduler"
+
+#: d:\wordpress\plugins\headspace2/view/admin/submenu.php:6
+msgid "Options"
+msgstr "Indstillinger"
+
+#: d:\wordpress\plugins\headspace2/view/admin/support.php:2
+msgid "HeadSpace Support"
+msgstr "HeadSpace-support"
+
+#: d:\wordpress\plugins\headspace2/view/admin/support.php:4
+msgid "HeadSpace has required a great deal of time and effort to develop.  If it's been useful to you then you can support this development by <strong>making a small donation of $8</strong>.  This will act as an incentive for me to carry on developing it, providing countless hours of support, and including any enhancements that are suggested."
+msgstr "HeadSpace har krævet meget tid og stort arbejde at udvikle. Hvis du har haft gavn heraf, kan du støtte udviklingen ved at <strong>give et lille bidrag på $8</strong>. Det vil give tilskyndelse til fortsat at udvikle pluginnet, yde utallige timers support, og tilføje de nye funktioner, som der bliver foreslået."
+
+#: d:\wordpress\plugins\headspace2/view/admin/support.php:25
+msgid "Alternatively, if you are multi-lingual, do consider translating this into another language.  All the necessary localisation files are included and I've written a <a href=\"http://urbangiraffe.com/articles/translating-wordpress-themes-and-plugins/\">full guide to the translation process</a>."
+msgstr "En anden mulighed, hvis du kan flere sprog, er at overveje at oversætte pluginnet. Alle de nødvendige sprogfiler er inkluderet i HeadSpace. Jeg har skrevet en <a href=\"http://urbangiraffe.com/articles/translating-wordpress-themes-and-plugins/\">komplet guide til oversættelsesprocessen</a>."
+
+#: d:\wordpress\plugins\headspace2/view/admin/support.php:27
+msgid "This notice will only be shown at periodic intervals and can be disabled easily."
+msgstr "Denne besked vises kun med tilbagevendende intervaller og kan let deaktiveres."
+
+#: d:\wordpress\plugins\headspace2/view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "HeadSpace2-nyheder"
+
+#: d:\wordpress\plugins\headspace2/view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "%s siden"
+
+#~ msgid "Add Plugin"
+#~ msgstr "Tilføj plugin"
+#~ msgid "Add tags to dictionary"
+#~ msgstr "Tilføj tags til ordbog"
+#~ msgid ""
+#~ "Adds additional functions to allow blogging tools such as Ecto to use "
+#~ "tagging"
+#~ msgstr ""
+#~ "Tilføjer yderligere funktioner for at tillade blogging værktøjer som Ecto "
+#~ "at bruge tagging"
+#~ msgid "Alphabetically order tags"
+#~ msgstr "sortér tags alfabetisk"
+#~ msgid "Always"
+#~ msgstr "Altid"
+#~ msgid "Automatically add new tags to dictionary"
+#~ msgstr "Tilføj automatisk nye tags til ordbogen "
+#~ msgid "Check for updates"
+#~ msgstr "Tjeck efter opdateringer"
+#~ msgid "Check for updates from within HeadSpace"
+#~ msgstr "Tjeck efter opdateringer indenfor HeadSpace"
+#~ msgid "Dictionary"
+#~ msgstr "Orbog"
+#~ msgid "Mass Edit Meta-data"
+#~ msgstr "Masseredigér meta data"
+#~ msgid "Modules"
+#~ msgstr "Moduler"
+#~ msgid "Never"
+#~ msgstr "Aldrig"
+#~ msgid "No Index/No Follow"
+#~ msgstr "No Index (indeksér ikke) / No Follow (følg ikke)"
+#~ msgid "RPC support for Ecto"
+#~ msgstr "RPC understøttelse for Ecto"
+#~ msgid "Save module order"
+#~ msgstr "Gem modul-rækkefølge"
+#~ msgid "Simple Tags"
+#~ msgstr "Simple tags"
+#~ msgid "Tag separator"
+#~ msgstr "Tag separator"
+#~ msgid "Tags (keywords)"
+#~ msgstr "Tags (keywords)"
+#~ msgid ""
+#~ "This must match the separator defined in Ecto 'Templates', 'Tags', 'Tag "
+#~ "separator'"
+#~ msgstr ""
+#~ "Dette skal svare til separator defineret i Ecto 'Templates', 'Tags', 'Tag "
+#~ "separator'"
+#~ msgid "Your module positions have been saved"
+#~ msgstr "Dine modulers positioner er blevet gemt"
+#~ msgid "add"
+#~ msgstr "tilføj"
+#~ msgid "go"
+#~ msgstr "gå"
+

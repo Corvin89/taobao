@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Предлагаем <a href="http://xn--d1aaxia5b0bf.su"> монтаж дымоходов Shiedel</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://directory.all4seo.ru/">SEO Каталог</a>'; include '../view.php';

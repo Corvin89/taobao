@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Большой выбор <a href=http://www.parfumplus.ru/>духов</a>. 100% качество.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.seotricks.ru/">SEO новости и статьи</a>'; include '../view.php';

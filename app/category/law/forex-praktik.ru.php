@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Практика по бирже <a href="http://www.forex-praktik.ru/">форекс</a>'; include '../view.php';

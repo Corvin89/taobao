@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.2q.ru/registration/1/">регистрация предприятий и регистрация фирм в Москве</a>'; include '../view.php';

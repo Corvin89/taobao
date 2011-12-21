@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.autoexkavator.ru/">Аренда мобильных экскаваторов на автошасси Татра ( Tatra ) УДС ( UDS ) 114 и Исузу ( ISUZU ) , земляные работы , рытье котлованов </a>'; include '../view.php';

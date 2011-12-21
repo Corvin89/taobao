@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://watch-links.info/">Watch Links</a>'; include '../view.php';

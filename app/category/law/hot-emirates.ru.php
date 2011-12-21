@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--www.hot-emirates.ru-opisanie--> Незабываемый отдых в ОАЭ:  <a href="http://www.hot-emirates.ru/" title="Дубаи  авиабилеты отели оаэ,  ОАЭ объединенные арабские эмираты">Дубаи  авиабилеты отели оаэ,  ОАЭ объединенные арабские эмираты</a> Самые низкие цены на туры!  <!--www.hot-emirates.ru-opisanie-->'; include '../view.php';

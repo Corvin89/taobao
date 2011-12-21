@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.muzikantspb.ru" target=_blank>ЖИВАЯ МУЗЫКА для праздника. Организация и проведение праздников, свадеб, банкетов, корпоративных вечеринок и торжеств.</a>'; include '../view.php';

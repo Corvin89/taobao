@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.traffic-plus.com">Submit your link</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://impuls-info.com/"><strong>impuls-info.com Обучающие видео курсы, электронные книги, видеоуроки.</strong></a>'; include '../view.php';

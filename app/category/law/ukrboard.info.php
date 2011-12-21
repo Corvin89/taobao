@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ukrboard.info/addurl">Каталог сайтов UkrBoard</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.csgenius.com/">CS Genius Web Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.medcat.cn/">MedCat - медицинский каталог</a> | ветеринария и <a href="http://www.megacat.info/">животные</a>'; include '../view.php';

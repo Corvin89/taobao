@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://maxi-house.ru" title="строительство и ремонт">строительство и ремонт</a>'; include '../view.php';

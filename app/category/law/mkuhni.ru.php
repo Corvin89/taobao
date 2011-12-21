@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mkuhni.ru">Кухонная мебель - кухни из массива</a>'; include '../view.php';

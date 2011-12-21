@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.walldir.ru" >Белый Каталог фото ресурсов</a>'; include '../view.php';

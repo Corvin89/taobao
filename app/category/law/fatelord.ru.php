@@ -1,0 +1,1 @@
+<?php $catalogLink = 'fatelord.ru <a href="http://www.fatelord.ru">позитивный сборник статей для прогрессивной молодёжи</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://realestate-all.ru/>строительный рынок покровский</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.globallinkdirectory.com">Free Link Directory,submit link, addurl</a>'; include '../view.php';

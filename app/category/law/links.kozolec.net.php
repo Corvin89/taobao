@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://links.kozolec.net" id="R568721">K-Links Directory</a>'; include '../view.php';

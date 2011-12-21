@@ -1,0 +1,1 @@
+<?php $catalogLink = '4humans.ru <a href="http://www.4humans.ru">позитивный сборник статей для вечно молодых</a>'; include '../view.php';

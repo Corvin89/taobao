@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.globespot.net/">GlobeSpot.Net Web Directory</a>'; include '../view.php';

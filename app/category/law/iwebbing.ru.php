@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://iwebbing.ru/">создание сайта</a>'; include '../view.php';

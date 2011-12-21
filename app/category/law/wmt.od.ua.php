@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://wmt.od.ua">WebMoney Transfer в Одессе</a> - обменный пункт WebMoney, Пин-коды, оплата услуг за WebMoney, ваучеры SkypeOut.'; include '../view.php';

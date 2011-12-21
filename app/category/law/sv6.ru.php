@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Sv6.ru: блог "Сварка, сварочные работы" - о <a href="http://www.sv6.ru/svarka/03/svarka-cvetnyx-metallov/">работах сварочной установкой и газовой сварке алюминия</a>.'; include '../view.php';

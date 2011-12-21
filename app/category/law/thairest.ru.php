@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Отдых в Тайланде, <a href=http://www.thairest.ru>туры В Тайланд</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.bodybuilde.ru"><img width=88 height=31 src="http://www.bodybuilde.ru/images/bodybuilde.png" alt="бодибилдинг" border="0"></a><a href="http://www.bodybuilde.ru">бодибилдинг</a> для начинающих и профессионалов: упражнения, тренировки, фото, видео, спортивное питание. Форум для общения.'; include '../view.php';

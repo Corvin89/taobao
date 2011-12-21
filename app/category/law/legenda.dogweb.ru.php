@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://legenda.dogweb.ru" target=blank title="Многопородный питомник собак Байкальская Легенда"> Многопородный питомник собак "Байкальская Легенда" г. Иркутск.</a>'; include '../view.php';

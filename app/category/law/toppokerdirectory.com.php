@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.toppokerdirectory.com">Top Poker Directory | Online Poker Sites</a>'; include '../view.php';

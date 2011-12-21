@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gulyanka71.ru/" target="_blank" title="свадебный портал">Всё для торжества в Туле</a>'; include '../view.php';

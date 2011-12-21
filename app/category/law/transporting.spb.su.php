@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://plst.net.ru/" target="_blank"> Грузоперевозки в Петербурге , помощь при переезде , услуги грузчиков </a> <a href="http://plst.net.ru/linkadd/" target="_blank"> Каталог сайтов </a>'; include '../view.php';

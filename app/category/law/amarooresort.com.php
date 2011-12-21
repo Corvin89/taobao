@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.amarooresort.com/pages/Trinity-Beach-apartments.html">Trinity Beach apartments</a> - Trinity Beach accommodation with truly magnificent ocean views from well-appointed studio and family rooms.'; include '../view.php';

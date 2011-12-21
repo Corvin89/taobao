@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Maarten Wilbers <postmaster@amklassiek.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+
+#: link-directory.php:71
+msgid "No"
+msgstr "Nee"
+
+#: link-directory.php:73
+msgid "Update"
+msgstr "Bijwerken"
+
+#: link-directory.php:74
+msgid "Delete"
+msgstr "Verwijder"
+
+#: link-directory.php:76
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: link-directory.php:77
+msgid "Optional"
+msgstr "Optioneel"
+
+#: link-directory.php:78
+msgid "Required"
+msgstr "Verplicht"
+
+#: link-directory.php:80
+msgid "Website  Title:"
+msgstr "Naam website:"
+
+#: link-directory.php:81
+msgid "Website URL:"
+msgstr "Website URL:"
+
+#: link-directory.php:82
+#: link-directory.php:1228
+msgid "Category:"
+msgstr "Rubriek:"
+
+#: link-directory.php:83
+#: link-directory.php:772
+#: link-directory.php:790
+msgid "Description:"
+msgstr "Omschrijving:"
+
+#: link-directory.php:85
+msgid "WordPress Link Directory"
+msgstr "WordPress Link Directory"
+
+#: link-directory.php:86
+msgid "Edit Links"
+msgstr "Bewerk Links"
+
+#: link-directory.php:87
+msgid "Edit Categories"
+msgstr "Bewerk rubrieken"
+
+#: link-directory.php:89
+msgid "Nobody"
+msgstr "Niemand"
+
+#: link-directory.php:90
+msgid "Everybody"
+msgstr "Iedereen"
+
+#: link-directory.php:91
+msgid "Sites < PR"
+msgstr "Sites < PR"
+
+#: link-directory.php:288
+msgid "Your Reciprocal Requirements option  is set to Nobody. This means no sites are required to link back to you and therefor there is nothing to check/cleanse."
+msgstr "Je vereisten voor een wederzijdse (reciprocal) link staat op Niemand. Dat betekent dat geen enkele website verplicht is terug te linken. Zodoende is er niets te controleren of op te schonen."
+
+#: link-directory.php:313
+#: link-directory.php:320
+msgid "The link has been deleted."
+msgstr "De link werd verwijderd"
+
+#: link-directory.php:346
+msgid "Your URL"
+msgstr "Jouw URL:"
+
+#: link-directory.php:348
+msgid "Your homepage or the URL you want people  to link to"
+msgstr "Je homepage of de URL waar naar gelinkt moet worden"
+
+#: link-directory.php:350
+msgid "Require Reciprocal Links From"
+msgstr "Wederzijdse (reciprocal) links vereist van"
+
+#: link-directory.php:373
+#: link-directory.php:375
+msgid "Reciprocal Link HTML"
+msgstr "Wederzijdse Link HTML"
+
+#: link-directory.php:377
+msgid "Enter the HTML  people should use to link to your site. This will be displayed on the Link To Us page."
+msgstr "Voer de HTML in gebruikt moet worden om je website te linken. Deze zal worden getoond op de 'Link naar ons' pagina."
+
+#: link-directory.php:379
+msgid "Allow HTML in Description"
+msgstr "HTML in omschrijving toestaan:"
+
+#: link-directory.php:381
+msgid "People adding links  to your directory will be able to use these HTML tags in their description. If you want to enable bold text, images and  linking, for example, you would enter '&#60;b&#62;&#60;a&#62;&#60;img&#62;'"
+msgstr "Mensen die hun link willen toevoegen aan jouw directory kunnen deze HTML gebruiken in de omschrijving. Als je bijvoorbeeld dikgedrukte tekst, afbeeldingen en links wilt toestaan, zou je '&#60;b&#62;&#60;a&#62;&#60;img&#62;' invoeren."
+
+#: link-directory.php:409
+#: link-directory.php:411
+msgid "Categories Per Row"
+msgstr "Rubrieken per rij"
+
+#: link-directory.php:413
+msgid "When displaying the  categories on the front page of your directory, this is how many will be displayed per row."
+msgstr "Het aantal rubrieken dat per rij getoond wordt op de homepage van je directory."
+
+#: link-directory.php:416
+msgid "Show Counts?"
+msgstr "Toon aantallen?"
+
+#: link-directory.php:426
+msgid "On the front page of your  directory you can chose to show or hide the number of links in each category. I.e. 'Links (23)' vs 'Links'."
+msgstr "Je kunt het aantal links per rubriek tonen of verbergen. Bijvoorbeeld 'Links (23)' in plaats van 'Links'."
+
+#: link-directory.php:429
+msgid "Detailed Info"
+msgstr "Gedetailleerde info"
+
+#: link-directory.php:431
+msgid "By default a <i>read more</i>  link is shown for each link where more detailed information about the link is shown. You can change the text of this  link or leave this field blank to disable it."
+msgstr "Standaard wordt de <i>meer...</i> link getoond en is er aanvullende informatie over de ingave beschikbaar. Je kunt de tekst van deze link wijzigen of leeg laten om niet te tonen"
+
+#: link-directory.php:433
+msgid "Extra Fields"
+msgstr "Extra velden"
+
+#: link-directory.php:450
+msgid "You can include Name and E-Mail fields on your Add URL page. Setting to Hidden will not  show these fields, Optional will display but not require them and Required will mean that people cannot add their link  without supplying a name and email address."
+msgstr "Je kunt naam en email velden tonen op je 'URL toevoegen'-pagina. Kies 'verberg' om deze niet te tonen, 'optioneel' om ze te tonen maar niet verplicht te maken en 'verplicht' om ze verplicht te maken, zodat mensen geen link kunnen toevoegen zonder naam en email op te geven."
+
+#: link-directory.php:452
+msgid "Require Captcha?"
+msgstr "Gebruik Captcha"
+
+#: link-directory.php:462
+msgid "Captcha is a form of checking that the user is human and not a spam-bot. Enabling captcha  displays an image on your Add URL page that the user must enter to have their link accepted."
+msgstr "Captcha is een manier om te controleren of de gebruiker menselijk is. Als captcha wordt geactiveerd, dan toont de 'URL toevoegen'-pagina een tekst die de gebruiker moet invoeren om zijn link toe te voegen."
+
+#: link-directory.php:464
+msgid "Email Me?"
+msgstr "Email mij?"
+
+#: link-directory.php:474
+msgid "If set to Yes the script will send  you an email (to the WordPress admin email address) each time a new link is added to your directory."
+msgstr "Als 'ja' gekoezen is zal het script je elke keer een email sturen als er een link wordt toegevoegd aan je directory. Daarvoor wordt het Wordpress admin-emailadres gebruikt."
+
+#: link-directory.php:476
+msgid "Display PageRank"
+msgstr "Weergave PageRank"
+
+#: link-directory.php:487
+msgid "If you don't want to display the  PR bar next to links set this to No."
+msgstr "Als je geen PR balk naast je links wilt hebben staan, kies hier dan 'nee'."
+
+#: link-directory.php:489
+msgid "Link Target"
+msgstr "Link landingspagina"
+
+#: link-directory.php:502
+msgid "_blank will open links in a new window whereas _self will open links on the same page.  See http://www.w3.org/TR/1999/REC-html401-19991224/types.html#type-frame-target for more information."
+msgstr "_blank opent links in een nieuw venster, terwijl _self links in hetzelfde venster opent. Kijk op http://www.w3.org/TR/1999/REC-html401-19991224/types.html#type-frame-target voor meer informatie."
+
+#: link-directory.php:504
+msgid "Use NoFollow?"
+msgstr "Gebruik Nofollow:"
+
+#: link-directory.php:518
+msgid "NoFollow is an HTML attribute  that can be used in links. It tells Google and other search engines to ignore the link and not follow it (<a  href=\"http://en.wikipedia.org/wiki/Nofollow\">read more</a>). Turning NoFollow on will add rel=\"nofollow\" to all  your links."
+msgstr "'Nofollow' is een HTML attribuut dat wordt gebruikt bij links en vertelt Google en andere zoekmachines deze link te negeren en niet te volgen (<a  href=\"http://en.wikipedia.org/wiki/Nofollow\">meer informatie</a>). NoFollow selecteren zet rel=\"nofollow\" bij al je links."
+
+#: link-directory.php:519
+msgid "Display Powered By?"
+msgstr "'Powered By' tonen?"
+
+#: link-directory.php:528
+msgid "I offer WP Link Directory for free, for everyone, and a link back to my site isn't required, but it is appreciated. If  selected this will insert a small link on the home page of the directory to the plugins homepage."
+msgstr "WP Link Directory is gratis, voor iedereen en een link naar mijn website is niet vereist. Het wordt echter wel gewaardeerd. Als je dit selecteert wordt er een kleine link op je linkspagina gezet."
+
+#: link-directory.php:530
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: link-directory.php:532
+msgid "Are you sure?"
+msgstr "Weet u het zeker?"
+
+#: link-directory.php:534
+msgid "Cleanse Links"
+msgstr "Opschonen Links"
+
+#: link-directory.php:538
+msgid "Delete Links?"
+msgstr "Links Verwijderen"
+
+#: link-directory.php:539
+msgid "Cleanse"
+msgstr "Opschonen"
+
+#: link-directory.php:540
+msgid "Every now and then you should perform a  cleanse which checks all the links in your directory to make sure they comply with your Reciprocal Link requirements.  If your Reciprocal Link requires All Sites < PR 4, for example, any sites with < PR 4 will be checked.<br>If you set  Delete Links to Yes then links which don't meet requirements will be deleted, otherwise they will simply be flagged up  for you to check and/or delete manually."
+msgstr "Af en toe moet je je links opschonen om te kijken of ze voldoen aan de vereisten voor wederzijdse (reciprocal) links. Als Wederzijdse Links bijvoorbeeld op alle websites < PR 4 staat, worden alle website met een PageRank kleiner dan vier gecontroleerd. Als je Links Weghalen op Ja hebt gezet, dan worden links die niet voldoen aan deze vereisten verwijderd, anders zullen ze gemarkeerd worden, zodat je ze zelf kunt controleren en handmatig weg kunt halen."
+
+#: link-directory.php:556
+#: link-directory.php:1019
+msgid "Add Link"
+msgstr "Link Toevoegen"
+
+#: link-directory.php:570
+msgid "We couldn't open the URL you supplied but the link was added anyway. You may  want to check it to ensure it exists."
+msgstr "Ik kon de URL die je invoerde niet openen, maar de link werd wel toegevoegd. Misschien wil je even controleren of deze URL wel bestaat."
+
+#: link-directory.php:581
+msgid "Link Added"
+msgstr "Link toegevoegd"
+
+#: link-directory.php:589
+msgid "Link Updated"
+msgstr "Link bijgewerkt"
+
+#: link-directory.php:595
+msgid "Link Deleted"
+msgstr "Link verwijderd"
+
+#: link-directory.php:613
+msgid "Are you sure you want to delete this link?"
+msgstr "Weet je zeker dat je deze link wilt verwijderen?"
+
+#: link-directory.php:687
+msgid "Add Category"
+msgstr "Rubriek Toevoegen"
+
+#: link-directory.php:706
+msgid "Category Deleted"
+msgstr "Rubriek weggehaald"
+
+#: link-directory.php:756
+msgid "Sub-Category of: "
+msgstr "Subrubriek van:"
+
+#: link-directory.php:783
+msgid "Sub-Category of:"
+msgstr "Subrubriek van:"
+
+#: link-directory.php:859
+msgid "Every  CAPTCHA can only be used once. The current CAPTCHA has already been used. Please click back, refresh the page and try  again."
+msgstr "Elke Captcha kan maar een keer worden gebruikt. De huidige Captcha is al eens gebruikt. Ga terug, herlaadt de pagina en probeer het nog eens."
+
+#: link-directory.php:861
+msgid "You entered the wrong captcha code. Aren't you human? Please use back  button and reload."
+msgstr "Je hebt de verkeerde Captcha code ingeoverd. Ga terug, herlaadt de pagina en probeer het nog eens."
+
+#: link-directory.php:873
+msgid "You didn't enter a name. You will need to fill this in  to add your link."
+msgstr "Je voerde geen naam in. Je moet een naam invoeren om je link toe te voegen."
+
+#: link-directory.php:881
+#, php-format
+msgid "The E-Mail address you entered (%s) doesn't  appear to be valid. Your link was not added."
+msgstr "Het emailadres (%s) dat je invoerde lijkt niet goed te zijn. Je link werd niet toegevoegd."
+
+#: link-directory.php:898
+msgid "The URL you supplied doesn't  seem to be valid."
+msgstr "De URL die je invoerde lijkt niet goed te zijn."
+
+#: link-directory.php:909
+#, php-format
+msgid "Your site (%s$1) is already in our directory in  the %s$2 category."
+msgstr "Je website (%s$1) staat al in de rubriek %s$2."
+
+#: link-directory.php:932
+msgid "The reciprocal link page must be somewhere on the domain  you are adding."
+msgstr "De pagina met de wederzijdse (reciprocal) link moet ergens aanwezig zijn in het domein dat je invoerde. "
+
+#: link-directory.php:945
+#: link-directory.php:950
+#, php-format
+msgid "We couldn't find a reciprocal link on the page %s."
+msgstr "We konden geen wederzijdse link vinden op pagina %s."
+
+#: link-directory.php:959
+#, php-format
+msgid "Your link (%s) has been added successfully, thanks!"
+msgstr "Je link (%s) werd toegevoegd, geweldig!"
+
+#: link-directory.php:965
+#, php-format
+msgid "%s$1 - New Link Added"
+msgstr "%s$1 - Link toegevoegd"
+
+#: link-directory.php:981
+msgid "You must link to our site first before you can add yourself to our directory."
+msgstr "Je moet eerst een link aanbrengen naar onze site voordat je jezelf kunt toevoegen aan onze directory."
+
+#: link-directory.php:983
+#, php-format
+msgid "Sites with a PageRank of less than %s must first supply a link back to our site."
+msgstr "Websites met een PageRank kleiner dan %s moeten eerst een link naar onze pagina plaatsen."
+
+#: link-directory.php:985
+msgid "You can find out how to do that"
+msgstr "Hoe dat moet, kun je "
+
+#: link-directory.php:985
+msgid "here"
+msgstr "hier uitvinden"
+
+#: link-directory.php:990
+msgid "HTML tags allowed:"
+msgstr "Toegestane HTML:"
+
+#: link-directory.php:994
+msgid "Your  Name:"
+msgstr "Je Naam:"
+
+#: link-directory.php:995
+msgid "Your E-Mail:"
+msgstr "Email:"
+
+#: link-directory.php:1006
+msgid "Reciprocal  URL:"
+msgstr "Wederzijdse link:"
+
+#: link-directory.php:1013
+msgid "Captcha:"
+msgstr "Captcha:"
+
+#: link-directory.php:1015
+msgid "Phonetic spelling  (mp3)"
+msgstr "Fonetische spelling (mp3)"
+
+#: link-directory.php:1016
+msgid "Enter Code:"
+msgstr "Code:"
+
+#: link-directory.php:1043
+msgid "Search For:"
+msgstr "Zoek:"
+
+#: link-directory.php:1045
+msgid "Search In:"
+msgstr "Zoek binnen: "
+
+#: link-directory.php:1046
+msgid "All"
+msgstr "Alles"
+
+#: link-directory.php:1046
+msgid "Title"
+msgstr "Naam"
+
+#: link-directory.php:1046
+msgid "URL"
+msgstr "URL"
+
+#: link-directory.php:1046
+msgid "Description"
+msgstr "Omschrijving"
+
+#: link-directory.php:1047
+#: link-directory.php:1169
+msgid "Search"
+msgstr "Zoek"
+
+#: link-directory.php:1069
+msgid "No results were found in your search."
+msgstr "Sorry, we hebben niets gevonden."
+
+#: link-directory.php:1169
+msgid "Home"
+msgstr "Home"
+
+#: link-directory.php:1169
+msgid "Add URL"
+msgstr "URL toevoegen"
+
+#: link-directory.php:1169
+msgid "Link To Us"
+msgstr "Ons linken"
+
+#: link-directory.php:1190
+msgid "Step 1: Add our URL to your page using this HTML code:"
+msgstr "Stap 1: voeg onze URL toe aan je pagina met deze HTML:"
+
+#: link-directory.php:1193
+msgid "This will generate a link like this:"
+msgstr "Dat resulteert in een link als dit:"
+
+#: link-directory.php:1207
+msgid "Invalid  Request"
+msgstr "Ongeldige aanvraag"
+
+#: link-directory.php:1216
+msgid "This link has been deleted or does not exist."
+msgstr "De link bestaat niet."
+
+#: link-directory.php:1229
+msgid "Pagerank:"
+msgstr "Pagerank:"
+
+#: link-directory.php:1232
+msgid "Added By:"
+msgstr "Toegevoegd door:"
+
+#: link-directory.php:1235
+msgid "Date Added:"
+msgstr "Toegevoegd op:"
+
+#: link-directory.php:1238
+msgid "Last Updated:"
+msgstr "Bijgewerkt op:"
+
+#: link-directory.php:1242
+msgid "Cached Pages:"
+msgstr "Gecachte pagina's"
+
+#: link-directory.php:1245
+msgid "Backlinks:"
+msgstr "Backlinks:"
+
+#: link-directory.php:1256
+msgid "Other Links:"
+msgstr "Andere Links"
+
+#: link-directory.php:1287
+msgid "Sub-Categories:"
+msgstr "Subrubrieken"
+
+#: link-directory.php:1380
+msgid "Powered by"
+msgstr "Powered by"
+
+#: link-directory.php:1492
+msgid "Action Cancelled"
+msgstr "Actie gestopt"
+

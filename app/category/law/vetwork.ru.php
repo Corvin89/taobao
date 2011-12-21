@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vetwork.ru" target="_blank">Скорая помощь вашим питомцам, Москва</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://turkey.vb1.ru/">Turkey.vb1.ru - Турция. История, города и курорты, достопримечательности, статьи о Турции.</a>'; include '../view.php';

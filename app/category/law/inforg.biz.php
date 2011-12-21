@@ -1,0 +1,1 @@
+<?php $catalogLink = '<b><a href="http://www.inforg.biz/" target="_blank" title="inforg.biz - автомобили, мебель, юридические услуги">inforg.biz - автомобили, мебель, юридические услуги, отдых, электронная коммерция и многое</a></b>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://wallpaper.ribca.net>Рекомендую: фото, обои, анимация, заставки для рабочего стола!</a>'; include '../view.php';

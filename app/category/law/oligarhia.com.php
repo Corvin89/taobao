@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Ёкономика и финансы <a href="http://oligarhia.com/">ќлигархи€</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://namotore.ru/">купить авто</a>'; include '../view.php';

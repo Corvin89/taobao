@@ -1,0 +1,1 @@
+<?php $catalogLink = '<u><a href="http://www.envychic.com">EnvyChic.com Sexy Clothes</a></u></br>Unique online store entirely composed of sexy clothes, clubwear, sexy lingerie, sexy bikinis, exotic dancewear, sexy shoes, sexy costumes & more.'; include '../view.php';

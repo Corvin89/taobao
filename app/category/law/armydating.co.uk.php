@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.armydating.co.uk/"><b>Army Dating</b></a><br>Army Dating is a dating site for the uniformed and emergency services or those seeking a date in uniform. If you want to meet Military singles, fire fighter singles, sexy nurse, police singles or a man in uniform then join now for free!'; include '../view.php';

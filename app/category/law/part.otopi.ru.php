@@ -1,0 +1,1 @@
+<?php $catalogLink = '»нтернет-магазин Otopi.ru предлагает: <a href="http://www.otopi.ru/"><b>тепловые пушки, теплогенераторы</b></a>, <a href="http://www.gorelki.ru/"><b>горелки дл€ котлов</b></a> со склада в ћоскве. –абота с регионами'; include '../view.php';

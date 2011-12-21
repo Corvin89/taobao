@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Оказание услуг, цена <a href="http://www.service.nsty.ru">услуги service</a> предприятия, фирма, договор услуг'; include '../view.php';

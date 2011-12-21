@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.autonm.ru/" target=_blank>Блог Автолюбителя</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wmz-for-you.info/"><img border="0" src="http://www.wmz-for-you.info/pic/money.gif" width="88" height="31"></a>'; include '../view.php';

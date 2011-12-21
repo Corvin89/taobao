@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.pesok-nm.ru">нерудные стройматериалы</a>'; include '../view.php';

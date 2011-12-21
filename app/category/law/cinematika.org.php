@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.cinematika.org/" target="blank"><img src="http://www.cinematika.org/images/banners/cine_ban_01.gif" border="0" alt="Искусство Кино, мультфильмы" /></a>'; include '../view.php';

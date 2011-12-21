@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.photowebsplanet.com/">PWP Photo Directory</a>'; include '../view.php';

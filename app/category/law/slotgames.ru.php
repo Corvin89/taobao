@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href=http://www.slotgames.ru/>
+<img src="http://www.slotgames.ru/banners/slot.jpg" alt="Игровые автоматы Онлайн" width="150" height="80" border="0"></a>'; include '../view.php';

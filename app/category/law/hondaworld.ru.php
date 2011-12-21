@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.hondaworld.ru"><img src="http://www.hondaworld.ru/banner88.gif" width=88 height=31 border=0 alt="Автомобили, мотоциклы Honda, запчасти хонда, ремонт, мануалы, тюнинг"></a>'; include '../view.php';

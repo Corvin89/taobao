@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.storesdepartment.net" id="RF38F38">Local web search finds information and sites on clothing retailers.</a>- Department Clothing & Accessory Store USA Canada Shopping Guide'; include '../view.php';

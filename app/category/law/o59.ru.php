@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.o59.ru">Каталог Сайтов Пермского края</a>'; include '../view.php';

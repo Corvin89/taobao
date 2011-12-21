@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://russian-temples.ru/">Православные храмы</a>'; include '../view.php';

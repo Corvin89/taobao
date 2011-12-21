@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.malagaweb.com/">Malaga</a> - Malaga tourist information and travel tips for your holidays on the Costa del Sol, Spain.'; include '../view.php';

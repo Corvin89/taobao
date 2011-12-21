@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.plymouths.net/">авто новости, автомобили bmw, nissan, ferrari</a> - Всё о элитных автомобилях !'; include '../view.php';

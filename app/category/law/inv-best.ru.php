@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://inv-best.ru"><img src="http://inv-best.ru/banners/8831.gif" alt="WWW.INV-BEST.RU - русский HYIP Мониторинг" title="WWW.INV-BEST.RU - русский HYIP Мониторинг"></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Новостройки, <a href="http://www.realty.nsty.ru">квартиры в москве</a>, квартиры в аренду, сделка'; include '../view.php';

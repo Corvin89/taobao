@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kupiproday.ru/" target="_blank">Купи Продай .ru - глобальный прайс-лист с ценами</a>, есть <a href="http://doski.kupiproday.ru/" target="_blank">бесплатные доски объявлений</a> и <a href="http://top.kupiproday.ru/" target="_blank">топ-каталог</a> со сбором полной статистики посещаемости Вашего ресурса.'; include '../view.php';

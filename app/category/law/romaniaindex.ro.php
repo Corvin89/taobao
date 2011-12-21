@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.romaniaindex.ro/" title="Index Web Directory" target="_blank"><img src="http://www.romaniaindex.ro/images/logo-index.png" border="0" alt=" Index Web Directory ";/a>'; include '../view.php';

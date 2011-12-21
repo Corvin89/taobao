@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.comedy-zone.net/"><img src="http://www.comedy-zone.net/images/awards/comedynom.jpg" border=0 alt="Comedy Zone Cool Site"></a>'; include '../view.php';

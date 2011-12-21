@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.nogot.ru/nursing/aromotherapy/'>Аромотерапия</a>, <a href='http://www.nogot.ru/'>педикюр, дизайн ногтей, французский маникюр, уход за ногтями</a>'; include '../view.php';

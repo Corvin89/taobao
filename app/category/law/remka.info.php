@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.remka.info">Компания Жилье-Строй - ремонт квартир, строительство коттеджей</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cat.landeus.ru">Наши партнеры</a><a href="http://landeus.ru/">Покупка и продажа земельных участков, недвижимость за рубежом, купить земельный участок.</a>'; include '../view.php';

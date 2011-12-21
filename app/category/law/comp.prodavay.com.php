@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://comp.prodavay.com/">Ѕизнес-объ€влени€ о компьютерах</a>'; include '../view.php';

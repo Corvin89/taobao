@@ -1,0 +1,1 @@
+<?php $catalogLink = 'MyBachelorsDegree.org provides a selection of <a href="http://www.mybachelorsdegree.org/">bachelor of business degrees</a> in many fields including  business administration, human resources marketing and technology management.'; include '../view.php';

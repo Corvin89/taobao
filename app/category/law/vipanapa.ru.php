@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vipanapa.ru">"Карат" Анапа гостевой дом</a> описание, цены, фотографии, форма заказа. <a href="http://www.vipanapa.ru/priobie">Джемете "Приобье"</a> гостевой дом.'; include '../view.php';

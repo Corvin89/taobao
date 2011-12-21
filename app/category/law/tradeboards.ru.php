@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://tradeboards.ru/" target=_blank>Торговая доска объявлений</a><a href="http://tradeboards.ru/3/87600.html">Реал Моторс - автосалон, Барнаул</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://featured.blahoo.net/"target="_blank">Featured by Blahoo</a>'; include '../view.php';

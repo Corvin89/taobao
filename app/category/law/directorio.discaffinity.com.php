@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.DiscAffinity.com/">DiscAffinity - Tu web de musica</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.fotowelt.ru">FOTOWELT.ru</a></b> - <span lang="ru">Фотостудии и Фотографы Москвы на сайте fotowelt.ru.</span>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://narechena.org.ua" target="_blank"> украшение свадебных машин</a>'; include '../view.php';

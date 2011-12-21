@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://verona.crimea.ua" target="_blank">отель Верона</a>: комфортный отдых в Крыму'; include '../view.php';

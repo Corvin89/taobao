@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Смотрите<a href="http://kino-cadr.ru">русское кино</a> на kino-cadr.ru'; include '../view.php';

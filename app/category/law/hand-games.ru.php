@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.hand-games.ru/games/adventure/'>Приключения</a>, <a href='http://www.hand-games.ru/'>обучающие игры, фэнтези, варгеймы, настольные игры, карточные игры</a>'; include '../view.php';

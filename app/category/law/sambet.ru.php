@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=" http://www.sambet.ru">Веселые мини, офисные, казуальные, flash игры - скачать бесплатно!</a>  <a href=" http://www.sambet.ru/index.php?page=ball&from=0">шарики</a>'; include '../view.php';

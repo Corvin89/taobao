@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=" http://www.rootcenter.ru" target="_blank">Расперделенные компьютерные сети. Пусть проверка приходит</a>'; include '../view.php';

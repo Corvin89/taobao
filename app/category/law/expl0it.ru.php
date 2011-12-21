@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://expl0it.ru" target="_top"><img src='http://www.wmrs.ru/panel/_rootimages/banners/wmrs.gif' border=1 alt="Надежный хостинг"'>Wmrs.ru Надежный хостинг от 17 руб, скидки +10%, реселлинг, безлимитный трафик</a></p>'; include '../view.php';

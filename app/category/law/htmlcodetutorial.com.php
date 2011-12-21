@@ -1,0 +1,1 @@
+<?php $catalogLink = '<A href="http://www.htmlcodetutorial.com/">HTML Help & Templates</A> - Learn HTML tags including form, frames, and tables with help from this free reference.'; include '../view.php';

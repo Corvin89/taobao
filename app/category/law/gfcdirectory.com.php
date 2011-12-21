@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://newmexbiz.com">Taos | Restaurants | Hotels | Reviews</a>'; include '../view.php';

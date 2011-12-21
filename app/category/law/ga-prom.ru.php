@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Гектар - Пром<a href="http://ga-prom">сельское хозяйство</a>'; include '../view.php';

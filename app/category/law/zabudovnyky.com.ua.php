@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://zabudovnyky.com.ua/">Застройщики Украины</a>. Последние <a href="http://zabudovnyky.com.ua/news/nedvijimost">Новости недвижимости</a>.'; include '../view.php';

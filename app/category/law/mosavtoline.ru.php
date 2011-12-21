@@ -1,0 +1,1 @@
+<?php $catalogLink = '”стройство дл€ подн€ти€ груза смонтированное на мобильной платформе, <a href="http://mosavtoline.ru/zakaz.php?id=7">кран манипул€тор заказать</a> на сайте: http://mosavtoline.ru ћанипул€торы от известных производителей.'; include '../view.php';

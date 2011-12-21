@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://realty-prices.ru/>цены на жилье в днепропетровске</a>'; include '../view.php';

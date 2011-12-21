@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.grosvenorcairns.com.au/">Cairns Luxury Apartments</a> - Cairns accommodation in luxurious self contained executive apartments ideal for business and holidays.'; include '../view.php';

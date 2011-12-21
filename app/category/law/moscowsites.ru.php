@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Каталог<a href="http://www.moscowsites.ru">сайтов городов Московской области</a>'; include '../view.php';

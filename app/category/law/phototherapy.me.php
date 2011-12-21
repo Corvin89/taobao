@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.phototherapy.me/" target="_blank">Фототерапия и Терапевтическая фотография</a>'; include '../view.php';

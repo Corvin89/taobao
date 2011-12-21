@@ -1,0 +1,1 @@
+<?php $catalogLink = 'хочу вам сделать <a href='http://www.suntan.ru'>моментальный загар</a> бесплатно , платный <a href='http://www.zagori.ru'>моментальный загар</a> - тут'; include '../view.php';

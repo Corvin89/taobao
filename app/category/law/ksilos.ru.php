@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://ksilos.ru/" tabindex="_blank"><img src="http://ksilos.ru/imgs/ksilos_but.gif" alt="деревянная мебель и предметы интерьера" width="88" height="31" border="0"></a>'; include '../view.php';

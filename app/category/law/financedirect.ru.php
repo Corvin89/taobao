@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.financedirect.ru">Финансовый каталог<img src="http://financedirect.ru/images/admin/poweredby.jpg" alt="Финансовый каталог">'; include '../view.php';

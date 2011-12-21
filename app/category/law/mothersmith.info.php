@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mothersmith.info">Магазин одежды для беременных</a>:  штаны, кофты, брюки, куртки, гимнастика'; include '../view.php';

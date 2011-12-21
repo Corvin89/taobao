@@ -1,0 +1,1 @@
+<?php $catalogLink = 'ванны <a href="http://lite-market.com" title="сантехника">магазин сантехники</a>'; include '../view.php';

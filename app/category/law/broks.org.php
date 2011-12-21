@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://broks.org/>Все для автомобиля Volvo </a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.apersonalswebsite.com/"><b>Personals Website</b></a><br>Discover great singles near you. Search personals with pictures and post your own free profile to make a connection. Find your perfect match.'; include '../view.php';

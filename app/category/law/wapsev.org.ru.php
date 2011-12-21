@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://wap.sebastopol.ua" target="_blank"><em>мобильный Севастополь</em></a>: <a href="http://wap.sebastopol.ua/pansionaty.html" target="_blank">отдых в Севастополе</a>, погода и жд расписание. <a href="http://wap.sebastopol.ua/pano/" target="_blank">Фото и панорамы Севастополя</a>.'; include '../view.php';

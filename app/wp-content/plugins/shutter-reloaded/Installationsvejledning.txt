@@ -1,0 +1,12 @@
+Shutter Reloaded 2.2
+
+De to filer - eller i det mindste mo-filen - skal lægges i
+mappen shutter-reloaded/languages
+Typisk: wp-content/plugins/shutter-reloaded/languages
+
+Understøtter dit udpakningsprogram udpakning til mapper
+i overensstemmelse med de i zip-filen gemte stier,
+kan du pakke ud til wp-content/plugins.
+
+Opdateringer kan hentes på:
+http://wordpress.blogos.dk/tag/shutter-reloaded

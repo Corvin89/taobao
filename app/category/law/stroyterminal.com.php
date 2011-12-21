@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.stroyterminal.com>Межкомнатные двери Alavus, Kronodoor, Берсони, Оптим. Противопожарные двери. Дверная фурнитура.</a>'; include '../view.php';

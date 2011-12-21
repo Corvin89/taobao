@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.golden-links.net/">Golden Links Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.jobs2click.com/">Hotel Jobs>A website for hospitality and catering jobs.</a>'; include '../view.php';

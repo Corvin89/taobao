@@ -1,0 +1,1 @@
+<?php $catalogLink = 'bigflat.net <a href="http://www.bigflat.net">полезный информационный источник для дизайнеров интерьеров</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.chinapopulation.info">China facts</a>'; include '../view.php';

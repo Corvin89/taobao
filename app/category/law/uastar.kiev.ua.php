@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://uastar.com.ua" target="_blank"><img width="88" height="31" border="0" src="http://uastar.kiev.ua/b/3.gif" alt="Каталог UaStar :: Алтай Турист – отдых и туры, Алтай, Россия, Сибирь"></a>'; include '../view.php';

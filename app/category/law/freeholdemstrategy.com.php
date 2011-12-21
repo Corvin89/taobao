@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.freeholdemstrategy.com" id="R0">Free Texas Holdem Strategy</a>'; include '../view.php';

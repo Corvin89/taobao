@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://sandwichpaneli.ru" title="Сэндвич панели RAL">Сэндвич панели RAL</a><br />Предлагаем к коставке стеновые сэндвич панели RAL и другие. Подробности на сайте.'; include '../view.php';

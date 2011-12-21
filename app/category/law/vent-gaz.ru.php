@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://vent-gaz.ru/vent-ustanovki/">Вентиляционные компактные установки.</a>'; include '../view.php';

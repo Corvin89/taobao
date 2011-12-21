@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://singles-dating-directory.com" target="_blank">Singles Online Dating Directory</a><br>
+Directory for Dating, Relationships, Adult Dating, Foreign Brides, Dating Advice, Gifts/Toys, and More.<br><a href="http://singles-dating-directory.com" target="_blank" style="font-size:smaller;color:gray;text-decoration:none;">http://singles-dating-directory.com</a>'; include '../view.php';

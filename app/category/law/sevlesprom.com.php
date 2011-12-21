@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sevlesprom.com">Пиломатериалы. Столярные изделия. Деревянные дома, бани, сауны.</a>'; include '../view.php';

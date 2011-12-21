@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://tsb.mimozaf.ru" title="Бесплатные скрипты для вашего сайта!" >TSB Scripts - php скрипты</a>'; include '../view.php';

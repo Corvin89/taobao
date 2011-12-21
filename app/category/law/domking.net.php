@@ -1,0 +1,1 @@
+<?php $catalogLink = 'domking.net <a href="http://www.domking.net">информационный портал для прорабов</a>'; include '../view.php';

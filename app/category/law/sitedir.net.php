@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sitedir.net">Site Directory</a>'; include '../view.php';

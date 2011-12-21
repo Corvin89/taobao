@@ -1,0 +1,1 @@
+<?php $catalogLink = 'каталог: <a href="http://www.ruplay.cn/">игры, развлечения, софт</a>, <a href="http://www.gameobzor.net/">обзоры игр</a>, <a href="http://www.weconews.ru/">видеокарты</a>'; include '../view.php';

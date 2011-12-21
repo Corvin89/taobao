@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://vse-pechati.ru">Изготовление печатей и штампов в г. Чебоксары</a></p>'; include '../view.php';

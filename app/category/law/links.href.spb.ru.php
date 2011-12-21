@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://a.href.spb.ru/" target="_top">Каталог музыкальных ресурсов</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ad-desk.ru/ad/ad/75013.html" title="Создание и разработка сайтов. Раскрутка и реклама.">Создание и разработка сайтов. Раскрутка и реклама.</a>'; include '../view.php';

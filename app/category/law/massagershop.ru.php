@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Все виды массажеров: массажные пояса, электромассажеры, миостимуляторы, <a href="http://www.massagershop.ru/shop/5.html">обручи Хула Хуп</a>, гидромассажеры.'; include '../view.php';

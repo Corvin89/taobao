@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.LinkDwarf.info/">Link Directory</a>'; include '../view.php';

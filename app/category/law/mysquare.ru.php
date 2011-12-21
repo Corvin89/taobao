@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.mysquare.ru">Прокладка коммуникаций в городе</a>'; include '../view.php';

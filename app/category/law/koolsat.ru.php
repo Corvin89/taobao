@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Всё об <a href="http://koolsat.ru/">автомобилях</a>!'; include '../view.php';

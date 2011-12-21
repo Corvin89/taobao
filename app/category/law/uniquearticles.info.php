@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.uniquearticles.info/'>Unique Article Submission - Submit Your Best Unique Quality Original Articles For Massive Exposure - Article Directory</a> - Free Article Submission For Authors, Free Content for Publishers!'; include '../view.php';

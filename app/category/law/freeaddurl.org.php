@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.coachoutletcoupon.net">Coach Outlet Coupon</a>'; include '../view.php';

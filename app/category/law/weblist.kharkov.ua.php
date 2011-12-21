@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://weblist.kharkov.ua" target="_blank"><img src="http://www.3s.kharkov.ua/weblist.gif" width=88 height=31 alt=" аталог харьковских интернет-ресурсов" border=0></a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.poilistings.com/">Trainings in Deutschland</a>'; include '../view.php';

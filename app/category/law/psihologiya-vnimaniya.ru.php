@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://psihologiya-vnimaniya.ru/">Психология самопознания</a>'; include '../view.php';

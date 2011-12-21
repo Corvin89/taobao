@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://web-designing.ru/" target="_blank">Создание, разработка сайтов Новосибирск.Мастерская "Web-Designing".</a>'; include '../view.php';

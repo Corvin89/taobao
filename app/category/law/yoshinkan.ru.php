@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://yoshinkan.ru><img src=http://yoshinkan.ru/yoshinkan.gif /></a> Сайт Сибирской федерации <a href=http://yoshinkan.ru>Ёсинкан айкидо</a>'; include '../view.php';

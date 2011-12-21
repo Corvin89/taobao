@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://russia-shops.ru/cncat_from.php?7118">Портал для владельцев интернет-магазинов</a>'; include '../view.php';

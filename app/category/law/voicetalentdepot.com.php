@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.voicetalentdepot.com"><b>Voice Talent Depot</b></a><br>Voice Talent Depot providing voice over talent or radio and television commercials. Also instruction to prepare you for entry level on-air or behind the scenes radio careers.'; include '../view.php';

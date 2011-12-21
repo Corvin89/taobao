@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--www.hot-cyprus.ru-opisanie--> VIP отдых на Кипре на сайте www.hot-cyprus.ru -  <a href="http://www.hot-cyprus.ru/" title="отдых на кипре кипр отдых -   регистрация">отдых на кипре кипр отдых -   регистрация</a> Качественный отдых на Кипре по разумной цене.  <!--www.hot-cyprus.ru-opisanie-->'; include '../view.php';

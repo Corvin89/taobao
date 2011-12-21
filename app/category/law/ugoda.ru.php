@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://ugoda.ru/">Добавить объявление о товарах и услугах</a>'; include '../view.php';

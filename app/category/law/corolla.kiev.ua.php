@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Информация о поставках <a href="http://www.toyota-help.com/showthread.php?t=19">toyota prius</a> в Украину'; include '../view.php';

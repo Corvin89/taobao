@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.house-office.ru/office/decor/'>Дизайн интерьера</a>. <a href='http://www.house-office.ru/'>Cтроительные материалы, кондиционирование, межкомнатные двери</a>'; include '../view.php';

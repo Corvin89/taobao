@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://therecepts.com/">Сборник кулинарных рецептов с фотографиями</a>'; include '../view.php';

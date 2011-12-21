@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.hit.lv" target="_blank">HIT.LV Информация о Прибалтике.</a> Гостиницы. Рекомендации, описание и фотоальбомы туристических поездок. Погода в крупнейших городах Латвии, Литвы, Эстонии.<br>Обмен ссылками. Каталог ссылок. <a href="http://www.hit.lv/linkexchanger/add.php" target="_blank">Добавить ссылку.</a>'; include '../view.php';

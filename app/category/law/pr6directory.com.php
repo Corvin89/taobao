@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.pr6directory.com">PR6 Link Directory - Free Website Submission Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mankiw.ru/" title="Мэнкью - Принципы экономикс">Мэнкью - Принципы экономикс</a>'; include '../view.php';

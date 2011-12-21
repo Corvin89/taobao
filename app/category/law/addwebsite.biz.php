@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lookprices.com">calling cards</a>'; include '../view.php';

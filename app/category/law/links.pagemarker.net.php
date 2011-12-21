@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://links.pagemarker.net">Каталог Pagemarker</a>'; include '../view.php';

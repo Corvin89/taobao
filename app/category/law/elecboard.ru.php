@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.elecboard.ru/">Покупка и продажа кабеля и провода. Добавьте свое предложение бесплатно.</a>'; include '../view.php';

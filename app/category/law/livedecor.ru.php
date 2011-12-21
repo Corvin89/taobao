@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Live Decor -<a href="http://www.livedecor.ru">зимний сад Москва, оформление офисов цветами, озеленение офиса и фитодизайн</a>'; include '../view.php';

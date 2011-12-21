@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ramov.ru/">все об окнах пвх</a>'; include '../view.php';

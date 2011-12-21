@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.softsolutionsindia.biz">General web directory</a> - A searchable web directory featuring SEO friendly links, free submssions, human edited and fast approvals.Categorized by topic, offering free and paid listings.'; include '../view.php';

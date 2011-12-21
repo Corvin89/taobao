@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!-- begin of banner www.bt-parfum.com.ua --><a href=http://www.bt-parfum.com.ua/><img src=http://www.bt-parfum.com.ua/images/banner/parfum_88_31.gif width=88 height=31 border=0 alt="Интернет-магазин элитной парфюмерии, косметики, подарков."></a> <!-- end of banner www.bt-parfum.com.ua -->'; include '../view.php';

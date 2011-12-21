@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://wmoney.info">Каталог обменных пунктов</a>'; include '../view.php';

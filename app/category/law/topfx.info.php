@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://topfx.info>Доверительное управление Форекс (Forex)</a> <a href=http://topfx.info>Выгодное вложение денег Форекс (Forex)</a> <a href=http://topfx.info>Торговые сигналы Форекс (Forex)</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.toursmoscow.ru">Такси в Москве</a>. Цены, контактная информация. <a href="http://www.toursmoscow.ru/index.php?name=News&op=article&sid=2">Закон о такси в Москве</a>.'; include '../view.php';

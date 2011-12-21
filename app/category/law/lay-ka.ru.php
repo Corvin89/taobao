@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lay-ka.ru/"> ошки, собаки, кот€та и щен€та - найди себе друга!</a>'; include '../view.php';

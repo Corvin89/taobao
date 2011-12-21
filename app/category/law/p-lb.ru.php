@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Php онлайн <a href="http://p-lb.ru/">Учебник по PHP</a> для начинающих учебник'; include '../view.php';

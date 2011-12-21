@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Прикладная <a href="http://lingeru.ru">лингвистика</a>, гумманитарные науки.'; include '../view.php';

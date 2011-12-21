@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://64zs.com/">Профессиональный пользователь компьютера</a>'; include '../view.php';

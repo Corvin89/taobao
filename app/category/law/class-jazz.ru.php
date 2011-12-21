@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://class-jazz.ru">Лучшие музыканты Ростова-на-Дону</a>'; include '../view.php';

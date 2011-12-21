@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a href="http://cms.cmsku.com">”правл≥нн€ сайтом за допомогою CMS</a></p>'; include '../view.php';

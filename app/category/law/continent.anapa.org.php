@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://anapa-online.net"><img src="http://anapa-online.net/continent.gif" width="88" height="31" border="0" alt="Анапа, отдых в Анапе, гостиница Континент."> </a><a href="http://anapa-online.net">Анапа, отдых в Анапе. Гостиница "Континент"</a>.'; include '../view.php';

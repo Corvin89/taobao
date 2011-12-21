@@ -1,0 +1,1 @@
+<?php $catalogLink = 'StroiSauna.RU - <a href="http://www.stroisauna.ru/">ћатериалы дл€ строительства сауны</a>. ќсобенности и технологии строительства.'; include '../view.php';

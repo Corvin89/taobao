@@ -1,0 +1,1 @@
+<?php $catalogLink = 'јвто аукционы: <a href="http://ad.japonets.ru/">аукционы Honda</a>, продажа €понских авто.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.abc.md">Medical Directory</a> Medical and Health related sites directory about diet, fitness, diseases, health resources, men's and women's health, products and services.'; include '../view.php';

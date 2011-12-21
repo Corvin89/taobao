@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://victorybets.com/">Букмекерские конторы. Каталог сайтов</a>'; include '../view.php';

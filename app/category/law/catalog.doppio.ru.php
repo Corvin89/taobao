@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://catalog.doppio.ru/">Каталог сайта: Кофе аппараты, Кофемашины, Кофеварки, Кофемолки, а так же, Чай и Кофе</a>'; include '../view.php';

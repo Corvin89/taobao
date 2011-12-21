@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lodiz.ru"><strong>Дизайн ванных комнат</strong></a> и разработка проектной документации к дизайн-проекту.'; include '../view.php';

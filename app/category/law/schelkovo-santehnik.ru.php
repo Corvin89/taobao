@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://otoplenie-vodoprovod.ru/" >Установка котлов в Щелково. Монтаж систем отопления, водоснабжения.</a> <a href="http://schelkovo-santehnik.ru/" >schelkovo-santehnik.ru</a>'; include '../view.php';

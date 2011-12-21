@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://top.tovar-dlya-tebya.ru"><img src="http://top.tovar-dlya-tebya.ru/tovar-dlya-tebya.gif" alt="tovar-dlya-tebya.ru" border="0" width="88" height="31"></a>'; include '../view.php';

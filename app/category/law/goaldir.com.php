@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.goaldircom">Goal Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.bestbedmen.com/" target="_blank" title="Порно форум BestBedMen.com" >Секс форум</a>'; include '../view.php';

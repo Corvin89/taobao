@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Save with an <a href="http://www.classypetshop.com/large-dog-kennels.htm">dog kennels</a>  Find us on  <a href="http://www.mwcc.net">MWCC.net</a>'; include '../view.php';

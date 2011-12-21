@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.adultdatinguk.org/"><b>Adult Dating UK</b></a><br>Online Adult Dating UK site where you can find SEX partners for no strings attached SEX.'; include '../view.php';

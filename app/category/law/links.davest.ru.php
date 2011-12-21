@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Бесплатный белый <a href="http://www.links.davest.ru" title="Бесплатный каталог сайтов Davest">каталог сайтов Davest</a> - www.links.davest.ru'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://smolensknews.ru">smolensknews.ru - Информационный портал Смоленска. Новости, статьи, каталог сайтов.</a>'; include '../view.php';

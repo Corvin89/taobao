@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://love.komtel.kz>Знакомства в Казахстане</a>'; include '../view.php';

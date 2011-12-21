@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vgac.org/">VGAC Directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.pokercatalog.ru/cncat_from.php?r4cc367e3ed1d7">Покер в интернете :: pokercatalog.ru</a>'; include '../view.php';

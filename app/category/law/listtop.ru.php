@@ -1,0 +1,3 @@
+<?php $catalogLink = '<script type="text/javascript"><!--
+document.write('<a href="http://top.listtop.ru/list.php?catid=35" '+'><img src="http://listtop.ru/counter.php?site=90380&r=' + escape(document.referrer) + ((typeof(screen)=='undefined')?'':'&s=' + screen.width + '*' + screen.height + '*' + (screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ';'+Math.random()+ '" width="88" height="31" border="0"/><' + '/a>');
+//--></script>'; include '../view.php';

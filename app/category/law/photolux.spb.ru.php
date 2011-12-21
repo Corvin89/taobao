@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://photolux.spb.ru/" target="_blank">Cвадебный фотограф, свадьба фотограф на свадьбу </a> <a href="http://photolux.spb.ru/" target="_blank">Профессиональные фотографы, свадебные фото, фотостудия, услуги фотографа </a>'; include '../view.php';

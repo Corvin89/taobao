@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://grectur.ru">Греция, достопремичательности Греции, города и курорты Греции</a>.'; include '../view.php';

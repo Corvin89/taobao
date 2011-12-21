@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://sposervice.od.ua/" title="”краинские новости, доска обь€влений.">”краинские новости, доска обь€влений.</a>'; include '../view.php';

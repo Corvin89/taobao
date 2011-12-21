@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://present.com.ru" target=_blank><img src="http://present.com.ru/pics/present_31x88.gif" width=88 height=31 alt='Рекламное агентство ПРЕЗЕНТ. Дизайн и изготовление и сувенирной продукции и выставочных стендов. WEB-дизайн и сувениры.' border=0></a>'; include '../view.php';

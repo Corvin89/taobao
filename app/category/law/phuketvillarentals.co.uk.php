@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.phuketvillarentals.co.uk" id="R25FC3E">Phuket villa rentals, Phuket home rentals - luxury self-catering villas for rental in Thailand</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.roadsrussia.ru/route/index.html" target=_blank>Описание автомаршрутов</a>'; include '../view.php';

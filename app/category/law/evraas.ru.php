@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.evraas.ru/" target=_blank><img src="http://www.evraas.ru/images/b.gif" border=0 width=88 height=31 alt="ЕВРААС Технические средства защиты информации СЗИ"></a>'; include '../view.php';

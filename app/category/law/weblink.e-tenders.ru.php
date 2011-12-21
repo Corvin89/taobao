@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.e-tenders.ru/"  target="_blank" title="электронные тендерные торги"><img src="http://www.e-tenders.ru/img/knopka.gif" border=0 width=88 height=31 target="_blank" alt="тендерные торги"></a>'; include '../view.php';

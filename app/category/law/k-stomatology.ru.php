@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="www.k-stomatology.ru">Стоматология</a>'; include '../view.php';

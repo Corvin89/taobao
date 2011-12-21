@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.happydir.com/viaggi/">Directory Turismo e Vacanze</a>'; include '../view.php';

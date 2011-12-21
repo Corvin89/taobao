@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://directory.askbee.net" id="R6D2A6B">Askbee directory</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target=_blank href=http://www.mir-bt.ru>Духовые шкафы, варочные панели,BOSCH ARISTON холодильники Liebherr, кухонные мойки SCHOCK BLANCO, смесители Damixa </a>'; include '../view.php';

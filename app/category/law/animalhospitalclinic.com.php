@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.animalhospitalclinic.com" id="R82E553">Use our free Animal Hospital search service to locate Veterinarians and Animal Clinic.</a>- Veterinarian Services for Cats and Dogs, Emergency Services, Pet Hospitals'; include '../view.php';

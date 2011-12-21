@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.workathomepoint.com">Work At Home</a>'; include '../view.php';

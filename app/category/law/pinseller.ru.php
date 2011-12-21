@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.pinseller.ru">Pin-коды карт оплаты на PinSeller.ru</a>'; include '../view.php';

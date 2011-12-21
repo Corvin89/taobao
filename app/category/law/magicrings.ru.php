@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.magicrings.ru">
+<img src="http://www.magicrings.ru/images/88x31.gif" width="88" height="31" border="0" alt="Фокусы с кольцами "Стальные кружева"></a>'; include '../view.php';

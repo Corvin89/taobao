@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.adulttubex.com/links/">Adult Tube X Links</a>'; include '../view.php';

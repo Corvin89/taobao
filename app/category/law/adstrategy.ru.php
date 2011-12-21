@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://adstrategy.ru/">Рекламные Кампании</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.premierphotographer.com/"><b>Fine Art Photography Picture Gallery</b></a><br>Discover breathtaking pictures that allows you to create a unique home that will refresh, and uplift your soul. Also makes a wonderful gift idea. Enjoy free screensavers, free wallpaper, and enter a free contest !'; include '../view.php';

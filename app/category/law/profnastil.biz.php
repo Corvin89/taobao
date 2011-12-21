@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p>Про заборы из профнастила изучай <a href="http://profnastil.biz/profnastil/profnastil_zabor.php">тут</a>.</p>'; include '../view.php';

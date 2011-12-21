@@ -1,0 +1,1 @@
+<?php $catalogLink = 'В магазине Оазис: <a href="http://oasis-msk.ru/index.php">Профессиональные Кофемашины Rancilio, MCE., Пиво Bombardier, минеральная вода Vittel</a> с доставкой по Москве'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<strong><a href="http://sotels.ru/">Java игры, программы, темы, дл€ мобильного бесплатно.</a></strong>'; include '../view.php';

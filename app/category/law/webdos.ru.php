@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.webdos.ru/">Webdos - доска бесплатных объ€влений</a>'; include '../view.php';

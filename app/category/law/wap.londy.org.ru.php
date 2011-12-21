@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://wap.londy.org.ru/'>Каталог WAP сайтов wap.londy.org.ru</a>'; include '../view.php';

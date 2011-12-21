@@ -1,0 +1,899 @@
+# Meta-data manager, allowing complete control over meta-data such as keywords/tags, title, description, stylesheets, and other goodies.  The data inserted can be static text, or pulled dynamically from the details of the post.
+# Copyright (C) 2007 John Godley
+# This file is distributed under the same license as the HeadSpace2 package.
+# John Godley, http://urbangiraffe.com/, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HeadSpace2 3.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-09-22 17:19+0800\n"
+"PO-Revision-Date: 2008-09-26 12:37+0700\n"
+"Last-Translator: Hendry Lee <hendry.lee@gmail.com>\n"
+"Language-Team: Hendry Lee <hendry.lee@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: headspace.php:387
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "%d item telah diimpor dari %s"
+
+#: view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "%s yang lalu"
+
+#: view/admin/import.php:13
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "(tidak terdapat di UTW dan Simple Tagging)"
+
+#: models/inline_tags.php:163
+#, php-format
+msgid "(page %d of %d)"
+msgstr "(halaman %d dari %d)"
+
+#: headspace.php:105
+msgid "404 Page"
+msgstr "Halaman 404"
+
+#: ajax.php:64
+msgid "<p style=\"color: red\">That function is not defined</p>"
+msgstr "<p style=\"color: red\">Fungsi itu tidak terdefinisikan</p>"
+
+#: ajax.php:57
+msgid "<p style=\"color: red\">You are not allowed access to this resource</p>"
+msgstr "<p style=\"color: red\">Anda tidak diijinkan mengakses sumber daya ini</p>"
+
+#: modules/page/tags.php:125
+msgid "<p>Tags: "
+msgstr "<p>Tags:"
+
+#: modules/page/plugin.php:139
+msgid "Add Plugin"
+msgstr "Tambah Plugin"
+
+#: modules/page/tags.php:175
+msgid "Add tags to dictionary"
+msgstr "Tambahkan tag ke kamus"
+
+#: modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr "Tambahkan kode pelacakan CrazyEgg ke semua halaman"
+
+#: modules/site/analytics.php:39
+msgid "Adds Google Analytic tracking code to all pages"
+msgstr "Tambahkan kode pelacakan Google Analytics ke semua halaman"
+
+#: modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr "Tambahkan kode pelacakan Mint ke semua halaman"
+
+#: modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr "Tambahkan kode pelacakan StatCounter ke semua halaman"
+
+#: modules/site/rpc.php:37
+msgid "Adds additional functions to allow blogging tools such as Ecto to use tagging"
+msgstr "Tambahkan fungsi tambahan untuk mengizinkan alat bantu blogging seperti Ecto untuk menggunakan tagging"
+
+#: view/admin/modules.php:13
+msgid "Advanced"
+msgstr "Tingkat lanjutan"
+
+#: modules/page/page_title.php:109
+msgid "After"
+msgstr "Setelah"
+
+#: modules/page/description.php:73
+msgid "All descriptions will be trimmed to this length"
+msgstr "Semua deskripsi akan dipotong sepanjang ini"
+
+#: modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: modules/page/javascript.php:55
+msgid "Allow external JavaScript files to be referenced"
+msgstr "Izinkan berkas JavaScript eksternal direferensikan"
+
+#: modules/page/page_title.php:89
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "Izinkan judul halaman diganti (yaitu judul di bagian judul jendela peramban)"
+
+#: modules/page/stylesheet.php:55
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "Izinkan stylesheet CSS ditambahkan ke halaman"
+
+#: modules/page/theme.php:69
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "Izinkan tema ubahan yang spesifik ke halaman untuk ditimpa dengan tema bawaan"
+
+#: modules/page/noindex.php:56
+msgid "Allows a no-index/no-follow option to be set to prevent search engines and robots from indexing or following pages"
+msgstr "Izinkan opsi no-index/no-follow diset untuk mencegah mesin pencari dan robot mengindeks atau mengikuti halaman"
+
+#: modules/page/description.php:61
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "Izinkan deskripsi pendek tentang halaman dipergunakan oleh mesin pencari"
+
+#: modules/page/plugin.php:87
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "Izinkan plugin yang dimatikan agar diaktifkan oleh halaman tertentu"
+
+#: modules/page/raw.php:48
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr "Izinkan data mentah dimasukkan ke dalam bagian meta dari halaman"
+
+#: modules/page/rss_tagline.php:62
+msgid "Allows site RSS description to be changed"
+msgstr "Izinkan deskripsi RSS pada situs diganti"
+
+#: modules/page/rss_name.php:62
+msgid "Allows site RSS name to be changed"
+msgstr "Izinkan nama RSS pada situs diganti"
+
+#: modules/page/site_tagline.php:61
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "Izinkan deskripsi dari situs diganti (contoh: slogan)"
+
+#: modules/page/site_name.php:61
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "Izinkan nama situs diganti (contoh: nama blog Anda)"
+
+#: modules/page/tags.php:162
+msgid "Allows tags/keywords to be added to pages"
+msgstr "Izinkan tag/kata kunci ditambahkan ke halaman"
+
+#: modules/page/more_text.php:56
+msgid "Allows the 'more' text to be changed"
+msgstr "Izinkan pergantian tulisan 'more'"
+
+#: modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "Mengizinkan Anda mengaktifkan atau mematikan beberapa pemformatan otomatis WordPress (termasuk wpautop)"
+
+#: modules/page/tags.php:186
+msgid "Alphabetically order tags"
+msgstr "Urutkan tag secara alfabet"
+
+#: modules/page/tags.php:201
+#: modules/page/tags.php:210
+msgid "Always"
+msgstr "Selalu"
+
+#: headspace.php:100
+#: modules/site/page_counts.php:114
+msgid "Archives"
+msgstr "Arsip"
+
+#: view/admin/import.php:16
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "Seperti hal lain yang memodifikasi database Anda dianjurkan <strong>menyalin data Anda sebelum menjalankan impor</strong>. Tidak ada pertanggungjawaban atas kucing yang mungkin terbunuh dalam proses."
+
+#: headspace.php:103
+msgid "Author Pages"
+msgstr "Halaman-Halaman Penulis"
+
+#: modules/site/wp_formatting.php:97
+msgid "Auto-fancy quotes"
+msgstr "Kutipan indah otomatis"
+
+#: modules/site/wp_formatting.php:90
+msgid "Auto-formatting"
+msgstr "Pemformatan otomatis"
+
+#: modules/site/wp_formatting.php:104
+msgid "Auto-link"
+msgstr "Taut otomatis"
+
+#: modules/page/tags.php:178
+msgid "Automatically add new tags to dictionary"
+msgstr "Secara otomatis tambahkan tag baru ke dalam kamus"
+
+#: modules/page/page_title.php:108
+msgid "Before"
+msgstr "Sebelum"
+
+#: view/admin/edit_ajax.php:5
+#: view/admin/module_edit.php:8
+#: view/admin/site_module_edit.php:16
+msgid "Cancel"
+msgstr "Batal"
+
+#: headspace.php:101
+msgid "Categories"
+msgstr "Kategori"
+
+#: view/admin/options.php:16
+msgid "Check for updates"
+msgstr "Cek pembaharuan"
+
+#: view/admin/options.php:17
+msgid "Check for updates from within HeadSpace"
+msgstr "Cek pembaharuan dari dalam HeadSpace"
+
+#: modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: modules/site/crazyegg.php:122
+msgid "CrazyEgg ID"
+msgstr "ID CrazyEgg"
+
+#: modules/page/theme.php:80
+msgid "Current theme"
+msgstr "Tema sekarang"
+
+#: modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "Ubah jumlah tulisan yang ditampilkan dalam halaman arsip dan pencarian, dan putuskan apakah akan menampilkan kontek penuh atau cuplikan"
+
+#: view/admin/options.php:37
+msgid "Delete HeadSpace"
+msgstr "Hapus HeadSpace"
+
+#: modules/page/description.php:88
+msgid "Description"
+msgstr "Deskripsi"
+
+#: modules/page/tags.php:222
+msgid "Dictionary"
+msgstr "Kamus"
+
+#: view/admin/modules.php:19
+msgid "Disabled"
+msgstr "Dimatikan"
+
+#: view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "Sunting Kategori &raquo;"
+
+#: modules/site/analytics.php:184
+msgid "Enter the URL you want outbound links tracked to, or leave empty for no outbound tracking"
+msgstr "Masukkan URL yang Anda ingin lacak taut keluarnya, atau biarkan kosong untuk tidak melacak keluar"
+
+#: modules/site/analytics.php:163
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "Masukkan kode JavaScript pelacakan penuh Google, atau hanya nomor <code>_uacct</code."
+
+#: modules/site/mint.php:124
+msgid "Enter the relative URL to your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "Masukkan URL relatif ke instalasi Mint Anda (contoh: <code>/mint/</code>)."
+
+#: modules/site/crazyegg.php:125
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a>"
+msgstr "Masukkan <a href=\"http://crazyegg.com/pages/instructions\">ID CrazyEgg</a> penuh Anda"
+
+#: modules/site/analytics.php:170
+#: modules/site/crazyegg.php:132
+#: modules/site/mint.php:131
+#: modules/site/statcounter.php:158
+msgid "Everyone"
+msgstr "Setiap orang"
+
+#: view/admin/options.php:3
+msgid "General Options"
+msgstr "Opsi umum"
+
+#: headspace.php:98
+msgid "Global Settings"
+msgstr "Pengaturan Global"
+
+#: modules/site/analytics.php:34
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Penargetan Kelompok Google"
+
+#: modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "Deskripsi Head META"
+
+#: headspace.php:133
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: view/admin/edit_post.php:6
+msgid "HeadSpace Meta data"
+msgstr "Meta data HeadSpace"
+
+#: view/admin/edit_category.php:1
+#: view/admin/settings.php:2
+msgid "HeadSpace Settings"
+msgstr "Pengaturan HeadSpace"
+
+#: headspace.php:342
+msgid "HeadSpace has been removed"
+msgstr "HeadSpace telah disingkirkan"
+
+#: modules/import/headspace_tags.php:31
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "Tag HeadSpace (diterjemahkan dari tag WordPress 2.3)"
+
+#: view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "Berita HeadSpace2"
+
+#: headspace.php:99
+msgid "Home Page"
+msgstr "Halaman Muka"
+
+#: plugin.php:593
+msgid "How many widgets would you like?"
+msgstr "Berapa widget yang Anda inginkan?"
+
+#: view/admin/import.php:2
+#: view/admin/import.php:12
+#: view/admin/submenu.php:5
+msgid "Import"
+msgstr "Impor"
+
+#: view/admin/import.php:13
+msgid "Import and remove original data"
+msgstr "Impor dan singkirkan data asli"
+
+#: view/admin/options.php:9
+msgid "Inherit from global settings"
+msgstr "Turunkan dari pengaturan global"
+
+#: view/admin/options.php:8
+msgid "Inherit settings"
+msgstr "Turunkan pengaturan-pengaturan"
+
+#: ajax.php:141
+#: ajax.php:152
+#: ajax.php:163
+#: ajax.php:174
+#: ajax.php:188
+msgid "Invalid module"
+msgstr "Modul yang tidak valid"
+
+#: modules/page/javascript.php:50
+#: modules/page/javascript.php:66
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "Keyword Jerome"
+
+#: modules/page/page_title.php:101
+msgid "Leave blank to use theme default"
+msgstr "Biarkan kosong untuk menggunakan tema bawaan"
+
+#: modules/site/wp_formatting.php:107
+msgid "Makes links clickable in comments"
+msgstr "Buat taut dapat diklik di dalam komentar"
+
+#: view/admin/mass_edit.php:2
+msgid "Mass Edit Meta-data"
+msgstr "Sunting Data meta secara massal"
+
+#: modules/page/description.php:70
+msgid "Max length"
+msgstr "Panjang maks"
+
+#: headspace.php:134
+msgid "Meta-data"
+msgstr "Data meta"
+
+#: modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: modules/site/mint.php:121
+msgid "Mint path"
+msgstr "Lokasi Mint"
+
+#: view/admin/submenu.php:3
+msgid "Modules"
+msgstr "Modul"
+
+#: view/admin/modules.php:20
+msgid "Modules are disabled and do not appear"
+msgstr "Modul-modul dimatikan dan tidak ditampilkan"
+
+#: view/admin/modules.php:8
+msgid "Modules will always appear on edit screens"
+msgstr "Modules akan selalu ditampilkan di layar sunting"
+
+#: view/admin/modules.php:14
+msgid "Modules will be hidden behind a link"
+msgstr "Module akan disembunyikan di belakang sebuah taut"
+
+#: modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "Lebih unik"
+
+#: modules/mass/more_text.php:28
+#: modules/mass/more_text.php:50
+#: modules/page/more_text.php:51
+#: modules/page/more_text.php:70
+msgid "More text"
+msgstr "Lebih banyak teks"
+
+#: modules/page/tags.php:200
+#: modules/page/tags.php:209
+msgid "Never"
+msgstr "Tidak pernah"
+
+#: models/pager.php:387
+msgid "Next"
+msgstr "Berikutnya"
+
+#: modules/page/noindex.php:70
+msgid "No Index"
+msgstr "No Index (Tidak Diindex)"
+
+#: modules/page/noindex.php:51
+msgid "No Index/No Follow"
+msgstr "No Index (Tidak Diindex) / No Follow (Tidak Diikuti)"
+
+#: view/admin/submenu.php:4
+msgid "Options"
+msgstr "Opsi-opsi"
+
+#: modules/page/tags.php:183
+msgid "Order tags"
+msgstr "Urut tag"
+
+#: modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "Hitungan halaman"
+
+#: view/admin/modules.php:2
+msgid "Page Modules"
+msgstr "Modul Halaman"
+
+#: view/admin/submenu.php:2
+msgid "Page Settings"
+msgstr "Pengaturan Halaman"
+
+#: modules/page/page_title.php:125
+msgid "Page Title"
+msgstr "Judul Halaman"
+
+#: modules/mass/description.php:28
+#: modules/mass/description.php:50
+#: modules/page/description.php:56
+msgid "Page description"
+msgstr "Deskripsi halaman"
+
+#: view/admin/modules.php:3
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "Modul halaman diaplikasikan ke semua halaman individual. Seret-dan-lepas module ke dalam area yang cocok. Modul dapat diurutkan kembali dengan mengubah posisinya dalam layar edit."
+
+#: modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "Slug halaman"
+
+#: modules/mass/page_title.php:28
+#: modules/mass/page_title.php:50
+#: modules/page/page_title.php:84
+msgid "Page title"
+msgstr "Judul halaman"
+
+#: modules/page/plugin.php:82
+msgid "Page-specific Plugins"
+msgstr "Plugin spesifik Halaman"
+
+#: modules/page/theme.php:57
+msgid "Page-specific Themes"
+msgstr "Tema spesifik Halaman"
+
+#: modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "ID Partisi"
+
+#: view/admin/pager.php:14
+msgid "Per page"
+msgstr "Per halaman"
+
+#: modules/page/plugin.php:132
+msgid "Plugins"
+msgstr "Plugin"
+
+#: modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "Slug Tulisan"
+
+#: modules/mass/description.php:49
+#: modules/mass/more_text.php:49
+#: modules/mass/page_slug.php:49
+#: modules/mass/page_title.php:49
+#: modules/mass/site_description.php:49
+#: modules/mass/site_name.php:49
+#: modules/mass/tags.php:49
+msgid "Post title"
+msgstr "Judul tulisan"
+
+#: headspace.php:102
+msgid "Posts &amp; Pages"
+msgstr "Tulisan &amp; Halaman"
+
+#: headspace.php:297
+msgid "Posts successfully updated"
+msgstr "Tulisan telah sukses diperbarui"
+
+#: models/pager.php:386
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "ID Projek"
+
+#: modules/site/rpc.php:32
+msgid "RPC support for Ecto"
+msgstr "Dukungan RPC untuk Ecto"
+
+#: modules/page/rss_tagline.php:57
+#: modules/page/rss_tagline.php:76
+msgid "RSS Description"
+msgstr "Deskripsi RSS"
+
+#: modules/page/rss_name.php:57
+#: modules/page/rss_name.php:76
+msgid "RSS Name"
+msgstr "Nama RSS"
+
+#: modules/page/raw.php:43
+#: modules/page/raw.php:55
+msgid "Raw data"
+msgstr "Data mentah"
+
+#: view/admin/options.php:32
+msgid "Remove HeadSpace"
+msgstr "Singkirkan HeadSpace"
+
+#: view/admin/help.php:9
+msgid "Replaced with the category description"
+msgstr "Ganti dengan deskripsi kategori"
+
+#: view/admin/help.php:16
+msgid "Replaced with the current date"
+msgstr "Ganti dengan tanggal sekarang"
+
+#: view/admin/help.php:17
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr "Ganti dengan nomor halaman terkini (contoh: halaman 2 dari 4)"
+
+#: view/admin/help.php:14
+msgid "Replaced with the current search phrase"
+msgstr "Ganti dengan kata pencarian terkini"
+
+#: view/admin/help.php:15
+msgid "Replaced with the current time"
+msgstr "Ganti dengan waktu sekarang"
+
+#: view/admin/help.php:5
+msgid "Replaced with the date of the post/page"
+msgstr "Ganti dengan tanggal tulisan/halaman"
+
+#: view/admin/help.php:8
+msgid "Replaced with the post categories (comma seperated)"
+msgstr "Ganti dengan kategori tulisan (dipisahkan dengan koma)"
+
+#: view/admin/help.php:11
+msgid "Replaced with the post/page ID"
+msgstr "Ganti dengan ID tulisan/halaman"
+
+#: view/admin/help.php:12
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "Ganti dengan 'nama cantik' dari penulis tulisan/halaman"
+
+#: view/admin/help.php:13
+msgid "Replaced with the post/page author's userid"
+msgstr "Ganti dengan id user penulis tulisan/halaman"
+
+#: view/admin/help.php:7
+msgid "Replaced with the post/page excerpt"
+msgstr "Ganti dengan cuplikan tulisan/halaman"
+
+#: view/admin/help.php:10
+msgid "Replaced with the post/page modified time"
+msgstr "Ganti dengan waktu perubahan tulisan/halaman"
+
+#: view/admin/help.php:6
+msgid "Replaced with the title of the post/page"
+msgstr "Ganti dengan judul tulisan/halaman"
+
+#: modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "Tag Judul SEO"
+
+#: plugin.php:600
+#: view/admin/edit_ajax.php:4
+#: view/admin/module_edit.php:7
+#: view/admin/site_module_edit.php:15
+msgid "Save"
+msgstr "Simpan"
+
+#: view/admin/mass_edit.php:37
+msgid "Save all data"
+msgstr "Simpan semua data"
+
+#: view/admin/modules.php:37
+msgid "Save module order"
+msgstr "Simpan urutan modul"
+
+#: view/admin/pager.php:11
+msgid "Search"
+msgstr "Cari"
+
+#: headspace.php:104
+msgid "Search Pages"
+msgstr "Cari Halaman"
+
+#: modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "Pencarian"
+
+#: modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "ID Pengamanan"
+
+#: modules/page/page_title.php:105
+msgid "Separator position"
+msgstr "Posisi pemisah"
+
+#: view/admin/settings.php:15
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "Pengaturan dapat diaplikasikan secara spesifik ke tulisan &amp; halaman dari <strong>halaman penyunting tulisan</strong>, dan ke kategori spesifik di halaman <strong>penyunting kategori</strong>."
+
+#: modules/page/plugin.php:103
+msgid "Show in admin"
+msgstr "Tunjukkan di admin"
+
+#: modules/page/tags.php:206
+msgid "Show tags in pages"
+msgstr "Tunjukkan tag di halaman"
+
+#: modules/page/tags.php:197
+msgid "Show tags in posts"
+msgstr "Tunjukkan tag di tulisan"
+
+#: modules/page/plugin.php:106
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "Tunjukkan plugin yang spesifik untuk halaman di menu administrasi"
+
+#: view/admin/modules.php:7
+msgid "Simple"
+msgstr "Sederhana"
+
+#: modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "Simple Tagging"
+
+#: modules/import/simple-tags.php:28
+msgid "Simple Tags"
+msgstr "Tag Sederhana"
+
+#: view/admin/modules.php:42
+msgid "Site Modules"
+msgstr "Modul Situs"
+
+#: modules/mass/site_description.php:28
+#: modules/mass/site_description.php:50
+#: modules/page/site_tagline.php:56
+#: modules/page/site_tagline.php:75
+msgid "Site description"
+msgstr "Deskripsi situs"
+
+#: view/admin/modules.php:43
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "Modul situs diaplikasikan ke situs secara keseluruhan. Hanya modul yang tercentang akan dijalankan (jika dikonfigurasi dengan benar)."
+
+#: modules/mass/site_name.php:28
+#: modules/mass/site_name.php:50
+#: modules/page/site_name.php:56
+#: modules/page/site_name.php:75
+msgid "Site name"
+msgstr "Nama situs"
+
+#: view/admin/help.php:2
+msgid "Special Tags"
+msgstr "Tag Spesial"
+
+#: modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: modules/page/stylesheet.php:50
+#: modules/page/stylesheet.php:66
+msgid "Stylesheets"
+msgstr "StyleSheets"
+
+#: modules/page/tags.php:342
+msgid "Suggest tags based on content"
+msgstr "Sarankan tag berdasarkan isi"
+
+#: modules/page/tags.php:316
+msgid "Suggested tags"
+msgstr "Tag yang disarankan"
+
+#: modules/site/rpc.php:74
+msgid "Tag separator"
+msgstr "Pemisah tag"
+
+#: modules/page/tags.php:157
+msgid "Tags (keywords)"
+msgstr "Tag (kata kunci)"
+
+#: modules/mass/tags.php:28
+#: modules/mass/tags.php:50
+#: modules/page/tags.php:272
+msgid "Tags/keywords"
+msgstr "Tag/kata kunci"
+
+#: modules/page/theme.php:77
+msgid "Theme"
+msgstr "Tema"
+
+#: modules/site/rpc.php:77
+msgid "This must match the separator defined in Ecto 'Templates', 'Tags', 'Tag separator'"
+msgstr "Ini harus dicocokkan dengan pemisah yang didefiniskan di 'Templates', 'Tags', 'Tag separator' Ecto"
+
+#: view/admin/options.php:34
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data."
+msgstr "Opsi ini akan menyingkirkan HeadSpace dan hapus semua pengaturan, tag dan meta-data."
+
+#: view/admin/import.php:3
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "Denne side tillader dig at importere meta-data fra andre WordPress plugins. De andre plugins behøver ikke være aktiverede for at importeringen virker."
+
+#: modules/page/page_title.php:98
+msgid "Title separator"
+msgstr "Pemisah judul"
+
+#: modules/site/analytics.php:181
+msgid "Track outbound links"
+msgstr "Lacak taut keluar"
+
+#: modules/site/analytics.php:160
+msgid "Tracking code"
+msgstr "Kode pelacakan"
+
+#: modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "Ultimate Tag Warrior"
+
+#: view/admin/options.php:26
+msgid "Update Options &raquo;"
+msgstr "Perbarui Opsi &raquo;"
+
+#: modules/site/wp_formatting.php:93
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr "Pakai <code>wpautop</code> untuk memformat paragraf"
+
+#: modules/site/wp_formatting.php:100
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "Pakai <code>wptexturize</code> untuk mengubah kutipan menjadi kutipan indah"
+
+#: modules/site/analytics.php:177
+#: modules/site/crazyegg.php:139
+#: modules/site/mint.php:138
+#: modules/site/statcounter.php:165
+msgid "Users of the specified role or less will be tracked"
+msgstr "Pemakai peranan tertentu atau kurang akan dilacak"
+
+#: modules/site/analytics.php:167
+#: modules/site/crazyegg.php:129
+#: modules/site/mint.php:128
+#: modules/site/statcounter.php:155
+msgid "Who to track"
+msgstr "Siapa yang dilacak"
+
+#: modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "Pemformatan konten WordPress"
+
+#: modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "Selubungi semua konten tulisan dan halaman di dalam sebuah bagian tertarget Google"
+
+#: modules/page/tags.php:321
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: modules/page/tags.php:215
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo ZoneTag"
+
+#: headspace.php:362
+msgid "Your module positions have been saved"
+msgstr "Posisi modul Anda telah disimpan"
+
+#: headspace.php:335
+msgid "Your options have been updated"
+msgstr "Opsi-opsi Anda telah diperbarui"
+
+#: modules/page/javascript.php:72
+#: modules/page/stylesheet.php:72
+msgid "add"
+msgstr "tambah"
+
+#: modules/page/tags.php:318
+msgid "add all"
+msgstr "tambah semua"
+
+#: view/admin/edit.php:17
+msgid "advanced"
+msgstr "tingkat lanjutan"
+
+#: headspace.php:103
+msgid "applied to author pages"
+msgstr "diaplikasikan ke halaman penulis"
+
+#: headspace.php:101
+msgid "applied to category pages without specific settings"
+msgstr "diaplikasikan ke halaman kategori tanpa pengaturan spesifik"
+
+#: headspace.php:98
+msgid "applied to everything unless otherwise specified"
+msgstr "diaplikasikan ke semua kecuali dicantumkan sebaliknya"
+
+#: headspace.php:102
+msgid "applied to posts &amp; pages without specific settings"
+msgstr "diaplikasikan ke tulisan &amp; halaman tanpa pengaturan spesifik"
+
+#: headspace.php:99
+msgid "applied to the home page"
+msgstr "diaplikaskan ke halaman muka"
+
+#: headspace.php:105
+msgid "applied when viewing a 404 error"
+msgstr "diaplikasikan ketika menampilkan error 404"
+
+#: headspace.php:104
+msgid "applied when viewing search results"
+msgstr "diaplikasikan ketika menampilkan hasil pencarian"
+
+#: headspace.php:100
+msgid "applied when viewing the archives"
+msgstr "diaplikasikan ketika menampilkan arsip"
+
+#: modules/site/page_counts.php:119
+#: modules/site/page_counts.php:131
+msgid "content"
+msgstr "konten"
+
+#: modules/site/page_counts.php:118
+#: modules/site/page_counts.php:130
+msgid "default"
+msgstr "bawaan"
+
+#: modules/site/page_counts.php:120
+#: modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "cuplikan"
+
+#: view/admin/pager.php:21
+msgid "go"
+msgstr "laksanakan"
+
+#: modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: modules/page/noindex.php:73
+msgid "no-follow"
+msgstr "no-follow"
+
+#: modules/site/page_counts.php:116
+#: modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "tulisan, menampilkan"
+
+#: modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "set jumlah tulisan ke 0 untuk tema bawaan"
+
+#: modules/page/tags.php:319
+msgid "suggest"
+msgstr "sarankan"
+

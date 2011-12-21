@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.schoolofrepair.ru' target='_blank'><b>Школа ремонта</b></a><br />Все о ремонте квартир и материале'; include '../view.php';

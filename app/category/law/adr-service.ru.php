@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.adr-service.ru/"  title="перевозка опасных грузов">перевозка опасных грузов</a>'; include '../view.php';

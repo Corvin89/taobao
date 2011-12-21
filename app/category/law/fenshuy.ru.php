@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.fenshuy.ru/'>оберег, фэн шуй, амулет, феншуй, эзотерика</a>, <a href='http://www.fenshuy.ru/direction/'>Направления</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.eaglesharp.com">Small Business Consulting</a> -   EagleSharp MBA business consultants provide financial support services to small businesses and C level management consulting services.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target="_blank" href="http://www.russiangreece.gr">Русская Греция</a>'; include '../view.php';

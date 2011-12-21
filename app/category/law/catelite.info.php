@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.74chel.ru" target="_blank">чел€бинск</a>, <a href="http://www.catelite.info" target="_blank">CatElite - каталог</a>'; include '../view.php';

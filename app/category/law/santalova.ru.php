@@ -1,0 +1,1 @@
+<?php $catalogLink = '<strong>Адвокат Санталова С.М. <a href="http://www.santalova.ru/">Юридическое сопровождение бизнеса. Гражданское, уголовное право, арбитраж.</a> <a href="http://www.forum.santalova.ru/">Форум</a></strong>'; include '../view.php';

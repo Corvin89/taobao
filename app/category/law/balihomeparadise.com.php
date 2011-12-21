@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://balihomeparadise.com/">Bali Villas</a> - A Bali villas rental agency provide an original and first-class accommodation style to help you discover island of Bali.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'В магазине представлены <a href=http://www.digcams.ru>цифровые видеокамеры от Canon, Sony, JVC</a> и других производителей'; include '../view.php';

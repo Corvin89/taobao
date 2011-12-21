@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.host-links.info/" id="R0">Host Links Directory</a>'; include '../view.php';

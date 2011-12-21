@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://special.tassprint.ru">POS материалы в каталоге сайтов</a>, а также <a href="http://www.tasspress.ru">POS материалы и подарочную упаковку</a> можете найти в типографии ИТАР-ТАСС'; include '../view.php';

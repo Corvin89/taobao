@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.linkexchange.pk">Free Reciprocal link exchange</a> - Free reciprocal linkexchange and webmaster tools including SEO, Search Engines, Domain Checkups, HTML and Other many useful tools.'; include '../view.php';

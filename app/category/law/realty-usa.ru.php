@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.realty-usa.ru">
+<img border=0 src="http://www.realty-usa.ru/banner.jpg"  width="88" height="31" alt="недвижимость в сша, недвижиомость за рубежом"></a>'; include '../view.php';

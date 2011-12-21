@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.island-ciovo.com">World Wide Web Free Promotion Classifieds Online Directory</a>'; include '../view.php';

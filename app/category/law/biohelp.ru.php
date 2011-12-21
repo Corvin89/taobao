@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p><a style="text-decoration: none" href="http://www.biohelp.ru">Биоактиватор, помогает Вашему организму справиться с болезнью или добиться её ремиссии, а в лучшем случае предотвратить её возникновение</a></p>'; include '../view.php';

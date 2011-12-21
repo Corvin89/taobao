@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href='http://www.smas.ru'>ћонтаж баннеров</a> и <a href='http://www.promoline.info'>рекламные конструкции</a> и другие <br>
+<a href="http://www.sud-pristav.ru/ispolnitelnoe-proizvodstvo.html">исполнительное производство</a>'; include '../view.php';

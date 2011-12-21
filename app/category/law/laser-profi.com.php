@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.laser-profi.com">“аблички, вывески, брелоки, световые таблички </a>'; include '../view.php';

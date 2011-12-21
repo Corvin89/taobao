@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.52designs.net"><b>52 Designs - Ideas Brought To Life</b></a><br>Affordable Website Design Services.  Contact Us today for a free quote!'; include '../view.php';

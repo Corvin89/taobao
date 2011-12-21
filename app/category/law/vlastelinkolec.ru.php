@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vlastelinkolec.ru/" target=_blank>Фэнтези :: Властелин колец</a>'; include '../view.php';

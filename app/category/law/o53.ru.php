@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.o53.ru">Каталог Сайтов Новгородской области</a>'; include '../view.php';

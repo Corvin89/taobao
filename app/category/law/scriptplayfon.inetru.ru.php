@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://scriptplayfon.inetru.ru/ title='купить готовый сайт'>Готовый сайт партнёрки Playfon - Shop Playfon Script</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.unasked.com">Get Answers</a> at Unasked.com'; include '../view.php';

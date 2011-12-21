@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Мы принимаем только <a href='http://www.zoo-top.ru'>достойные сайты</a> о природе и животных'; include '../view.php';

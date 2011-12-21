@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://padayatra.ru" title="Padayatra.Ru - Сайт о самопознании и эзотерике" target="_blank">Padayatra.Ru - подборка статей по эзотерике, Фен Шуй, Веданте, непознанном, НЛО</a>'; include '../view.php';

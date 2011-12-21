@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://laxal.ru/" target="_blank" title="Форум для отдыха и развлечения" >Форум обо всем понемногу</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p>Форум онлайн игр - ссылка <a href="http://ijji.ru/forum/">тут</a></p>'; include '../view.php';

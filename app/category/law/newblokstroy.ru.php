@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://newblokstroy.ru">продажа бытовок</a> от производителя установка не дорого под ключ .'; include '../view.php';

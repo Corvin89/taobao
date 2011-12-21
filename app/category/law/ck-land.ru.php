@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://ck-land.ru/>Технологии становятся экономичными</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://muroma.ru/" target="_blank"><img src="http://muroma.ru/baner88x31.gif" border="0" alt="Мурома - мужской фольклорный ансамбль" width="88" height="31" ></a>'; include '../view.php';

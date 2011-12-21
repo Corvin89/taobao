@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.qcsearch.com">QC Search - Get relevant local results</a>'; include '../view.php';

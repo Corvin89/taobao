@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://krisa.org.ua/" target="_blank"> ак происходит рост и развитие крыс€т</a>'; include '../view.php';

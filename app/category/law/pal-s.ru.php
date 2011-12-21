@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://pal-s.ru/>Сантехника</a>'; include '../view.php';

@@ -1,0 +1,14 @@
+<?php $catalogLink = '- <a href="http://forum.allsochi.info" target="_blank">Отзывы об отдыхе в Сочи форум Адлера</a> 
+- <a href="http://forum-sochi.com" target="_blank">Городской форум Сочи - отдых летом в Сочи</a>  
+- <a href="http://sochi-com.ru" title="Доска объявлений г.Сочи" target="_blank">бесплатные объявления Сочи</b> - купить квартиру в Адлере</a>
+- <a href="http://forum-adler.ru" title="Форум Адлера - Снять жильё в Адлере" target="_blank">форум Адлера - отдых в адлерском районе Сочи</a>  
+- <a href="http://buysochi.ru" title="Поиск работы в Сочи вакансии и резюме" target="_blank">доска объявлений Сочи - работа в Адлере <b>вакансии в Сочи</b> - снять квартиру в Сочи</a>- <a href="http://forum-abkhazia.ru" title="абхазия форум - страна души - апсны - отзывы абхазии" target="_blank">Отдых в Абхазии отзывы форумчан отдохнувших в Абхазии 2011, прогноз погоды</a> 
+- <a href="http://www.myug.ru/forum8.html" title="отдых в Горячем Ключе форум о бальнеологическим курортом">Форум <b>Горячего Ключа</b> санатории и пансионаты</a> 
+- <a href="http://WebAbkhazia.ru" title="каталог сайтов апсны - абхазские сайты" target="_blank">Каталог абхазскийх сайтов - сайты Абхазии</a> 
+- <a href="http://1hz.org.ru" target="_blank">каталог сайтов один герц - всё для любителей сайтов</a> 
+- <a href="http://www.winvote.ru" target="_blank">10 октября состоятся выборы в региональны парламенты России</a> 
+- <a href="http://www.fc-zhemchuzhina.ru" title="ФК Жеичужина - Сочи" target="_blank">Форум ФК Жемчужина Сочи</a>
+- <a href="http://www.fc-sochi.ru" title="ФК Сочи-04 (Sochi)" target="_blank">ФК Сочи-04 форум сочинской команды, олимпиада 2014 в Сочи</a>
+- <a href="http://fc-sochi.com/forumdisplay-f_14.html" target="_blank">Чемпионата Евпропы по футболу 2012 года в Польше и Украине</a> ставки на матчи.
+- <a href="http://fc-sochi.com" title="футбольный форум Сочи" target="_blank">Спорт в Сочи - футбольный форум сочинских болельщиков</a>
+- <a href="http://www.morshansk.su" title="Бесплатная доска'; include '../view.php';

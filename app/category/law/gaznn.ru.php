@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=" http://www.gaznn.ru"> Автомобили ГАЗ  </a><a href=" http://www.gaznn.ru">Автомобили Максус Maxus в Нижнем Новгорде LDV MAXUS Утилизация автомобилей до 1999 г/в, тел. 8312-269-79-44 www.gaznn.ru </a>'; include '../view.php';

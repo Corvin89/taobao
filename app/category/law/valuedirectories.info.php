@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.valuedirectories.info/">Value Directories</a>'; include '../view.php';

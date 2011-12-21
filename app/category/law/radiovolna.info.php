@@ -1,0 +1,1 @@
+<?php $catalogLink = '<li><a href="http://radiovolna.info">Радио онлайн. Каталог  сайтов, обмен ссылками</a></li>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.km2n.ru" target="_blank"><img src="http://www.km2n.ru/images/banner.gif" width="88" height="31" alt="Агентство недвижимости Квадраметр - Все виды операций с недвижимостью"></a>'; include '../view.php';

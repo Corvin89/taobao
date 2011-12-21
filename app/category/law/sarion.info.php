@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://sarion.info title= Sarion.info > Sarion.info - Стратегия заработка в сети </a>'; include '../view.php';

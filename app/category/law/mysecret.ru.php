@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mysecret.ru/goroskop/">Гороскопы</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.1traveldirectory.com" target="_blank"><strong>1 Travel Directory - Worldwide Travel Links</strong></a><br>Comprehensive Travel Directory provide quality travel site listing. Free submit to world wide travel business directory. Human editor reviews with search engine friendly.'; include '../view.php';

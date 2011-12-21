@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://allfo.ru">Рейтинг форумов</a>'; include '../view.php';

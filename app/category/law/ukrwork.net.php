@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.ukrwork.net"><img src=" http://www.ukrwork.net/banneri/88_31/88_31b.gif" alt="Работа во всех городах Украины" width="88" height="31" border="0"></a>'; include '../view.php';

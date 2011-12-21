@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wizdir.com/">Wiz Directory</a>'; include '../view.php';

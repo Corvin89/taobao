@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://photohit.ru">Фото знаменитостей, голые знаменитости</a>'; include '../view.php';

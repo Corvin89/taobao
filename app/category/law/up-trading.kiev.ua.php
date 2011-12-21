@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.totalua.com.ua>TOTALStone, TOTALWood и TOTALDesign  - отделочные материалы воспроизводящий натуральные поверхности из камня и кирпича</a>'; include '../view.php';

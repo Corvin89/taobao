@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://dagha-rielt.ru/>Дачный дом</a>'; include '../view.php';

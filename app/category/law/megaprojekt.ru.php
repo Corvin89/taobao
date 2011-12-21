@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.megaprojekt.ru/">www.megaprojekt.ru/</a> - Градирни, водоуловители, оросители от компании Мегапроект.'; include '../view.php';

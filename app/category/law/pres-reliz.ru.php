@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://pres-reliz.ru">Добавь свой пресс-релиз бесплатно</a>'; include '../view.php';

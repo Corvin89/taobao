@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Топ 10! <a href="http://www.nashsovet.ru/">Потребительские сервисы: рестораны, кинотеатры, магазины, турагентства </a>.'; include '../view.php';

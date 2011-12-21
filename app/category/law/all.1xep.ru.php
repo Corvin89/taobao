@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://e-brest.com/?page=flashcat">Брест. Беларусь. СНГ. Магазины. Компании. </a>'; include '../view.php';

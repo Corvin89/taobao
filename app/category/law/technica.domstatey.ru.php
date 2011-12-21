@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://technica.domstatey.ru">Тематический каталог "Офисная и бытовая техника"</a>'; include '../view.php';

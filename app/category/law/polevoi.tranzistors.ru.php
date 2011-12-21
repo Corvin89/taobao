@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://1000car.ru/">Авто новости</a> Новосибирска<br /><br />Правомерное поведение, <a href="http://goverment.kz">правонарушение и юридическая ответственность</a>, судебная система.<br />Как сделать <a href="http://euro-remontik.com/"><b>евро ремонт</b> своими руками</a>.<br />'; include '../view.php';

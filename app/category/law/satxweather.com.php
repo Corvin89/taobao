@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.satxweather.com/directory/index.php">SATXWEATHER General Web Directory</a>'; include '../view.php';

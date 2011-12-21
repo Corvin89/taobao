@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.lonelyhearts.org.uk/"><b>Lonely Hearts</b></a><br>Lonely Hearts Club. Are you a Lonely Heart? Join Our Online Dating Agency Free.'; include '../view.php';

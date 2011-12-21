@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.sene.lv/ target=_blank><img src=http://www.sene.lv/img/banner_88_31_1.gif alt="Вешенка, Шиитаке, Зимний опенок, Кольцевик. Более 100 кулинарных рецептов из грибов Вешенка, Шиитаке, Зимний опенок, Кольцевик. Закуски, супы, вторые блюда, соусы, салаты." width=88 height=31 border=0></a>'; include '../view.php';

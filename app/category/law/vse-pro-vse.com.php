@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vse-pro-vse.com" target="_blank" title=""><font color="red"> »нтересные ссылки, необычные факты, юмор, картинки, объ€влени€, заработок в сети и бесплатный софт</font color="red"></a>'; include '../view.php';

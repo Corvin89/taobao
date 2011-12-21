@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.floornwalltiles.com/">Floor n Wall Tiles</a>'; include '../view.php';

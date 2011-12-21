@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://avtoworota.ru/>Компания Автоворота - производитель автоматических ворот и оборудования к ним</a>'; include '../view.php';

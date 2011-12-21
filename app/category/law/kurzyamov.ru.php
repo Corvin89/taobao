@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://www.kurzyamov.ru">
+<img src="http://www.kurzyamov.ru/images/88x31.gif" width="88" height="31" border="0" alt="Иллюзионная трансформация "Двое под зонтом"></a>'; include '../view.php';

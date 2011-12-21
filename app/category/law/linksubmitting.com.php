@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.householdchemicalsafety.com">Household Chemical</a>'; include '../view.php';

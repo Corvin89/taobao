@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cluballogarag.ru/">Профессиональное обучение</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://restvan.com.ua/><img src=http://restvan.com.ua/8831.gif border=0 width="88" height="31"></a>'; include '../view.php';

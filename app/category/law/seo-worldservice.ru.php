@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://seo-worldservice.ru/" >seo форум все для web мастеров</a>'; include '../view.php';

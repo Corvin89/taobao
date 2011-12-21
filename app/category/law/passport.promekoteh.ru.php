@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://passport.promekoteh.ru">санитарно - эпидемиологическое заключение</a> - <a href="http://www.realdancer.ru/?page_id=53">школа латиноамериканских танцев</a>'; include '../view.php';

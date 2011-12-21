@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wmod.com.ua">Обменный WM-валют в Одессе.</a>'; include '../view.php';

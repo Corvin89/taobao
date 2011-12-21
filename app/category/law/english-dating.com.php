@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://english-dating.com" target=_blank>Брачное агентство English-Dating</a> - Английская компания с офисами по всему миру. Мы познакомим Вас с Вашим потенциальным партнером из Англии или Америки. Услуги бесплатны!'; include '../view.php';

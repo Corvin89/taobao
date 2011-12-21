@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--www.hot-tours.ru-opisanie--> ќтправл€йтесь в туры выходного дн€, там вы найдете:  <a href="http://www.hot-tours.ru/" title="детский отдых, турфирма, гор€щие туры египет - Ўри Ћанка">детский отдых, турфирма, гор€щие туры египет - Ўри Ћанка</a> и многое другое!  <!--www.hot-tours.ru-opisanie-->'; include '../view.php';

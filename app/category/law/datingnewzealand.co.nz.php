@@ -1,0 +1,1 @@
+<?php $catalogLink = '<!--- datingnewzealand.co.nz code start ---><a href="http://www.datingnewzealand.co.nz" target="_blank"><img src="http://www.datingnewzealand.co.nz/dating_anim.gif" alt="New Zealand dating online" width="88" height="31" border="0" /></a><!--- datingnewzealand.co.nz code end --->'; include '../view.php';

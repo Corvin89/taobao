@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://thenewchild.ru/15033655-opishi-avatarku-predydushhego-i-ostav-pozhelanie.html">нохьх юбюрюпйс опедшдсыецн х нярюбэ онфекюмхе й мелс!!!))) </a>'; include '../view.php';

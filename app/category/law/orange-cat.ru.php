@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Заказать с доставкой <a href="http://www.orange-cat.ru">по Москве свадебные букеты  </a> в компании Оранжевый Кот.'; include '../view.php';

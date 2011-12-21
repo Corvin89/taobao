@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://medcatalog.spb.ru/" target="_blank"><img src="http://medcatalog.spb.ru/mcat.gif" alt="Петербургский медкаталог" width="88" height="31" border="0"></a>'; include '../view.php';

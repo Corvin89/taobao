@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://traveltopsites.com/">Vietnam Travel Information</a> - Free Vietnam Online Tours, where you can learn about most popular tourist attractions in vietnam'; include '../view.php';

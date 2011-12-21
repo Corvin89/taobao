@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://news-kg.net">Информационно развлекательный портал news-kg.net. Новости кыргызстана и многое другое очень интерестное.</a>'; include '../view.php';

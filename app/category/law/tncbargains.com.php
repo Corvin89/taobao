@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.tncbargains.com"><b>Retro Turntables - Nostalgic Telephones - Discount Electronics!</b></a> - Retro & Nostalgic electronics, retro telephones, nostalgic style collectibles, unique gifts, classic and antique replicas at great prices.'; include '../view.php';

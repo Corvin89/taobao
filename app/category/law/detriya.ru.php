@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.detriya.ru">Детрия</a> - дезобработка автотранспорта и выдача санитарных паспортов.'; include '../view.php';

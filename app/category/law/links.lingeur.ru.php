@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Гуманитарные науки. <a href="http://lingeru.ru/perevod-kak-prikladnaya-lingvisticheskaya-discziplina">Перевод, виды перевода.</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mirbiznesa.info">где бесплатно разместить статьи</a>'; include '../view.php';

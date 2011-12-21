@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p>На нашем сайте есть <a href="http://www.tablichki-24.ru/">мобильные стенды</a> различных конструкций </p>'; include '../view.php';

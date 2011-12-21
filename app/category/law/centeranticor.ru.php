@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.elvinworld.ru" target="_blank"><img src="http://www.elvinworld.ru/elvin.gif" height="31" width="88" border="0" alt="ELVINWORLD TOP 100" title="ELVINWORLD TOP 100"></a>'; include '../view.php';

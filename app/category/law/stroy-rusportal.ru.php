@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://stroy-rusportal.ru/"><img src="http://stroy-rusportal.ru/images/counter1.gif" width=88 height=31 border=0
+alt="Строим дом сами, Ремонт своими руками, Дизайн интерьера, Недвижимость, Дизайн интерьера, Каталог строительных компании, строительные Объявления"></a>'; include '../view.php';

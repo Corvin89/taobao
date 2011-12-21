@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Огромный <a href=http://runetmobile.ru>каталог фотоаппаратов</a> - характеристики, описания, фотогаллерея'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.staroye.ru'>эксклюзивная мебель в старинном стиле</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vsego.ru" target="_blank" title="Каталог сайтов Всего.RU">Каталог сайтов</a>'; include '../view.php';

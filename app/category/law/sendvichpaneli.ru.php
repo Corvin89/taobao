@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.sendvichpaneli.ru/"><strong>Сэндвич панели, металлоконструкции</strong>: монтаж и строительство.</a> - МосСтрой Монтаж'; include '../view.php';

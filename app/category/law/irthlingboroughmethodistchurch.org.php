@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://irthlingboroughmethodistchurch.org/">Article Directory</a>'; include '../view.php';

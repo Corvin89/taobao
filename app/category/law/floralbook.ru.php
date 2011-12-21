@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.floralbook.ru">Искусство флористики - приниципы составления композиций, подбор цвета и формы</a>'; include '../view.php';

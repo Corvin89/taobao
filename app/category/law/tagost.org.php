@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://tagost.org/>Tagost Камин Строй Сервис</a>'; include '../view.php';

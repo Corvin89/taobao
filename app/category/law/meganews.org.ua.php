@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://meganews.org.ua" target="_blank">Все новости Украины на www.meganews.org.ua</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://york-verona.ru"> <img src="http://york-verona.ru/pics/ban_verona.gif"  alt="Питомник йоркширских терьеров Олл Старс Верона. Разведение. Продажа щенков. Груминг.Хедлинг" width="88" height="31" border="0"></a>'; include '../view.php';

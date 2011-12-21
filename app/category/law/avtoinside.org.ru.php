@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.avtoinside.ru" target="_blank">Устройство автомобиля</a>: подробное описание узлов и механизмов'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cat.aliansrealty.ru/">Наши партнеры</a><a href="http://aliansrealty.ru/">Cнять квартиру, сдать квартиру, купить квартиру, продать квартиру, дом, офис, участок.</a>'; include '../view.php';

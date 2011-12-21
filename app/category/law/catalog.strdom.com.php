@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Быстрые <a href=http://www.strdom.com>ремонт и строительство</a> дома.'; include '../view.php';

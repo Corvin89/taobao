@@ -1,0 +1,14 @@
+<?php $catalogLink = 'Полезная информация: <a href="http://forum.allsochi.info/forumdisplay.php?f=2"><strong>выборы в городского собрания Сочи</strong> новости Адлера выборы города курорта Сочи</a>  
+- <a href="http://forum.allsochi.info/forumdisplay.php?f=34" title="Отдых в санаториях Сочи" target="_blank">санатории Хосты и Адлера г.Сочи</a> 
+- <a href="http://forum.allsochi.info/forumdisplay.php?f=51" target="_blank">Форум о работе в Сочи - работа в Адлере на олимпийской стройке</a>  
+- <a href="http://www.aboutsochi.ru" target="_blank">Справочное бюро города Сочи - информация о Адлерском районе города Сочи</a> 
+- <a href="http://forum.allsochi.info/forumdisplay.php?f=3"> прогноз погоды в Сочи на лето, форум жителей - города <strong>Сочи</strong> и Адлера</a> 
+- <a href="http://forum.prosochi.ru" target="_blank">Работа в Сочи и Адлере, отдых в Хосте и Кудепсте</a>  
+- форум о <a href="http://1hz.ru" target="_blank">скачать сериал Остаться в Живых (Lost) Пропавшие заключительный 6 шестой сезон Лоста - форум о сериалах</a>
+- <a href="http://allsochi.ws/">Каталоги сайтов города Сочи</a> 
+- <a href="http://www.abkhazia-realty.ru" title="Продать квартиру в Абхазии, недвижимость в Гаграх" target="_blank">Продать недвижимость в Абхазии - сайт агентства недвижимости Абхазии - купить квартиру в Гаграх</a> 
+- что такое <a href="http://www.loo.su/topic2.html" title="Курортный посёлок Лоо в городе Сочи" target="_blank"> Лоо - это курортный посёлок, который находится в Лазаревском районе города Сочи</a> 
+- <a href="http://www.allsochi.info/">Отдых летом в <strong>Сочи</strong> 2010, отзывы туристов об отдыхе в Сочи</a> 
+- <a href="http://www.Forum-Crimea.ru">Новый независимый <strong>форум Крыма</strong> отдых на крымском полуострове</a> 
+- о спорте на <a href="http://fc-sochi.com" target="_blank">Футбольном форуме города Сочи</a> Олимпиада 
+- <a href="http://www.job-in-sochi.ru/" target="_blank">есть <b>работа разнорабочего в Сочи</b> на олимпийских объектах кадровые агентство города'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://gaydar-arcadia.com/">Аркадий Гайдар</a>  Публицистика'; include '../view.php';

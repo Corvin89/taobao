@@ -1,0 +1,1 @@
+<?php $catalogLink = '—троительство и проектирование <a href="http://www.altaidom.com">дерев€нных домов</a> из клееного бруса и оцилиндрованного бревна.  <a href="http://www.altaidom.com/index/verhnee_/produkci/at_word_doc/111/index.htm">ѕродажа бруса и бревна</a>.'; include '../view.php';

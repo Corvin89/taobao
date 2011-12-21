@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://safe.region99.ru/ target=_blank><img src=http://safe.region99.ru/banner/ban.gif alt=сейф, сейф взломостойкий, сейф огнестойкий, сейф встраиваемый, сейф width=88 height=31 border=0></a>'; include '../view.php';

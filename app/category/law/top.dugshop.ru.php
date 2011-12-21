@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://top.dugshop.ru"><img src="http://top.dugshop.ru/banner.gif" border="0" width="88" height="31"></a>'; include '../view.php';

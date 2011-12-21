@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.sportclass.ru/ target=_blank>фитнес клубы Твери</a>'; include '../view.php';

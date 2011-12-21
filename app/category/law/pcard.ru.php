@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Офисная техника - <a href=http://pcard.ru/e-store1/laminators/>ламинаторы</a>, брошюровщики. Гарантия, сервис. Звоните!'; include '../view.php';

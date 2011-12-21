@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://stroenija.ru/">Мосты</a>: их строение и архитектура'; include '../view.php';

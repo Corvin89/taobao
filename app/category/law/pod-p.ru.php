@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://pod-p.ru/>Подвесной потолок</a>'; include '../view.php';

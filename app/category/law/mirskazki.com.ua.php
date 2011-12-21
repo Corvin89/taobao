@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mirskazki.com.ua" target="_blank" title="мир сказки-сайт для детей и родителей. Скачать бесплатно сказки, игры, мультфильмы"><img src="http://mirskazki.com.ua/uploads/fotos/blue88.gif" border="0" width="88" height="31" alt="мир сказки-сайт для детей и родителей"/></a>'; include '../view.php';

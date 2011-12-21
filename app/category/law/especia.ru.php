@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a title="специи, пряности" href="http://www.especia.ru"target="_blank">История пряностей, их применение, полезные свойства на Especia.ru</a>'; include '../view.php';

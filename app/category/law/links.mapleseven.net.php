@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://links.mapleseven.net">Справочник по системе Maple 7</a>'; include '../view.php';

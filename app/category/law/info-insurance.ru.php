@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.info-insurance.ru/">развитие страховани€ в –оссии, медицинское страхование жизни</a>, <a href="http://www.info-insurance.ru/articles/choice/66/">страхова€ компани€ макс</a>'; include '../view.php';

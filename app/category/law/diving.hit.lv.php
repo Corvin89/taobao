@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.diving.hit.lv/ target=_blank>Подводные погружения. Море, дайвинг, фото, рассказы.</a><br>Каталог ссылок linkexchanger, обмен ссылками. Здесь Вы можете взять html код текстовой ссылки и кнопки. Коды:<a href=http://www.diving.hit.lv/linkexchanger/add.php target=_blank>добавить ссылку.</a>'; include '../view.php';

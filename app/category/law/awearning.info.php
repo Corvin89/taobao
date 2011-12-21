@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://awearning.info">Каталог сайтов о заработке в сети. Основные виды и направления.</a>'; include '../view.php';

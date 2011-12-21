@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.gokarting.ru/'>школы картинга, картинг пилоты, картинг клубы</a>, <a href='http://www.gokarting.ru/tuning/'>Ёкипировка и тюнинг</a>'; include '../view.php';

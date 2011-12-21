@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.les-extrem.ru" name="" target=_blank><strong>Лесной Экстрим</strong>- новый вид активного отдыха на природе. Безопасный адреналин гарантируем!</a>'; include '../view.php';

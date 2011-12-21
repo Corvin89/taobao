@@ -1,0 +1,1 @@
+<?php $catalogLink = 'юбилей, <a href='http://WWW.A-ARTIST.RU' target=_blank>день рождения</a>, день рождения должен.'; include '../view.php';

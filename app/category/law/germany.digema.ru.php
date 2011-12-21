@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://germany.digema.ru" target="_blank"><img src="http://germany.digema.ru/banner/g-88x31.gif" alt="Привет, Германия" width="88" height="31" border="0"></a>'; include '../view.php';

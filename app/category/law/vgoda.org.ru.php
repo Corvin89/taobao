@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://vgoda.crimea.ua" target="_blank">отель Времена Года</a>: комфортный отдых в Крыму'; include '../view.php';

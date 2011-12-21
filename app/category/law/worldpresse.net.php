@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a(.*)href="http://(.*)worldpresse.net(.*)>(.*)</a>'; include '../view.php';

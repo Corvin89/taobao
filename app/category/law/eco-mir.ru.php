@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.eco-mir.ru/ecology/structure/'>Структура природной среды</a>, <a href='http://www.eco-mir.ru/'>отходы, биологическая наука, загрязнение окружающей среды, охрана окружающей среды</a>'; include '../view.php';

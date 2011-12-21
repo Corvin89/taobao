@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.carpetknights.co.uk"><b>Carpet Knights Eco Carpet and Upholstery Cleaners Cornwall</b></a><br>Eco friendly carpet and upholstery cleaning throughout all of cornwall. Family owned and run.'; include '../view.php';

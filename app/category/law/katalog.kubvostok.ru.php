@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Будет ли <a href="http://kubvostok.ru/budet-li-rybalka-platnoj.html">рыбалка платной</a>.'; include '../view.php';

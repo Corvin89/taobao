@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.anapada.ru><img src="http://www.anapada.ru/anapada.gif" height="31" width="88" border="0" alt="Отдых в Анапе. Размещение отдыхающих в Анапе."></a><b>тдых в Анапе. Размещение отдыхающих в Анапе. Доступные цены для всей семьи. Отдых на море в Анапе.</b>'; include '../view.php';

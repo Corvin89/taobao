@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.temarema.ru/" title="производство и промышленность" target="_blank"><img src="http://www.temarema.ru/imgdizign/butt.gif" border="0" alt="Оборудование, производство и промышленность" width="88" height="31"></a>'; include '../view.php';

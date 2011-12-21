@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.amfibi.com/" target="_top"><img src="http://banners.amfibi.com/small/red.gif" border="0" alt="Amfibi Web Search"></a>'; include '../view.php';

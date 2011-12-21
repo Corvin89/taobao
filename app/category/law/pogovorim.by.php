@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://pogovorim.by"><img src="http://pogovorim.by/images/log.gif" width="88" height="31" border="0" alt="Форум -Беларусь"/></a>'; include '../view.php';

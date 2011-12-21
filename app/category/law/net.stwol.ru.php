@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://net.stwol.ru/">Тематический каталог "IT и компьютерная техника"</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://mobishik.com/">Мобильные телефоны на 2 сим карты, на 3 сим карты, на 4 сим карты, копии Iphone, копии Nokia</a>'; include '../view.php';

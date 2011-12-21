@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.trubogibka.ru">Гибка труб</a>'; include '../view.php';

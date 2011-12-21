@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.rajaadsense.com/link/" id="R55AEB4">Raja Adsense Directory</a>'; include '../view.php';

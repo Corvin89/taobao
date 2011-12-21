@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Отличная пошаговая стратегия с элементами RPG, где вам предстоит управлять целым отрядом бойцов во время Второй Мировой Войны в игре <a href="http://mopila.ru/java/75-skachat-besplatno-java-igru-silent-storm-128x160.html">Silent Storm</a>'; include '../view.php';

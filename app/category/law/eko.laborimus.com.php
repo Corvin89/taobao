@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.eko.laborimus.com" target="_blank"><img src="http://eko.laborimus.com/images/eko.gif" alt="ART Клиника репродуктивной медицины - лечение бесплодия" ></a>'; include '../view.php';

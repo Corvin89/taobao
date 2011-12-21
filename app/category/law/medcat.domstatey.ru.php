@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://medcat.domstatey.ru">Каталог сайтов "Медицина и здоровье"</a>'; include '../view.php';

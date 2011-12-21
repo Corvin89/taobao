@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.e-artz.ru" >частное охранное   предприятие </a>, <a href="http://www.e-artz.ru/page3.ehtml" >охрана обьектов </a>, <a href="http://www.e-artz.ru/page9.ehtml" >чоп</a>'; include '../view.php';

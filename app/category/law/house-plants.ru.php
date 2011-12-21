@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.house-plants.ru/'>семейства растений, уход за растениями и вредители, размножение растений</a>, <a href='http://www.house-plants.ru/plant-pests/'>Вредители</a>'; include '../view.php';

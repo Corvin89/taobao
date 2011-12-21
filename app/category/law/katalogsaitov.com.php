@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href=http://katalogsaitov.com>Каталог сайтов</a>, <a href=http://katalogsaitov.com/?cat=17>Города и регионы</a>. <br>
+Каталог сайтов сети интернет. Добавление сайта.'; include '../view.php';

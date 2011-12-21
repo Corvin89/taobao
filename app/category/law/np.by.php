@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://np.by/"><img src="http://np.by/pic/np.gif" alt=" Бесплатная почта, чат, форум, кино, погода, рефераты. " width="88" height="31" border=0 /></a>'; include '../view.php';

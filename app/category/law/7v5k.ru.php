@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Публикация статей  <a href="http://www.7v5k.ru"> в каталоге</a>, добавить сайт.'; include '../view.php';

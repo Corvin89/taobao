@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.gotfreebies.com/">Got Freebies Directory  - FOR SALE - $10,000 USD</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href=http://www.rus-kamaz.info>אגעמ-סאיעû מ Êְְַּ, ְַּ</a>'; include '../view.php';

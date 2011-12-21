@@ -1,0 +1,1 @@
+<?php $catalogLink = '<p>Каталог сайтов. Обмен ссылками.<br><a target=_blank href="http://www.cat.dental-soft.ru/">www.dental-soft.ru</a></p>'; include '../view.php';

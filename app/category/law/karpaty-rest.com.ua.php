@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://karpaty-rest.com.ua">Карпаты</a>. Отдых в Украине. <a href="http://karpaty-rest.com.ua/ru/tour/">Отдых в Карпатах</a> - Информация о гостиницах и санаториях, отзывы туристов об отелях в Карпатах. <a href="http://karpaty-rest.com.ua/ru/tour/">Новый год в Карпатах</a>.'; include '../view.php';

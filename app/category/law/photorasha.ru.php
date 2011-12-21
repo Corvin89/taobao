@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.photorasha.ru">ФотоРаша профессиональный каталог фотоссылок</a>'; include '../view.php';

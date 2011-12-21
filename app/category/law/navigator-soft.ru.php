@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.navigator-soft.ru/windowstheme.html'>Скачать темы для Windows Vista</a> В разделе представлены заставки, темы для Windows Vista и темы для Windows XP.'; include '../view.php';

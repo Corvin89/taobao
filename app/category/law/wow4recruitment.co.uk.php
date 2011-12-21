@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.wow4recruitment.co.uk">The WoW4 Recruitment Directory</a>'; include '../view.php';

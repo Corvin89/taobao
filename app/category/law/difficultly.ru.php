@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://difficultly.ru" target=_blank>Difficultly.ru для сотовых телефонов - Аксессуары и Мобильный контент</a>'; include '../view.php';

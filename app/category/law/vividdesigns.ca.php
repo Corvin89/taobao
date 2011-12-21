@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.vividdesigns.ca">Vivid Designs SEO Friendly Web Directory</a>'; include '../view.php';

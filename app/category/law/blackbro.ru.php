@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href = "http://www.blackbro.ru"><img src = "http://blackbro.ru/published/publicdata/SLEBIHU/attachments/SC/images/skk .png" style = 'width:270px; height:42px; /></a>'; include '../view.php';

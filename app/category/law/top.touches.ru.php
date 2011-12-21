@@ -1,0 +1,2 @@
+<?php $catalogLink = '<a href="http://top.touches.ru" target="_blank">
+<img src="http://top.touches.ru/admin/images/tsbanner.gif" alt="Touches.ru" border="0" width="88" height="31"></a>'; include '../view.php';

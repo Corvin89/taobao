@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.forestvillage.ru">Отдых в Подмосковье</a>. <a href="http://www.forestvillage.ru/otdykh-v-rossii/otdykh-v-anape">Анапа отдых</a> на море.'; include '../view.php';

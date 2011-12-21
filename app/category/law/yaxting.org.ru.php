@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://yaxting.ru" target="_blank"><strong>яхтинг</strong></a>: подробное руководство дл€ начинающих €хтсменов'; include '../view.php';

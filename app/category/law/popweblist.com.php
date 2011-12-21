@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.popweblist.com/">popular web list</a>'; include '../view.php';

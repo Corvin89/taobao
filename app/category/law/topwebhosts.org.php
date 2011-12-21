@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.topwebhosts.org"><b>Web Hosting Resources & Webmaster Tools</b></a><br />Web hosting resources and web master tools to help new web hosts and webmasters in building a professional, search engine optimized and resourceful websites.'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://dir.heavydutytrucksforsale.net">Automotive Directory</a>'; include '../view.php';

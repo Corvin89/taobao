@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://greece-rest.com.ua/ru/tour/afiny.htm">Туры в Афины, Греция</a> - Отели Афин, история, достопримечательности, фотогалерея. <a href="http://greece-rest.com.ua/ru/tour/">Горячие туры в Грецию</a>'; include '../view.php';

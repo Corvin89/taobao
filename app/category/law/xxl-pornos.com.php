@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a(.*)href="http://(.*)xxl-pornos.com(.*)>(.*)</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://cska-forum.ru">ПФК ЦСКА Москва. Форум болельщиков</a>'; include '../view.php';

@@ -1,0 +1,1 @@
+<?php $catalogLink = 'Продаём <a href="http://www.bilux-shop.ru/">карбоновые обогреватели для дома</a> тел. (495) 2277800'; include '../view.php';

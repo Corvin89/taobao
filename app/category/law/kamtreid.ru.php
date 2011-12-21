@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.kamtreid.ru" title="Форекс для новичков и профессионалов"><img src="http://www.kamtreid.ru/banner/banner88_1.gif" width="88" height="31" border="0"></a>'; include '../view.php';

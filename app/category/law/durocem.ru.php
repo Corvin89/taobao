@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.durocem.ru/"><b>Durocem Italia - материалы, технологии, оборудование для промышленных бетонных полов</b></a>'; include '../view.php';

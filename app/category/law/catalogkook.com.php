@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.catalogkook.com/"><img src="http://www.catalogkook.com/catalogkook.gif" border="0" alt="каталог обратных ссылок"></a>'; include '../view.php';

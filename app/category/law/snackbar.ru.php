@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href="http://www.snackbar.ru/">пивные бары москвы, рестораны москвы</a>, <a href="http://www.snackbar.ru/management/technology/">бизнес-технологии</a>'; include '../view.php';

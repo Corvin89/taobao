@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a href='http://www.swlesson-mpl.ru' target='_blank'><b>Уроки по SolidWorks</b></a><br />Сайт Уроки по SolidWorks. Бесплатные уроки по работе с системой твердотельного моделирования SolidWorks. Видеоуроки. Библиотека 3D-моделей. Форум пользователей системами САПР. Фотогалерея работ в SolidWorks.'; include '../view.php';

@@ -1,0 +1,905 @@
+# Meta-data manager, allowing complete control over meta-data such as keywords/tags, title, description, stylesheets, and other goodies.  The data inserted can be static text, or pulled dynamically from the details of the post.
+# Copyright (C) 2007 John Godley
+# This file is distributed under the same license as the HeadSpace2 package.
+# John Godley, http://urbangiraffe.com/, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HeadSpace2 3.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-09-22 17:19+0800\n"
+"PO-Revision-Date: 2007-10-03 17:01+0100\n"
+"Last-Translator: Mario Schubert <mario@schubert.de>\n"
+"Language-Team: Mario Schubert <mario@schubert.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+
+#: headspace.php:387
+#, php-format
+msgid "%d items were imported from %s"
+msgstr "Es wurden %d Elemente aus %s importiert"
+
+#: view/admin/version.php:5
+#, php-format
+msgid "%s ago"
+msgstr "%s her"
+
+#: view/admin/import.php:13
+msgid "(not available in UTW and Simple Tagging)"
+msgstr "(nicht verfügbar in UTW und Simple Tagging)"
+
+#: models/inline_tags.php:163
+#, php-format
+msgid "(page %d of %d)"
+msgstr "(Seite %d von %d)"
+
+#: headspace.php:105
+msgid "404 Page"
+msgstr "404 Seite"
+
+#: ajax.php:64
+msgid "<p style=\"color: red\">That function is not defined</p>"
+msgstr "<p style=\"color:red\">Diese Funktion ist nicht definiert</p>"
+
+#: ajax.php:57
+msgid "<p style=\"color: red\">You are not allowed access to this resource</p>"
+msgstr "<p style=\"color: red\">Sie haben keine Berechtigung, zum Zugriff auf diese Ressource</p>"
+
+#: modules/page/tags.php:125
+msgid "<p>Tags: "
+msgstr "<p>Tags: "
+
+#: modules/page/plugin.php:139
+msgid "Add Plugin"
+msgstr "Plugin hinzufügen"
+
+#: modules/page/tags.php:175
+msgid "Add tags to dictionary"
+msgstr "Tags zum Wörterbuch hinzufügen"
+
+#: modules/site/crazyegg.php:38
+msgid "Adds CrazyEgg tracking code to all pages"
+msgstr "Fügt den Code zur Nachferfolgung mit CrazyEgg in alle Seiten ein"
+
+#: modules/site/analytics.php:39
+msgid "Adds Google Analytic tracking code to all pages"
+msgstr "Fügt den Code zur Nachferfolgung mit Google Analytic in alle Seiten ein"
+
+#: modules/site/mint.php:38
+msgid "Adds Mint tracking code to all pages"
+msgstr "Fügt den Code zur Nachferfolgung mit Mint in alle Seiten ein"
+
+#: modules/site/statcounter.php:40
+msgid "Adds StatCounter tracking code to all pages"
+msgstr "Fügt den Code zur Nachferfolgung mit StatCounter in alle Seiten ein"
+
+#: modules/site/rpc.php:37
+msgid "Adds additional functions to allow blogging tools such as Ecto to use tagging"
+msgstr "Fügt zusätzliche Funktionen zur Benutzung von Tags mit Bloggingtools wie Ecto ein"
+
+#: view/admin/modules.php:13
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: modules/page/page_title.php:109
+msgid "After"
+msgstr "Nach"
+
+#: modules/page/description.php:73
+msgid "All descriptions will be trimmed to this length"
+msgstr "Alle Beschreibungen werden auf diese Länge gekürzt"
+
+#: modules/import/all-in-one-seo.php:28
+msgid "All-in-one SEO"
+msgstr "All-in-one SEO"
+
+#: modules/page/javascript.php:55
+msgid "Allow external JavaScript files to be referenced"
+msgstr "Ermöglicht die Referenzierung externer JavaScripts"
+
+#: modules/page/page_title.php:89
+msgid "Allow page title to be changed (i.e. the title in the browser window title)"
+msgstr "Ermöglicht die Änderung der Seitentitel (z.B. der Titelzeile im Browserfenster)"
+
+#: modules/page/stylesheet.php:55
+msgid "Allows CSS stylesheets to be added to a page"
+msgstr "Ermöglicht das Hinzufügen von CSS Sylesheets zu einer Seite"
+
+#: modules/page/theme.php:69
+msgid "Allows a custom page-specific theme to over-ride the default theme"
+msgstr "Ermöglicht das Überschreiben des Standardtheme mit einem seitenspezifischen Theme"
+
+#: modules/page/noindex.php:56
+msgid "Allows a no-index/no-follow option to be set to prevent search engines and robots from indexing or following pages"
+msgstr "Ermöglicht das Setzen einer no-index/no-follow Option, um Suchmaschinen und Robots von der Indexierung der aktuellen Seite, bzw. verknüpfter Seiten abzuhalten"
+
+#: modules/page/description.php:61
+msgid "Allows a short description about the page that is used by search engines"
+msgstr "Ermöglicht die Eingabe einer kurzen Beschreibung der Seite, die von Suchmaschinen verwendet wird"
+
+#: modules/page/plugin.php:87
+msgid "Allows disabled plugins to be enabled on specific pages"
+msgstr "Ermöglicht es, deaktivierte Plugins auf bestimmten Seiten zu aktivieren"
+
+#: modules/page/raw.php:48
+msgid "Allows raw data to be inserted into the page meta section"
+msgstr "Ermöglicht das Hinzufügen von RAW Daten zum Metabereich der Seite"
+
+#: modules/page/rss_tagline.php:62
+msgid "Allows site RSS description to be changed"
+msgstr "Ermöglicht die Änderung der RSS-Beschreibung der Seite"
+
+#: modules/page/rss_name.php:62
+msgid "Allows site RSS name to be changed"
+msgstr "Ermöglicht die Änderung des RSS-Namens der Seite"
+
+#: modules/page/site_tagline.php:61
+msgid "Allows site description to be changed (i.e. the tagline)"
+msgstr "Ermöglicht die Änderung der Seitenbeschreibung (z.B. den Untertitel des Weblogs) "
+
+#: modules/page/site_name.php:61
+msgid "Allows site name to be changed (i.e your blog name)"
+msgstr "Ermöglicht die Änderung des Seitentitels (z.B. den Blogtitel)"
+
+#: modules/page/tags.php:162
+msgid "Allows tags/keywords to be added to pages"
+msgstr "Ermöglicht das Hinzufügen von Tags/Schlagwörtern"
+
+#: modules/page/more_text.php:56
+msgid "Allows the 'more' text to be changed"
+msgstr "Ermöglicht die Änderung des 'weiter lesen' - Textes"
+
+#: modules/site/wp_formatting.php:37
+msgid "Allows you to enable or disable various WordPress auto-formatting (including wpautop)"
+msgstr "Ermöglicht es, verschiedene WordPress Autoformatierungen zu aktivieren oder deaktivieren"
+
+#: modules/page/tags.php:186
+msgid "Alphabetically order tags"
+msgstr "Tags alphabetisch Sortieren"
+
+#: modules/page/tags.php:201
+#: modules/page/tags.php:210
+msgid "Always"
+msgstr "Immer"
+
+#: headspace.php:100
+#: modules/site/page_counts.php:114
+msgid "Archives"
+msgstr "Archive"
+
+#: view/admin/import.php:16
+msgid "As with anything else that modifies your database you should <strong>backup your data before running an import</strong>.  No responsibility is accepted for any kittens that may be killed in the process."
+msgstr "Wie bei jeder Änderung an der Datenbank, sollten Sie <strong>vor dem Import eine Sicherungskopie der Datenbank erstellen</strong>. Es wird keine Verantwortung dafür übernommen, falls während des Vorgangs kleine, süße Kätzchen zu Schaden kommen."
+
+#: headspace.php:103
+msgid "Author Pages"
+msgstr "Autorenseiten"
+
+#: modules/site/wp_formatting.php:97
+msgid "Auto-fancy quotes"
+msgstr "Auto-Anführungszeichen"
+
+#: modules/site/wp_formatting.php:90
+msgid "Auto-formatting"
+msgstr "Auto-Formatierung"
+
+#: modules/site/wp_formatting.php:104
+msgid "Auto-link"
+msgstr "Auto-Link"
+
+#: modules/page/tags.php:178
+msgid "Automatically add new tags to dictionary"
+msgstr "Füge automatisch neue Tags in das Wörterbuch ein"
+
+#: modules/page/page_title.php:108
+msgid "Before"
+msgstr "Vor"
+
+#: view/admin/edit_ajax.php:5
+#: view/admin/module_edit.php:8
+#: view/admin/site_module_edit.php:16
+msgid "Cancel"
+msgstr "Abbruch"
+
+#: headspace.php:101
+msgid "Categories"
+msgstr "Kategorien"
+
+#: view/admin/options.php:16
+msgid "Check for updates"
+msgstr "Prüfe auf Updates"
+
+#: view/admin/options.php:17
+msgid "Check for updates from within HeadSpace"
+msgstr "Prüfe innerhalb von HeadSpace auf Updates "
+
+#: modules/site/crazyegg.php:33
+msgid "CrazyEgg"
+msgstr "CrazyEgg"
+
+#: modules/site/crazyegg.php:122
+msgid "CrazyEgg ID"
+msgstr "CrazyEgg ID"
+
+#: modules/page/theme.php:80
+msgid "Current theme"
+msgstr "Aktuelles Theme"
+
+#: modules/site/page_counts.php:38
+msgid "Customise the number of posts shown on the archive and search pages, and decide whether to show full content or the excerpt"
+msgstr "Passe die Anzahl angezeigter Beiträge auf der Archiv- und Suchseite an und entscheide, ob ein Auszug oder der gesamte Inhalt angezeigt werden soll"
+
+#: view/admin/options.php:37
+msgid "Delete HeadSpace"
+msgstr "HeadSpace löschen"
+
+#: modules/page/description.php:88
+msgid "Description"
+msgstr "Beschreibung"
+
+#: modules/page/tags.php:222
+msgid "Dictionary"
+msgstr "Wörterbuch"
+
+#: view/admin/modules.php:19
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: view/admin/edit_category.php:5
+msgid "Edit Category &raquo;"
+msgstr "Kategorie bearbeiten &raquo;"
+
+#: modules/site/analytics.php:184
+msgid "Enter the URL you want outbound links tracked to, or leave empty for no outbound tracking"
+msgstr "URL zur Nachverfolgung ausgehender Links eingeben oder leer lassen, falls keine Nachverfolgung gewünscht ist"
+
+#: modules/site/analytics.php:163
+msgid "Enter the full Google JavaScript tracking code, or just the <code>_uacct</code> number."
+msgstr "Vollständigen Google JavaScript Trackingcode eingeben oder nur die <code>_uacct</code> Nummer."
+
+#: modules/site/mint.php:124
+msgid "Enter the relative URL to your Mint installation (i.e. <code>/mint/</code>)."
+msgstr "Relative URL zu Ihrer Mint Installation eingeben (z.B. <code>/mint/</code>)."
+
+#: modules/site/crazyegg.php:125
+msgid "Enter your full <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a>"
+msgstr "Vollständige <a href=\"http://crazyegg.com/pages/instructions\">CrazyEgg ID</a> eingeben"
+
+#: modules/site/analytics.php:170
+#: modules/site/crazyegg.php:132
+#: modules/site/mint.php:131
+#: modules/site/statcounter.php:158
+msgid "Everyone"
+msgstr "Jeden"
+
+#: view/admin/options.php:3
+msgid "General Options"
+msgstr "Allgemeine Optionen"
+
+#: headspace.php:98
+msgid "Global Settings"
+msgstr "Globale Einstellungen"
+
+#: modules/site/analytics.php:34
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/site/google-ad-wrap.php:28
+msgid "Google Section Targeting"
+msgstr "Google Section Targeting"
+
+#: modules/import/head_meta_description.php:28
+msgid "Head META Description"
+msgstr "Head META Description"
+
+#: headspace.php:133
+msgid "HeadSpace"
+msgstr "HeadSpace"
+
+#: view/admin/edit_post.php:6
+msgid "HeadSpace Meta data"
+msgstr "HeadSpace Meta Daten"
+
+#: view/admin/edit_category.php:1
+#: view/admin/settings.php:2
+msgid "HeadSpace Settings"
+msgstr "HeadSpace Einstellungen"
+
+#: headspace.php:342
+msgid "HeadSpace has been removed"
+msgstr "HeadSpace wurde entfernt"
+
+#: modules/import/headspace_tags.php:31
+msgid "HeadSpace tags (convert to WordPress 2.3 tags)"
+msgstr "HeadSpace Tags (zu WordPress 2.3 Tags konvertieren)"
+
+#: view/admin/version.php:2
+msgid "HeadSpace2 News"
+msgstr "HeadSpace2 News"
+
+#: headspace.php:99
+msgid "Home Page"
+msgstr "Startseite"
+
+#: plugin.php:593
+msgid "How many widgets would you like?"
+msgstr "Wie viele Widgets möchten Sie?"
+
+#: view/admin/import.php:2
+#: view/admin/import.php:12
+#: view/admin/submenu.php:5
+msgid "Import"
+msgstr "Importieren"
+
+#: view/admin/import.php:13
+msgid "Import and remove original data"
+msgstr "Importieren und ursprüngliche Daten entfernen"
+
+#: view/admin/options.php:9
+msgid "Inherit from global settings"
+msgstr "Von globalen Einstellungen vererben"
+
+#: view/admin/options.php:8
+msgid "Inherit settings"
+msgstr "Vererbe Einstellungen"
+
+#: ajax.php:141
+#: ajax.php:152
+#: ajax.php:163
+#: ajax.php:174
+#: ajax.php:188
+msgid "Invalid module"
+msgstr "Ungültiges Modul"
+
+#: modules/page/javascript.php:50
+#: modules/page/javascript.php:66
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: modules/import/jerome.php:28
+msgid "Jerome's Keywords"
+msgstr "Jerome's Keywords"
+
+#: modules/page/page_title.php:101
+msgid "Leave blank to use theme default"
+msgstr "Leer lassen, um Vorgabe des Themes zu verwenden"
+
+#: modules/site/wp_formatting.php:107
+msgid "Makes links clickable in comments"
+msgstr "Macht Links in Kommentaren klickbar"
+
+#: view/admin/mass_edit.php:2
+msgid "Mass Edit Meta-data"
+msgstr "Masseneditierung von Meta-Daten"
+
+#: modules/page/description.php:70
+msgid "Max length"
+msgstr "Maximale Länge"
+
+#: headspace.php:134
+msgid "Meta-data"
+msgstr "Meta-Daten"
+
+#: modules/site/mint.php:33
+msgid "Mint"
+msgstr "Mint"
+
+#: modules/site/mint.php:121
+msgid "Mint path"
+msgstr "Mint Pfad"
+
+#: view/admin/submenu.php:3
+msgid "Modules"
+msgstr "Module"
+
+#: view/admin/modules.php:20
+msgid "Modules are disabled and do not appear"
+msgstr "Module sind deaktiviert und werden nicht angezeigt"
+
+#: view/admin/modules.php:8
+msgid "Modules will always appear on edit screens"
+msgstr "Module werden auf der Bearbeitungsseite immer angezeigt"
+
+#: view/admin/modules.php:14
+msgid "Modules will be hidden behind a link"
+msgstr "Module werden hinter einem Link verborgen"
+
+#: modules/import/more_unique.php:28
+msgid "More Unique"
+msgstr "More Unique"
+
+#: modules/mass/more_text.php:28
+#: modules/mass/more_text.php:50
+#: modules/page/more_text.php:51
+#: modules/page/more_text.php:70
+msgid "More text"
+msgstr "Mehr Text"
+
+#: modules/page/tags.php:200
+#: modules/page/tags.php:209
+msgid "Never"
+msgstr "Niemals"
+
+#: models/pager.php:387
+msgid "Next"
+msgstr "Weiter"
+
+#: modules/page/noindex.php:70
+msgid "No Index"
+msgstr "No Index"
+
+#: modules/page/noindex.php:51
+msgid "No Index/No Follow"
+msgstr "No Index/No Follow"
+
+#: view/admin/submenu.php:4
+msgid "Options"
+msgstr "Optionen"
+
+#: modules/page/tags.php:183
+msgid "Order tags"
+msgstr "Tags sortieren"
+
+#: modules/site/page_counts.php:33
+msgid "Page Counts"
+msgstr "Seitenzahlen"
+
+#: view/admin/modules.php:2
+msgid "Page Modules"
+msgstr "Seiten-Module"
+
+#: view/admin/submenu.php:2
+msgid "Page Settings"
+msgstr "Seiten-Einstellungen"
+
+#: modules/page/page_title.php:125
+msgid "Page Title"
+msgstr "Seitentitel"
+
+#: modules/mass/description.php:28
+#: modules/mass/description.php:50
+#: modules/page/description.php:56
+msgid "Page description"
+msgstr "Seitenbeschreibung"
+
+#: view/admin/modules.php:3
+msgid "Page modules apply to individual pages.  Drag-and-drop modules into the appropriate area.  Modules can be re-ordered to change their position on the edit screen."
+msgstr "Seiten-Module werden auf einzelne Seiten angewendet. Ziehe Module in den entsprechenden Bereich. Module können verschoben werden, um ihre Position auf der Bearbeitungsseite zu ändern."
+
+# page slug is inadequately translated in the german wordpress localization.
+#: modules/mass/page_slug.php:28
+msgid "Page slug"
+msgstr "Seitenform"
+
+#: modules/mass/page_title.php:28
+#: modules/mass/page_title.php:50
+#: modules/page/page_title.php:84
+msgid "Page title"
+msgstr "Seitentitel"
+
+#: modules/page/plugin.php:82
+msgid "Page-specific Plugins"
+msgstr "Seitenspezifische Plugins"
+
+#: modules/page/theme.php:57
+msgid "Page-specific Themes"
+msgstr "Seitenspezifische Themes"
+
+#: modules/site/statcounter.php:142
+msgid "Partition ID"
+msgstr "Partitions ID"
+
+#: view/admin/pager.php:14
+msgid "Per page"
+msgstr "pro Seite"
+
+#: modules/page/plugin.php:132
+msgid "Plugins"
+msgstr "Plugins"
+
+#: modules/mass/page_slug.php:50
+msgid "Post slug"
+msgstr "Titelform"
+
+#: modules/mass/description.php:49
+#: modules/mass/more_text.php:49
+#: modules/mass/page_slug.php:49
+#: modules/mass/page_title.php:49
+#: modules/mass/site_description.php:49
+#: modules/mass/site_name.php:49
+#: modules/mass/tags.php:49
+msgid "Post title"
+msgstr "Beitragstitel"
+
+#: headspace.php:102
+msgid "Posts &amp; Pages"
+msgstr "Beiträge &amp; Seiten"
+
+#: headspace.php:297
+msgid "Posts successfully updated"
+msgstr "Beitrag erfolgreich aktualisiert"
+
+# could be used as adjective or substantiated.
+#: models/pager.php:386
+msgid "Previous"
+msgstr "Vorherige"
+
+#: modules/site/statcounter.php:136
+msgid "Project ID"
+msgstr "Project ID"
+
+#: modules/site/rpc.php:32
+msgid "RPC support for Ecto"
+msgstr "RPC Unterstützung für Ecto"
+
+#: modules/page/rss_tagline.php:57
+#: modules/page/rss_tagline.php:76
+msgid "RSS Description"
+msgstr "RSS Beschreibung"
+
+#: modules/page/rss_name.php:57
+#: modules/page/rss_name.php:76
+msgid "RSS Name"
+msgstr "RSS Name"
+
+#: modules/page/raw.php:43
+#: modules/page/raw.php:55
+msgid "Raw data"
+msgstr "RAW Daten"
+
+#: view/admin/options.php:32
+msgid "Remove HeadSpace"
+msgstr "HeadSpace entfernen"
+
+#: view/admin/help.php:9
+msgid "Replaced with the category description"
+msgstr "Ersetzt mit der Kategoriebeschreibung"
+
+#: view/admin/help.php:16
+msgid "Replaced with the current date"
+msgstr "Ersetzt durch das aktuelle Datum"
+
+#: view/admin/help.php:17
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr "Ersetzt durch die aktuelle Seitenzahl (z.B. Seite 2 von 4)"
+
+#: view/admin/help.php:14
+msgid "Replaced with the current search phrase"
+msgstr "Ersetzt durch den aktuellen Suchbegriff"
+
+#: view/admin/help.php:15
+msgid "Replaced with the current time"
+msgstr "Ersetzt durch die aktuellen Zeit"
+
+#: view/admin/help.php:5
+msgid "Replaced with the date of the post/page"
+msgstr "Ersetzt durch das Datum der Seite / des Beitrags"
+
+#: view/admin/help.php:8
+msgid "Replaced with the post categories (comma seperated)"
+msgstr "Ersetzt durch die Kategorien des Beitrags (getrennt durch Komma)"
+
+#: view/admin/help.php:11
+msgid "Replaced with the post/page ID"
+msgstr "Ersetzt durch die ID der Seite / des Beitrags"
+
+#: view/admin/help.php:12
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr "Ersetzt durch den 'richtigen' Autorennamen der Seite / des Beitrags"
+
+#: view/admin/help.php:13
+msgid "Replaced with the post/page author's userid"
+msgstr "Ersetzt durch den Benutzernamen des Autors der Seite / des Beitrags"
+
+#: view/admin/help.php:7
+msgid "Replaced with the post/page excerpt"
+msgstr "Ersetzt durch die Kurzfassung der Seite / des Beitrags"
+
+#: view/admin/help.php:10
+msgid "Replaced with the post/page modified time"
+msgstr "Ersetzt durch das Änderungsdatum der Seite / des Beitrags"
+
+#: view/admin/help.php:6
+msgid "Replaced with the title of the post/page"
+msgstr "Ersetzt durch den Titel der Seite / des Beitrags"
+
+#: modules/import/seo-title-tags.php:28
+msgid "SEO Title Tags"
+msgstr "SEO Titel Tags"
+
+#: plugin.php:600
+#: view/admin/edit_ajax.php:4
+#: view/admin/module_edit.php:7
+#: view/admin/site_module_edit.php:15
+msgid "Save"
+msgstr "Speichern"
+
+#: view/admin/mass_edit.php:37
+msgid "Save all data"
+msgstr "Alle Daten Speichern"
+
+#: view/admin/modules.php:37
+msgid "Save module order"
+msgstr "Modul-Anordnung speichern"
+
+#: view/admin/pager.php:11
+msgid "Search"
+msgstr "Suchen"
+
+#: headspace.php:104
+msgid "Search Pages"
+msgstr "Suchseiten"
+
+#: modules/site/page_counts.php:126
+msgid "Searches"
+msgstr "Suchen"
+
+#: modules/site/statcounter.php:148
+msgid "Security ID"
+msgstr "Sicherheits ID"
+
+#: modules/page/page_title.php:105
+msgid "Separator position"
+msgstr "Position des Trenners"
+
+#: view/admin/settings.php:15
+msgid "Settings can be applied to specific posts &amp; pages from the <strong>post edit page</strong>, and to specific categories from the <strong>edit category</strong> page."
+msgstr "Die Einstellungen können für einzelne Beiträge &amp; Seiten auf der jeweiligen <strong>Bearbeitungsseite</strong> und für einzelne Kategorien über <strong>Kategorie bearbeiten</strong> geändert werden."
+
+#: modules/page/plugin.php:103
+msgid "Show in admin"
+msgstr "In Verwaltung anzeigen"
+
+#: modules/page/tags.php:206
+msgid "Show tags in pages"
+msgstr "Tags in Seiten anzeigen"
+
+#: modules/page/tags.php:197
+msgid "Show tags in posts"
+msgstr "Tags in Beiträgen anzeigen"
+
+#: modules/page/plugin.php:106
+msgid "Shows page-specific plugins in the administration menus"
+msgstr "Zeige seitenspezifische Plugins in der Verwaltung"
+
+#: view/admin/modules.php:7
+msgid "Simple"
+msgstr "Einfach"
+
+#: modules/import/simple-tagging.php:28
+msgid "Simple Tagging"
+msgstr "Simple Tagging"
+
+#: modules/import/simple-tags.php:28
+msgid "Simple Tags"
+msgstr "Simple Tags"
+
+# the word for 'page' and 'site' is the same in German.
+#: view/admin/modules.php:42
+msgid "Site Modules"
+msgstr "Site-Module"
+
+#: modules/mass/site_description.php:28
+#: modules/mass/site_description.php:50
+#: modules/page/site_tagline.php:56
+#: modules/page/site_tagline.php:75
+msgid "Site description"
+msgstr "Site-Beschreibung"
+
+#: view/admin/modules.php:43
+msgid "Site modules apply to your site as a whole.  Only checked modules will run (when properly configured)."
+msgstr "Site-Module werden auf die gesamte Seite angewendet. Nur markierte Module werden ausgeführt (bei richtiger Konfiguration)."
+
+#: modules/mass/site_name.php:28
+#: modules/mass/site_name.php:50
+#: modules/page/site_name.php:56
+#: modules/page/site_name.php:75
+msgid "Site name"
+msgstr "Site-Name"
+
+#: view/admin/help.php:2
+msgid "Special Tags"
+msgstr "Spezielle Tags"
+
+#: modules/site/statcounter.php:35
+msgid "StatCounter"
+msgstr "StatCounter"
+
+#: modules/page/stylesheet.php:50
+#: modules/page/stylesheet.php:66
+msgid "Stylesheets"
+msgstr "Stylesheets"
+
+#: modules/page/tags.php:342
+msgid "Suggest tags based on content"
+msgstr "Empfehle Tags basierend auf dem Inhalt"
+
+#: modules/page/tags.php:316
+msgid "Suggested tags"
+msgstr "Empfohlene Tags"
+
+#: modules/site/rpc.php:74
+msgid "Tag separator"
+msgstr "Tag-Trenner"
+
+#: modules/page/tags.php:157
+msgid "Tags (keywords)"
+msgstr "Tags (Schlagwörter)"
+
+#: modules/mass/tags.php:28
+#: modules/mass/tags.php:50
+#: modules/page/tags.php:272
+msgid "Tags/keywords"
+msgstr "Tags/Schlagwörter"
+
+#: modules/page/theme.php:77
+msgid "Theme"
+msgstr "Theme"
+
+#: modules/site/rpc.php:77
+msgid "This must match the separator defined in Ecto 'Templates', 'Tags', 'Tag separator'"
+msgstr "Dies muss zum Trenner passen, der in Ecto 'Templates', 'Tags' und 'Tag seperator' definiert ist."
+
+#: view/admin/options.php:34
+msgid "This option will remove HeadSpace and delete all settings, tags, and meta-data."
+msgstr "Diese Option wird HeadSpace entfernen und alle Einstellungen, Tags und Meta-Daten löschen"
+
+#: view/admin/import.php:3
+msgid "This page will allow you to import meta-data from other WordPress plugins.  The other plugins do not need to be active for the import to work."
+msgstr "Diese Seite erlaubt es, Meta-Daten von anderen WordPress Plugins zu importieren. Die anderen Plugins müssen dazu nicht aktiviert sein."
+
+#: modules/page/page_title.php:98
+msgid "Title separator"
+msgstr "Titel-Trenner"
+
+#: modules/site/analytics.php:181
+msgid "Track outbound links"
+msgstr "Ausgehende Links verfolgen"
+
+#: modules/site/analytics.php:160
+msgid "Tracking code"
+msgstr "Tracking code"
+
+#: modules/import/utw.php:28
+msgid "Ultimate Tag Warrior"
+msgstr "Ultimate Tag Warrior"
+
+#: view/admin/options.php:26
+msgid "Update Options &raquo;"
+msgstr "Optionen aktualisieren &raquo;"
+
+#: modules/site/wp_formatting.php:93
+msgid "Use <code>wpautop</code> to format paragraphs"
+msgstr "Nutze <code>wpautop</code> um Absätze zu formatieren"
+
+#: modules/site/wp_formatting.php:100
+msgid "Use <code>wptexturize</code> to turn quotes into fancy quotes"
+msgstr "Nutze <code>wptexturize</code> um Anführungszeichen zu ersetzen."
+
+#: modules/site/analytics.php:177
+#: modules/site/crazyegg.php:139
+#: modules/site/mint.php:138
+#: modules/site/statcounter.php:165
+msgid "Users of the specified role or less will be tracked"
+msgstr "Benutzer mit der spezifizierten Rolle oder geringer werden verfolgt"
+
+#: modules/site/analytics.php:167
+#: modules/site/crazyegg.php:129
+#: modules/site/mint.php:128
+#: modules/site/statcounter.php:155
+msgid "Who to track"
+msgstr "Wen verfolgen"
+
+#: modules/site/wp_formatting.php:32
+msgid "WordPress content formatting"
+msgstr "WordPress Inhalts-Formatierung"
+
+#: modules/site/google-ad-wrap.php:33
+msgid "Wraps all post and page content inside a Google targeted section"
+msgstr "Umschließt den gesamten Inhalt einer Seite oder eines Beitrags in einer Google Zielsektion"
+
+#: modules/page/tags.php:321
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: modules/page/tags.php:215
+msgid "Yahoo ZoneTag"
+msgstr "Yahoo ZoneTag"
+
+#: headspace.php:362
+msgid "Your module positions have been saved"
+msgstr "Die Modul-Anordnung wurde gespeichert"
+
+#: headspace.php:335
+msgid "Your options have been updated"
+msgstr "Die Optionen wurden aktualisiert"
+
+#: modules/page/javascript.php:72
+#: modules/page/stylesheet.php:72
+msgid "add"
+msgstr "hinzufügen"
+
+#: modules/page/tags.php:318
+msgid "add all"
+msgstr "alle hinzufügen"
+
+#: view/admin/edit.php:17
+msgid "advanced"
+msgstr "Erweitert"
+
+#: headspace.php:103
+msgid "applied to author pages"
+msgstr "angewendet auf Autorenseiten"
+
+#: headspace.php:101
+msgid "applied to category pages without specific settings"
+msgstr "angewendet auf Kategorieseiten ohne spezifische Einstellungen"
+
+#: headspace.php:98
+msgid "applied to everything unless otherwise specified"
+msgstr "angewendet auf alles, sofern nicht anderweitig vorgegeben"
+
+#: headspace.php:102
+msgid "applied to posts &amp; pages without specific settings"
+msgstr "angewendet auf Beiträge &amp; Seiten ohne spezifische Einstellungen"
+
+#: headspace.php:99
+msgid "applied to the home page"
+msgstr "angewendet auf die Startseite"
+
+#: headspace.php:105
+msgid "applied when viewing a 404 error"
+msgstr "angewendet, wenn ein 404 Fehler angezeigt wird"
+
+#: headspace.php:104
+msgid "applied when viewing search results"
+msgstr "angewendet, wenn ein Suchresultat angezeigt wird"
+
+#: headspace.php:100
+msgid "applied when viewing the archives"
+msgstr "angewendet, wenn ein Archiv angezeigt wird"
+
+#: modules/site/page_counts.php:119
+#: modules/site/page_counts.php:131
+msgid "content"
+msgstr "den gesamten Inhalt"
+
+#: modules/site/page_counts.php:118
+#: modules/site/page_counts.php:130
+msgid "default"
+msgstr "nach Vorgabe"
+
+#: modules/site/page_counts.php:120
+#: modules/site/page_counts.php:132
+msgid "excerpt"
+msgstr "die Kurzfassung"
+
+#: view/admin/pager.php:21
+msgid "go"
+msgstr "los"
+
+#: modules/import/lud.icro.us.php:28
+msgid "lud.icro.us HeadMeta"
+msgstr "lud.icro.us HeadMeta"
+
+#: modules/page/noindex.php:73
+msgid "no-follow"
+msgstr "no-follow"
+
+#: modules/site/page_counts.php:116
+#: modules/site/page_counts.php:128
+msgid "posts, showing the"
+msgstr "Beiträge, zeige"
+
+#: modules/site/page_counts.php:134
+msgid "set number of posts to 0 for theme default"
+msgstr "Anzahl der Beiträge auf 0 setzen, um Vorgabe des Themes zu verwenden"
+
+#: modules/page/tags.php:319
+msgid "suggest"
+msgstr "vorschlagen"
+

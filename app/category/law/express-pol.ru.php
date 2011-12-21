@@ -1,0 +1,1 @@
+<?php $catalogLink = '<a target=_blank href="http://www.express-pol.ru/"><img src="http://www.express-pol.ru/baner.gif" width="88" height="31" border="0" alt="ÝÊÑÏÐÅÑÑ ÏÎË - ÏÎËÛ ÏÎÄ ÊËÞ×"></a>'; include '../view.php';
