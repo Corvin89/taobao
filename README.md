@@ -88,6 +88,7 @@ cd /etc/apache2/sites-enabled/
 Открыть файл `000-default` любым редактором с правами `root`;
 
 Внести изменения:
+
 ```
 <Directory />
 	Options FollowSymLinks
