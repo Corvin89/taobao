@@ -421,11 +421,13 @@ if (is_admin())
 	  
    function luc_Domain($ip)
       {
+        if($ip) {
           $host = gethostbyaddr($ip);
           if (preg_match('#^([0-9]{1,3}\.){3}[0-9]{1,3}$#', $host))
               return "";
           else
               return my_substr(strrchr($host, "."), 1);
+        } else return '';
       }
       
     function luc_GetQueryPairs($url)
