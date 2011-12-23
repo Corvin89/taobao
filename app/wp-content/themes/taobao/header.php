@@ -13,6 +13,30 @@
   VK.init({apiId: 2274527, onlyWidgets: true});
 </script>
 <?php wp_head(); ?>
+<!--    --><?php //echo $today = date("H:i:s"); ?>
+    <script type="text/javascript">
+        function Time () {
+        var t = new Date();
+        document.write (t.toTimeString());
+        }
+    function startTime()
+        {
+            var tm=new Date();
+            var h=tm.setUTCHours(15,0,0)
+            h=checkTime(s);
+            document.getElementById('txt').innerHTML=h+":"+m+":"+s;
+            t=setTimeout('startTime()',500);
+        }
+        function checkTime(i)
+        {
+            if (i<10)
+            {
+                i="0" + i;
+            }
+            return i;
+        }
+    </script>
+
 <script type="text/javascript" src="/wp-content/themes/taobao/js/jquery.js"></script>
 <script> 
   $(document).ready(function(){
@@ -40,9 +64,9 @@ var ZINGAYA_PARAMS = {id:"8f1f898b96da893919493f889553ecd3", label:"Беспла
 
 </script>
 </head>
-<body>
+<body onload="startTime()">
 
-
+<p id="txt"> </p>
 <?/*
 <div class='Panel_helper'>
 	<div class='content_helper'>
@@ -61,20 +85,22 @@ var ZINGAYA_PARAMS = {id:"8f1f898b96da893919493f889553ecd3", label:"Беспла
 
 
 <div id="menu">
-<div>
- <ul>
-  <li><a href="http://taobao.ru.com">Главная</a></li>
-  <li><a href="http://taobao.ru.com/preimushhestva/">Преимущества</a></li>
-  <li><a href="http://taobao.ru.com/kak-zakazat/">Как заказать</a></li>
-  <li><a href="http://taobao.ru.com/dostavka-i-oplata/" class="active">Оплата и доставка</a></li>
-  <li><a href="http://taobao.ru.com/optovikam/">Оптовикам</a></li>
-  <li><a href="http://taobao.ru.com/otzyvy/">Отзывы</a></li>
-  <li><a href="http://translate.google.ru/translate?js=y&prev=_t&hl=ru&ie=UTF-8&layout=1&eotf=1&u=http%3A%2F%2Flist.taobao.com%2Fbrowse%2Fcat-0.htm&sl=zh-CN&tl=ru" target="_blank">Каталог</a></li>
-  <li><a href="http://taobao.ru.com/v-razrabotke/">Магазины</a></li>
-  <li><a href="http://taobao.ru.com/category/blog/">Блог</a></li>
-  </ul>
+    <?php wp_nav_menu($args = array(
+    'menu' => 'Top',
+    'container' => 'div',
+    'container_class' => '',
+ 
+    'menu_class' => 'menu',
+    'menu_id' => 'ccc',
+    'echo' => true,
+    'fallback_cb' => 'wp_page_menu',
+
+    'depth' => 0,
+)
+);?>
+
 </div>
-</div>
+
 <div id="background"></div>
 <div id="top">
 <? //счетчик посетителей
