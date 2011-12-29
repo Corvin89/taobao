@@ -29,6 +29,7 @@ function client_Minutes_minus_server_Minutes(client_Minutes) {
 function difference(server, client) {
     return client - server;
 }
+
 function new_time(Hours, Minutes) {
     var client = new Date();
     var client_Hours = client.getHours();
