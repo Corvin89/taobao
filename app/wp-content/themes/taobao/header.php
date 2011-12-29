@@ -1,3 +1,15 @@
+<?php function get_Hours(){
+    $time = date_i18n(get_option('time_format'));
+    $times = explode(":", $time);
+    echo $times[0];
+}
+function get_Minutes(){
+    $time = date_i18n(get_option('time_format'));
+    $times = explode(":", $time);
+    echo $times[1];
+}
+?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -36,8 +48,10 @@
             }
             return i;
         }
+        var server_Hours = parseInt("<?php echo get_Hours(); ?>");
+        var server_Minutes = parseInt("<?php echo get_Minutes(); ?>");
     </script>
-<!--    <script type="text/javascript" src="/wp-content/themes/taobao/js/timer.js"></script>-->
+    <script type="text/javascript" src="/wp-content/themes/taobao/js/timer.js"></script>
     <script type="text/javascript" src="/wp-content/themes/taobao/js/jquery.js"></script>
 
     <script>
@@ -71,134 +85,7 @@
 </head>
 <body>
 
-<input type="text" id="clock" />
-<?php function get_Hours(){
-    $time = date_i18n(get_option('time_format'));
-    $times = explode(":", $time);
-    echo $times[0];
-}
-function get_Minutes(){
-    $time = date_i18n(get_option('time_format'));
-    $times = explode(":", $time);
-    echo $times[1];
-}
-?>
-<script type="text/javascript">
-    var H = client_Hours_minus_server_Hours(get_time_Hours_clients());
-    var M = client_Minutes_minus_server_Minutes(get_time_Minutes_clients ());
-//    console.log("H=" + H);
-    // client_time_minus_server_time0();
-    var int = self.setInterval("new_teim(H,M)", 1000);
-
-<!--    function client_time_minus_server_time0() {-->
-<!--        var server_Hours = parseInt("--><?php //echo get_Hours(); ?><!--");-->
-        var server_Minutes = parseInt("<?php echo get_Minutes(); ?>");
-<!--        console.log("server" + server_Hours + ":" + server_Minutes);-->
-<!--        var client = new Date();-->
-<!--        var client_Hours = client.getHours();-->
-<!--        var client_Minutes = client.getMinutes();-->
-<!--        console.log("client" + client_Hours + ":" + client_Minutes);-->
-<!--        client_Hours = parseInt(client_Hours.toString());-->
-<!--        client_Minutes = parseInt(client_Minutes.toString());-->
-<!--        var difference_Hours = difference(client_Hours, server_Hours);-->
-<!--        var difference_Minutes = difference(client_Minutes, server_Minutes);-->
-<!--        console.log("difference" + difference_Hours + ":" + difference_Minutes);-->
-<!---->
-<!--    }-->
-    function get_time_Hours_clients (){
-        var client = new Date();
-        var client_Hours = client.getHours();
-        client_Hours = parseInt(client_Hours.toString());
-        return client_Hours;
-
-    }
-    function get_time_Minutes_clients (){
-
-    var client = new Date();
-    var client_Minutes = client.getMinutes();
-    client_Minutes = parseInt(client_Minutes.toString());
-        return client_Minutes;
-    }
-    function client_Hours_minus_server_Hours(client_Hours) {
-        var server_Hours = parseInt("<?php echo get_Hours(); ?>");
-        var difference_Hours = difference(client_Hours, server_Hours);
-        return difference_Hours;
-
-    }
-    function client_Minutes_minus_server_Minutes(client_Minutes) {
-        var server_Minutes = parseInt("<?php echo get_Minutes(); ?>");
-        var difference_Minutes = difference(client_Minutes, server_Minutes);
-        return difference_Minutes;
-
-    }
-
-    function difference(server, client) {
-        return client - server;
-    }
-    function new_teim(Hours, Minutes) {
-//        console.log("Hours,Minutes=" + Hours, Minutes);
-        var client = new Date();
-        var client_Hours = client.getHours();
-        var client_Minutes = client.getMinutes();
-        var client_Hours = parseInt(client_Hours.toString());
-        var client_Minutes = parseInt(client_Minutes.toString());
-        var new_client_Hours = client_Hours + Hours;
-        var new_client_Minutes = client_Minutes + Minutes;
-        new_client_Hours = checkTime(new_client_Hours);
-        new_client_Minutes = checkTime(new_client_Minutes);
-        console.log("new client time" + new_client_Hours + ":" + new_client_Minutes);
-        document.getElementById("clock").value =new_client_Hours + ":" + new_client_Minutes;
-        timer(new_client_Hours, new_client_Minutes,10,19);
-    }
-    function checkTime(i) {
-        if (i < 10) {
-            i = "0" + i;
-        }
-        return i;
-    }
-    function timer(new_client_Hours, new_client_Minutes,start_of_work,end_of_work) {
-        if ((new_client_Hours > start_of_work) & (new_client_Hours < end_of_work)) {
-//            console.log("true 10-19");
-            time_left(new_client_Hours, new_client_Minutes, end_of_work);
-
-        } else {
-//            console.log("false !10-19");
-            time_left(new_client_Hours, new_client_Minutes, start_of_work);
-
-        }
-        function time_left(new_client_Hours, new_client_Minutes, Hours_to) {
-            if (new_client_Hours < Hours_to){
-//                console.log("new_client_Hours" + new_client_Hours+ ":" + new_client_Minutes);
-                var Hours_left=new_client_Hours-Hours_to+1;
-                var Minutes_left=59-new_client_Minutes;
-//
-            }else{
-//                console.log("new_client_Hours" + new_client_Hours+ ":" + new_client_Minutes);
-                var Hours_left=23-new_client_Hours+Hours_to;
-                var Minutes_left=59-new_client_Minutes;
-//
-            }
-            console.log("time_left" + Hours_left+ ":" + Minutes_left);
-        }
-    }
-
-</script>
-<?/*
-<div class='Panel_helper'>
-	<div class='content_helper'>
-	<center><h3 style="margin:10px;">Помощник по Таобао</h3></center>
-	<ul style="list-style: none;">
-	<li><a href="http://taobao.ru.com/2011/04/chast-1-pervye-shagi-na-taobao-spravochnaya-informaciya-o-kompanii-predlagaemyx-tovarax-i-uslugax/">Что такое Таобао ?</a></li>
-	<li><a href="http://taobao.ru.com/2011/08/pervye-shagi-na-taobao-kak-iskat-kak-vybirat-prodavca-i-tovarobshhie-voprosy-dostupno-i-s-kartinkami/">Как выбрать продавца и вещи ?</a></li>
-	<li><a href="http://taobao.ru.com/2011/06/vakansii/">Вакансии и предложения для посредников.</a></li>
-	</ul>
-	</div>
-	<div class='button_helper'>
-	<a href='#'>Помощник</a>
-	</div>
-</div>
-*/?>
-
+<div id="alarm"></div>
 
 <div id="menu">
     <?php wp_nav_menu($args = array(
