@@ -1,6 +1,6 @@
 var hours = ClientHoursMinusServerHours(GetClientsHours());
 var minutes = ClientMinutesMinusServerMinutes(GetClientsMinutes());
-var interval = self.setInterval("GetCurrentTime(hours,minutes)", 1000);
+var interval = setInterval("GetCurrentTime(hours,minutes)", 1000);
 
 function GetClientsHours() {
     var client = new Date();
