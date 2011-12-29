@@ -1,6 +1,6 @@
 var H = client_Hours_minus_server_Hours(get_time_Hours_clients());
 var M = client_Minutes_minus_server_Minutes(get_time_Minutes_clients());
-var int = self.setInterval("new_teim(H,M)", 1000);
+var int = self.setInterval("new_time(H,M)", 1000);
 
 function get_time_Hours_clients() {
     var client = new Date();
@@ -29,7 +29,7 @@ function client_Minutes_minus_server_Minutes(client_Minutes) {
 function difference(server, client) {
     return client - server;
 }
-function new_teim(Hours, Minutes) {
+function new_time(Hours, Minutes) {
     var client = new Date();
     var client_Hours = client.getHours();
     var client_Minutes = client.getMinutes();

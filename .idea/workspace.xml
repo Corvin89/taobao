@@ -5,15 +5,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao/adminer.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/backup/database (1).sql" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/design/������� - ������  copy 3.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/taobao.iml" afterPath="$PROJECT_DIR$/.idea/taobao.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao/header.php" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js" />
     </list>
     <ignored path="taobao.iws" />
@@ -48,7 +39,7 @@
       <file leaf-file-name="timer.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="73" selection-start="2606" selection-end="2606" vertical-scroll-proportion="0.7810304">
+            <state line="6" column="41" selection-start="298" selection-end="298" vertical-scroll-proportion="0.11943794">
               <folding />
             </state>
           </provider>
@@ -69,8 +60,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js" />
         <option value="$PROJECT_DIR$/app/wp-content/themes/taobao/header.php" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js" />
       </list>
     </option>
   </component>
@@ -339,7 +330,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="73" selection-start="2606" selection-end="2606" vertical-scroll-proportion="0.7810304">
+        <state line="6" column="41" selection-start="298" selection-end="298" vertical-scroll-proportion="0.11943794">
           <folding />
         </state>
       </provider>
