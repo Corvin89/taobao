@@ -63,7 +63,6 @@ function Timer(newClientHours, newClientMinutes, startOfWork, endOfWork) {
             minutesLeft=checkTime(minutesLeft);
             hoursLeft=checkTime(hoursLeft);
             var hours = hoursLeft + ":" + minutesLeft;
-
             $("#alarm").html('До начала рабочего дня осталось: ' + hours);
             $("#alarm").addClass('work');
         } else {
