@@ -59,12 +59,17 @@ function timer(new_client_Hours, new_client_Minutes, start_of_work, end_of_work)
         if (new_client_Hours < Hours_to) {
             var Hours_left = new_client_Hours - Hours_to + 1;
             var Minutes_left = 59 - new_client_Minutes;
+            Minutes_left=checkTime(Minutes_left);
+            Hours_left=checkTime(Hours_left);
             var hours = Hours_left + ":" + Minutes_left;
+
             $("#alarm").html('До начала рабочего дня осталось: ' + hours);
             $("#alarm").addClass('work');
         } else {
             var Hours_left = 23 - new_client_Hours + Hours_to;
             var Minutes_left = 59 - new_client_Minutes;
+            Minutes_left=checkTime(Minutes_left);
+            Hours_left=checkTime(Hours_left);
             var hours = Hours_left + ":" + Minutes_left;
             $("#alarm").html('До начала робочего дня осталоь: ' + hours);
             $("#alarm").addClass('suspend');
