@@ -1,79 +1,45 @@
-var hours = ClientHoursMinusServerHours(GetClientsHours());
-var minutes = ClientMinutesMinusServerMinutes(GetClientsMinutes());
-var interval = setInterval("GetCurrentTime(hours,minutes)", 1000);
+var interval = setInterval("GetCurrentTime()", 1000);
 
-function GetClientsHours() {
+function GetCurrentTime() {
     var client = new Date();
-    var clientHours = client.getHours();
-    clientHours = parseInt(clientHours.toString());
-    return clientHours;
+    var clientHours = parseInt((client.getHours()).toString());
+    var clientMinutes = parseInt((client.getMinutes()).toString());
+    var differenceHours = serverHours - clientHours;
+    var differenceMinutes = serverMinutes - clientMinutes;
+    var newClientHours = clientHours + differenceHours;
+    var newClientMinutes = clientMinutes + differenceMinutes;
+    timer(newClientHours, newClientMinutes, 10, 19);
 }
 
-function GetClientsMinutes() {
-    var client = new Date();
-    var clientMinutes = client.getMinutes();
-    clientMinutes = parseInt(clientMinutes.toString());
-    return clientMinutes;
-}
-
-function ClientHoursMinusServerHours(clientHours) {
-    var differenceHours = GetDifference(clientHours, serverHours);
-    return differenceHours;
-}
-
-function ClientMinutesMinusServerMinutes(clientMinutes) {
-    var differenceMinutes = GetDifference(clientMinutes, serverMinutes);
-    return differenceMinutes;
-}
-
-function GetDifference(client,server) {
-    return   server - client;
-}
-
-function GetCurrentTime(Hours, Minutes) {
-    var client = new Date();
-    var clientHours = client.getHours();
-    var clientMinutes = client.getMinutes();
-    var clientHours = parseInt(clientHours.toString());
-    var clientMinutes = parseInt(clientMinutes.toString());
-    var newClientHours = clientHours + Hours;
-    var newClientMinutes = clientMinutes + Minutes;
-    newClientHours = CheckTime(newClientHours);
-    newClientMinutes = CheckTime(newClientMinutes);
-    Timer(newClientHours, newClientMinutes, 10, 19);
-}
-
-function CheckTime(i) {
+function addZero(i) {
     if (i < 10) {
         i = "0" + i;
     }
     return i;
 }
 
-function Timer(newClientHours, newClientMinutes, startOfWork, endOfWork) {
-    if ((newClientHours > startOfWork) & (newClientHours < endOfWork)) {
-        TimeLeft(newClientHours, newClientMinutes, endOfWork);
+function timer(newClientHours, newClientMinutes, startOfWork, endOfWork) {
+    if ((newClientHours > startOfWork) && (newClientHours < endOfWork)) {
+        timeLeft(newClientHours, newClientMinutes, endOfWork);
     } else {
-        TimeLeft(newClientHours, newClientMinutes, startOfWork);
+        timeLeft(newClientHours, newClientMinutes, startOfWork);
     }
-    function TimeLeft(newClientHours, newClientMinutes, HoursTo) {
+    function timeLeft(newClientHours, newClientMinutes, HoursTo) {
         if (newClientHours < HoursTo) {
             var hoursLeft =  HoursTo - newClientHours -1;
             var minutesLeft = 59 - newClientMinutes;
-            minutesLeft=CheckTime(minutesLeft);
-            hoursLeft=CheckTime(hoursLeft);
-            var hours = hoursLeft + ":" + minutesLeft;
-            $("#alarm").html('До начала рабочего дня осталось: ' + hours);
-            $("#alarm").addClass('work');
+            var str ='До начала рабочего дня осталось: ';
+            var clas ='work';
         } else {
             var hoursLeft = 23 - newClientHours + HoursTo;
             var minutesLeft = 59 - newClientMinutes;
-            minutesLeft=checkTime(minutesLeft);
-            hoursLeft=checkTime(hoursLeft);
-            console.log("sss"+hoursLeft);
-            var hours = hoursLeft + ":" + minutesLeft;
-            $("#alarm").html('До начала рабочего дня осталоь: ' + hours);
-            $("#alarm").addClass('suspend');
+            var str ='До конца рабочего дня осталоь: ' ;
+            var clas ='suspend';
         }
+        minutesLeft = addZero(minutesLeft);
+        hoursLeft = addZero(hoursLeft);
+        var hours = hoursLeft + ":" + minutesLeft;
+        $("#alarm").html(str + hours);
+        $("#alarm").addClass('suspend');
     }
 }
