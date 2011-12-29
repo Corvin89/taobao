@@ -1,15 +1,15 @@
-var hours = ClientHoursMinusServerHours(GetTimeHoursClients());
-var minutes = ClientMinutesMinusServerMinutes(GetTimeMinutesClients());
-var int = self.setInterval("NewTime(hours,minutes)", 1000);
+var hours = ClientHoursMinusServerHours(GetClientsHours());
+var minutes = ClientMinutesMinusServerMinutes(GetClientsMinutes());
+var interval = self.setInterval("GetCurrentTime(hours,minutes)", 1000);
 
-function GetTimeHoursClients() {
+function GetClientsHours() {
     var client = new Date();
     var clientHours = client.getHours();
     clientHours = parseInt(clientHours.toString());
     return clientHours;
 }
 
-function GetTimeMinutesClients() {
+function GetClientsMinutes() {
     var client = new Date();
     var clientMinutes = client.getMinutes();
     clientMinutes = parseInt(clientMinutes.toString());
@@ -22,15 +22,15 @@ function ClientHoursMinusServerHours(clientHours) {
 }
 
 function ClientMinutesMinusServerMinutes(clientMinutes) {
-    var differenceMinutes = Difference(clientMinutes, serverMinutes);
+    var differenceMinutes = GetDifference(clientMinutes, serverMinutes);
     return differenceMinutes;
 }
 
-function Difference(client,server) {
+function GetDifference(client,server) {
     return   server - client;
 }
 
-function NewTime(Hours, Minutes) {
+function GetCurrentTime(Hours, Minutes) {
     var client = new Date();
     var clientHours = client.getHours();
     var clientMinutes = client.getMinutes();
