@@ -48,8 +48,8 @@ function get_Minutes(){
             }
             return i;
         }
-        var server_Hours = parseInt("<?php echo get_Hours(); ?>");
-        var server_Minutes = parseInt("<?php echo get_Minutes(); ?>");
+        var serverHours = parseInt("<?php echo get_Hours(); ?>");
+        var serverMinutes = parseInt("<?php echo get_Minutes(); ?>");
     </script>
     <script type="text/javascript" src="/wp-content/themes/taobao/js/timer.js"></script>
     <script type="text/javascript" src="/wp-content/themes/taobao/js/jquery.js"></script>
