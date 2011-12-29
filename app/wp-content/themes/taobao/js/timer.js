@@ -1,6 +1,6 @@
-var interval = setInterval("GetCurrentTime()", 1000);
+var interval = setInterval("getCurrentTime()", 1000);
 
-function GetCurrentTime() {
+function getCurrentTime() {
     var client = new Date();
     var clientHours = parseInt((client.getHours()).toString());
     var clientMinutes = parseInt((client.getMinutes()).toString());

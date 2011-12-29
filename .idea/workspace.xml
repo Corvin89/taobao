@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e10738b-42d2-426b-8afc-7aab7852c1a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitgnore" afterPath="$PROJECT_DIR$/.gitgnore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js" />
     </list>
     <ignored path="taobao.iws" />
@@ -25,19 +24,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="13" selection-start="2917" selection-end="2917" vertical-scroll-proportion="-0.775766">
+            <state line="64" column="13" selection-start="2917" selection-end="2917" vertical-scroll-proportion="-9.961538">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timer.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="timer.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="-0.12285337">
               <folding />
             </state>
           </provider>
@@ -68,8 +67,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app/wp-content/themes/taobao/header.php" />
-        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js" />
         <option value="$PROJECT_DIR$/.gitgnore" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js" />
       </list>
     </option>
   </component>
@@ -233,16 +232,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js">
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0">
+        <state line="64" column="13" selection-start="2917" selection-end="2917" vertical-scroll-proportion="-9.961538">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/header.php">
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/js/timer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="13" selection-start="2917" selection-end="2917" vertical-scroll-proportion="-0.775766">
+        <state line="1" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="-0.12285337">
           <folding />
         </state>
       </provider>
