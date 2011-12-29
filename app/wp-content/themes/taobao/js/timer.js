@@ -17,7 +17,7 @@ function GetClientsMinutes() {
 }
 
 function ClientHoursMinusServerHours(clientHours) {
-    var differenceHours = difference(clientHours, serverHours);
+    var differenceHours = GetDifference(clientHours, serverHours);
     return differenceHours;
 }
 
@@ -58,10 +58,10 @@ function Timer(newClientHours, newClientMinutes, startOfWork, endOfWork) {
     }
     function TimeLeft(newClientHours, newClientMinutes, HoursTo) {
         if (newClientHours < HoursTo) {
-            var hoursLeft = newClientHours - HoursTo + 1;
+            var hoursLeft =  HoursTo - newClientHours -1;
             var minutesLeft = 59 - newClientMinutes;
-            minutesLeft=checkTime(minutesLeft);
-            hoursLeft=checkTime(hoursLeft);
+            minutesLeft=CheckTime(minutesLeft);
+            hoursLeft=CheckTime(hoursLeft);
             var hours = hoursLeft + ":" + minutesLeft;
             $("#alarm").html('До начала рабочего дня осталось: ' + hours);
             $("#alarm").addClass('work');
@@ -70,6 +70,7 @@ function Timer(newClientHours, newClientMinutes, startOfWork, endOfWork) {
             var minutesLeft = 59 - newClientMinutes;
             minutesLeft=checkTime(minutesLeft);
             hoursLeft=checkTime(hoursLeft);
+            console.log("sss"+hoursLeft);
             var hours = hoursLeft + ":" + minutesLeft;
             $("#alarm").html('До начала рабочего дня осталоь: ' + hours);
             $("#alarm").addClass('suspend');

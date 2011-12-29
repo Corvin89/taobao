@@ -30,30 +30,11 @@ function get_Minutes(){
     </script>
     <?php wp_head(); ?>
     <script type="text/javascript">
-        function startTime() {
-            var tm = new Date();
-            var h = tm.getHours();
-            var m = tm.getMinutes();
-            var s = tm.getSeconds();
-            m = checkTime(m);
-            s = checkTime(s);
-//            document.getElementById('txt').innerHTML = h + ":" + m + ":" + s;
-            txt.innerText = h + ":" + m + ":" + s;
-//            $("#txt").text(h + ":" + m + ":" + s);
-            t = setTimeout('startTime()', 500);
-        }
-        function checkTime(i) {
-            if (i < 10) {
-                i = "0" + i;
-            }
-            return i;
-        }
         var serverHours = parseInt("<?php echo get_Hours(); ?>");
         var serverMinutes = parseInt("<?php echo get_Minutes(); ?>");
     </script>
     <script type="text/javascript" src="/wp-content/themes/taobao/js/timer.js"></script>
     <script type="text/javascript" src="/wp-content/themes/taobao/js/jquery.js"></script>
-
     <script>
         $(document).ready(function () {
             $('.button_helper a').click(function () {
