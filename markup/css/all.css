@@ -13,13 +13,25 @@ ul{
 	list-style:none;
 }
 
+nav{
+	display:block;
+}
+
 body ,html{
     height: 100%;
 }
 
+section{
+	display:block;
+}
+
+footer{
+	display:block;
+}
+
 p{
 	color: #2D2D2D;
-    font-size: 11px;
+    font-size: 12px;
     line-height: 18px;
     margin: 0 0 8px;
 }
@@ -98,9 +110,10 @@ div.width{
 	max-width:100%;
 }
 
-#header div.top{
+#header header.top{
 	width:950px;
 	margin:0 auto;	
+	display:block;
 }
 
 #header div.box{
@@ -135,16 +148,16 @@ div.width{
 	border-bottom:1px dashed #fff;
 }
 
-#header div.righ-box{
+#header header.righ-box{
 	color:#51474a;
 	float:right;
 }
 
-#header div.righ-box a.item1{
+#header header.righ-box a.item1{
 	color:#fff;
 }
 
-#header div.right-box a.item2{
+#header header.right-box a.item2{
 	color:#00bdef;
 	font-size:11px;
 }
@@ -216,13 +229,13 @@ div.width{
 	margin:0 5px 0 0;
 }
 
-#header ul.block-menu{
+#header nav.block-menu{
 	width:103%;
 	overflow:hidden;
 	margin:48px 0 0
 }
 
-#header ul.block-menu li{
+#header nav.block-menu li{
 	float:left;
 	width:220px;
 	height:34px;
@@ -230,57 +243,49 @@ div.width{
 	text-align:center;
 }
 
-#header ul.block-menu li a{
+#header nav.block-menu li a{
 	font-size:14px;
 	color:#231f20;
 	width:189px;
-	line-height:28px;
+	line-height:32px;
 	height:34px;
 	padding:0 0 0 31px;
 	display:block;
 }
 
-#header ul.block-menu li.item1{
+#header nav.block-menu li.item1{
 	background:url(../img/item1.png) no-repeat;	
 }
 
-#header ul.block-menu li.item1:hover{
+#header nav.block-menu li.item1:hover{
 	background:url(../img/item1.png) no-repeat 0 100%;	
 }
 
-#header ul.block-menu li.item2{
+#header nav.block-menu li.item2{
 	background:url(../img/item2.png) no-repeat;	
 }
 
-#header ul.block-menu li.item2:hover{
+#header nav.block-menu li.item2:hover{
 	background:url(../img/item2.png) no-repeat 0 100%;	
 }
 
-#header ul.block-menu li.item3{
+#header nav.block-menu li.item3{
 	background:url(../img/item3.png) no-repeat;	
 }
 
-#header ul.block-menu li.item3:hover{
+#header nav.block-menu li.item3:hover{
 	background:url(../img/item3.png) no-repeat 0 100%;	
 }
 
-#header ul.block-menu li.item4{
+#header nav.block-menu li.item4{
 	background:url(../img/item4.png) no-repeat;	
 }
 
-#header ul.block-menu li.activ{
-	background-position:0 100% !important;
-}
-
-#header ul.block-menu li:hover a{
+#header nav.block-menu li.item4 a{
 	color:#fff;
 }
 
-#header ul.block-menu li.activ a{
-	color:#fff;
-}
-
-#header ul.block-menu li.item4:hover{
+#header nav.block-menu li.item4:hover{
 	background:url(../img/item4.png) no-repeat 0 100%;	
 }
 
@@ -352,32 +357,46 @@ a.blog{
 	float:right;
 }
 
-div.menu{
+nav.menu{
 	width:100%;
 	overflow:hidden;
 	margin:25px 0 0;
 }
 
-div.menu ul{
-	background:url(../img/menu.png) no-repeat;
+nav.menu ul{
 	width:832px;
 	height:43px;
 	float:left;
 	overflow:hidden;
 }
 
-div.menu ul li{
+nav.menu div.bgmenu{
+	background:url(../img/menu.png) no-repeat;
+	width:827px;
+	height:43px;
+	float:left;
+	padding:0 0 0 5px;
+	overflow:hidden;
+}
+
+nav.menu ul li{
 	background:url(../img/line.png) no-repeat 0 15px;
 	float: left;
     margin: 0 0 0 -1px;
     padding: 0 17px;
+	height:41px;
 	line-height:37px;
 }
 
-div.menu ul li a{
+nav.menu ul li:hover{
+	background:url(../img/hover.gif) repeat-x;
+}
+
+nav.menu ul li a{
 	color:#fff;
 	font-size:12px;
 	font-weight:bold;
+	text-decoration:underline;
 }
 
 div.slaider-box{
@@ -426,26 +445,27 @@ div.slaider-box div.slaide p{
 	font-size:11px;
 }
 
-#conteiner{
+#container{
 	width:970px;
 	overflow:hidden;
-	margin:0 auto;
+	margin:20px auto;
 }
 
-#conteiner div.left{
+#container div.left{
 	width:700px;
 	overflow:hidden;
 	float:left;
 	margin:36px 0 0;
 }
 
-#conteiner div.slider{
+#container div.slider{
 	background:url(../img/slaider.png) no-repeat;
 	width:688px;	
 	padding:7px 0 0 9px;
+	display:inline-block;
 }
 
-#conteiner div.pager{
+#container div.pager{
 	width:100%;
 	overflow:hidden;
 	margin:16px 0 0;
@@ -454,11 +474,11 @@ div.slaider-box div.slaide p{
 	text-align:center;
 }
 
-#conteiner div.pager a.activeSlide {
+#container div.pager a.activeSlide {
     background: url("../img/activ.png") no-repeat scroll 0 0 transparent;
 }
 
-#conteiner div.pager a {
+#container div.pager a {
     background: url("../img/pager.png") no-repeat scroll 0 0 transparent;
     display: inline-block;
     height: 12px;
@@ -468,13 +488,13 @@ div.slaider-box div.slaide p{
     width: 12px;
 }
 
-#conteiner div.slaider-video{
+#container div.slaider-video{
 	width:616px !important;
 	overflow:hidden;
 	margin:17px auto 0;
 }
 
-#conteiner div.slaider-video ul li{
+#container div.slaider-video ul li{
 	padding:4px;
 	background:#fff;
 	width:183px;
@@ -483,31 +503,31 @@ div.slaider-box div.slaide p{
 	margin:0 18px 0 2px;
 }
 
-#conteiner div.slaider-video div.foto{
+#container div.slaider-video div.foto{
 	width:183px;
 	overflow:hidden;
 	height:160px;
 	margin:0;
 }
 
-#conteiner div.slaider-video div.text-video{
+#container div.slaider-video div.text-video{
 	width:173px;
 	overflow:hidden;
 	padding:15px 0 0 10px;
 }
 
 
-#conteiner div.slaider-video div.text-video a{
+#container div.slaider-video div.text-video a{
 	color:#000;
 }
 
-#conteiner div.slaider-video div.foto img{
+#container div.slaider-video div.foto img{
 	width:183px;
 	overflow:hidden;
 	height:160px;
 }
 
-#conteiner div.videos span.prev{
+#container div.videos span.prev{
 	background:url(../img/1prev.png) no-repeat;
 	width:21px;
 	height:32px;
@@ -516,7 +536,7 @@ div.slaider-box div.slaide p{
 	cursor:pointer;
 }
 
-#conteiner div.videos span.next{
+#container div.videos span.next{
 	background:url(../img/1next.png) no-repeat;
 	cursor: pointer;
     float: right;
@@ -525,13 +545,13 @@ div.slaider-box div.slaide p{
     width: 21px;
 }
 
-#conteiner div.right{
+#container div.right{
 	float:right;
 	margin:28px 0 0;
 	width:240px;
 }
 
-#conteiner div.right span.calcul{
+#container div.right span.calcul{
 	background:url(../img/span.png) no-repeat;
 	width:94px;
 	height:42px;
@@ -544,7 +564,7 @@ div.slaider-box div.slaide p{
 }
 
 
-#conteiner div.right div.calcul{
+#container div.right div.calcul{
 	background:url(../img/cal.png) no-repeat;
 	width:150px;
 	padding:7px 0 0 80px;
@@ -552,55 +572,59 @@ div.slaider-box div.slaide p{
 	margin:0 0 15px;
 }
 
-#conteiner div.right div.calcul a{
+#container div.right div.calcul:hover{
+	background-position:0 100%;
+}
+
+#container div.right div.calcul a{
 	font-size:18px;
 	color:#000;
 }
 
-#conteiner div.right div.calcul p{
+#container div.right div.calcul p{
 	margin:0;
 }
 
-#conteiner div.top-s{
+#container div.top-s{
 	background:url(../img/top.png) no-repeat;
 	width:242px;
 	height:13px;
 	overflow:hidden;
 }
 
-#conteiner div.bottom-s{
+#container div.bottom-s{
 	background:url(../img/1bottom.png) no-repeat;
 	width:242px;
 	height:17px;
 	overflow:hidden;
 }
 
-#conteiner div.body-s{
+#container div.body-s{
 	background:url(../img/body.png) repeat-y;
 	width:198px;
 	overflow:hidden;
 	padding:0 24px;
 }
 
-#conteiner div.body-s div.item{
+#container div.body-s div.item{
 	overflow:hidden;
 	width:100%;
 	margin:14px 0 0;
 }
 
-#conteiner div.body-s label{
+#container div.body-s label{
 	color:#838383;
 	font-size:11px;
 	display:block;
 }
 
-#conteiner div.videos{
+#container div.videos{
 	width:100%;
 	overflow:hidden;
 	margin:21px 0 0;
 }
 
-#conteiner div.body-s input.text{
+#container div.body-s input.text{
 	background:url(../img/txt.gif) no-repeat;
 	width:183px;
 	height:18px;
@@ -610,7 +634,7 @@ div.slaider-box div.slaide p{
 	font-size:12px;
 }
 
-#conteiner div.body-s input.sub{
+#container div.body-s input.sub{
 	background:url(../img/sub.gif) no-repeat;
 	width:190px;
 	height:35px;
@@ -621,11 +645,11 @@ div.slaider-box div.slaide p{
 	font-size:14px;
 }
 
-#conteiner div.body-s a{
+#container div.body-s a{
 	float:right;
 }
 
-#conteiner div.boxen{
+#container div.boxen{
 	width:100%;
 	overflow:hidden;
 }
@@ -734,24 +758,24 @@ h2 a{
 	margin:0;
 }
 
-#main div.blog{
+div.blog{
 	float:right;
 	overflow:hidden;
 	width:233px;
 }
 
-#main div.blog p{
+div.blog p{
 	display:inline-block;
 	margin:0 0 3px;
 }
 
-#main div.blog ul{
+div.blog ul{
 	width:100%;
 	overflow:hidden;
 	margin:18px 0 0;
 }
 
-#main div.blog ul li{
+div.blog ul li{
 	width:100%;
 	display:inline-block;
 	margin:0 0 27px;
@@ -773,7 +797,7 @@ h2 a{
 	margin:15px 0 0;
 }
 
-#main div.blog ul li span.data{
+div.blog ul li span.data{
 	background:url(../img/date.png) no-repeat;
 	float:left;
 	width:101px;
@@ -786,7 +810,7 @@ h2 a{
 	margin:0 12px 0 0;
 }
 
-#main div.blog ul li span.com{
+div.blog ul li span.com{
 	background:url(../img/com.png) no-repeat;
 	float:left;
 	width:40px;
@@ -799,7 +823,7 @@ h2 a{
 	line-height:24px;
 }
 
-#main div.blog ul li a{
+div.blog ul li a{
 	color:#0078cb;
 }
 
@@ -881,3 +905,521 @@ div.last div.col-1{
     width: 970px;
 }
 
+#content{
+	width:696px;
+	overflow:hidden;
+	float:left;
+	margin:28px 0 0 7px;
+	margin:0 0 15px;
+}
+
+#content h2.title{
+	margin:3px 0 13px 37px;
+	float:left;
+}
+
+#content div.top{
+	background:url(../img/1top.png) no-repeat;
+	width:696px;
+	height:7px;
+	overflow:hidden;
+}
+
+#content div.body{
+	background:url(../img/body1.png) repeat-y;
+	width:676px;
+	overflow:hidden;
+	padding:0 10px;
+}
+
+#content div.steps{
+	background:url(../img/oval.gif) no-repeat;
+	width:675px;
+	height:445px;
+	position:relative;
+}
+
+#content div.steps p{
+	line-height:16px;
+	font-size:12px;
+}
+
+#content div.step-1{
+	background:url(../img/web.gif) no-repeat 0 2px;
+	left: 28px;
+    padding: 0 0 0 38px;
+    position: absolute;
+    top: 133px;
+    width: 180px;
+}
+
+#content div.step-2{
+	background:url(../img/form.gif) no-repeat 0 2px;
+	left: 28px;
+    padding: 0 0 0 38px;
+    position: absolute;
+    top: 260px;
+    width: 180px;
+}
+
+#content div.step-3{
+	background:url(../img/com.gif) no-repeat 0 2px;
+	left: 105px;
+    padding: 0 0 0 44px;
+    position: absolute;
+    top: 35px;
+    width: 410px;
+}
+
+#content div.step-4{
+	background:url(../img/money.gif) no-repeat 100% 2px;
+	padding: 0 41px 0 0;
+    position: absolute;
+    right: 17px;
+    top: 131px;
+    width: 165px;
+}
+
+#content div.step-5{
+	background:url(../img/car.gif) no-repeat 100% 2px;
+	padding: 0 34px 0 0;
+    position: absolute;
+    right: 17px;
+    top: 227px;
+    width:175px;
+}
+
+#content div.step-6{
+	background:url(../img/time.gif) no-repeat 0 2px;
+	left: 219px;
+    padding: 0 0 0 38px;
+    position: absolute;
+    top: 351px;
+    width: 170px;
+}
+
+#content div.step-7{
+	background:url(../img/smile.png) no-repeat 0 2px;
+	left: 235px;
+    padding: 0 0 0 38px;
+    position: absolute;
+    top: 181px;
+    width: 121px;
+}
+
+span.slogan{
+	background:#eff1e4;
+	display:block;
+	color:#000;
+	font-size:15px;
+	text-align:center;
+	padding:20px 0;
+	margin:3px 0 0;
+}
+
+#content div.form{
+	padding:0 25px;
+	margin:29px 0 0;
+	width:626px;
+	display:inline-block;
+}
+
+#content div.text-form{
+	overflow:hidden;
+	width:100%;
+	margin:0 0 16px;
+}
+
+#content div.text-form h2{
+	margin:0 0 13px;
+}
+
+#content div.item em{
+	font-size:12px;
+	color:#fe0000;
+	font-style:normal;
+}
+
+#content div.item{
+	width:100%;
+	display:inline-block;
+	margin:0 0 10px;
+}
+
+#content div.item label{
+	display:block;
+	font-size:12px;
+	margin:0 0 7px;
+}
+
+#content div.item input.text{
+	background:url(../img/text.png) no-repeat;
+	width:381px;
+	height:18px;
+	padding:5px 10px;
+	border:0;
+	font-size:12px;
+}
+
+#content div.item textarea{
+	background:url(../img/aria.png) no-repeat;
+	width:381px;
+	height:138px;
+	padding:5px 10px;
+	border:0;
+	outline:none;
+	font-size:12px;
+}
+
+.file{
+	filter: alpha(opacity=0);
+	-moz-opacity: 0;
+}
+
+.file {
+    cursor: pointer;
+    font-size: 200px;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.file_left {
+    background: url("../img/inpt-left.png") no-repeat scroll 0 center transparent;
+    display: inline-block;
+    height: 28px;
+    outline: medium none;
+    position: absolute;
+    top: 5px;
+	width:7px;
+    vertical-align: middle;
+}
+
+.file_right {
+    background: url("../img/inpt-right.png") no-repeat 100% 0;
+    display: inline-block;
+    height: 28px;
+    outline: medium none;
+    padding: 0 3px;
+}
+
+.file_val {
+    background: url("../img/inpt.png") repeat-x scroll 0 0 transparent;
+    display: inline-block;
+    font-size: 14px;
+    height: 28px;
+    line-height: 33px;
+    outline: medium none;
+    overflow: hidden;
+    padding: 0 6px;
+    width: 289px;
+}
+
+.file_but {
+    background: url("../img/file_but.png") no-repeat scroll 0 0 transparent;
+    color: #FFFFFF;
+    display: inline;
+    font-size: 18px;
+    height: 22px;
+    line-height: 33px;
+    outline: medium none;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    text-indent: -9999px;
+    top: 7px;
+    width: 75px;
+}
+
+.file_inp {
+    cursor: pointer;
+    display: inline-block;
+    height: 34px;
+    outline: medium none;
+    overflow: hidden;
+    position: relative;
+    vertical-align: middle;
+    width: 390px;
+}
+
+#content div.item input.sub{
+	background:url(../img/img.png) no-repeat;
+	width:140px;
+	height:35px;
+	border:0;
+	margin:0 234px 0 0;
+	float:right
+}
+
+#content div.bottom{
+	background:url(../img/2bottom.png) no-repeat;
+	width:696px;
+	height:38px;
+	overflow:hidden;
+}
+
+div.blog-gree{
+	background:#e6e3df;
+	width:200px;
+	overflow:hidden;
+	padding:15px;
+	behavior: url(css/PIE.htc);
+	-webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+	margin:20px auto 0;
+}
+
+div.blog-gree div.blog{
+	width:200px;
+}
+
+#content div.allbox{
+	background:url(../img/img.jpg) no-repeat 100% 0;
+	padding:25px;
+	width:626px;
+	display:inline-block;
+}
+
+#content div.contact-list{
+	width:100%;
+	overflow:hidden;
+	margin:0 0 20px;
+	padding:0 0 10px;
+	border-bottom:1px dotted #000;
+}
+
+#content div.contact-list h2{
+	margin:0 0 20px;
+}
+
+#content div.contact-list p{
+	margin:0 0 10px;
+	overflow:hidden;
+}
+
+#content div.contact-list p span{
+	float:left;
+	margin:0 10px 0 0;
+}
+
+#content div.contact-list p a{
+	color:#0074c6;
+}
+
+#content div.contact-list a.button{
+	background:url(../img/button.png) no-repeat 0 100% !important;
+	float:left;
+	width:150px;
+	height:35px;
+	text-align:center;
+	color:#fff;
+	font-size:14px;
+	line-height:29px;
+}
+
+#content div.contact-list div.ava{
+	width:150px;
+	height:150px;
+	overflow:hidden;
+}
+
+#content div.contact-list div.ava img{
+	width:150px;
+	height:150px;
+	overflow:hidden;
+}
+
+#content div.contact-list span.name{
+	display:block;
+	color:#000;
+	font-weight:bold;
+	font-size:12px;
+	margin:10px 0;
+}
+
+#content div.contact-list li p{
+	margin:0;
+}
+
+#content div.contact-list li p.qip{
+	background:url(../img/qip.gif) no-repeat 0 2px;
+	padding:0 0 0 25px;
+}
+
+#content div.contact-list li p.mail{
+	background:url(../img/mail.gif) no-repeat 0 5px;
+	padding:0 0 0 25px;
+}
+
+#content div.contact-list li p.skype{
+	background:url(../img/skype.gif) no-repeat 0 2px;
+	padding:0 0 5px 25px;
+}
+
+#content div.contact-list li{
+	float:left;
+	width:150px;
+	height:273px;
+	margin:0 57px 10px 0;
+}
+
+#content span.post{
+	float:right;
+	font-size:18px;
+	line-height:29px;
+}
+
+#content div.post{
+	width:100%;
+	overflow:hidden;
+	margin:0 0 15px;
+}
+
+#content div.post h2{
+	margin:0 0 10px;
+}
+
+#content div.article{
+	width:100%;
+	overflow:hidden;
+	padding:10px 0 6px;
+	border-top:1px dotted #000;
+	margin:15px 0 0;
+	border-bottom:1px dotted #000;
+}
+
+#content div.article span.label{
+	background:url(../img/tegs.gif) no-repeat 0 4px;
+	float:left;
+	color:#bcbbb9;
+	font-size:11px;
+	width:385px;
+	padding:0 0 5px 44px;
+}
+
+#content div.article span.data{
+	background:url(../img/date.png) no-repeat;
+	float:right;
+	width:101px;
+	height:27px;
+	color:#fff;
+	font-weight:bold;
+	font-size:12px;
+	text-align:center;
+	line-height:28px;
+	margin:0 12px 0 0;
+}
+
+#content div.article a.com{
+	background:url(../img/com.png) no-repeat;
+	float:right;
+	width:40px;
+	height:32px;
+	color:#fff;
+	font-weight:bold;
+	font-size:12px;
+	text-align:center;
+	margin:-3px 0 0;
+	text-decoration:none;
+	cursor:pointer;
+	line-height:24px;
+}
+
+#content div.article a.com:hover{
+	background:url(../img/com.png) no-repeat 0 100%;
+}
+
+#content div.pagenawi{
+	display:table;
+	margin:0 auto;
+	overflow:hidden;
+	text-align:center;
+	padding:15px 0 7px;
+	line-height:20px;
+}
+
+#content div.pagenawi a.prev{
+	background:url(../img/1prev.gif) no-repeat;
+	float:left;
+	width:18px;
+	height:17px;
+	text-decoration:none;
+}
+
+#content div.padding{
+	padding:25px 25px 0;
+}
+
+#content div.pagenawi a.next{
+	background:url(../img/1next.gif) no-repeat;
+	float:left;
+	height:15px;
+	width:17px;
+	text-decoration:none;
+	margin:0 0 0 7px;
+}
+
+#content div.pagenawi a{
+	float:left;
+	color:#777;
+	height:22px;
+	width:22px;
+	margin:0 7px 0 0;
+	text-decoration:none;
+}
+
+#content div.pagenawi span.activ{
+	background:url(../img/activ-ww.gif)  no-repeat;
+	float:left;
+	height:22px;
+	color:#fff;
+	width:22px;
+	text-decoration:none;
+}
+
+#content div.pagenawi span{
+	float:left;
+	height:22px;
+	width:22px;
+}
+
+#content div.work{
+	width:101%;
+	overflow:hidden;
+	margin:0 0 15px;
+}
+
+h2 a{
+	font-size:24px;
+	color:#000;
+	text-decoration:none;
+}
+
+h3{
+	font-size:18px;
+	font-weight:normal;
+	margin:0 0 15px;
+}
+
+#content div.work div.desk{
+	margin:0 0 15px;
+	width:100%;
+	overflow:hidden;
+}
+
+#content div.work div.icon{
+	float:left;
+	width:44px;
+	overflow:hidden;
+	text-align:center;
+	margin:0 10px 0 0;
+}
+
+#content div.work p{
+	width:560px;
+	float:left;
+	overflow:hidden;
+	margin:0;
+}
