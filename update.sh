@@ -1,6 +1,4 @@
 #!sh
-#git stash
-#git pull origin master
 mysql -uadmin -padmin -e "drop database taobao;"
 mysql -uadmin -padmin -e "create database taobao;"
 mysql -uadmin -padmin taobao < backup/database.sql
