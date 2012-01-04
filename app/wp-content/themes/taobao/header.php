@@ -38,6 +38,7 @@
     </script>
 
 <script type="text/javascript" src="/wp-content/themes/taobao/js/jquery.js"></script>
+<script type="text/javascript" src="/wp-content/themes/taobao/js/geoip.js"></script>
 <script> 
   $(document).ready(function(){
 	$('.button_helper a').click(function(){
@@ -65,6 +66,7 @@ var ZINGAYA_PARAMS = {id:"8f1f898b96da893919493f889553ecd3", label:"Беспла
 </script>
 </head>
 <body onload="startTime()">
+<div id="city">CITY</div>
 
 <p id="txt"> </p>
 <?/*
