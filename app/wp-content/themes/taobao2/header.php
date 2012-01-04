@@ -100,7 +100,7 @@ function get_Minutes()
                 </ul>
             </nav>
             <div class="box">
-                <a href="#" id="logo"></a>
+                <a href="<?php bloginfo('url') ?>" id="logo"></a>
                 <div class="contact">
                     <div class="left">
                         <div class="fone">
