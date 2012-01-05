@@ -11,9 +11,9 @@ $("div.slaider-box div.slaide").jCarouselLite({
 	visible: 1,
 	circular: false
 });
-$("#conteiner div.slaider-video").jCarouselLite({
-    btnNext: "#conteiner div.videos span.next",
-    btnPrev: "#conteiner div.videos span.prev",
+$("div.slaider-video").jCarouselLite({
+    btnNext: "div.videos span.next",
+    btnPrev: "div.videos span.prev",
     speed: 400,
 	visible: 3,
 	circular: false

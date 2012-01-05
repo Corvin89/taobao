@@ -38,7 +38,7 @@ p{
 
 .alignleft{
 	float:left;
-	margin:10px  10px 0 0;
+	margin:6px 10px 0 0;
 }
 
 .alignright{
@@ -491,6 +491,7 @@ div.slaider-box div.slaide p{
 #container div.slaider-video{
 	width:616px !important;
 	overflow:hidden;
+	height:231px;
 	margin:17px auto 0;
 }
 
@@ -1423,3 +1424,404 @@ h3{
 	overflow:hidden;
 	margin:0;
 }
+
+#content div.page h2{
+	margin:0 0 15px;
+}
+
+#content div.page{
+	background: url(../img/img.jpg) no-repeat 100% 0;
+    display: inline-block;
+    padding:25px 25px 0;
+    width: 626px;
+}
+
+#content div.page img.alignleft{
+	clear:both;
+	padding:3px;
+	border:1px solid #000;
+}
+
+#content div.page td{
+	vertical-align:top;
+	padding:0 0 20px;
+}
+
+#content div.soc{
+	width:100%;
+	overflow:hidden;
+	margin:10px 0 0;
+}
+
+#content div.comentars div.ava{
+	float:left;
+	overflow:hidden;
+	width:35px;
+	height:35px;
+	margin:0 11px 0 0;
+}
+
+#content div.comentars{
+	width:100%;
+	overflow:hidden;
+	margin:10px 0 0;
+}
+
+#content div.comentars textarea{
+	background:url(../img/aria.gif) no-repeat;
+	width:552px;
+	height:73px;
+}
+
+#content div.comentars div.boxer{
+	float:left;
+	width:552px;
+	overflow:hidden;
+}
+
+#content div.comentars a.name{
+	color:#0078cb;
+	font-size:12px;
+	font-weight:bold;
+}
+
+#content div.comentars span.date{
+	color:#bcbbb9;
+}
+
+#content div.comentars div.podcoment{
+	background:url(../img/podcoment.gif) no-repeat;
+	clear: both;
+    margin: 0 0 0 13px;
+    overflow: hidden;
+    padding: 4px 0 0 35px;
+    width: 552px;
+}
+
+#content div.comentars a.nameblue{
+	color:#00bdef;
+	font-size:12px;
+	font-weight:bold;
+}
+
+#content div.comentars div.boxe{
+	width:502px;
+	float:left;
+}
+
+#content div.comentars div.coment{
+	width:100%;
+	overflow:hidden;
+	border-bottom:1px dotted #000;
+	padding:15px 0;
+}
+
+#content div.comentars ul.rss{
+	float:right;
+	overflow:hidden;
+	margin:15px 0 0;
+}
+
+#content div.comentars ul.rss li{
+	float:left;
+	margin:0 0 0 15px;
+}
+
+#content div.comentars ul.rss li a.rss{
+	 background:url(../img/rss.gif) no-repeat;
+	 float:left;
+	 padding:0 0 0 22px;
+}
+
+#content div.comentars ul.rss li a.mail {
+    background: url("../img/mail.gif") no-repeat 0 3px;
+	 float:left;
+	 padding:0 0 0 22px;
+}
+
+#content div.block{
+	display: inline-block;
+    padding: 25px;
+    width: 626px;
+}
+
+#content div.block ol.height{
+	height:275px;
+	width: 601px;
+	display: inline-block;
+	font-size:18px;
+	padding:0 0 0 25px;
+}
+
+#content div.block ol.height li span{
+	color:#000;
+	font-size:12px;
+}
+
+#content div.block ol.height li{
+	width:100%;
+	margin:10px 0 0;
+}
+
+#content div.alamo{
+	overflow:hidden;
+    padding: 25px;
+    width: 626px;
+	background:#eff1e4;
+}
+
+#content div.alamo h2{
+	margin:0 0 15px;
+}
+
+#content div.alamo ul.border{
+	width:100%;
+	overflow:hidden;
+}
+
+#content div.alamo ul.border li{
+	width:100%;
+	overflow:hidden;
+	border-top:1px dotted #000;
+	padding:12px 0;
+	margin:-1px 0 0;
+}
+
+#content div.alamo td{
+	width:200px;
+	vertical-align:top;
+}
+
+#content div.alamo td span{
+	display:block;
+	color:#000;
+	font-size:36px;
+}
+
+#content div.alamo td strong{
+	color:#7b7b7b;
+	font-size:21px;
+	font-weight:normal;
+	display:block;
+	padding:7px 0 0;
+}
+
+#content div.alamo td em{
+	color:#ff0000;
+	font-size:12px;
+	font-style:normal;
+}
+
+#content div.alamo li h3{
+	margin:0;
+}
+
+#content div.alamo ol span.col-1{
+	color:#000;
+	font-size:24px;
+	float:left;
+	width:115px;
+	line-height:18px;
+}
+
+#content div.alamo ol span.plus{
+	color:#7ac118;
+	font-size:29px;
+	float:left;
+	margin:0 8px 0 0;
+}
+
+#content div.alamo ol li i{
+	font-size:14px;
+	display:block;
+	font-style:normal;
+}
+
+#content div.alamo ul.border ol li{
+	padding:15px 0 0;
+	margin:0;
+	border:0;
+	overflow:visible;
+	clear:both;
+	font-size:18px;
+	font-family:Arial;
+}
+
+#content div.alamo ol span.commission{
+	background:#fff;
+	padding:5px 15px 7px;
+	float:left;
+	color:#000;
+	behavior: url(css/PIE.htc);
+	-webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+	font-size:18px;margin:2px 8px 0 0;
+}
+
+#content div.alamo ol p{
+	font-family:Verdana;
+}
+
+#content div.alamo ol span{
+	font-family:Verdana;
+}
+
+#content div.alamo ul.border ol{
+	padding:0 0 0 32px;
+}
+
+#content div.step-next{
+	background:url(../img/step-next.gif) no-repeat;
+	height:353px;
+}
+
+#content div.step-next span.num{
+	float:left;
+	font-size:24px;
+	color:#000;
+	margin:0 7px 0 0;
+	font-family:Arial;
+}
+
+#content div.step-next p{
+	float:left;
+	width:180px;
+}
+
+#content div.num-2 {
+    left: 11px;
+    position: absolute;
+    top: 205px;
+    width: 200px;
+}
+
+#content div.num-1 {
+    left: 28px;
+    position: absolute;
+    top: 36px;
+    width: 200px;
+}
+
+#content div.num-4 {
+    position: absolute;
+    right: 17px;
+    top: 36px;
+    width:200px;
+}
+
+#content div.num-5 {
+    position: absolute;
+    right: 17px;
+    top: 204px;
+    width:200px;
+}
+
+#content div.num-6 {
+    position: absolute;
+    right: 226px;
+    top: 288px;
+    width:200px;
+}
+
+#content div.color-text{
+	background:#EFF1E4;
+    color: #000;
+    display: block;   
+    margin: 3px 0 0;
+    padding:20px 54px;
+}
+
+#content div.color-text p{
+	font-size: 15px;	
+}
+
+#content ul.text{
+	overflow: hidden;
+    width: 100%;
+	margin:0 0 -16px;
+}
+
+#content ul.text li{
+	border-top: 1px dotted #000000;
+    margin: -1px 0 0;
+    overflow: hidden;
+    padding: 12px 0;
+    width: 100%;
+}
+
+#content div.box-center{
+	width:400px;
+	padding:15px 0 0;
+	margin:0 auto;
+	overflow:hidden;
+}
+
+#content div.box-center table{
+	width:100%;
+	overflow:hidden;
+	padding:20px 0
+}
+
+#content div.box-center td{
+	vertical-align:top;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
