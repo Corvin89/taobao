@@ -17,18 +17,19 @@ function messages_slider()
 {
 
     $eventlabels = array(
-        'name' => 'Clients',
-        'singular_name' => 'Clients',
-        'add_new' => 'Add Client',
-        'add_new_item' => 'Add Client',
-        'edit_item' => 'Add New Client',
-        'new_item' => 'New Client',
-        'view_item' => 'View Client',
-        'search_items' => 'Search Clients',
-        'not_found' =>  'No Clients Found',
-        'not_found_in_trash' => 'No Clients Found in Trash',
+        'name' => 'Cрочные сообщения',
+        'singular_name' => 'messages_slider',
+        'add_new' => 'Добавить срочное сообщение',
+        'add_new_item' => 'Добавить срочное сообщение',
+        'edit_item' => 'Добавить новое срочное сообщение',
+        'new_item' => 'Новое срочное сообщение',
+        'view_item' => 'Показать',
+        'search_items' => '',
+        'not_found' =>  '',
+        'not_found_in_trash' => '',
         'parent_item_colon' => '',
-        'menu_name' => 'Clients'
+        'menu_name' => 'Cрочные сообщения',
+        'all_items' => 'Все срочные сообщения'
 
     );
     $eventargs = array(
