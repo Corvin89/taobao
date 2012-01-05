@@ -4,14 +4,13 @@
     <div class="left">
         <div class="slider">
             <ul>
-                <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/banner.png" alt="" title=""/></a>
-                </li>
-                <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/banner.png" alt="" title=""/></a>
-                </li>
-                <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/banner.png" alt="" title=""/></a>
-                </li>
-                <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/banner.png" alt="" title=""/></a>
-                </li>
+                <?php query_posts('post_type=baner_slider&order=ASC'); ?>
+                <?php while (have_posts()) : the_post(); ?>
+                <li><a href="#">
+                    <?php the_post_thumbnail(); ?>
+                </a></li>
+                <?php endwhile; ?>
+                <?php wp_reset_query(); ?>
             </ul>
             <div class="pager"></div>
         </div>
