@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28bfc854-b7ac-4251-ac0e-d6b4cb6805a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/functions.php" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao2/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php" />
     </list>
     <ignored path="taobao.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="35" selection-start="171" selection-end="186" vertical-scroll-proportion="0.05680317">
+            <state line="40" column="28" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -43,10 +42,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="152" column="47" selection-start="6794" selection-end="6794" vertical-scroll-proportion="-3.5882354">
+            <state line="145" column="42" selection-start="6456" selection-end="6456" vertical-scroll-proportion="0.47025496">
               <folding />
             </state>
           </provider>
@@ -67,14 +66,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php" />
         <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/functions.php" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="84" />
-    <option name="y" value="61" />
+    <option name="x" value="83" />
+    <option name="y" value="57" />
     <option name="width" value="1717" />
     <option name="height" value="935" />
   </component>
@@ -222,7 +221,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="84" y="61" width="1717" height="935" extended-state="0" />
+    <frame x="83" y="57" width="1717" height="935" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -310,16 +309,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php">
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="47" selection-start="6794" selection-end="6794" vertical-scroll-proportion="-3.5882354">
+        <state line="40" column="28" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/functions.php">
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="35" selection-start="171" selection-end="186" vertical-scroll-proportion="0.05680317">
+        <state line="145" column="42" selection-start="6456" selection-end="6456" vertical-scroll-proportion="0.47025496">
           <folding />
         </state>
       </provider>
