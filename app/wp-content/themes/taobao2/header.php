@@ -47,6 +47,7 @@ function get_Minutes()
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/main.js"></script>
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen"/>
     <!--[if IE 7]><link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>css/ie7.css" media="screen"/><![endif]-->
+    <?php wp_head(); ?>
 </head>
 <body>
 <div class="width">
