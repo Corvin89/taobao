@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28bfc854-b7ac-4251-ac0e-d6b4cb6805a2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/1next.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/1next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/1prev.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/1prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/1top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/aria.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/blog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/body.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/body.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/body1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/cal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/car.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/date.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/file_but.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/footer.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/form.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/hover.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon4.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon6.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon8.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/inpt-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/item4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/last.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/line.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/money.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/num.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/oval.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/qip.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/skype.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/slaider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/smile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/tegs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/text.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/time.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/v.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/img.png" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/img.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/next.gif" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/next.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/style.css" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao2/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backup/database.sql" afterPath="$PROJECT_DIR$/backup/database.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php" />
     </list>
     <ignored path="taobao.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -91,10 +42,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="17" selection-start="419" selection-end="419" vertical-scroll-proportion="0.58388376">
+            <state line="26" column="17" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,10 +69,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="80" selection-start="867" selection-end="907" vertical-scroll-proportion="-11.115385">
+            <state line="47" column="102" selection-start="2279" selection-end="2279" vertical-scroll-proportion="0.68662953">
               <folding />
             </state>
           </provider>
@@ -149,9 +100,9 @@
         <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/page-2681.php" />
         <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/page-kakzakazat.php" />
         <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/footer.php" />
-        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php" />
         <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/page-otziv.php" />
         <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/style.css" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php" />
       </list>
     </option>
   </component>
@@ -546,13 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="80" selection-start="867" selection-end="907" vertical-scroll-proportion="-11.115385">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/page-index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="104" selection-start="2800" selection-end="2840" vertical-scroll-proportion="-10.461538">
@@ -569,7 +513,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="17" selection-start="419" selection-end="419" vertical-scroll-proportion="0.58388376">
+        <state line="26" column="17" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="102" selection-start="2279" selection-end="2279" vertical-scroll-proportion="0.68662953">
           <folding />
         </state>
       </provider>

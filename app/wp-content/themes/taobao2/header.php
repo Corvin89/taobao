@@ -44,6 +44,7 @@ function get_Minutes()
     <script src="<?php bloginfo('template_directory'); ?>/js/tests.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jcarousellite_1.0.1.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jquery.cycle.all.min.js"></script>
+    <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/form.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/main.js"></script>
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen"/>
     <!--[if IE 7]><link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>css/ie7.css" media="screen"/><![endif]-->
