@@ -2,7 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28bfc854-b7ac-4251-ac0e-d6b4cb6805a2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/1next.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/1next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/1prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/1prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/1top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/aria.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/blog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/body.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/body.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/body1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/cal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/car.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/date.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/file_but.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/footer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/form.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/icon8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/inpt-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/item4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/last.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/money.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/num.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/oval.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/qip.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/skype.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/slaider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/smile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/tegs.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/time.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/v.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/img.png" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/next.gif" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao2/img/next.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/wp-content/themes/taobao2/style.css" afterPath="$PROJECT_DIR$/app/wp-content/themes/taobao2/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backup/database.sql" afterPath="$PROJECT_DIR$/backup/database.sql" />
     </list>
     <ignored path="taobao.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,10 +73,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/functions.php">
+      <file leaf-file-name="page-otziv.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/page-otziv.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="28" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0">
+            <state line="93" column="22" selection-start="0" selection-end="550" vertical-scroll-proportion="-24.192308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-otziv.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/page-otziv.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="10" selection-start="3404" selection-end="3404" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="17" selection-start="419" selection-end="419" vertical-scroll-proportion="0.58388376">
               <folding />
             </state>
           </provider>
@@ -36,16 +103,25 @@
       <file leaf-file-name="page-index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/page-index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="23" selection-start="3670" selection-end="3673" vertical-scroll-proportion="-23.666666">
+            <state line="53" column="104" selection-start="2800" selection-end="2840" vertical-scroll-proportion="-10.461538">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="page-kakzakazat.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/page-kakzakazat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="22" selection-start="941" selection-end="941" vertical-scroll-proportion="41.692307">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="145" column="42" selection-start="6456" selection-end="6456" vertical-scroll-proportion="0.47025496">
+            <state line="26" column="80" selection-start="867" selection-end="907" vertical-scroll-proportion="-11.115385">
               <folding />
             </state>
           </provider>
@@ -67,13 +143,22 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/functions.php" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/scheme.html" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/page-KakZakazat.php" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/page-zakazat.php" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/page-2681.php" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/page-kakzakazat.php" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/footer.php" />
         <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/page-otziv.php" />
+        <option value="$PROJECT_DIR$/app/wp-content/themes/taobao2/style.css" />
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
-    <option name="y" value="57" />
+    <option name="x" value="60" />
+    <option name="y" value="47" />
     <option name="width" value="1717" />
     <option name="height" value="935" />
   </component>
@@ -118,6 +203,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="taobao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taobao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taobao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="markup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taobao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taobao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="markup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -201,6 +318,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taobao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taobao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taobao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -209,38 +352,62 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/wp-content/themes/taobao2" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" scope="Directory">
+      <TestRunner />
+      <method>
+        <option name="PhingTarget" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method>
+        <option name="PhingTarget" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="28bfc854-b7ac-4251-ac0e-d6b4cb6805a2" name="Default" comment="" />
       <created>1325766047955</created>
       <updated>1325766047955</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="57" width="1717" height="935" extended-state="0" />
+    <frame x="60" y="47" width="1717" height="935" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24955009" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3395321" sideWeight="0.0" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -295,30 +462,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/index.php">
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.035410766">
+        <state line="91" column="27" selection-start="3412" selection-end="3412" vertical-scroll-proportion="-11.923077">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/page-index.php">
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/page-index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="23" selection-start="3670" selection-end="3673" vertical-scroll-proportion="-23.666666">
+        <state line="16" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="-10.461538">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/functions.php">
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/cncat.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="28" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0">
+        <state line="40" column="16" selection-start="342" selection-end="342" vertical-scroll-proportion="0.9577465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="0.18604651">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.28412256">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/category-news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="0.18604651">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/category-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/calculator2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.2729805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/calculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.18604651">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/page-shop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="68" selection-end="68" vertical-scroll-proportion="0.3488372">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao/page-otziv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="22" selection-start="0" selection-end="550" vertical-scroll-proportion="-24.192308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/page-kakzakazat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="22" selection-start="941" selection-end="941" vertical-scroll-proportion="41.692307">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="42" selection-start="6456" selection-end="6456" vertical-scroll-proportion="0.47025496">
+        <state line="26" column="80" selection-start="867" selection-end="907" vertical-scroll-proportion="-11.115385">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/page-index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="104" selection-start="2800" selection-end="2840" vertical-scroll-proportion="-10.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/page-otziv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="10" selection-start="3404" selection-end="3404" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/wp-content/themes/taobao2/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="17" selection-start="419" selection-end="419" vertical-scroll-proportion="0.58388376">
           <folding />
         </state>
       </provider>
