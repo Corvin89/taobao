@@ -1,4 +1,5 @@
 <?php
+include_once "functions-baner.php";
 
 add_filter( 'show_admin_bar', '__return_false' );
 
