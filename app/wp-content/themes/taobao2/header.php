@@ -141,7 +141,7 @@ function get_Minutes()
                     )
                 );?>
 
-                <a href="#" class="blog">&nbsp;</a>
+                <a href="<?php bloginfo('url') ?>/?page_id=2684" class="blog">&nbsp;</a>
             </nav>
             <div class="slaider-box">
                 <span class="prev"></span>

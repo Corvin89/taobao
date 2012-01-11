@@ -1,6 +1,7 @@
 $(window).load(function(){		
 	initCarousel();	
 	initSlider();
+	initTabs();
 });
 
  function initCarousel(){
@@ -26,4 +27,18 @@ $('.slider ul').cycle({
         timeout: 5000,
         pager:  '.pager'
 });
+}
+
+function initTabs(){
+ $('.tabs dt').click(function(){
+ var thisClass = this.className.slice(0,2);
+ $('div.t1').hide();
+ $('div.t2').hide();
+ $('div.t3').hide();
+ $('div.' + thisClass).show();
+ $('.tabs dt').removeClass('tab-current');
+ $(this).addClass('tab-current');
+ return false;
+ });
+ $('dt.t1').click();
 }
