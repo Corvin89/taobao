@@ -73,7 +73,7 @@
             <span class="calcul">5,3</span>
 
             <div class="calcul">
-                <a href="#">Калькулятор</a>
+                <a href="<?php bloginfo('url'); ?>/?page_id=1693">Калькулятор</a>
 
                 <p>Рассчитать стоимость товаров с учетом доставки.</p>
             </div>
