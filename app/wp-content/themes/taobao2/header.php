@@ -44,9 +44,11 @@ function get_Minutes()
     <script src="<?php bloginfo('template_directory'); ?>/js/tests.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jcarousellite_1.0.1.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jquery.cycle.all.min.js"></script>
+    <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/form.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/main.js"></script>
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen"/>
     <!--[if IE 7]><link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>css/ie7.css" media="screen"/><![endif]-->
+    <?php wp_head(); ?>
 </head>
 <body>
 <div class="width">
@@ -146,21 +148,15 @@ function get_Minutes()
                 <span class="next"></span>
                 <div class="slaide">
                     <ul>
-                        <li>
-                            <p><a href="#">ВНИМАНИЕ! Все заказы, принятые до 01.12.2011, будут доставлены ДО НОВОГО ГОДА! </a></p>
-                            <p>Заявки, пришедшие после 1 декабря, скорее всего, попадут к Вам в руки после праздников. Все зависит от того, в каком городе Вы
-                                находитесь и какой транспортной компанией будет отправлена Ваша посылка!</p>
-                        </li>
-                        <li>
-                            <p><a href="#">ВНИМАНИЕ! Все заказы, принятые до 01.12.2011, будут доставлены ДО НОВОГО ГОДА! </a></p>
-                            <p>Заявки, пришедшие после 1 декабря, скорее всего, попадут к Вам в руки после праздников. Все зависит от того, в каком городе Вы
-                                находитесь и какой транспортной компанией будет отправлена Ваша посылка!</p>
-                        </li>
-                        <li>
-                            <p><a href="#">ВНИМАНИЕ! Все заказы, принятые до 01.12.2011, будут доставлены ДО НОВОГО ГОДА! </a></p>
-                            <p>Заявки, пришедшие после 1 декабря, скорее всего, попадут к Вам в руки после праздников. Все зависит от того, в каком городе Вы
-                                находитесь и какой транспортной компанией будет отправлена Ваша посылка!</p>
-                        </li>
+                        <?php query_posts('post_type=messages_slider')?>
+                        <?php if (have_posts()) : ?>
+                        <?php while (have_posts()) : the_post();  ?>
+                            <li>
+                                <p><a href='#'><?php the_title(); ?></a></p>
+                                <p> <?php the_content(); ?></p>
+                            </li>
+                            <?php endwhile; ?>
+                        <?php endif;?>
                     </ul>
                 </div>
             </div>
