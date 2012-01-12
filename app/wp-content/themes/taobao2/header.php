@@ -31,7 +31,7 @@ function get_Minutes()
     <script src="<?php bloginfo('template_directory'); ?>/js/modernizr-2.0.6.min.js"></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/plugins.js"></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/script.js"></script>
-
+    <script src="<?php bloginfo('template_directory'); ?>/js/onlineСonsultation.js"></script>
 
     <script type="text/javascript">
         var serverHours = parseInt("<?php echo get_Hours(); ?>");
@@ -97,7 +97,7 @@ function get_Minutes()
             <nav class="block-menu">
                 <ul>
                     <li class="item1"><a href="#">Первый раз на сайте?</a></li>
-                    <li class="item2"><a href="#">Он-лайн консультант</a></li>
+                    <li class="item2"><div id="liveTexButton_2272"></div></li>
                     <li class="item3"><a href="#">Бесплатный звонок</a></li>
                     <li class="item4 activ"><a href="#">Скачать форму заказа</a></li>
                 </ul>
