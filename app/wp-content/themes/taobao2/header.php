@@ -36,6 +36,7 @@ function get_Minutes()
     <script type="text/javascript">
         var serverHours = parseInt("<?php echo get_Hours(); ?>");
         var serverMinutes = parseInt("<?php echo get_Minutes(); ?>");
+        var clientIP = "109.87.18.135";
     </script>
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/timer.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/geoip.js"></script>
@@ -58,7 +59,7 @@ function get_Minutes()
                 <div class="contru">
                     <span class="left">Доставляем товары по всей России, привезем и вам, в</span>
 						<span class="val_left">
-							<span id="city" class="val">г. Комсомольск-на-Амуре</span>
+							<span id="city" class="val">Город не определен.</span>
 						</span>
                 </div>
                 <div class="righ-box">

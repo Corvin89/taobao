@@ -1,4 +1,4 @@
-$.get("http://ipgeobase.ru:7020/geo?ip=<?=$_SERVER['REMOTE_ADDR']?>", function(data) {
+$.get("http://ipgeobase.ru:7020/geo?ip="+clientIP.toString(), function(data) {
     var mycity = $(data).find("city").text();
     $("#city").html(mycity);
     return true;
