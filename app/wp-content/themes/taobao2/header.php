@@ -31,7 +31,7 @@ function get_Minutes()
     <script src="<?php bloginfo('template_directory'); ?>/js/modernizr-2.0.6.min.js"></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/plugins.js"></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/script.js"></script>
-    <script src="<?php bloginfo('template_directory'); ?>/js/online-сonsultation.js"></script>
+    <script src="<?php bloginfo('template_directory'); ?>/js/online-consultation.js"></script>
 
     <script type="text/javascript">
         var serverHours = parseInt("<?php echo get_Hours(); ?>");
