@@ -36,7 +36,7 @@ function get_Minutes()
     <script type="text/javascript">
         var serverHours = parseInt("<?php echo get_Hours(); ?>");
         var serverMinutes = parseInt("<?php echo get_Minutes(); ?>");
-        var clientIP = "109.87.18.135";
+        var clientIP = "<?php $_SERVER['REMOTE_ADDR']?>";
     </script>
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/timer.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/geoip.js"></script>
