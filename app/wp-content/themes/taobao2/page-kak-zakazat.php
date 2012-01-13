@@ -25,10 +25,10 @@
                     <p><?php echo get_post_meta($post->ID, "step-5-2", true);?></p>
                 </div>
                 <div class="step-6">
-                    <p>Выберите  любой удобный <br/> для вас <a href="#">способ доставки по России.</a></p>
+                    <p><?php echo get_post_meta($post->ID, "step-6", true);?></p>
                 </div>
                 <div class="step-7">
-                    <p>Получите посылку и <a href="#">напишите нам отзыв!</a></p>
+                    <p><?php echo get_post_meta($post->ID, "step-7", true);?></p>
                 </div>
 
                 <?php endwhile; else: ?>
