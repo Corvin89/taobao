@@ -953,21 +953,21 @@ div.last div.col-1{
 }
 
 #content div.step-1{
-	background:url(./img/web.gif) no-repeat 0 2px;
-	left: 28px;
-    padding: 0 0 0 38px;
-    position: absolute;
-    top: 133px;
-    width: 180px;
-}
-
-#content div.step-2{
-	background:url(./img/form.gif) no-repeat 0 2px;
-	left: 28px;
+    background:url(./img/form.gif) no-repeat 0 2px;
+    left: 28px;
     padding: 0 0 0 38px;
     position: absolute;
     top: 260px;
-    width: 180px;
+    width: 125px;
+}
+
+#content div.step-2{
+    background:url(./img/web.gif) no-repeat 0 2px;
+    left: 28px;
+    padding: 0 0 0 38px;
+    position: absolute;
+    top: 133px;
+    width: 140px;
 }
 
 #content div.step-3{

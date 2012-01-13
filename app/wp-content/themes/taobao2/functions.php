@@ -1,6 +1,6 @@
 <?php
 include_once "functions-baner.php";
-
+include_once "functions/functions-custom-fields-new-scheme.php";
 add_filter( 'show_admin_bar', '__return_false' );
 
 add_theme_support( 'menu' );
