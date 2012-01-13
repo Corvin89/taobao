@@ -150,8 +150,8 @@
 </div>
 <section id="bg-main">
     <section id="main">
-        <div class="block">
-            <div class="news">
+        <div class="block">          	
+		    <div class="news">
                 <h5>Русский посредник Taobao.ru.com рад приветствовать вас на нашем сайте!</h5>
 
                 <p>Если вы тут, значит вам интересно, что такое китайский аукцион Таобао. Как купить на taobao? Как

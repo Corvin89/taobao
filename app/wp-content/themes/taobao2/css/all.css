@@ -201,18 +201,35 @@ div.width{
 }
 
 #header div.time{
+	width:304px;
 	float: right;
     margin: 22px 0 0;
+}
+
+#header div.work{
     overflow: hidden;
     padding: 0 0 0 34px;
     width: 270px;
 	background:url(../img/time.png) no-repeat 0 3px;
 }
 
+#header div.suspend{
+	background:url(../img/suspend.png) no-repeat 0 3px;
+	float: right;
+    margin: 22px 0 0;
+    overflow: hidden;
+    padding: 0 0 0 34px;
+    width: 270px;
+}
+
+#header div.suspend i{
+	font-style:normal;
+	color:#a9a7a8;
+}
+
 #header div.time i{
 	font-style:normal;
 	color:#7bc219;
-	text-decoration:underline
 }
 
 #header div.time span{
@@ -1422,4 +1439,8 @@ h3{
 	float:left;
 	overflow:hidden;
 	margin:0;
+}
+
+#header nav.block-menu li.item2 div{
+	background:none !important;
 }
