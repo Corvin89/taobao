@@ -21,41 +21,37 @@
 
             <div class="slaider-video">
                 <ul>
+                    <?php query_posts('post_type=video_slider&order=ASC'); ?>
+                    <?php while (have_posts()) : the_post(); ?>
                     <li>
-                        <div class="foto"><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/video.gif"
-                                                           alt="" title=""/></a></div>
+                        <div class="foto">
+                            <a href="#">
+                        <?php
+                        $youtube = false;
+                        $vimeo = false;
+                        if($url = get_post_meta($post->ID, "Youtube", true)) {
+                            preg_match('%(?:youtube\.com/(?:[^/]+/.+/|(?:v|e(?:mbed)?)/|.*[?&]v=)|youtu\.be/)([^"&?/ ]{11})%i', $url, $youtube);
+                        } elseif($url = get_post_meta($post->ID, "Vimeo", true)) {
+                            preg_match('%http:\/\/(www.vimeo|vimeo)\.com(\/|\/clip:)(\d+)(.*?)%i', $url, $vimeo);
+                        }
+                        if (!empty($youtube)) { ?>
+                            <iframe width="183" height="160" src="http://www.youtube.com/embed/<?php echo $youtube[1]; ?>?autoplay=0" frameborder="0"
+                                    allowfullscreen></iframe> <?php
+                        } elseif($vimeo) { ?>
+                            <iframe src="http://player.vimeo.com/video/<?php echo $vimeo[3]; ?>?portrait=0&amp;autoplay=0" width="853" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+                            <?php } else {
+                            echo "Видео не доступно.";
+                        }?>
+                            </a>
+                        </div>
                         <div class="text-video">
-                            <p><a href="#">Регистрация на сайте Taobao.ru.com</a></p>
+                            <p><a href="#"><?php the_title(); ?></a></p>
                         </div>
                     </li>
-                    <li>
-                        <div class="foto"><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/video.gif"
-                                                           alt="" title=""/></a></div>
-                        <div class="text-video">
-                            <p><a href="#">Регистрация на сайте Taobao.ru.com</a></p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="foto"><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/video.gif"
-                                                           alt="" title=""/></a></div>
-                        <div class="text-video">
-                            <p><a href="#">Регистрация на сайте Taobao.ru.com</a></p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="foto"><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/video.gif"
-                                                           alt="" title=""/></a></div>
-                        <div class="text-video">
-                            <p><a href="#">Регистрация на сайте Taobao.ru.com</a></p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="foto"><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/video.gif"
-                                                           alt="" title=""/></a></div>
-                        <div class="text-video">
-                            <p><a href="#">Регистрация на сайте Taobao.ru.com</a></p>
-                        </div>
-                    </li>
+                    <?php endwhile; ?>
+                    <?php wp_reset_query(); ?>
+
+
                     <li>
                         <div class="foto"><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/video.gif"
                                                            alt="" title=""/></a></div>
@@ -154,12 +150,12 @@
              <?php if (have_posts()) : ?>
                    <?php while (have_posts()) : the_post();  ?>
                        <div class="news">
-                             	
+
 			      			<p><?php the_content();?></p>
-									
+
                       </div>
                    <?php endwhile; ?>
-             <?php endif;?>	
+             <?php endif;?>
         </div>
         <div class="blog">
             <h2>Новое в блоге</h2>
@@ -207,13 +203,13 @@
              <?php if (have_posts()) : ?>
                    <?php while (have_posts()) : the_post();  ?>
                        <div class="news">
-                             	
+
 			      			<p><strong><?php the_title();?></strong></p>
 			      			<p><?php the_content();?></p>
-									
+
                       </div>
                    <?php endwhile; ?>
-             <?php endif;?>	            
+             <?php endif;?>
         </div>
         <div class="text-right">
             <div class="col-1">
@@ -221,26 +217,26 @@
 	             <?php if (have_posts()) : ?>
 	                   <?php while (have_posts()) : the_post();  ?>
 	                       <div class="news">
-	                             	
+
 				      			<p><strong><?php the_title();?></strong></p>
 				      			<p><?php the_content();?></p>
-										
+
 	                      </div>
 	                   <?php endwhile; ?>
-	             <?php endif;?>	      
+	             <?php endif;?>
             </div>
             <div class="col-1 right">
 				<?php query_posts('post_type=optionstext&p=2695 ')?>
 	             <?php if (have_posts()) : ?>
 	                   <?php while (have_posts()) : the_post();  ?>
 	                       <div class="news">
-	                             	
+
 				      			<p><strong><?php the_title();?></strong></p>
 				      			<p><?php the_content();?></p>
-										
+
 	                      </div>
 	                   <?php endwhile; ?>
-	             <?php endif;?>	     
+	             <?php endif;?>
             </div>
         </div>
     </div>

@@ -1,5 +1,6 @@
 <?php
 include_once "functions-baner.php";
+include_once "functions-video.php";
 
 add_filter( 'show_admin_bar', '__return_false' );
 
