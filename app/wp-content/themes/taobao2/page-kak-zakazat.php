@@ -1,13 +1,13 @@
 <?php get_header(); ?>
 <section id="container">
     <section id="content">
-        <h2 class="title">Как сделать заказ на Taobao.ru.com</h2>
+        <?php wp_reset_query(); ?>
+        <?php rewind_posts(); ?>
+        <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+        <h2 class="title"><?php the_title(); ?></h2>
         <div class="top"></div>
         <div class="body">
-            <div class="steps">
-                <?php wp_reset_query(); ?>
-                <?php rewind_posts(); ?>
-                <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+                <div class="steps">
                 <div class="step-1">
                     <p><?php echo get_post_meta($post->ID, "step-1", true);?></p>
                 </div>
@@ -31,16 +31,14 @@
                 <div class="step-7">
                     <p><?php echo get_post_meta($post->ID, "step-7", true);?></p>
                 </div>
-
-                <?php endwhile; else: ?>
-                <p><?php _e('По вашему запросу ничего нет.'); ?></p>
-                <?php endif; ?>
-            </div>
-            <span class="slogan">Интересно, сколько будет стоить посылка? Смотрите <a href="#">пример расчета
-                стоимости.</a></span>
+                </div>
+                    <span class="slogan"><?php the_content(); ?></span>
             <?php echo do_shortcode('[contact-form 2 "Обратная связь"]') ?>
         </div>
         <div class="bottom"></div>
+        <?php endwhile; else: ?>
+        <p><?php _e('По вашему запросу ничего нет.'); ?></p>
+        <?php endif; ?>
     </section>
     <div class="right">
         <div class="boxen">
