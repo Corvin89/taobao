@@ -11,9 +11,21 @@ function get_Minutes()
     $times = explode(":", $time);
     echo $times[1];
 }
+//Function for counting number of viewers of site <Made by Vladislav Fedorischev><assist Alexandr Kuciy>
+	(string)$visit = StatPress_Print("%totalpageviews%");
+	$a=array();
+	$j=strlen($visit);
+	for($i=0;$i<$j;$i++){
+		$a[]=$visit{$i};
+	} 	  
+	$reverse=array_reverse($a,false);
+	$count=count($reverse);
+	for($count;$count<9;$count++){
+		$reverse[]="0";
+	}
+	$normal=array_reverse($reverse,false);
 
 ?>
-
 <!doctype html>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7 ]> <html lang="ru" class="no-js ie6"> <![endif]-->
@@ -71,19 +83,19 @@ function get_Minutes()
             <div class="box">
                 <div class="number">
                     <div class="left-num">
-                        <a href="#">0</a>
-                        <a href="#">0</a>
-                        <a href="#">0</a>
+                        <a href="#"><?php echo $normal['0'];?></a>
+                        <a href="#"><?php echo $normal['1'];?></a>
+                        <a href="#"><?php echo $normal['2'];?></a>
                     </div>
                     <div class="left-num">
-                        <a href="#">0</a>
-                        <a href="#">0</a>
-                        <a href="#">0</a>
+                        <a href="#"><?php echo $normal['3'];?></a>
+                        <a href="#"><?php echo $normal['4'];?></a>
+                        <a href="#"><?php echo $normal['5'];?></a>
                     </div>
                     <div class="left-num">
-                        <a href="#">1</a>
-                        <a href="#">2</a>
-                        <a href="#">3</a>
+                        <a href="#"><?php echo $normal['6'];?></a>
+                        <a href="#"><?php echo $normal['7'];?></a>
+                        <a href="#"><?php echo $normal['8'];?></a>
                     </div>
                     <div class="text">
                         <p>Столько человек уже воспользовались <br/> услугами нашего сервиса</p>
