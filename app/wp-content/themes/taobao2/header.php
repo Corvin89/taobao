@@ -11,11 +11,15 @@ function get_Minutes()
     $times = explode(":", $time);
     echo $times[1];
 }
+function getViews(){
+
 //Function for counting number of viewers of site <Made by Vladislav Fedorischev><assist Alexandr Kuciy>
-	(string)$visit = StatPress_Print("%totalpageviews%");
+	$vis = StatPress_Print("%totalpageviews%");
+	$visi=(int)$vis+616908;
+	$visit="$visi";
 	$a=array();
 	$j=strlen($visit);
-	for($i=0;$i<$j;$i++){
+		for($i=0;$i<$j;$i++){
 		$a[]=$visit{$i};
 	} 	  
 	$reverse=array_reverse($a,false);
@@ -24,8 +28,11 @@ function get_Minutes()
 		$reverse[]="0";
 	}
 	$normal=array_reverse($reverse,false);
-
+	
+	return $normal;
+}
 ?>
+<?php $normal=getViews();?>
 <!doctype html>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7 ]> <html lang="ru" class="no-js ie6"> <![endif]-->
