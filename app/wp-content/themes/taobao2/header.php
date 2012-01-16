@@ -22,33 +22,33 @@ function get_Minutes()
 <!--[if IE 9 ]>    <html lang="ru" class="no-js ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <html lang="ru" class="no-js"> <!--<![endif]-->
 <head>
-    <title>MAXIGROOVE</title>
+    <title><?php wp_title() ?></title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jquery.js"></script>
+    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/jquery.js"></script>
 
     <!-- reference your own javascript files here -->
 
     <script src="<?php bloginfo('template_directory'); ?>/js/modernizr-2.0.6.min.js"></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/plugins.js"></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/script.js"></script>
-    <script src="<?php bloginfo('template_directory'); ?>/js/online-consultation.js"></script>
+    <!--<script src="<?php bloginfo('template_directory'); ?>/js/online-consultation.js"></script>-->
 
     <script type="text/javascript">
         var serverHours = parseInt("<?php echo get_Hours(); ?>");
         var serverMinutes = parseInt("<?php echo get_Minutes(); ?>");
         var clientIP = "<?php $_SERVER['REMOTE_ADDR']?>";
     </script>
-    <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/timer.js"></script>
-    <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/geoip.js"></script>
+    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/timer.js"></script>
+    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/geoip.js"></script>
     <!-- test runner files -->
     <script src="<?php bloginfo('template_directory'); ?>/js/qunit.js"></script>
     <script src="<?php bloginfo('template_directory'); ?>/js/tests.js"></script>
-    <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jcarousellite_1.0.1.js"></script>
-    <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jquery.cycle.all.min.js"></script>
-    <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/form.js"></script>
-    <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/main.js"></script>
+    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/jcarousellite_1.0.1.js"></script>
+    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/jquery.cycle.all.min.js"></script>
+    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/form.js"></script>
+    <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/main.js"></script>
     <link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen"/>
-    <!--[if IE 7]><link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory'); ?>css/ie7.css" media="screen"/><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>css/ie7.css" media="screen"/><![endif]-->
     <?php wp_head(); ?>
 </head>
 <body>

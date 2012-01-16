@@ -1,16 +1,21 @@
 <footer id="footer">
     <div class="box">
-        <div class="block">
+        <div class="block">			 
             <ul>
-                <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/icon.jpg" alt="" title="" /></a></li>
-                <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/icon1.jpg" alt="" title="" /></a></li>
+				
+			 <?php for($i=0;get_post_meta(2704,'_simple_fields_fieldGroupID_1_fieldID_2_numInSet_'.$i,true)!=0;$i++)
+				 {?>
+			 	<li><a href="<?=get_post_meta(2704,'_simple_fields_fieldGroupID_1_fieldID_3_numInSet_'.$i,true); ?>"><img src="<?=wp_get_attachment_url(get_post_meta(2704,'_simple_fields_fieldGroupID_1_fieldID_2_numInSet_'.$i,true)) ?>" alt="" title="" /></a></li>			 	
+			  <?php } ?>
+			  
+                <!--<li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/icon1.jpg" alt="" title="" /></a></li>
                 <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/icon2.jpg" alt="" title="" /></a></li>
                 <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/icon3.jpg" alt="" title="" /></a></li>
                 <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/icon4.jpg" alt="" title="" /></a></li>
                 <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/icon5.jpg" alt="" title="" /></a></li>
-                <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/icon6.jpg" alt="" title="" /></a></li>
+                <li><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/icon6.jpg" alt="" title="" /></a></li>-->
             </ul>
-            <p>Сервис покупок в Китае taobao.ru.com <br/> PANDA TRADE CO.,LTD <br/> Амурская область, г.Благовещенск ул.Чайковского 7, офис 204</p>
+            <p><?php echo get_option('omr_tracking_code');?></p>
         </div>
         <div class="contact">
             <div class="left">

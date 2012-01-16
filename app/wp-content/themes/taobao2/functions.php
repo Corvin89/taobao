@@ -1,4 +1,11 @@
 <?php
+
+ini_set("display_errors","0");
+
+ini_set("display_startup_errors","0");
+
+error_reporting(E_ALL);
+
 include_once "functions-baner.php";
 
 add_filter( 'show_admin_bar', '__return_false' );
@@ -87,3 +94,6 @@ function optionstext()
 
     register_post_type('optionstext',$eventargs);
 }
+
+// Load main options panel file
+require_once (TEMPLATEPATH . '/functions/admin-menu.php');

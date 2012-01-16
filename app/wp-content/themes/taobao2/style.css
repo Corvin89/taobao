@@ -234,7 +234,7 @@ div.width{
 	background:none !important;
 	font-size:14px;
 	color:#231f20;
-	width:189px;
+	width:189px !important;
 	line-height:32px;
 	height:34px;
 	padding:0 0 0 31px;
