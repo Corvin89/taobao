@@ -74,13 +74,14 @@
                 <div class="line-title">
 					<?php if ( function_exists('wp_tag_cloud') ) : ?>
                     <h2 class="tegi">Поиск статей по тегам</h2>
-					<?php wp_tag_cloud( 'smallest=8&largest=22&number=25' ); ?> 
-					<?php endif; ?>
+					
+					
 					<span><a href="#" class="rig">все статьи</a> →</span>
                 </div>
-                <div class="tegs">
-                    <img src="<?php bloginfo('template_directory'); ?>/<?php bloginfo('template_directory'); ?>/img/tegs.png" alt="" title="" />
-                </div>
+                <div class="tegs">                   
+					<?php wp_tag_cloud( 'smallest=8&largest=22&number=25' ); ?>
+                <?php endif; ?>
+				</div>
             </div>
             <div class="all">
                 <h2 class="video">Это интересно</h2>
