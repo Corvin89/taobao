@@ -163,40 +163,20 @@
         </div>
         <div class="blog">
             <h2>Новое в блоге</h2>
-            <ul>
-                <li>
-                    <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
-
-                    <p><b>В чём встречать Новый 2012 год?</b></p>
-
-                    <p>По восточному календарю покровителем наступающего года будет <a href="#">чёрный водяной
-                        Дракон.</a></p>
-                </li>
-                <li>
-                    <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
-
-                    <p><b>В чём встречать Новый 2012 год?</b></p>
-
-                    <p>По восточному календарю покровителем наступающего года будет <a href="#">чёрный водяной
-                        Дракон.</a></p>
-                </li>
-                <li>
-                    <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
-
-                    <p><b>В чём встречать Новый 2012 год?</b></p>
-
-                    <p>По восточному календарю покровителем наступающего года будет <a href="#">чёрный водяной
-                        Дракон.</a></p>
-                </li>
-                <li>
-                    <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
-
-                    <p><b>В чём встречать Новый 2012 год?</b></p>
-
-                    <p>По восточному календарю покровителем наступающего года будет <a href="#">чёрный водяной
-                        Дракон.</a></p>
-                </li>
-            </ul>
+			<ul>
+				<?php				
+					query_posts('cat=4&showposts=4');					 
+					if (have_posts()) :
+					while (have_posts()) : the_post();
+					echo("<li>"); ?>
+						<p><span class="data"><?php the_date('d.m.Y'); ?></span> <span class="com"><?php comments_number('0','1','%')?></span></p>
+						<p class="title"><a href="<?php the_permalink() ?>">"<?php the_title() ?>"</a></p> <?php
+						echo the_excerpt("<p>", "</p>");
+					echo("</li>");
+					endwhile;
+					endif;
+				?>
+			</ul>            
         </div>
     </section>
 </section>

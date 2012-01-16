@@ -97,3 +97,17 @@ function optionstext()
 
 // Load main options panel file
 require_once (TEMPLATEPATH . '/functions/admin-menu.php');
+
+ 
+function new_excerpt_length($length) {
+	return 15;
+}
+add_filter('excerpt_length', 'new_excerpt_length'); 
+
+function new_excerpt_more($more) {
+return '<span class="block"><a href="'. get_permalink($post->ID) . '">' . ' Читать далее ..' . '</a></span>';
+}
+add_filter('excerpt_more', 'new_excerpt_more');
+
+
+
