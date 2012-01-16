@@ -1,7 +1,10 @@
 <?php
 include_once "functions-baner.php";
 include_once "functions-video.php";
-
+require_once "functions/functions-alexandr-kuciy.php";
+require_once "functions/functions-sergey-korkyshko.php";
+require_once "functions/functions-sergey-martyshko.php";
+require_once "functions/functions-vladislav-fedorischev.php";
 add_filter( 'show_admin_bar', '__return_false' );
 
 add_theme_support( 'menu' );
