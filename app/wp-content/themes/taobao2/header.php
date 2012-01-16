@@ -165,7 +165,6 @@ function get_Minutes()
                         <?php if (have_posts()) : ?>
                         <?php while (have_posts()) : the_post();  ?>
                             <li>
-                                <p><a href='#'><?php the_title(); ?></a></p>
                                 <p> <?php the_content(); ?></p>
                             </li>
                             <?php endwhile; ?>
