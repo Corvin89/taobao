@@ -993,21 +993,21 @@ div.last div.col-1{
 }
 
 #content div.step-1{
-	background:url(./img/web.gif) no-repeat 0 2px;
-	left: 28px;
-    padding: 0 0 0 38px;
-    position: absolute;
-    top: 133px;
-    width: 180px;
-}
-
-#content div.step-2{
-	background:url(./img/form.gif) no-repeat 0 2px;
-	left: 28px;
+    background:url(./img/form.gif) no-repeat 0 2px;
+    left: 28px;
     padding: 0 0 0 38px;
     position: absolute;
     top: 260px;
-    width: 180px;
+    width: 125px;
+}
+
+#content div.step-2{
+    background:url(./img/web.gif) no-repeat 0 2px;
+    left: 28px;
+    padding: 0 0 0 38px;
+    position: absolute;
+    top: 133px;
+    width: 140px;
 }
 
 #content div.step-3{
@@ -1065,7 +1065,7 @@ span.slogan{
 	margin:3px 0 0;
 }
 
-#content div.form{
+#content div.wpcf7{
 	padding:0 25px;
 	margin:29px 0 0;
 	width:626px;
