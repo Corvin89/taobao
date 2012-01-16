@@ -127,7 +127,8 @@ if (is_admin())
 		
 	 function StatPress_Print($body = '')
         {
-          echo luc_StatPress_Vars($body);
+          //echo luc_StatPress_Vars($body);
+		  return luc_StatPress_Vars($body);
         }
       
     function luc_StatPress_Vars($body)

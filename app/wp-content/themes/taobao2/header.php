@@ -11,9 +11,28 @@ function get_Minutes()
     $times = explode(":", $time);
     echo $times[1];
 }
+function getViews(){
 
+//Function for counting number of viewers of site <Made by Vladislav Fedorischev><assist Alexandr Kuciy>
+	$vis = StatPress_Print("%totalpageviews%");
+	$visi=(int)$vis+616908;
+	$visit="$visi";
+	$a=array();
+	$j=strlen($visit);
+		for($i=0;$i<$j;$i++){
+		$a[]=$visit{$i};
+	} 	  
+	$reverse=array_reverse($a,false);
+	$count=count($reverse);
+	for($count;$count<9;$count++){
+		$reverse[]="0";
+	}
+	$normal=array_reverse($reverse,false);
+	
+	return $normal;
+}
 ?>
-
+<?php $normal=getViews();?>
 <!doctype html>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7 ]> <html lang="ru" class="no-js ie6"> <![endif]-->
@@ -36,7 +55,7 @@ function get_Minutes()
     <script type="text/javascript">
         var serverHours = parseInt("<?php echo get_Hours(); ?>");
         var serverMinutes = parseInt("<?php echo get_Minutes(); ?>");
-        var clientIP = "<?php $_SERVER['REMOTE_ADDR']?>";
+        var clientIP = "<?php echo getenv('REMOTE_ADDR'); ?>";
     </script>
     <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/timer.js"></script>
     <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/geoip.js"></script>
@@ -71,19 +90,19 @@ function get_Minutes()
             <div class="box">
                 <div class="number">
                     <div class="left-num">
-                        <a href="#">0</a>
-                        <a href="#">0</a>
-                        <a href="#">0</a>
+                        <a href="#"><?php echo $normal['0'];?></a>
+                        <a href="#"><?php echo $normal['1'];?></a>
+                        <a href="#"><?php echo $normal['2'];?></a>
                     </div>
                     <div class="left-num">
-                        <a href="#">0</a>
-                        <a href="#">0</a>
-                        <a href="#">0</a>
+                        <a href="#"><?php echo $normal['3'];?></a>
+                        <a href="#"><?php echo $normal['4'];?></a>
+                        <a href="#"><?php echo $normal['5'];?></a>
                     </div>
                     <div class="left-num">
-                        <a href="#">1</a>
-                        <a href="#">2</a>
-                        <a href="#">3</a>
+                        <a href="#"><?php echo $normal['6'];?></a>
+                        <a href="#"><?php echo $normal['7'];?></a>
+                        <a href="#"><?php echo $normal['8'];?></a>
                     </div>
                     <div class="text">
                         <p>Столько человек уже воспользовались <br/> услугами нашего сервиса</p>
@@ -142,7 +161,7 @@ function get_Minutes()
                     )
                 );?>
 
-                <a href="#" class="blog">&nbsp;</a>
+                <a href="<?php bloginfo('url') ?>/?page_id=2689" class="blog">&nbsp;</a>
             </nav>
             <div class="slaider-box">
                 <span class="prev"></span>
@@ -153,7 +172,6 @@ function get_Minutes()
                         <?php if (have_posts()) : ?>
                         <?php while (have_posts()) : the_post();  ?>
                             <li>
-                                <p><a href='#'><?php the_title(); ?></a></p>
                                 <p> <?php the_content(); ?></p>
                             </li>
                             <?php endwhile; ?>
