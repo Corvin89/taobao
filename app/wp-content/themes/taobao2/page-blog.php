@@ -8,12 +8,12 @@ $more="комментариев - %";
 <section id="container">
 <section id="content">
     <h2 class="title">Блог Taobao.ru.com</h2>
-    <span class="post">Всего записей: 137</span>
+    <span class="post">Всего записей: <?php echo get_category('4')->category_count;?></span>
     <div class="top"></div>
     <div class="body">
         <div class="page">
 			<?php 
-			query_posts('posts_per_page=1&category=4');
+			query_posts('posts_per_page=1&category_name=blog');
 			?>
 			<?php while(have_posts()) : the_post(); global $post;?>
             <h2><a href="#"><?php the_title();?></a></h2>
@@ -41,7 +41,7 @@ $more="комментариев - %";
 						$myposts = get_posts( $args );
 						foreach( $myposts as $post ) :	setup_postdata($post); ?>
 						<li>
-						    <p><a href="<?php the_permalink(); ?>"> <?php the_title(); ?> </a></p>
+						    <p><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></p>
                             <p><span><?php the_time('d.m.Y');?></span>
 							<span><?php comments_number($no,$one,$more);?></span></p>
                         </li>
@@ -49,28 +49,18 @@ $more="комментариев - %";
                     </ul>
                 </div>
                 <div class="left-box right-box">
+				<?php 
+				query_posts('posts_per_page=6&category=203');
+				?>
                     <h2 class="read">Полезно почитать</h2>
                     <ul>
+						<?php while(have_posts()) : the_post(); global $post; setup_postdata($post);?>
                         <li>
-                            <p><a href="#">Первые шаги на Таобао. Что такое Таобао? Справочная информация о компании, предлагаемых услугах.</a></p>
-                            <p><span>04.11.2011  15 комментариев</span></p>
+                            <p><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></p>
+                            <p><span><?php the_time('d.m.Y');?><?php comments_number($no,$one,$more);?></span></p>
                         </li>
-                        <li>
-                            <p><a href="#">Первые шаги на таобао. Как искать вещи?</a></p>
-                            <p><span>04.11.2011  15 комментариев</span></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Как правильно выбирать продавца? Все доступно и с картинками.</a></p>
-                            <p><span>04.11.2011  15 комментариев</span></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Как правильно выбирать продавца? Все доступно и с картинками.</a></p>
-                            <p><span>04.11.2011  15 комментариев</span></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Как правильно выбирать продавца? Все доступно и с картинками.</a></p>
-                            <p><span>04.11.2011  15 комментариев</span></p>
-                        </li>
+						<?php endwhile;?>
+						<?php wp_reset_query();?>
                     </ul>
                 </div>
             </div>
