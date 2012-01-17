@@ -39,7 +39,7 @@ function baner_slider()
         'has_archive' => true,
         'hierarchical' => false,
         'menu_position' => null,
-        'supports' => array('thumbnail'));
+        'supports' => array('title', 'thumbnail'));
 
     register_post_type('baner_slider', $eventargs);
 }
