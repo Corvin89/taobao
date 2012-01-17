@@ -35,8 +35,11 @@
                             preg_match('%http:\/\/(www.vimeo|vimeo)\.com(\/|\/clip:)(\d+)(.*?)%i', $url, $vimeo);
                         }
                         if (!empty($youtube)) { ?>
-                            <iframe width="183" height="160" src="http://www.youtube.com/embed/<?php echo $youtube[1]; ?>?autoplay=0" frameborder="0"
-                                    allowfullscreen></iframe> <?php
+
+                        <a href="http://www.youtube.com/watch?v=<?php echo $youtube[1]; ?>"
+                            rel="wp-video-lightbox" title=""><img
+                            src="//i2.ytimg.com/vi/<?php echo $youtube[1]; ?>/default.jpg"
+                            alt="YouTube" width="60" /></a <?php
                         } elseif($vimeo) { ?>
                             <iframe src="http://player.vimeo.com/video/<?php echo $vimeo[3]; ?>?portrait=0&amp;autoplay=0" width="853" height="480" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
                             <?php } else {
