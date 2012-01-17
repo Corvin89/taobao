@@ -1,4 +1,9 @@
 <?php get_header(); ?>
+<?php //var`s for comments
+$no="комментариев нет";
+$one="комментарий - 1";
+$more="комментариев - %";
+?>
 
 <section id="container">
 <section id="content">
@@ -7,41 +12,40 @@
     <div class="top"></div>
     <div class="body">
         <div class="page">
-            <h2><a href="#">В долине кукол</a></h2>
-            <p>Все мы, девушки, были совсем недавно маленькими девочками. В куколки играли. Теперь немного подросли. В куклы играть уже несолидно. А так хочется, чтобы хоть что-нибудь напоминало о куклах. <a href="#">Есть решение!</a></p>
+			<?php 
+			query_posts('posts_per_page=1&category=4');
+			?>
+			<?php while(have_posts()) : the_post(); global $post;?>
+            <h2><a href="#"><?php the_title();?></a></h2>
+				<p>
+					<?php list($teaser, $junk) = explode('<!--more',$post->post_content);
+					echo apply_filters('the_content', $teaser); ?>
+					<a href="<?php the_permalink();?>">Есть решение!</a>
+				</p>
             <div class="article">
-                <span class="label">корсеты, перчатки, платья, стиль Gothic & Lolita, туфли на платформе, украшения для волос, чулки, юбки</span>
-                <a class="com">15</a>
-                <span class="data">02.11.2011</span>
-            </div>
+			
+			
+                <span class="label"><?php the_tags('', ', ', '<br />'); ?></span>
+                <a class="com"><?php comments_number("0",$one,$more);?></a>
+                <span class="data"><?php the_time('d.m.Y');?></span>
+				 <?php endwhile;?>
+				 <?php wp_reset_query();?>
+		    </div>
             <div class="all">
                 <div class="left-box">
                     <h2 class="post">Новые статьи</h2>
                     <ul>
-                        <li>
-                            <p><a href="#">В долине кукол</a></p>
-                            <p><span>04.11.2011  15 комментариев</span></p>
+					<?php
+						global $post;
+						$args = array( 'numberposts' => 6,'category' => 4 );
+						$myposts = get_posts( $args );
+						foreach( $myposts as $post ) :	setup_postdata($post); ?>
+						<li>
+						    <p><a href="<?php the_permalink(); ?>"> <?php the_title(); ?> </a></p>
+                            <p><span><?php the_time('d.m.Y');?></span>
+							<span><?php comments_number($no,$one,$more);?></span></p>
                         </li>
-                        <li>
-                            <p><a href="#">Пуловер. Достоин мужского внимания</a></p>
-                            <p><span>03.11.2011   7 комментариев</span></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Информация для покупателей: вес вещей</a></p>
-                            <p><span>02.11.2011    15 комментариев</span></p>
-                        </li>
-                        <li>
-                            <p><a href="#">В чём встречать Новый 2012 год?</a></p>
-                            <p><span>01.11.2011    29 комментариев</span></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Какие цвета актуальны в этом сезоне?</a></p>
-                            <p><span>29.10.2011   3 комментария</span></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Какие цвета актуальны в этом сезоне?</a></p>
-                            <p><span>29.10.2011   3 комментария</span></p>
-                        </li>
+						<?php endforeach; ?>
                     </ul>
                 </div>
                 <div class="left-box right-box">

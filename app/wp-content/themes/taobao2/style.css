@@ -2375,10 +2375,11 @@ h2 a{
 	margin:0 0 18px;
 }
 
-#content div.all div.left-box p{
-	margin:0;
-	color:#bcbbb9;
-	font-size:11px;
+#content div.all div.left-box p {
+    color: #BCBBB9;
+    font-size: 11px;
+    margin: 0;
+    overflow: hidden;
 }
 
 #content div.all div.left-box a{
@@ -2386,8 +2387,10 @@ h2 a{
 	font-size:12px;
 }
 
-#content div.all div.left-box span{
-	display:block;
+#content div.all div.left-box span {
+    display: block;
+    float: left;
+    margin: 0 10px 0 0;
 }
 
 #content div.all div.line-title{
@@ -2449,4 +2452,7 @@ h2 a{
 	background:url(./img/list.gif) no-repeat 100% 0;
 	float:left;
 	padding:0 30px 3px 0;
+}
+#content div.all div.tegs a{
+ color:#000;
 }
