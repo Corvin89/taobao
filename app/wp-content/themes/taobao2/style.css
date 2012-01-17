@@ -218,11 +218,11 @@ div.width{
     overflow: hidden;
     padding: 0 0 0 34px;
     width: 270px;
-	background:url(../img/time.png) no-repeat 0 3px;
+	background:url(img/time.png) no-repeat 0 3px;
 }
 
 #header div.suspend{
-	background:url(../img/suspend.png) no-repeat 0 3px;
+	background:url(img/suspend.png) no-repeat 0 3px;
 	float: right;
     overflow: hidden;
     padding: 0 0 0 34px;
@@ -234,7 +234,7 @@ div.width{
 	background:none !important;
 	font-size:14px;
 	color:#231f20;
-	width:189px;
+	width:189px !important;
 	line-height:32px;
 	height:34px;
 	padding:0 0 0 31px;
@@ -254,7 +254,7 @@ div.width{
 #header div.work i{
 	font-style:normal;
 	color:#7bc219;
-	text-decoration:underline
+
 }
 
 #header div.time span{
@@ -431,6 +431,10 @@ nav.menu ul li{
 
 nav.menu ul li:hover{
 	background:url(./img/hover.gif) repeat-x;
+}
+
+nav.menu ul li:hover a{
+	text-decoration:none;
 }
 
 nav.menu ul li a{
@@ -815,6 +819,7 @@ div.blog{
 div.blog p{
 	display:inline-block;
 	margin:0 0 3px;
+	width:100%;
 }
 
 div.blog ul{
@@ -826,7 +831,7 @@ div.blog ul{
 div.blog ul li{
 	width:100%;
 	display:inline-block;
-	margin:0 0 27px;
+	margin:0 0 4px;
 	padding:3px 0;
 }
 
@@ -2453,6 +2458,23 @@ h2 a{
 	float:left;
 	padding:0 30px 3px 0;
 }
+
+div.blog ul p.title a{
+	font-weight:bold;
+	font-size:12px;
+	color:#2D2D2D;
+	text-decoration:none;
+}
+
+div.blog ul span.block{
+	display:block;
+}
+
+div.contact ul.contact li img{
+	margin:0 0 0 -20px;
+	float:left;
+}
+
 #content div.all div.tegs a{
  color:#000;
 }

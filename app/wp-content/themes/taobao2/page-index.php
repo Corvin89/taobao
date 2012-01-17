@@ -107,12 +107,19 @@
         <div class="read">
             <h2>Полезно почитать</h2>
             <ul>
-                <li><a href="#">Первые шаги на Таобао. Что такое Таобао? Справочная информация о компании, предлагаемых
-                    услугах.</a></li>
-                <li><a href="#">Первые шаги на таобао. Как искать вещи? Как правильно выбирать продавца? Все доступно и
-                    с картинками.</a></li>
-                <li><a href="#">Почему продавец долго отправляет вещи.</a></li>
-                <li><a href="#">Как правильно выбрать фирменную одежду на китайском аукционе.</a></li>
+                <?php
+					// The Query
+					$the_query = new WP_Query('category_name=polezno-pochitat&posts_per_page=4');    
+					// The Loop
+					while ( $the_query->have_posts() ) : $the_query->the_post();
+						echo '<li>'; ?>
+						<p class="title"><a href="<?php the_permalink() ?>">"<?php the_title() ?>"</a></p> <?php
+						echo '</li>';
+					endwhile;
+					
+					// Reset Post Data
+					wp_reset_postdata();				
+				?>
             </ul>
         </div>
         <div class="report">
@@ -149,7 +156,7 @@
 <section id="bg-main">
     <section id="main">
         <div class="block">
-			<?php query_posts('post_type=optionstext&p=2690')?>
+			<?php query_posts('post_type=optionstext&p=2707')?>
              <?php if (have_posts()) : ?>
                    <?php while (have_posts()) : the_post();  ?>
                        <div class="news">
@@ -162,47 +169,27 @@
         </div>
         <div class="blog">
             <h2>Новое в блоге</h2>
-            <ul>
-                <li>
-                    <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
-
-                    <p><b>В чём встречать Новый 2012 год?</b></p>
-
-                    <p>По восточному календарю покровителем наступающего года будет <a href="#">чёрный водяной
-                        Дракон.</a></p>
-                </li>
-                <li>
-                    <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
-
-                    <p><b>В чём встречать Новый 2012 год?</b></p>
-
-                    <p>По восточному календарю покровителем наступающего года будет <a href="#">чёрный водяной
-                        Дракон.</a></p>
-                </li>
-                <li>
-                    <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
-
-                    <p><b>В чём встречать Новый 2012 год?</b></p>
-
-                    <p>По восточному календарю покровителем наступающего года будет <a href="#">чёрный водяной
-                        Дракон.</a></p>
-                </li>
-                <li>
-                    <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
-
-                    <p><b>В чём встречать Новый 2012 год?</b></p>
-
-                    <p>По восточному календарю покровителем наступающего года будет <a href="#">чёрный водяной
-                        Дракон.</a></p>
-                </li>
-            </ul>
+			<ul>
+				<?php				
+					query_posts('cat=4&showposts=4');					 
+					if (have_posts()) :
+					while (have_posts()) : the_post();
+					echo("<li>"); ?>
+						<p><span class="data"><?php the_date('d.m.Y'); ?></span> <span class="com"><?php comments_number('0','1','%')?></span></p>
+						<p class="title"><a href="<?php the_permalink() ?>">"<?php the_title() ?>"</a></p> <?php
+						echo the_excerpt("<p>", "</p>");
+					echo("</li>");
+					endwhile;
+					endif;
+				?>
+			</ul>            
         </div>
     </section>
 </section>
 <div class="last">
     <div class="text">
         <div class="text-left">
-			<?php query_posts('post_type=optionstext&p=2692')?>
+			<?php query_posts('post_type=optionstext&p=2702')?>
              <?php if (have_posts()) : ?>
                    <?php while (have_posts()) : the_post();  ?>
                        <div class="news">
@@ -216,7 +203,7 @@
         </div>
         <div class="text-right">
             <div class="col-1">
-				<?php query_posts('post_type=optionstext&p=2694')?>
+				<?php query_posts('post_type=optionstext&p=2704')?>
 	             <?php if (have_posts()) : ?>
 	                   <?php while (have_posts()) : the_post();  ?>
 	                       <div class="news">
@@ -229,7 +216,7 @@
 	             <?php endif;?>
             </div>
             <div class="col-1 right">
-				<?php query_posts('post_type=optionstext&p=2695 ')?>
+				<?php query_posts('post_type=optionstext&p=2706 ')?>
 	             <?php if (have_posts()) : ?>
 	                   <?php while (have_posts()) : the_post();  ?>
 	                       <div class="news">
