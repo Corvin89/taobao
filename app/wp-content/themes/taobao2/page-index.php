@@ -107,12 +107,19 @@
         <div class="read">
             <h2>Полезно почитать</h2>
             <ul>
-                <li><a href="#">Первые шаги на Таобао. Что такое Таобао? Справочная информация о компании, предлагаемых
-                    услугах.</a></li>
-                <li><a href="#">Первые шаги на таобао. Как искать вещи? Как правильно выбирать продавца? Все доступно и
-                    с картинками.</a></li>
-                <li><a href="#">Почему продавец долго отправляет вещи.</a></li>
-                <li><a href="#">Как правильно выбрать фирменную одежду на китайском аукционе.</a></li>
+                <?php
+					// The Query
+					$the_query = new WP_Query('category_name=polezno-pochitat&posts_per_page=4');    
+					// The Loop
+					while ( $the_query->have_posts() ) : $the_query->the_post();
+						echo '<li>'; ?>
+						<p class="title"><a href="<?php the_permalink() ?>">"<?php the_title() ?>"</a></p> <?php
+						echo '</li>';
+					endwhile;
+					
+					// Reset Post Data
+					wp_reset_postdata();				
+				?>
             </ul>
         </div>
         <div class="report">
