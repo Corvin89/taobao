@@ -433,6 +433,10 @@ nav.menu ul li:hover{
 	background:url(./img/hover.gif) repeat-x;
 }
 
+nav.menu ul li:hover a{
+	text-decoration:none;
+}
+
 nav.menu ul li a{
 	color:#fff;
 	font-size:12px;

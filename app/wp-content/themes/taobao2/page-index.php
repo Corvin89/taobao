@@ -149,7 +149,7 @@
 <section id="bg-main">
     <section id="main">
         <div class="block">
-			<?php query_posts('post_type=optionstext&p=2690')?>
+			<?php query_posts('post_type=optionstext&p=2707')?>
              <?php if (have_posts()) : ?>
                    <?php while (have_posts()) : the_post();  ?>
                        <div class="news">
@@ -182,7 +182,7 @@
 <div class="last">
     <div class="text">
         <div class="text-left">
-			<?php query_posts('post_type=optionstext&p=2692')?>
+			<?php query_posts('post_type=optionstext&p=2702')?>
              <?php if (have_posts()) : ?>
                    <?php while (have_posts()) : the_post();  ?>
                        <div class="news">
@@ -196,7 +196,7 @@
         </div>
         <div class="text-right">
             <div class="col-1">
-				<?php query_posts('post_type=optionstext&p=2694')?>
+				<?php query_posts('post_type=optionstext&p=2704')?>
 	             <?php if (have_posts()) : ?>
 	                   <?php while (have_posts()) : the_post();  ?>
 	                       <div class="news">
@@ -209,7 +209,7 @@
 	             <?php endif;?>
             </div>
             <div class="col-1 right">
-				<?php query_posts('post_type=optionstext&p=2695 ')?>
+				<?php query_posts('post_type=optionstext&p=2706 ')?>
 	             <?php if (have_posts()) : ?>
 	                   <?php while (have_posts()) : the_post();  ?>
 	                       <div class="news">
