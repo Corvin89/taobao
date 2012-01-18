@@ -39,38 +39,26 @@ function appZero(i) {
 
 function timer(newClientHours, newClientMinutes, startOfWork, endOfWork) {
     if ((newClientHours > startOfWork) && (newClientHours < endOfWork)) {
-        var hoursLeft = endOfWork - newClientHours - 1;
-        var minutesLeft = 59 - newClientMinutes;
-        var str = '<strong><i>Работаем.</i> До конца <br/> рабочего дня осталось:</strong>';
-        var cssClass = 'work';
+        timeLeft(newClientHours, newClientMinutes, endOfWork);
     } else {
-        var hoursLeft = 23 - newClientHours + startOfWork;
-        var minutesLeft = 59 - newClientMinutes;
-        var str = '<strong><i>Отдыхаем.</i> До начала <br/> рабочего дня осталось:</strong>';
-        var cssClass = 'suspend';
+        timeLeft(newClientHours, newClientMinutes, startOfWork);
     }
-    minutesLeft = appZero(minutesLeft);
-    hoursLeft = appZero(hoursLeft);
-    var hours = "<span class='time'>" + hoursLeft + ":" + minutesLeft + "</span>";
-    $("#alarm").html(str + hours);
-    $("#alarm").attr('class', cssClass);
-//    function timeLeft(newClientHours, newClientMinutes, hoursTo) {
-//        console.log("newClientHours="+newClientHours+"hoursTo="+hoursTo);
-//        if ((newClientHours < hoursTo)&&()) {
-//            var hoursLeft = hoursTo - newClientHours - 1;
-//            var minutesLeft = 59 - newClientMinutes;
-//            var str = '<strong><i>Работаем.</i> До конца <br/> рабочего дня осталось:</strong>';
-//            var cssClass = 'work';
-//        } else {
-//            var hoursLeft = 23 - newClientHours + hoursTo;
-//            var minutesLeft = 59 - newClientMinutes;
-//            var str = '<strong><i>Отдыхаем.</i> До начала <br/> рабочего дня осталось:</strong>';
-//            var cssClass = 'suspend';
-//        }
-//        minutesLeft = appZero(minutesLeft);
-//        hoursLeft = appZero(hoursLeft);
-//        var hours = "<span class='time'>" + hoursLeft + ":" + minutesLeft + "</span>";
-//        $("#alarm").html(str + hours);
-//        $("#alarm").attr('class', cssClass);
-//    }
+    function timeLeft(newClientHours, newClientMinutes, hoursTo) {
+        if (newClientHours < hoursTo) {
+            var hoursLeft = hoursTo - newClientHours - 1;
+            var minutesLeft = 59 - newClientMinutes;
+            var str = '<strong><i>Работаем.</i> До конца <br/> рабочего дня осталось:</strong>';
+            var cssClass = 'work';
+        } else {
+            var hoursLeft = 23 - newClientHours + hoursTo;
+            var minutesLeft = 59 - newClientMinutes;
+            var str = '<strong><i>Отдыхаем.</i> До начала <br/> рабочего дня осталось:</strong>';
+            var cssClass = 'suspend';
+        }
+        minutesLeft = appZero(minutesLeft);
+        hoursLeft = appZero(hoursLeft);
+        var hours = "<span class='time'>" + hoursLeft + ":" + minutesLeft + "</span>";
+        $("#alarm").html(str + hours);
+        $("#alarm").attr('class', cssClass);
+    }
 }
