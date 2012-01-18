@@ -1,6 +1,6 @@
 
     <div class="blog">
-        <h2>Новое в блоге sidebar-blog</h2>
+        <h2>Новое в блоге</h2>
         <ul>
             <li>
                 <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
