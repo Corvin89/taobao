@@ -86,11 +86,11 @@ function get_sidebar( $name = null ) {
 	if ( isset($name) )
 		$templates[] = "sidebar-{$name}.php";
 
-	$templates[] = 'sidebar.php';
+	$templates[] = 'sidebar-calc.php';
 
 	// Backward compat code will be removed in a future release
 	if ('' == locate_template($templates, true))
-		load_template( ABSPATH . WPINC . '/theme-compat/sidebar.php');
+		load_template( ABSPATH . WPINC . '/theme-compat/sidebar-calc.php');
 }
 
 /**

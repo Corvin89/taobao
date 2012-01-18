@@ -1694,7 +1694,7 @@ function make_site_theme_from_default($theme_name, $template) {
 	$default_dir = WP_CONTENT_DIR . '/themes/' . WP_DEFAULT_THEME;
 
 	// Copy files from the default theme to the site theme.
-	//$files = array('index.php', 'comments.php', 'comments-popup.php', 'footer.php', 'header.php', 'sidebar.php', 'style.css');
+	//$files = array('index.php', 'comments.php', 'comments-popup.php', 'footer.php', 'header.php', 'sidebar-calc.php', 'style.css');
 
 	$theme_dir = @ opendir($default_dir);
 	if ($theme_dir) {

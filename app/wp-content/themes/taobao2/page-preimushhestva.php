@@ -2,8 +2,10 @@
 
 <section id="container">
     <section id="content">
-        <h2 class="title">Блог Taobao.ru.com</h2>
-        <span class="post">Всего записей: 137</span>
+        <?php wp_reset_query(); ?>
+        <?php rewind_posts(); ?>
+        <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+        <h2 class="title"><?php the_title(); ?></h2>
         <div class="top"></div>
         <div class="body">
             <div class="allbox padding">
@@ -54,10 +56,17 @@
                 </div>
             </div>
         </div>
+
+        <?php the_content(); ?>
+        <?php endwhile; else: ?>
+        <p><?php _e('По вашему запросу ничего нет.'); ?></p>
+        <?php endif; ?>
         <div class="bottom"></div>
     </section>
+
     <div class="right">
         <div class="boxen">
+            <?php get_sidebar('calc') ?>
             <h2>Внутренний курс <span>Taobao.ru.com:</span></h2>
             <span class="calcul">5,3</span>
             <div class="calcul">
@@ -85,26 +94,7 @@
             </div>
             <div class="bottom-s"></div>
             <div class="blog-gree">
-                <div class="blog">
-                    <h2>Новое в блоге</h2>
-                    <ul>
-                        <li>
-                            <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
-                            <p><b>В чём встречать Новый 2012 год?</b></p>
-                            <p>По восточному календарю покровителем наступающего года будет <a href="#">чёрный водяной Дракон.</a></p>
-                        </li>
-                        <li>
-                            <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
-                            <p><b>В чём встречать Новый 2012 год?</b></p>
-                            <p>По восточному календарю покровителем наступающего года будет <a href="#">чёрный водяной Дракон.</a></p>
-                        </li>
-                        <li>
-                            <p><span class="data">02.11.2011</span> <span class="com">15</span></p>
-                            <p><b>В чём встречать Новый 2012 год?</b></p>
-                            <p>По восточному календарю покровителем наступающего года будет <a href="#">чёрный водяной Дракон.</a></p>
-                        </li>
-                    </ul>
-                </div>
+            <?php get_sidebar('blog') ?>
             </div>
         </div>
     </div>
