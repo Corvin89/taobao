@@ -35,22 +35,22 @@ $more="комментариев - %";
                 <div class="left-box">
                     <h2 class="post">Новые статьи</h2>
                     <ul>
-					<?php
-						global $post;
-						$args = array( 'numberposts' => 6,'category' => 4 );
-						$myposts = get_posts( $args );
-						foreach( $myposts as $post ) :	setup_postdata($post); ?>
+					<?php 
+					query_posts('posts_per_page=6&category_name=blog');
+					?>
+						<?php while(have_posts()) : the_post(); global $post; setup_postdata($post);?>
 						<li>
 						    <p><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></p>
                             <p><span><?php the_time('d.m.Y');?></span>
 							<span><?php comments_number($no,$one,$more);?></span></p>
                         </li>
-						<?php endforeach; ?>
+						<?php endwhile; ?>
+						<?php wp_reset_query();?>
                     </ul>
                 </div>
                 <div class="left-box right-box">
 				<?php 
-				query_posts('posts_per_page=6&category=203');
+				query_posts('posts_per_page=5&category_name=polezno-pochitat');
 				?>
                     <h2 class="read">Полезно почитать</h2>
                     <ul>
