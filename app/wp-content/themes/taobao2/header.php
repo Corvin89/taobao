@@ -11,7 +11,7 @@ function get_Minutes()
     $times = explode(":", $time);
     echo $times[1];
 }
-function getViews(){
+function getViews($b){
 
 //Function for counting number of viewers of site <Made by Vladislav Fedorischev><assist Alexandr Kuciy>
 	$vis = StatPress_Print("%totalpageviews%");
@@ -29,10 +29,9 @@ function getViews(){
 	}
 	$normal=array_reverse($reverse,false);
 	
-	return $normal;
+	return $normal[$b];
 }
 ?>
-<?php $normal=getViews();?>
 <!doctype html>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7 ]> <html lang="ru" class="no-js ie6"> <![endif]-->
@@ -87,22 +86,27 @@ function getViews(){
                     <a href="#" class="item2">Зарегистрироваться</a>
                 </div>
             </div>
+				<script>
+					new Ajax.PeriodicalUpdater('left-num', '/left-num', {
+					method: 'post', frequency: 3, decay: 2
+					});
+				</script>
             <div class="box">
                 <div class="number">
                     <div class="left-num">
-                        <a href="#"><?php echo $normal['0'];?></a>
-                        <a href="#"><?php echo $normal['1'];?></a>
-                        <a href="#"><?php echo $normal['2'];?></a>
+                        <a href="#"><?php echo getViews(0);?></a>
+                        <a href="#"><?php echo getViews(1);?></a>
+                        <a href="#"><?php echo getViews(2);;?></a>
                     </div>
                     <div class="left-num">
-                        <a href="#"><?php echo $normal['3'];?></a>
-                        <a href="#"><?php echo $normal['4'];?></a>
-                        <a href="#"><?php echo $normal['5'];?></a>
+                        <a href="#"><?php echo getViews(3);?></a>
+                        <a href="#"><?php echo getViews(4);?></a>
+                        <a href="#"><?php echo getViews(5);?></a>
                     </div>
                     <div class="left-num">
-                        <a href="#"><?php echo $normal['6'];?></a>
-                        <a href="#"><?php echo $normal['7'];?></a>
-                        <a href="#"><?php echo $normal['8'];?></a>
+                        <a href="#"><?php echo getViews(6);?></a>
+                        <a href="#"><?php echo getViews(7);?></a>
+                        <a href="#"><?php echo getViews(8);?></a>
                     </div>
                     <div class="text">
                         <p>Столько человек уже воспользовались <br/> услугами нашего сервиса</p>
