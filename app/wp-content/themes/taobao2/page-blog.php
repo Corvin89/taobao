@@ -3,6 +3,9 @@
 $no="комментариев нет";
 $one="комментарий - 1";
 $more="комментариев - %";
+$onenumber="1";
+$morenumber="%";
+
 ?>
 
 <section id="container">

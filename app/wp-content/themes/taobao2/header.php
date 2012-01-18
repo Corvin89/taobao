@@ -43,7 +43,7 @@ function getViews($b){
     <title><?php wp_title() ?></title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/jquery.js"></script>
-
+	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/jquery-1.7.1.min.js"></script>
     <!-- reference your own javascript files here -->
 
     <script src="<?php bloginfo('template_directory'); ?>/js/modernizr-2.0.6.min.js"></script>
@@ -86,10 +86,8 @@ function getViews($b){
                     <a href="#" class="item2">Зарегистрироваться</a>
                 </div>
             </div>
-				<script>
-					new Ajax.PeriodicalUpdater('left-num', '/left-num', {
-					method: 'post', frequency: 3, decay: 2
-					});
+				<script>				
+					setInterval(,1000);
 				</script>
             <div class="box">
                 <div class="number">
