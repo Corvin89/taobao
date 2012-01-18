@@ -230,7 +230,7 @@ $_old_files = array(
 'wp-admin/edit-attachment-rows.php',
 'wp-admin/link-category.php',
 'wp-admin/edit-link-category-form.php',
-'wp-admin/sidebar.php',
+'wp-admin/sidebar-calc.php',
 'wp-admin/images/list-vs.png',
 'wp-admin/images/button-grad-vs.png',
 'wp-admin/images/button-grad-active-vs.png',
