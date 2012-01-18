@@ -6,8 +6,7 @@ ini_set("display_startup_errors","0");
 
 error_reporting(E_ALL);
 
-include_once "functions-baner.php";
-include_once "functions-video.php";
+include_once "functions-baner.php";;
 require_once "functions/functions-alexandr-kuciy.php";
 require_once "functions/functions-sergey-korkyshko.php";
 require_once "functions/functions-sergey-martyshko.php";

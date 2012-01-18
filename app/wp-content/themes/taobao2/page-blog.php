@@ -79,6 +79,7 @@ $more="комментариев - %";
             </div>
             <div class="all">
                 <h2 class="video">Это интересно</h2>
+                <?php require_once "functions/slider-video-blog.php"; ?>
                 <ul class="video">
                     <li>
                         <div class="foto"><a href="#"><img src="<?php bloginfo('template_directory'); ?>/img/video.gif" alt="" title="" /></a></div>
@@ -106,45 +107,38 @@ $more="комментариев - %";
                 </div>
                 <div class="left-box">
                     <ul>
+                    <?php query_posts('post_type=video_slider&order=ASC');  $numberPosts = 1; ?>
+                    <?php while (have_posts()) : the_post(); ?>
+                    <?php if($numberPosts) { ?>
+
                         <li>
-                            <p><a href="#">В долине кукол</a></p>
+                            <p><a href="#"><?php the_title(); ?></a></p>
+                            <?php $numberPosts=$numberPosts-1; ?>
                         </li>
-                        <li>
-                            <p><a href="#">Пуловер. Достоин мужского внимания</a></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Информация для покупателей: вес вещей</a></p>
-                        </li>
-                        <li>
-                            <p><a href="#">В чём встречать Новый 2012 год?</a></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Какие цвета актуальны в этом сезоне?</a></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Какие цвета актуальны в этом сезоне?</a></p>
-                        </li>
+                            <?php }else{ ?>
+                            <?php $numberPosts=$numberPosts+1;} ?>
+                        <?php endwhile; ?>
+                        <?php wp_reset_query(); ?>
                     </ul>
                 </div>
                 <div class="left-box right-box">
                     <ul>
+                        <?php query_posts('post_type=video_slider&order=ASC');  $numberPosts = 0; ?>
+                        <?php while (have_posts()) : the_post(); ?>
+                        <?php if($numberPosts) { ?>
                         <li>
-                            <p><a href="#">Первые шаги на Таобао. Что такое Таобао? Справочная информация о компании, предлагаемых услугах.</a></p>
+                            <p><a href="#"><?php the_title(); ?></a></p>
+                            <?php $numberPosts=$numberPosts-1; ?>
                         </li>
-                        <li>
-                            <p><a href="#">Первые шаги на таобао. Как искать вещи?</a></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Как правильно выбирать продавца? Все доступно и с картинками.</a></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Как правильно выбирать продавца? Все доступно и с картинками.</a></p>
-                        </li>
-                        <li>
-                            <p><a href="#">Как правильно выбирать продавца? Все доступно и с картинками.</a></p>
-                        </li>
+                            <?php }else{ ?>
+                            <?php $numberPosts=$numberPosts+1;} ?>
+                        <?php endwhile; ?>
+                        <?php wp_reset_query(); ?>
                     </ul>
                 </div>
+
+
+
             </div>
         </div>
     </div>

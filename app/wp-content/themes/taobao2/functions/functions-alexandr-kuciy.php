@@ -1,4 +1,4 @@
 <?php
-//<Alexandr Kuciy`s function here>
-
-?>
+require_once "type-video-slider.php";
+require_once "meta-video-slider.php";
+require_once "taxonomy-video-slider.php";
