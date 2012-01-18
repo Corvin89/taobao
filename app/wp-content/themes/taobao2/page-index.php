@@ -66,7 +66,10 @@
             </div>
         </div>
     </div>
-<?php get_sidebar('calc');?>
+    <div class="right">
+        <div class="boxen">
+            <?php get_sidebar('calc') ?>
+    </div>
 </section>
 <div id="bg-wraper">
     <div id="wraper">
@@ -127,7 +130,7 @@
              <?php endif;?>
         </div>
         <div class="blog">
-        <?php get_sidebar('news-blog');?>
+            <?php get_sidebar('news-blog') ?>
         </div>
     </section>
 </section>
